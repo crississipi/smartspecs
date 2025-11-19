@@ -135,12 +135,24 @@ async function apiCall(endpoint, method = 'GET', data = null) {
   }
 }
 
+// Helper function to clear textarea after login
+function clearTextareaAfterLogin() {
+  if (textInput) {
+    const currentValue = textInput.value.trim();
+    if (currentValue === 'Please login to send messages' || currentValue === '') {
+      textInput.value = '';
+      textInput.placeholder = 'Write something...';
+    }
+  }
+}
+
 // Check authentication on page load
 async function checkAuth() {
   const result = await apiCall('/api/auth.php?action=check');
   if (result.success && result.authenticated) {
     loginPage.classList.add('hidden');
     if (mainContent) mainContent.classList.remove('hidden');
+    clearTextareaAfterLogin();
     loadUserInfo();
     loadThreads();
     updateDeleteButtonVisibility();
@@ -1069,6 +1081,7 @@ async function handleGoogleCallback(response) {
     if (result.success) {
       loginPage.classList.add('hidden');
       if (mainContent) mainContent.classList.remove('hidden');
+      clearTextareaAfterLogin();
       notification("Logged in successfully with Google.", "success");
       loadUserInfo();
       loadThreads();
@@ -1111,6 +1124,7 @@ async function handleGoogleTokenResponse(tokenResponse) {
     if (result.success) {
       loginPage.classList.add('hidden');
       if (mainContent) mainContent.classList.remove('hidden');
+      clearTextareaAfterLogin();
       notification("Logged in successfully with Google.", "success");
       loadUserInfo();
       loadThreads();
@@ -1156,6 +1170,7 @@ if (loginForm) {
     if (result.success) {
       loginPage.classList.add('hidden');
       if (mainContent) mainContent.classList.remove('hidden');
+      clearTextareaAfterLogin();
       notification("Logged in successfully.", "success");
       loadUserInfo();
       loadThreads();
@@ -1194,6 +1209,7 @@ if (signupForm) {
     if (result.success) {
       loginPage.classList.add('hidden');
       if (mainContent) mainContent.classList.remove('hidden');
+      clearTextareaAfterLogin();
       notification("Registration successful.", "success");
       loadUserInfo();
       loadThreads();

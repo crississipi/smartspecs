@@ -202,9 +202,7 @@ if ($isLoggedIn) {
                 </div>
                 <div class="thread-input" id="threadInput">
                     <span>
-                        <textarea id="textInput">
-                            <?php echo $isLoggedIn ? '' : 'Please login to send messages'; ?>
-                        </textarea>
+                        <textarea id="textInput" placeholder="<?php echo $isLoggedIn ? 'Write something...' : 'Please login to send messages'; ?>"><?php echo $isLoggedIn ? '' : 'Please login to send messages'; ?></textarea>
                         <button type="button" id="sendButton" <?php echo $isLoggedIn ? '' : 'disabled'; ?>>
                             <img src="assets/<?php echo $nightMode ? 'light/' : ''; ?>send.png" alt="send text image" id="sendImage"/>
                         </button>
