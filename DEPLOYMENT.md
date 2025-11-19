@@ -79,7 +79,8 @@ If you want to use Render's free PostgreSQL instead of AivenDB:
    DB_NAME=<your-database-name>
    DB_SSL=true
    HF_API_KEY=<your-huggingface-api-key>
-   MODEL_NAME=microsoft/DialoGPT-medium
+   MODEL_NAME=distilgpt2
+   USE_LIGHTWEIGHT_MODEL=true
    FRONTEND_URL=<will-set-after-php-service-deployed>
    DEBUG=false
    ```
@@ -261,6 +262,28 @@ Render automatically provides SSL certificates. The code is configured to detect
 - Verify `RENDER_EXTERNAL_URL` is being used (auto-set by Render)
 - Check browser console for specific CORS error messages
 
+### Memory Limit Exceeded (512MB)
+
+If your Python service exceeds Render's 512MB memory limit:
+
+1. **Use Lightweight Model** (Recommended):
+   - Set `MODEL_NAME=distilgpt2` in environment variables
+   - Set `USE_LIGHTWEIGHT_MODEL=true`
+   - This uses a much smaller model (~250MB vs ~500MB+)
+
+2. **Memory Optimizations Already Applied**:
+   - Database connection pool reduced to 2 connections
+   - Model loading uses `low_cpu_mem_usage=True`
+   - CPU threads limited to 2
+   - Max generation length reduced
+
+3. **If Still Exceeding Memory**:
+   - Consider upgrading to Render's paid plan (more memory)
+   - Or use an external AI API service instead of local models
+   - Or implement lazy model loading (load only when needed)
+
+**Note**: The default configuration now uses `distilgpt2` which should fit within 512MB.
+
 ## Environment Variables Reference
 
 ### PHP Service Required Variables
@@ -290,7 +313,8 @@ Render automatically provides SSL certificates. The code is configured to detect
 
 - `PORT` - Service port (auto-set by Render, but can override)
 - `DEBUG` - Debug mode (default: false)
-- `MODEL_NAME` - AI model name (default: microsoft/DialoGPT-medium)
+- `MODEL_NAME` - AI model name (default: distilgpt2 for memory efficiency)
+- `USE_LIGHTWEIGHT_MODEL` - Force lightweight model (default: true for Render free tier)
 
 ### Auto-Configured Variables (Set by Render)
 

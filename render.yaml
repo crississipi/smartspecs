@@ -54,7 +54,9 @@ services:
       - key: HF_API_KEY
         sync: false
       - key: MODEL_NAME
-        value: "microsoft/DialoGPT-medium"
+        value: "distilgpt2"  # Lightweight model for memory-constrained environments
+      - key: USE_LIGHTWEIGHT_MODEL
+        value: "true"  # Force lightweight model to stay under 512MB memory limit
       - key: FRONTEND_URL
         sync: false  # Will be set to PHP service URL
       - key: DEBUG

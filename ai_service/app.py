@@ -82,7 +82,7 @@ DB_CONFIG = {
     'password': os.getenv('DB_PASS', ''),
     'database': os.getenv('DB_NAME', 'defaultdb'),
     'pool_name': 'mypool',
-    'pool_size': 5,
+    'pool_size': 2,  # Reduced from 5 to save memory
     'ssl_disabled': os.getenv('DB_SSL', 'true').lower() != 'true'
 }
 
@@ -106,7 +106,7 @@ def to_float(value):
     else:
         return float(value)
 
-# Enhanced model initialization
+# Enhanced model initialization with memory optimization
 class RobustAIModel:
     def __init__(self):
         self.generator = None
@@ -117,34 +117,66 @@ class RobustAIModel:
     @backoff.on_exception(backoff.expo, Exception, max_tries=3)
     def load_models(self):
         try:
-            logger.info("Loading primary AI model...")
-            self.tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, token=HF_API_KEY)
-            self.model = AutoModelForCausalLM.from_pretrained(MODEL_NAME, token=HF_API_KEY)
+            # Check if we should use a lightweight model for memory-constrained environments
+            use_lightweight = os.getenv('USE_LIGHTWEIGHT_MODEL', 'false').lower() == 'true'
+            
+            if use_lightweight or MODEL_NAME == 'distilgpt2':
+                logger.info("Loading lightweight model (memory-optimized)...")
+                self.setup_fallback_model()
+                return
+            
+            logger.info("Loading primary AI model with memory optimizations...")
+            
+            # Memory-efficient loading options
+            self.tokenizer = AutoTokenizer.from_pretrained(
+                MODEL_NAME, 
+                token=HF_API_KEY,
+                use_fast=True  # Use fast tokenizer (less memory)
+            )
+            
+            # Load model with memory optimizations
+            self.model = AutoModelForCausalLM.from_pretrained(
+                MODEL_NAME, 
+                token=HF_API_KEY,
+                torch_dtype=torch.float32,  # Use float32 instead of float16 (more compatible)
+                low_cpu_mem_usage=True,  # Reduce peak memory usage
+                device_map="auto" if torch.cuda.is_available() else None
+            )
+            
+            # Move model to CPU explicitly (Render doesn't have GPU)
+            if not torch.cuda.is_available():
+                self.model = self.model.to('cpu')
+                # Enable CPU optimizations
+                torch.set_num_threads(2)  # Limit CPU threads to reduce memory
+            
             self.generator = pipeline(
                 "text-generation", 
                 model=self.model, 
                 tokenizer=self.tokenizer,
-                device=0 if torch.cuda.is_available() else -1,
-                max_length=300,
+                device=-1,  # Force CPU (Render doesn't have GPU)
+                max_length=200,  # Reduced from 300 to save memory
                 temperature=0.7,
                 do_sample=True,
-                repetition_penalty=1.1
+                repetition_penalty=1.1,
+                pad_token_id=self.tokenizer.eos_token_id
             )
             logger.info("Primary model loaded successfully!")
         except Exception as e:
-            logger.warning(f"Primary model failed: {e}. Using fallback...")
+            logger.warning(f"Primary model failed: {e}. Using lightweight fallback...")
             self.setup_fallback_model()
     
     def setup_fallback_model(self):
         try:
+            logger.info("Loading lightweight model (distilgpt2)...")
             self.generator = pipeline(
                 "text-generation",
                 model="distilgpt2",
-                device=0 if torch.cuda.is_available() else -1,
-                max_length=200,
-                temperature=0.7
+                device=-1,  # Force CPU
+                max_length=150,  # Reduced for memory
+                temperature=0.7,
+                pad_token_id=50256  # GPT-2 pad token
             )
-            logger.info("Fallback model loaded successfully!")
+            logger.info("Lightweight model loaded successfully!")
         except Exception as e:
             logger.error(f"All models failed: {e}")
             self.generator = None
