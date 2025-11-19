@@ -24,7 +24,10 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 COPY . /var/www/html/
 
 # Install PHP dependencies
-RUN composer install --no-dev --optimize-autoloader --no-interaction
+# First try to install from lock file, if that fails (lock file outdated), update and install
+RUN composer install --no-dev --optimize-autoloader --no-interaction || \
+    (composer update --no-dev --optimize-autoloader --no-interaction && \
+     composer install --no-dev --optimize-autoloader --no-interaction)
 
 # Enable Apache mod_rewrite
 RUN a2enmod rewrite
