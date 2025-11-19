@@ -233,10 +233,6 @@ if ($isLoggedIn) {
                 <button class="nav-btn info-btn" type="button">
                     <img src="assets/<?php echo $nightMode ? 'light/' : ''; ?>about.png" alt="about icon" id="aboutImage">
                 </button>
-                <button class="nav-btn fetch-images-btn" type="button" id="fetchImagesBtn" title="Fetch component images">
-                    <img src="assets/<?php echo $nightMode ? 'light/' : ''; ?>about.png" alt="fetch images icon">
-                    Fetch Images
-                </button>
             </div>
         </div>
     </main>

@@ -2208,10 +2208,6 @@ main .login-page .login-card .forgot-pass #step3 form span {
     color: #e5e5e5;
 }
 
-.fetch-images-btn {
-    z-index: 100;
-    padding: 0.7rem 1.5rem;
-}
 
 /* Responsive styles for alternatives */
 @media (max-width: 768px) {
