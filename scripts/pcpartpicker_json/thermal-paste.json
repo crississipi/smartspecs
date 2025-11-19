@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Arctic Silver 5 High-Density Polysynthetic Silver",
+    "price": 7.95,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXJjdGljJTIwU2lsdmVyJTIwNSUyMEhpZ2gtRGVuc2l0eSUyMFA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Arctic%20Silver%205%20High-Density%20Polysynthetic%20Silver"
+  },
+  {
+    "name": "Thermal Grizzly Kryonaut",
+    "price": 7.75,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBLcnlvbmF1dDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Kryonaut"
+  },
+  {
+    "name": "ARCTIC MX-6",
+    "price": 7.99,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-6"
+  },
+  {
+    "name": "Noctua NT-H2",
+    "price": 14.95,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Tm9jdHVhJTIwTlQtSDI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Noctua%20NT-H2"
+  },
+  {
+    "name": "Thermal Grizzly Kryonaut Extreme",
+    "price": 21.99,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBLcnlvbmF1dCUyMEV4dHJlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Kryonaut%20Extreme"
+  },
+  {
+    "name": "Prolimatech PK-Zero",
+    "price": 135.24,
+    "amount": 300,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+UHJvbGltYXRlY2glMjBQSy1aZXJvPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Prolimatech%20PK-Zero"
+  },
+  {
+    "name": "Corsair TM30",
+    "price": 7.88,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db3JzYWlyJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNvcnNhaXIlMjBUTTMwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Corsair%20TM30"
+  },
+  {
+    "name": "ARCTIC MX-4 (2019)",
+    "price": 8.99,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNCUyMCUyODIwMTklMjk8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-4%20%282019%29"
+  },
+  {
+    "name": "Arctic Silver Ceramique 2 Tri-Linear",
+    "price": 3.85,
+    "amount": 2.7,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXJjdGljJTIwU2lsdmVyJTIwQ2VyYW1pcXVlJTIwMiUyMFRyaS08L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Arctic%20Silver%20Ceramique%202%20Tri-Linear"
+  },
+  {
+    "name": "Corsair XTM70",
+    "price": 24.99,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db3JzYWlyJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNvcnNhaXIlMjBYVE03MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Corsair%20XTM70"
+  },
+  {
+    "name": "Noctua NT-H1",
+    "price": 8.94,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Tm9jdHVhJTIwTlQtSDE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Noctua%20NT-H1"
+  },
+  {
+    "name": "Thermal Grizzly Duronaut",
+    "price": 9.99,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBEdXJvbmF1dDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Duronaut"
+  },
+  {
+    "name": "Thermalright TF7",
+    "price": 4.38,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEY3PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TF7"
+  },
+  {
+    "name": "ARCTIC MX-4 w/ Spatula",
+    "price": 7.99,
+    "amount": 8,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNCUyMHcvJTIwU3BhdHVsYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-4%20w/%20Spatula"
+  },
+  {
+    "name": "Thermal Grizzly Conductonaut Extreme",
+    "price": 49.99,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBDb25kdWN0b25hdXQlMjBFPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Conductonaut%20Extreme"
+  },
+  {
+    "name": "ARCTIC MX-4",
+    "price": 36.5,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-4"
+  },
+  {
+    "name": "Thermal Hero QUANTUM",
+    "price": 107.99,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBRVUFOVFVNPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20QUANTUM"
+  },
+  {
+    "name": "Asus ROG RG-07 KIT",
+    "price": 35.34,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Bc3VzJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkFzdXMlMjBST0clMjBSRy0wNyUyMEtJVDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Asus%20ROG%20RG-07%20KIT"
+  },
+  {
+    "name": "Corsair XTM50",
+    "price": 14.99,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db3JzYWlyJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNvcnNhaXIlMjBYVE01MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Corsair%20XTM50"
+  },
+  {
+    "name": "Cooler Master CryoFuze",
+    "price": 4.34,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwQ3J5b0Z1emU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20CryoFuze"
+  },
+  {
+    "name": "Asus ROG RG-07",
+    "price": 8.99,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Bc3VzJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkFzdXMlMjBST0clMjBSRy0wNzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Asus%20ROG%20RG-07"
+  },
+  {
+    "name": "Thermal Grizzly Aeronaut",
+    "price": 5.79,
+    "amount": 3.9,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBBZXJvbmF1dDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Aeronaut"
+  },
+  {
+    "name": "Thermal Grizzly Polartherm X-8",
+    "price": 5.9,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBQb2xhcnRoZXJtJTIwWC04PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Polartherm%20X-8"
+  },
+  {
+    "name": "KINGPINcooling KPx",
+    "price": 8.98,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+S0lOR1BJTmNvb2xpbmclMjBLUHg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=KINGPINcooling%20KPx"
+  },
+  {
+    "name": "Thermalright TF9",
+    "price": 4.88,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEY5PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TF9"
+  },
+  {
+    "name": "ARCTIC MX-2",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-2"
+  },
+  {
+    "name": "ID-COOLING Frost X45",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5JRC1DT09MSU5HJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPklELUNPT0xJTkclMjBGcm9zdCUyMFg0NTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ID-COOLING%20Frost%20X45"
+  },
+  {
+    "name": "Thermal Grizzly Hydronaut",
+    "price": 10.75,
+    "amount": 3.9,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBIeWRyb25hdXQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Hydronaut"
+  },
+  {
+    "name": "Prolimatech PK-3 Nano Aluminum High-Grade",
+    "price": 39.99,
+    "amount": 30,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+UHJvbGltYXRlY2glMjBQSy0zJTIwTmFubyUyMEFsdW1pbnVtPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Prolimatech%20PK-3%20Nano%20Aluminum%20High-Grade"
+  },
+  {
+    "name": "Thermal Grizzly Conductonaut",
+    "price": 10.75,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBDb25kdWN0b25hdXQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Conductonaut"
+  },
+  {
+    "name": "Gelid Solutions GC-Extreme",
+    "price": 8.99,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+R2VsaWQlMjBTb2x1dGlvbnMlMjBHQy1FeHRyZW1lPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Gelid%20Solutions%20GC-Extreme"
+  },
+  {
+    "name": "Zalman STC9",
+    "price": 4.95,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WmFsbWFuJTIwU1RDOTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Zalman%20STC9"
+  },
+  {
+    "name": "ARCTIC MX-5 Incl. Spatula",
+    "price": 7.99,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNSUyMEluY2wuJTIwU3BhdHVsYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-5%20Incl.%20Spatula"
+  },
+  {
+    "name": "Cooler Master HTK-002",
+    "price": 10.35,
+    "amount": 0.01,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwSFRLLTAwMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20HTK-002"
+  },
+  {
+    "name": "be quiet! DC2",
+    "price": 7.9,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+YmUlMjBxdWlldCUyMSUyMERDMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=be%20quiet%21%20DC2"
+  },
+  {
+    "name": "Thermal Grizzly Polartherm X-10",
+    "price": 6.29,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEdyaXp6bHklMjBQb2xhcnRoZXJtJTIwWC0xPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Grizzly%20Polartherm%20X-10"
+  },
+  {
+    "name": "StarTech Metal Oxide",
+    "price": 9.99,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGFyVGVjaCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5TdGFyVGVjaCUyME1ldGFsJTIwT3hpZGU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=StarTech%20Metal%20Oxide"
+  },
+  {
+    "name": "Deepcool Z5",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMFo1PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20Z5"
+  },
+  {
+    "name": "Thermaltake CL-O004-GROSGM-A",
+    "price": 12.98,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMENMLU8wMDQtR1JPU0dNLUE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20CL-O004-GROSGM-A"
+  },
+  {
+    "name": "Cooler Master MasterGel Pro",
+    "price": 17.08,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwTWFzdGVyR2VsJTIwUHJvPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20MasterGel%20Pro"
+  },
+  {
+    "name": "Thermalright TF4",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEY0PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TF4"
+  },
+  {
+    "name": "Innovation Cooling Diamond \"7 Carat\"",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SW5ub3ZhdGlvbiUyMENvb2xpbmclMjBEaWFtb25kJTIwJTIyNyUyMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Innovation%20Cooling%20Diamond%20%227%20Carat%22"
+  },
+  {
+    "name": "Thermalright TFX",
+    "price": 11.14,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEZYPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TFX"
+  },
+  {
+    "name": "Cooler Master IC ESSENTIAL E2",
+    "price": 14.469999999999999,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwSUMlMjBFU1NFTlRJQUwlMjBFMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20IC%20ESSENTIAL%20E2"
+  },
+  {
+    "name": "Thermal Hero ULTRA with paste gun",
+    "price": 88.99,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBVTFRSQSUyMHdpdGglMjBwYXN0ZSUyMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20ULTRA%20with%20paste%20gun"
+  },
+  {
+    "name": "be quiet! C2 Pro",
+    "price": 11.9,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+YmUlMjBxdWlldCUyMSUyMEMyJTIwUHJvPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=be%20quiet%21%20C2%20Pro"
+  },
+  {
+    "name": "Cooler Master MasterGel Maker",
+    "price": 24.23,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwTWFzdGVyR2VsJTIwTWFrZXI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20MasterGel%20Maker"
+  },
+  {
+    "name": "Thermaltake CL-O002-GROSGM-A",
+    "price": 12.99,
+    "amount": 40,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMENMLU8wMDItR1JPU0dNLUE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20CL-O002-GROSGM-A"
+  },
+  {
+    "name": "StarTech HeatGrease",
+    "price": 5.78,
+    "amount": 20,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGFyVGVjaCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5TdGFyVGVjaCUyMEhlYXRHcmVhc2U8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=StarTech%20HeatGrease"
+  },
+  {
+    "name": "Thermal Hero NEO with paste gun",
+    "price": 61.43,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBORU8lMjB3aXRoJTIwcGFzdGUlMjBndTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20NEO%20with%20paste%20gun"
+  },
+  {
+    "name": "Thermal Hero ULTRA",
+    "price": 75.98,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBVTFRSQTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20ULTRA"
+  },
+  {
+    "name": "Cooler Master CryoFuze Violet",
+    "price": 24.99,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwQ3J5b0Z1emUlMjBWaW9sZXQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20CryoFuze%20Violet"
+  },
+  {
+    "name": "be quiet! DC1",
+    "price": 42,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+YmUlMjBxdWlldCUyMSUyMERDMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=be%20quiet%21%20DC1"
+  },
+  {
+    "name": "Thermalright TF8",
+    "price": 11.14,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEY4PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TF8"
+  },
+  {
+    "name": "NZXT High-performance",
+    "price": 11.14,
+    "amount": 15,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5OWlhUJTIwVGhlcm1hbCUyMFBhc3RlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPk5aWFQlMjBIaWdoLXBlcmZvcm1hbmNlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20High-performance"
+  },
+  {
+    "name": "Zalman STC8",
+    "price": 4.95,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WmFsbWFuJTIwU1RDODwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Zalman%20STC8"
+  },
+  {
+    "name": "Coollaboratory Liquid Pro",
+    "price": 11.14,
+    "amount": 0.15,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGxhYm9yYXRvcnklMjBMaXF1aWQlMjBQcm88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Coollaboratory%20Liquid%20Pro"
+  },
+  {
+    "name": "EVGA Frostbite 2",
+    "price": 12.99,
+    "amount": 2.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RVZHQSUyMEZyb3N0Yml0ZSUyMDI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=EVGA%20Frostbite%202"
+  },
+  {
+    "name": "ARCTIC MX-5",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtNTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-5"
+  },
+  {
+    "name": "Thermaltake TG-50",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMFRHLTUwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20TG-50"
+  },
+  {
+    "name": "Deepcool DM9",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMERNOTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20DM9"
+  },
+  {
+    "name": "Prolimatech PK-2 Nano Aluminum High-Grade",
+    "price": 17.48,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+UHJvbGltYXRlY2glMjBQSy0yJTIwTmFubyUyMEFsdW1pbnVtPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Prolimatech%20PK-2%20Nano%20Aluminum%20High-Grade"
+  },
+  {
+    "name": "Coollaboratory Liquid Ultra",
+    "price": 11.14,
+    "amount": 0.15,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGxhYm9yYXRvcnklMjBMaXF1aWQlMjBVbHRyYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Coollaboratory%20Liquid%20Ultra"
+  },
+  {
+    "name": "ARCTIC MX-2 2019 Edition",
+    "price": 8.99,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QVJDVElDJTIwTVgtMiUyMDIwMTklMjBFZGl0aW9uPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=ARCTIC%20MX-2%202019%20Edition"
+  },
+  {
+    "name": "Thermaltake TG-30",
+    "price": 8.99,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMFRHLTMwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20TG-30"
+  },
+  {
+    "name": "Scythe Thermal Elixer G",
+    "price": 27.01,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TY3l0aGUlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2N5dGhlJTIwVGhlcm1hbCUyMEVsaXhlciUyMEc8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Scythe%20Thermal%20Elixer%20G"
+  },
+  {
+    "name": "Thermal Hero NEO",
+    "price": 62.81,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBORU88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20NEO"
+  },
+  {
+    "name": "Thermal Hero METALLIQ",
+    "price": 18.48,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBNRVRBTExJUTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20METALLIQ"
+  },
+  {
+    "name": "Arctic Silver Arctic Alumina Premium Ceramic Polysynthetic",
+    "price": 5.9,
+    "amount": 14,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXJjdGljJTIwU2lsdmVyJTIwQXJjdGljJTIwQWx1bWluYSUyMFA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Arctic%20Silver%20Arctic%20Alumina%20Premium%20Ceramic%20Polysynthetic"
+  },
+  {
+    "name": "TUNIQ TX-4 Extreme Performance",
+    "price": 12.99,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VFVOSVElMjBUWC00JTIwRXh0cmVtZSUyMFBlcmZvcm1hbmNlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=TUNIQ%20TX-4%20Extreme%20Performance"
+  },
+  {
+    "name": "Cooler Master IC ESSENTIAL E1",
+    "price": 11.86,
+    "amount": 3.75,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwSUMlMjBFU1NFTlRJQUwlMjBFMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20IC%20ESSENTIAL%20E1"
+  },
+  {
+    "name": "EK EK-TIM Ectotherm",
+    "price": 11.14,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RUslMjBFSy1USU0lMjBFY3RvdGhlcm08L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=EK%20EK-TIM%20Ectotherm"
+  },
+  {
+    "name": "Iceberg Thermal FUZEIce Plus",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SWNlYmVyZyUyMFRoZXJtYWwlMjBGVVpFSWNlJTIwUGx1czwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Iceberg%20Thermal%20FUZEIce%20Plus"
+  },
+  {
+    "name": "Prolimatech PK-1",
+    "price": 14.99,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+UHJvbGltYXRlY2glMjBQSy0xPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Prolimatech%20PK-1"
+  },
+  {
+    "name": "Antec Formula 7 Nano Diamond",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QW50ZWMlMjBGb3JtdWxhJTIwNyUyME5hbm8lMjBEaWFtb25kPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Antec%20Formula%207%20Nano%20Diamond"
+  },
+  {
+    "name": "Rosewill RCX-TC001",
+    "price": 8,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Sb3Nld2lsbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Sb3Nld2lsbCUyMFJDWC1UQzAwMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Rosewill%20RCX-TC001"
+  },
+  {
+    "name": "Antec 77064",
+    "price": 11.14,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QW50ZWMlMjA3NzA2NDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Antec%2077064"
+  },
+  {
+    "name": "Deepcool Z3",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMFozPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20Z3"
+  },
+  {
+    "name": "Phanteks PH-NDC_02",
+    "price": 11.14,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5QaGFudGVrcyUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5QaGFudGVrcyUyMFBILU5EQ18wMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Phanteks%20PH-NDC_02"
+  },
+  {
+    "name": "Thermalright Silver King",
+    "price": 11.14,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwU2lsdmVyJTIwS2luZzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20Silver%20King"
+  },
+  {
+    "name": "Gelid Solutions GC-4",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+R2VsaWQlMjBTb2x1dGlvbnMlMjBHQy00PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Gelid%20Solutions%20GC-4"
+  },
+  {
+    "name": "Xilence ZUB-XPTP.X5",
+    "price": 12.98,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WGlsZW5jZSUyMFpVQi1YUFRQLlg1PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Xilence%20ZUB-XPTP.X5"
+  },
+  {
+    "name": "Masscool Stars-700",
+    "price": 5.99,
+    "amount": 0.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TWFzc2Nvb2wlMjBTdGFycy03MDA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Masscool%20Stars-700"
+  },
+  {
+    "name": "Cooler Master ThermalFusion 400",
+    "price": 14.469999999999999,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwVGhlcm1hbEZ1c2lvbiUyMDQwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20ThermalFusion%20400"
+  },
+  {
+    "name": "Gelid Solutions GC-Supreme",
+    "price": 11.14,
+    "amount": 7,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+R2VsaWQlMjBTb2x1dGlvbnMlMjBHQy1TdXByZW1lPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Gelid%20Solutions%20GC-Supreme"
+  },
+  {
+    "name": "TUNIQ TX-2",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VFVOSVElMjBUWC0yPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=TUNIQ%20TX-2"
+  },
+  {
+    "name": "Zalman ZM-STG2",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WmFsbWFuJTIwWk0tU1RHMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Zalman%20ZM-STG2"
+  },
+  {
+    "name": "Innovation Cooling ICD24",
+    "price": 11.14,
+    "amount": 4.8,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SW5ub3ZhdGlvbiUyMENvb2xpbmclMjBJQ0QyNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Innovation%20Cooling%20ICD24"
+  },
+  {
+    "name": "Graphitene GTP-5",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+R3JhcGhpdGVuZSUyMEdUUC01PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Graphitene%20GTP-5"
+  },
+  {
+    "name": "NOX Thermal 880",
+    "price": 11.14,
+    "amount": 23,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Tk9YJTIwVGhlcm1hbCUyMDg4MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=NOX%20Thermal%20880"
+  },
+  {
+    "name": "Akasa AK-TCW-03",
+    "price": 16.43,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QWthc2ElMjBBSy1UQ1ctMDM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Akasa%20AK-TCW-03"
+  },
+  {
+    "name": "Iceberg Thermal FUZEIce",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SWNlYmVyZyUyMFRoZXJtYWwlMjBGVVpFSWNlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Iceberg%20Thermal%20FUZEIce"
+  },
+  {
+    "name": "Deepcool DP-TIM-Z10-1",
+    "price": 11.14,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMERQLVRJTS1aMTAtMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20DP-TIM-Z10-1"
+  },
+  {
+    "name": "Deepcool EX750",
+    "price": 11.14,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMEVYNzUwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20EX750"
+  },
+  {
+    "name": "Thermalright TF8 EX",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwVEY4JTIwRVg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20TF8%20EX"
+  },
+  {
+    "name": "Zalman STC7",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WmFsbWFuJTIwU1RDNzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Zalman%20STC7"
+  },
+  {
+    "name": "Antec Formula 6 Nano Diamond",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QW50ZWMlMjBGb3JtdWxhJTIwNiUyME5hbm8lMjBEaWFtb25kPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Antec%20Formula%206%20Nano%20Diamond"
+  },
+  {
+    "name": "Zalman ZM - STG1",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WmFsbWFuJTIwWk0lMjAtJTIwU1RHMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Zalman%20ZM%20-%20STG1"
+  },
+  {
+    "name": "Cooler Master IceFusion",
+    "price": 14.469999999999999,
+    "amount": 40,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwSWNlRnVzaW9uPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20IceFusion"
+  },
+  {
+    "name": "Evercool TC-25",
+    "price": 11.14,
+    "amount": 25,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RXZlcmNvb2wlMjBUQy0yNTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Evercool%20TC-25"
+  },
+  {
+    "name": "Xigmatek PTI-G4512",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WGlnbWF0ZWslMjBQVEktRzQ1MTI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Xigmatek%20PTI-G4512"
+  },
+  {
+    "name": "TUNIQ TX-2 Extreme",
+    "price": 11.14,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VFVOSVElMjBUWC0yJTIwRXh0cmVtZTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=TUNIQ%20TX-2%20Extreme"
+  },
+  {
+    "name": "Masscool G751 Shin-Etsu",
+    "price": 11.14,
+    "amount": 0.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TWFzc2Nvb2wlMjBHNzUxJTIwU2hpbi1FdHN1PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Masscool%20G751%20Shin-Etsu"
+  },
+  {
+    "name": "Masscool Fanner-420",
+    "price": 11.14,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TWFzc2Nvb2wlMjBGYW5uZXItNDIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Masscool%20Fanner-420"
+  },
+  {
+    "name": "Arctic Silver Arctic Alumina",
+    "price": 5.9,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5BUkNUSUMlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXJjdGljJTIwU2lsdmVyJTIwQXJjdGljJTIwQWx1bWluYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Arctic%20Silver%20Arctic%20Alumina"
+  },
+  {
+    "name": "Rosewill RCX-TC090PRO",
+    "price": 11.14,
+    "amount": 20,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Sb3Nld2lsbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Sb3Nld2lsbCUyMFJDWC1UQzA5MFBSTzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Rosewill%20RCX-TC090PRO"
+  },
+  {
+    "name": "Xigmatek PTI-G3606",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WGlnbWF0ZWslMjBQVEktRzM2MDY8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Xigmatek%20PTI-G3606"
+  },
+  {
+    "name": "Biostar TC-DIAMOND",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Qmlvc3RhciUyMFRDLURJQU1PTkQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Biostar%20TC-DIAMOND"
+  },
+  {
+    "name": "Thermaltake CL-O0028",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMENMLU8wMDI4PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20CL-O0028"
+  },
+  {
+    "name": "Xigmatek Freezing Point G4718",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WGlnbWF0ZWslMjBGcmVlemluZyUyMFBvaW50JTIwRzQ3MTg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Xigmatek%20Freezing%20Point%20G4718"
+  },
+  {
+    "name": "Evercool STC-01",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RXZlcmNvb2wlMjBTVEMtMDE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Evercool%20STC-01"
+  },
+  {
+    "name": "Syba CL-PTSL-COOL",
+    "price": 9.32,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U3liYSUyMENMLVBUU0wtQ09PTDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Syba%20CL-PTSL-COOL"
+  },
+  {
+    "name": "Sunbeam GI-1",
+    "price": 11.14,
+    "amount": 3.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U3VuYmVhbSUyMEdJLTE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Sunbeam%20GI-1"
+  },
+  {
+    "name": "Sunbeam Iceberg TS-IB",
+    "price": 11.14,
+    "amount": 1,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U3VuYmVhbSUyMEljZWJlcmclMjBUUy1JQjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Sunbeam%20Iceberg%20TS-IB"
+  },
+  {
+    "name": "Thermene Graphene",
+    "price": 11.14,
+    "amount": 9,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1lbmUlMjBHcmFwaGVuZTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Thermene%20Graphene"
+  },
+  {
+    "name": "Deepcool Z9",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5EZWVwY29vbCUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5EZWVwY29vbCUyMFo5PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Deepcool%20Z9"
+  },
+  {
+    "name": "Evercool STC-02",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RXZlcmNvb2wlMjBTVEMtMDI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Evercool%20STC-02"
+  },
+  {
+    "name": "Logisys Z5",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TG9naXN5cyUyMFo1PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Logisys%20Z5"
+  },
+  {
+    "name": "Thermaltake CL-O001-GROSGM-A",
+    "price": 11.98,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMENMLU8wMDEtR1JPU0dNLUE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20CL-O001-GROSGM-A"
+  },
+  {
+    "name": "Thermaltake CLZ0022",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsdGFrZSUyMFRoZXJtYWwlMjBQYXN0ZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5UaGVybWFsdGFrZSUyMENMWjAwMjI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermaltake%20CLZ0022"
+  },
+  {
+    "name": "Cooler Master Extreme Fusion X1",
+    "price": 14.469999999999999,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwRXh0cmVtZSUyMEZ1c2lvbiUyMFg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20Extreme%20Fusion%20X1"
+  },
+  {
+    "name": "CRYORIG CP15",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q1JZT1JJRyUyMENQMTU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=CRYORIG%20CP15"
+  },
+  {
+    "name": "CRYORIG CP5",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q1JZT1JJRyUyMENQNTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=CRYORIG%20CP5"
+  },
+  {
+    "name": "CRYORIG CP7",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q1JZT1JJRyUyMENQNzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=CRYORIG%20CP7"
+  },
+  {
+    "name": "Thermalright Chill Factor 3",
+    "price": 11.14,
+    "amount": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFscmlnaHQlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbHJpZ2h0JTIwQ2hpbGwlMjBGYWN0b3IlMjAzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Thermalright%20Chill%20Factor%203"
+  },
+  {
+    "name": "Gelid Solutions GC-2",
+    "price": 11.14,
+    "amount": 7,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+R2VsaWQlMjBTb2x1dGlvbnMlMjBHQy0yPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Gelid%20Solutions%20GC-2"
+  },
+  {
+    "name": "Cooler Master MasterGel Regular",
+    "price": 14.469999999999999,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db29sZXIlMjBNYXN0ZXIlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+Q29vbGVyJTIwTWFzdGVyJTIwTWFzdGVyR2VsJTIwUmVndWxhPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Cooler%20Master%20MasterGel%20Regular"
+  },
+  {
+    "name": "Enermax ETC521",
+    "price": 11.14,
+    "amount": 3,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RW5lcm1heCUyMEVUQzUyMTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Enermax%20ETC521"
+  },
+  {
+    "name": "YEYIAN YCT-PHTC-01",
+    "price": 11.14,
+    "amount": 2,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WUVZSUFOJTIwWUNULVBIVEMtMDE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=YEYIAN%20YCT-PHTC-01"
+  },
+  {
+    "name": "Scythe Thermal Elixer 2",
+    "price": 9.99,
+    "amount": 5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TY3l0aGUlMjBUaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2N5dGhlJTIwVGhlcm1hbCUyMEVsaXhlciUyMDI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Scythe%20Thermal%20Elixer%202"
+  },
+  {
+    "name": "Xilence ZUB-XPTP",
+    "price": 11.14,
+    "amount": 1.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+WGlsZW5jZSUyMFpVQi1YUFRQPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Xilence%20ZUB-XPTP"
+  },
+  {
+    "name": "Thermal Hero QUANTUM with paste gun",
+    "price": 11.14,
+    "amount": 50,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5UaGVybWFsJTIwUGFzdGU8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VGhlcm1hbCUyMEhlcm8lMjBRVUFOVFVNJTIwd2l0aCUyMHBhc3Q8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Thermal%20Hero%20QUANTUM%20with%20paste%20gun"
+  }
+]

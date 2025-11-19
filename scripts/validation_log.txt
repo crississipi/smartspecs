@@ -1,0 +1,143 @@
+=== URL Validation Log Started: 2025-11-11 14:03:02 ===
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 5 4600G Desktop Processor (Up to 4.2GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  5 5500GT Desktop Processor (3.6 up to 4.4GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 5 5600G Processor with Radeon™ Graphics (Up to 4.4GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  5 5600GT Desktop Processor (3.6 up to 4.6GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  5 5600X Desktop Processors (Up to 4.6GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 5 7600X Desktop Processor (4.7GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  5 8500G Desktop Processor (3.5 up to 5.0GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  5 8600G Desktop Processor (4.3 up tp 5.0GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 5 9600X Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 5 7600 (3.8GHz) Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 5700G Desktop Processors with Radeon™ Graphics (Up to 4.6GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 5700X Desktop Processors (Up to 4.6GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  7 7700 Desktop Processor (Up to 3.8GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 7700X Desktop Processor (4.5GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™  7 8700G Desktop Processor (4.2 up to 5.1GHz) - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 7900X Desktop Processor (4.7GHz) - PC Express - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 7800X3D (4.2GHz) Gaming Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 9700X (4.7GHz) Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 7 9800X3D Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 7950X Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 9900X Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 9900X3D Gaming and Content Creation Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 9950X (4.3GHz up to 5.7GHz) Desktop Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] AMD Ryzen™ 9 9950X3D Gaming and Content Creation Processor - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][cpu] Intel®  Core™  i3-14100 Processor 12M Cache, up to 4.70 GHz - Does not meet cpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:08] INVALID URL [PCExpress][motherboard] Intel®  Core™  i3-14100 Processor 12M Cache, up to 4.70 GHz - Invalid URL format - URL: /products/amd-ryzen-9-9950x3d-gaming-and-content-creation-processor
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel® Core™ i5-10400 Processor (12M Cache, up to 4.30 GHz) - PC Express - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel®  Core™  i5-14400 Processor 20M Cache, up to 4.70 GHz - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel®  Core™  i7-14700 Processor 33M Cache, up to 5.40 GHz - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel® Core™ i3-12100 Processor (12M Cache, up to 4.30 GHz) - PC Express - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel®  Core™ i5-12400 Processor (18M Cache, up to 4.40 GHz) - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel® Core™ i5-13400 Processor (20M Cache, up to 4.60 GHz) - PC Express - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] Intel®  Core™ Ultra 7 265KF Desktop Processor - Does not meet motherboard validation criteria (required: , pattern: 1, brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][motherboard] GMKTEC EVO X2 AMD Radeon™  8060 Graphics AMD Ryzen™ Ai MAX +395 Mini Desktop - Price ₱151800 outside motherboard range (₱3000-₱100000)
+[2025-11-11 14:03:08] INVALID URL [PCExpress][gpu] GMKTEC EVO X2 AMD Radeon™  8060 Graphics AMD Ryzen™ Ai MAX +395 Mini Desktop - Invalid URL format - URL: /products/intel-core-ultra-7-265kf-desktop-processor
+[2025-11-11 14:03:08] INVALID URL [PCExpress][gpu] ASUS ROG NUC 15 2025 GeForce RTX™ 5080 (RNUC15JNK9X289A4) Mini Desktop - Invalid URL format - URL: /products/asus-rog-nuc-15-2025-geforce-rtx-5070-ti-rnuc15jnk9x38aa4-mini-desktop
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] PCX LFH VIRTOUSO (GI512400) D5 - Intel® Core™ i5 Desktop - Powered By ASUS - Does not meet gpu validation criteria (required: , pattern: , brand: 1)
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] PCX PROJECT S GeForce RTX™ 5090 OC Intel® Core™ Ultra 9 Gaming Desktop - Powered By ASUS - Price ₱349950 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:08] INVALID URL [PCExpress][gpu] PCX GFH WYVERN (R5) Radeon™ RX 7600 EVO OC Desktop - Powered by ASUS - Invalid URL format - URL: /products/pcx-project-s-geforce-rtx-5080-oc-intel-core-ultra-9-gaming-desktop-powered-by-asus
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] DELL TOWER ECT1250 Intel® Core™ i5 Desktop - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:08] INVALID URL [PCExpress][gpu] PCX GFH HYDRA (i5-XIV) - GeForce RTX™ 4060 Dual OC Gaming Desktop - Powered By ASUS - Invalid URL format - URL: /products/dell-tower-ect1250-intel-core-i7-desktop
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] D-Link DWR-U2000 5G NR MiFi Mobile Hotspot - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] HP DesignJet T1700 44-inch PostScript Printer (1VD87A) - Price ₱365000 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] HP DesignJet T230 24-inch Printer (5HB07A) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] HP DesignJet T830 24-inch Multi Function Printer (F9A28E) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:08] REJECTED [PCExpress][gpu] LENOVO Legion R27qe 27” Gaming Monitor - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:08] INVALID URL [PCExpress][motherboard] LENOVO Legion R27qe 27” Gaming Monitor - Invalid URL format - URL: /products/hp-designjet-t850-36-inch-multi-function-printer-2y9h2a
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASROCK AMD Radeon™ RX 9070 Steel Legend OC 16GB GDDR6 256-bit Graphics Card - Invalid URL format - URL: /products/asrock-amd-radeon-rx-9070-challenger-16gb-gddr6-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASROCK AMD Radeon™ RX 9070 XT Taichi OC 16GB GDDR6 256-bit Graphics Card - Invalid URL format - URL: /products/asrock-amd-radeon-rx-9070-steel-legend-oc-16gb-gddr6-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual GeForce RTX™ 4060 V2 OC Edition 8GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asrock-amd-radeon-rx-9070-xt-taichi-oc-16gb-gddr6-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual GeForce RTX™ 5050 OC Edition 8GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-geforce-rtx-4060-v2-oc-edition-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual GeForce RTX™ 5060 OC Edition 8GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-geforce-rtx-5050-oc-edition-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual GeForce RTX™ 5060 Ti OC Edition 8GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual Radeon™ RX 6500 XT V2 OC Edition 4GB GDDR6 64-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-geforce-rtx-5060-ti-oc-edition-8gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual Radeon™ RX 7600 EVO OC Edition 8GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-radeon-rx-6500-xt-v2-oc-edition-4gb-gddr6-64-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Dual Radeon™ RX9060XT 8G GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS GeForce RTX™ 3050 DUAL OC V2 8GB GDDR6 128-bit Graphics Card - PC Express - Invalid URL format - URL: /products/asus-dual-radeon-rx9060xt-8g-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS GeForce RTX™ 3050 DUAL OC 6GB GDDR6 96-bit Graphics Card - Invalid URL format - URL: /products/asus-geforce-rtx-3050-dual-oc-v2-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS GeForce GT 730 2GB GDDR5 64-bit Graphics Card - PC Express - Invalid URL format - URL: /products/asus-geforce-rtx-3050-dual-oc-6gb-gddr6-96-bit-graphics-cards
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS GeForce GTX 1650 DUAL OC V2 4GB GDDR6 128-bit Graphics Card - PC Express - Invalid URL format - URL: /products/asus-geforce-gt-730-2gb-gddr5-64-bit-graphics-card
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] ASUS GT1030-SL 2GB BRK GDDR5 64-bit Graphics Card - PC Express - Does not meet gpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS GT1030-SL 2GB BRK GDDR5 64-bit Graphics Card - PC Express - Invalid URL format - URL: /products/asus-geforce-gtx-1650-dual-oc-v2-4gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS Prime GeForce RTX™ 5050 OC Edition 8GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-gt1030-sl-2gb-brk-gddr5-64-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS PRIME GeForce RTX™ 5060 OC Edition 8GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5050-oc-edition-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS PRIME GeForce RTX™ 5060 Ti OC Edition 16GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS PRIME GeForce RTX™ 5070 12GB GDDR7 192-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS PRIME GeForce RTX™ 5070 OC Edition 12GB GDDR7 192-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5070-12gb-gddr7-192-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][ram] ASUS Prime GeForce RTX™ 5070 Ti OC Edition 16GB GDDR7 256-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5070-oc-edition-12gb-gddr7-192-bit-graphics-card
+[2025-11-11 14:03:10] REJECTED [PCExpress][ram] ASUS Prime GeForce RTX™ 5080 16GB GDDR7 256-bit Graphics Card - Price ₱90800 outside ram range (₱800-₱80000)
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Prime GeForce RTX™ 5080 16GB GDDR7 256-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS PRIME GeForce RTX™ 5080 OC Edition 16GB GDDR7 256-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5080-16gb-gddr7-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Prime Radeon™ RX 9060 XT OC Edition 16GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-geforce-rtx-5080-oc-edition-16gb-gddr7-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Prime Radeon™ RX 9060 XT OC Edition 8GB GDDR6 128-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-radeon-rx-9060-xt-oc-edition-16gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS Prime Radeon™ RX 9070 XT OC Edition 16GB GDDR6 256-bit Graphics Card - Invalid URL format - URL: /products/asus-prime-radeon-rx-9060-xt-oc-edition-8gb-gddr6-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS ROG Astral GeForce RTX™ 5080 OC Edition 16GB GDDR7 256-Bit Graphics Card - Invalid URL format - URL: /products/asus-prime-radeon-rx-9070-xt-oc-edition-16gb-gddr6-256-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS ROG Astral GeForce RTX™ 5090 OC Edition 32GB GDDR7 512-bit Graphics Card - Invalid URL format - URL: /products/rog-astral-geforce-rtx-5080-oc-edition-16gb-gddr7-256-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS TUF Gaming GeForce RTX™ 5060 OC Edition 8GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-rog-astral-geforce-rtx-5090-oc-edition-32gb-gddr7-512-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS TUF Gaming GeForce RTX™ 5060 Ti OC Edition 16GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-tuf-gaming-geforce-rtx-5060-oc-edition-8gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS TUF Gaming GeForce RTX™ 5060 Ti OC Edition 8GB GDDR7 128-bit Graphics Card - Invalid URL format - URL: /products/asus-tuf-gaming-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS TUF Gaming GeForce RTX™ 5070 OC Edition 12GB GDDR7 192-bit Graphics Card - Invalid URL format - URL: /products/asus-tuf-gaming-geforce-rtx-5060-ti-oc-edition-8gb-gddr7-128-bit-graphics-card
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS TUF Gaming GeForce RTX™ 5070 Ti 16GB GDDR7 256-bit Graphics Card - White Edition - Invalid URL format - URL: /products/asus-tuf-gaming-geforce-rtx-5070-oc-edition-12gb-gddr7-192-bit-graphics-card
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] GMKTEC EVO X2 AMD Radeon™  8060 Graphics AMD Ryzen™ Ai MAX +395 Mini Desktop - Does not meet gpu validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] ASUS ROG NUC 15 2025 GeForce RTX™ 5080 (RNUC15JNK9X289A4) Mini Desktop - Invalid URL format - URL: /products/asus-rog-nuc-15-2025-geforce-rtx-5070-ti-rnuc15jnk9x38aa4-mini-desktop
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] PCX LFH VIRTOUSO (GI512400) D5 - Intel® Core™ i5 Desktop - Powered By ASUS - Does not meet gpu validation criteria (required: , pattern: , brand: 1)
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] PCX PROJECT S GeForce RTX™ 5090 OC Intel® Core™ Ultra 9 Gaming Desktop - Powered By ASUS - Price ₱349950 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] PCX GFH WYVERN (R5) Radeon™ RX 7600 EVO OC Desktop - Powered by ASUS - Invalid URL format - URL: /products/pcx-project-s-geforce-rtx-5080-oc-intel-core-ultra-9-gaming-desktop-powered-by-asus
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] DELL TOWER ECT1250 Intel® Core™ i5 Desktop - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:10] INVALID URL [PCExpress][gpu] PCX GFH HYDRA (i5-XIV) - GeForce RTX™ 4060 Dual OC Gaming Desktop - Powered By ASUS - Invalid URL format - URL: /products/dell-tower-ect1250-intel-core-i7-desktop
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] D-Link DWR-U2000 5G NR MiFi Mobile Hotspot - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] HP DesignJet T1700 44-inch PostScript Printer (1VD87A) - Price ₱365000 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] HP DesignJet T230 24-inch Printer (5HB07A) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] HP DesignJet T830 24-inch Multi Function Printer (F9A28E) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:10] REJECTED [PCExpress][gpu] LENOVO Legion R27qe 27” Gaming Monitor - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:10] INVALID URL [PCExpress][motherboard] LENOVO Legion R27qe 27” Gaming Monitor - Invalid URL format - URL: /products/hp-designjet-t850-36-inch-multi-function-printer-2y9h2a
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASROCK B550M Pro4 mATX Motherboard - Invalid URL format - URL: /products/asrock-b450m-hdv-r4-0-matx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASROCK B650M-H/M.2+ Micro-ATX Motherboard - Invalid URL format - URL: /products/asrock-b550m-pro4-matx-motherboard
+[2025-11-11 14:03:12] REJECTED [PCExpress][motherboard] ASROCK H610M-HDV/M.2+ D5 micro-ATX Motherboard - Does not meet motherboard validation criteria (required: 1, pattern: , brand: 1)
+[2025-11-11 14:03:12] INVALID URL [PCExpress][storage] ASROCK H610M-HDV/M.2+ D5 micro-ATX Motherboard - Invalid URL format - URL: /products/asrock-b650m-h-m-2-micro-atx-motherboard
+[2025-11-11 14:03:12] REJECTED [PCExpress][storage] ASUS B650M-AYW WIFI Micro-ATX Motherboard - Does not meet storage validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS B650M-AYW WIFI Micro-ATX Motherboard - Invalid URL format - URL: /products/asrock-h610m-hdv-m-2-d5-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME A520M-K Micro-ATX Motherboard - Invalid URL format - URL: /products/asus-b650m-ayw-wifi-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME A520M-K Micro-ATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-a520m-k-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME A620M-K/CSM micro-ATX Motherboard - Invalid URL format - URL: /products/asus-prime-a520m-k-csm-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B450M-A II CSM mATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-a620m-k-csm-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B450M-K II/CSM mATX Motherboard - Invalid URL format - URL: /products/asus-prime-b450m-a-ii-csm-matx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B550M-A (WIFI) II Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-b450m-k-ii-csm-matx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B550M-K ARGB Micro-ATX Motherboard - Invalid URL format - URL: /products/asus-prime-b550m-a-wifi-ii-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME H610M-K CSM micro-ATX Motherboard - Invalid URL format - URL: /products/asus-prime-b550m-k-argb-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B550M-K Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-h610m-k-csm-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B650M-A II Micro ATX Motherboard - Invalid URL format - URL: /products/asus-prime-b550m-k-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B760M-A WIFI D4 Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-b650m-a-ii-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B760M-A WIFI Micro-ATX Motherboard - Invalid URL format - URL: /products/asus-prime-b760m-a-wifi-d4-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B760M-K D4 mATX Motherboard - Invalid URL format - URL: /products/asus-prime-b760m-a-wifi-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME B760M-K Micro-ATX Motherboard - Invalid URL format - URL: /products/asus-prime-b760m-k-d4-matx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME H510M-K R2.0 Micro ATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-b760m-k-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME H610M-E D4 / CSM Micro ATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-h510m-k-r2-0-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME X870-P WIFI-CSM ATX Motherboard - Invalid URL format - URL: /products/asus-prime-h610m-e-d4-csm-micro-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME Z790-A WIFI-CSM ATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-prime-x870-p-wifi-csm-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PRIME Z890-P WIFI-CSM ATX Motherboard - Invalid URL format - URL: /products/asus-prime-z790-a-wifi-csm-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ProArt X870E-CREATOR WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-prime-z890-p-wifi-csm-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS PROART Z890-CREATOR WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-proart-x870e-creator-wifi-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ROG STRIX B550-F GAMING WIFI II ATX Motherboard - Invalid URL format - URL: /products/asus-proart-z890-creator-wifi-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ROG STRIX B760-F GAMING WIFI Motherboard - Invalid URL format - URL: /products/asus-rog-strix-b550-f-gaming-wifi-ii-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ROG STRIX B850-A GAMING WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-rog-strix-b760-f-gaming-wifi-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ROG STRIX X870-A GAMING WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-rog-strix-b850-a-gaming-wifi-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS ROG STRIX Z890-F GAMING WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-rog-strix-x870-a-gaming-wifi-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS STRIX X870E-E GAMING WIFI ATX Motherboard - Invalid URL format - URL: /products/asus-rog-strix-z890-f-gaming-wifi-atx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] ASUS TUF B760M-PLUS GAMING WIFI D4 mATX Motherboard - PC Express - Invalid URL format - URL: /products/asus-strix-x870e-e-gaming-wifi-atx-motherboard
+[2025-11-11 14:03:12] REJECTED [PCExpress][motherboard] GMKTEC EVO X2 AMD Radeon™  8060 Graphics AMD Ryzen™ Ai MAX +395 Mini Desktop - Price ₱151800 outside motherboard range (₱3000-₱100000)
+[2025-11-11 14:03:12] INVALID URL [PCExpress][gpu] GMKTEC EVO X2 AMD Radeon™  8060 Graphics AMD Ryzen™ Ai MAX +395 Mini Desktop - Invalid URL format - URL: /products/asus-tuf-b760m-plus-gaming-wifi-d4-matx-motherboard
+[2025-11-11 14:03:12] INVALID URL [PCExpress][gpu] ASUS ROG NUC 15 2025 GeForce RTX™ 5080 (RNUC15JNK9X289A4) Mini Desktop - Invalid URL format - URL: /products/asus-rog-nuc-15-2025-geforce-rtx-5070-ti-rnuc15jnk9x38aa4-mini-desktop
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] PCX LFH VIRTOUSO (GI512400) D5 - Intel® Core™ i5 Desktop - Powered By ASUS - Does not meet gpu validation criteria (required: , pattern: , brand: 1)
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] PCX PROJECT S GeForce RTX™ 5090 OC Intel® Core™ Ultra 9 Gaming Desktop - Powered By ASUS - Price ₱349950 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:12] INVALID URL [PCExpress][gpu] PCX GFH WYVERN (R5) Radeon™ RX 7600 EVO OC Desktop - Powered by ASUS - Invalid URL format - URL: /products/pcx-project-s-geforce-rtx-5080-oc-intel-core-ultra-9-gaming-desktop-powered-by-asus
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] DELL TOWER ECT1250 Intel® Core™ i5 Desktop - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] INVALID URL [PCExpress][gpu] PCX GFH HYDRA (i5-XIV) - GeForce RTX™ 4060 Dual OC Gaming Desktop - Powered By ASUS - Invalid URL format - URL: /products/dell-tower-ect1250-intel-core-i7-desktop
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] D-Link DWR-U2000 5G NR MiFi Mobile Hotspot - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] HP DesignJet T1700 44-inch PostScript Printer (1VD87A) - Price ₱365000 outside gpu range (₱3000-₱250000)
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] HP DesignJet T230 24-inch Printer (5HB07A) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] HP DesignJet T830 24-inch Multi Function Printer (F9A28E) - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] REJECTED [PCExpress][gpu] LENOVO Legion R27qe 27” Gaming Monitor - Does not meet gpu validation criteria (required: , pattern: , brand: )
+[2025-11-11 14:03:12] INVALID URL [PCExpress][motherboard] LENOVO Legion R27qe 27” Gaming Monitor - Invalid URL format - URL: /products/hp-designjet-t850-36-inch-multi-function-printer-2y9h2a

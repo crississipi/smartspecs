@@ -1,0 +1,18 @@
+# Enable rewrite engine
+RewriteEngine On
+
+# Redirect API calls to api directory
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^api/(.*)$ api/$1 [L]
+
+# Set default charset
+AddDefaultCharset UTF-8
+
+# Enable CORS (adjust for production)
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+</IfModule>
+

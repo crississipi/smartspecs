@@ -1,0 +1,65 @@
+# DEPRECATED: This file is no longer used. Project has been migrated to Replit.
+# See DEPLOYMENT.md for Replit deployment instructions.
+
+# services:
+  - type: web
+    name: ai-chatbot-php
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: DB_HOST
+        value: "your-database-host-here"
+      - key: DB_PORT
+        value: "11634"
+      - key: DB_USER
+        value: "your-database-user-here"
+      - key: DB_PASS
+        value: "your-database-password-here"
+      - key: DB_NAME
+        value: "defaultdb"
+      - key: DB_SSL
+        value: "true"
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: HF_API_KEY
+        sync: false
+      - key: PYTHON_SERVICE_URL
+        sync: false
+
+  - type: worker
+    name: ai-chatbot-python
+    env: python
+    buildCommand: pip install -r ai_service/requirements.txt
+    startCommand: cd ai_service && python app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: PORT
+        value: "5000"
+      - key: HOST
+        value: "0.0.0.0"
+      - key: DB_HOST
+        sync: false
+      - key: DB_PORT
+        sync: false
+      - key: DB_USER
+        sync: false
+      - key: DB_PASS
+        sync: false
+      - key: DB_NAME
+        sync: false
+      - key: DB_SSL
+        value: "true"
+      - key: HF_API_KEY
+        sync: false
+      - key: MODEL_NAME
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+
+databases:
+  - name: ai-chatbot-db
+    plan: free
+    databaseName: defaultdb
+    user: your-database-user-here
+

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "NZXT HUE 2 RGB Lighting Kit",
+    "price": 10.0,
+    "form_factor": 2.5,
+    "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/4c6ee7cb60a2e62ef45e14acd8e3ca18.1600.jpg",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20HUE%202%20RGB%20Lighting%20Kit"
+  },
+  {
+    "name": "NZXT Hue+",
+    "price": 10.0,
+    "form_factor": 2.5,
+    "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/4c6ee7cb60a2e62ef45e14acd8e3ca18.1600.jpg",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20Hue%2B"
+  },
+  {
+    "name": "NZXT Aperture M",
+    "price": 10.0,
+    "form_factor": 5.25,
+    "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/704e5ba5851e749103a1cf2e61b7bdba.256p.jpg",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20Aperture%20M"
+  },
+  {
+    "name": "Vantec UGT-CR935",
+    "price": 10.0,
+    "form_factor": 3.5,
+    "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/8f29c79fbe68cdaaef7f6801b329566a.256p.jpg",
+    "link": "https://pcpartpicker.com/search/?q=Vantec%20UGT-CR935"
+  },
+  {
+    "name": "NZXT Hue",
+    "price": 10.0,
+    "form_factor": 5.25,
+    "image_url": "https://cdna.pcpartpicker.com/static/forever/images/product/4c6ee7cb60a2e62ef45e14acd8e3ca18.1600.jpg",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20Hue"
+  },
+  {
+    "name": "nMEDIAPC ZE-C668",
+    "price": 10.0,
+    "form_factor": 5.25,
+    "image_url": "http://cdna.pcpartpicker.com/static/forever/images/product/0ebada8096db76cfa427a7b9bf0664e2.med.256p.jpg",
+    "link": "https://pcpartpicker.com/search/?q=nMEDIAPC%20ZE-C668"
+  },
+  {
+    "name": "nMEDIAPC ZE-C288",
+    "price": 10.0,
+    "form_factor": 5.25,
+    "image_url": "http://cdna.pcpartpicker.com/static/forever/images/product/252cbec6193c018672925026a3820b55.med.256p.jpg",
+    "link": "https://pcpartpicker.com/search/?q=nMEDIAPC%20ZE-C288"
+  },
+  {
+    "name": "Unitech U3903",
+    "price": 10.0,
+    "form_factor": 5.25,
+    "image_url": "http://cdna.pcpartpicker.com/static/forever/images/product/8e6afed5b6fbf073fe9a2ba2544da0dd.med.256p.jpg",
+    "link": "https://pcpartpicker.com/search/?q=Unitech%20U3903"
+  }
+]

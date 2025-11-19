@@ -1,0 +1,432 @@
+[
+  {
+    "name": "Microsoft Windows 11 Home OEM - DVD 64-bit",
+    "price": 109.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBIb21lJTIwT0VNJTIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Home%20OEM%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 11 Pro OEM - DVD 64-bit",
+    "price": 146.18,
+    "mode": 64,
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBQcm8lMjBPRU0lMjAtPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Pro%20OEM%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 11 Home Retail - USB 64-bit",
+    "price": 134.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBIb21lJTIwUmV0YTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Home%20Retail%20-%20USB%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 11 Pro Retail - Download 64-bit",
+    "price": 189.99,
+    "mode": 64,
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBQcm8lMjBSZXRhaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Pro%20Retail%20-%20Download%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 11 Home Retail - Download 64-bit",
+    "price": 138.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBIb21lJTIwUmV0YTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Home%20Retail%20-%20Download%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 11 Pro Retail - USB 64-bit",
+    "price": 198.99,
+    "mode": 64,
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTElMjBQcm8lMjBSZXRhaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2011%20Pro%20Retail%20-%20USB%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home OEM - DVD 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwT0VNJTIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20OEM%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Pro Retail - USB 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBQcm8lMjBSZXRhaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Pro%20Retail%20-%20USB%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home Retail - USB 32/64-bit",
+    "price": 229.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwUmV0YTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20Retail%20-%20USB%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Pro OEM - DVD 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBQcm8lMjBPRU0lMjAtPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Pro%20OEM%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home Retail - Download 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwUmV0YTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20Retail%20-%20Download%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Pro Retail - Download 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBQcm8lMjBSZXRhaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Pro%20Retail%20-%20Download%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium Full 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 16,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20Full%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home OEM - DVD 32-bit",
+    "price": 143.46,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwT0VNJTIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20OEM%20-%20DVD%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Pro OEM - DVD 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBQcm8lMjBPRU0lMjAtPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Pro%20OEM%20-%20DVD%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional Full 32/64-bit",
+    "price": 254.16,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20Full%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Pro French CDN - Retail - DVD 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 2048,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBQcm8lMjBGcmVuYzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Pro%20French%20CDN%20-%20Retail%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home French - USB 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwRnJlbjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20French%20-%20USB%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 10 Home French OEM - DVD 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwMTAlMjBIb21lJTIwRnJlbjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%2010%20Home%20French%20OEM%20-%20DVD%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwMzIvNjQtYmk8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate SP1 OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%20SP1%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 Pro OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 512,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwUHJvJTIwT0VNJTIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20Pro%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium SP1 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20SP1%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate Full 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwRjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%20Full%2032/64-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional SP1 OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20SP1%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8 Pro OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOCUyMFBybyUyME9FTSUyMDMyPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208%20Pro%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium SP1 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 16,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20SP1%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium SP1 OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 16,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20SP1%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20SP1%20OEM%203-Pack%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate SP1 OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%20SP1%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional SP1 OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20SP1%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Pro SP1 DE 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFBybyUyMFNQMSUyMERFPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Pro%20SP1%20DE%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate SP1 3-Pack 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%20SP1%203-Pack%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwT0VNJTIwNjQtYjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8 OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOCUyME9FTSUyMDY0LWJpdDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Home Premium SP1 OEM 3-Pack 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 16,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMEhvbWUlMjBQcmVtaTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Home%20Premium%20SP1%20OEM%203-Pack%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional SP1 30-Pack 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20SP1%2030-Pack%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwNjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Ultimate SP1 OEM 3-Pack 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFVsdGltYXRlJTIwUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Ultimate%20SP1%20OEM%203-Pack%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional SP1 OEM 3-Pack 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20SP1%20OEM%203-Pack%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Pro SP1 DE OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFBybyUyMFNQMSUyMERFPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Pro%20SP1%20DE%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 7 Professional SP1 OEM 3-Pack 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 192,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwNyUyMFByb2Zlc3Npb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%207%20Professional%20SP1%20OEM%203-Pack%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwT0VNJTIwMzItYjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 8 Pro OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 512,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOCUyMFBybyUyME9FTSUyMDY0PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208%20Pro%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 Pro DE OEM 64-bit",
+    "price": 188.07,
+    "mode": 64,
+    "max_memory": 512,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwUHJvJTIwREUlMjBPPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20Pro%20DE%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 Pro OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwUHJvJTIwT0VNJTIwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20Pro%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 DE OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 128,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwREUlMjBPRU0lMjA2PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20DE%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8 OEM 32-bit",
+    "price": 149.99,
+    "mode": 32,
+    "max_memory": 4,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOCUyME9FTSUyMDMyLWJpdDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208%20OEM%2032-bit"
+  },
+  {
+    "name": "Microsoft Windows 8 Pro DE OEM 64-bit",
+    "price": 149.99,
+    "mode": 64,
+    "max_memory": 512,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOCUyMFBybyUyMERFJTIwT0VNPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208%20Pro%20DE%20OEM%2064-bit"
+  },
+  {
+    "name": "Microsoft Windows 8.1 Pro 32/64-bit",
+    "price": 149.99,
+    "mode": [
+      32,
+      64
+    ],
+    "max_memory": 512,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NaWNyb3NvZnQlMjBPczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNyb3NvZnQlMjBXaW5kb3dzJTIwOC4xJTIwUHJvJTIwMzIvNjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Microsoft%20Windows%208.1%20Pro%2032/64-bit"
+  }
+]

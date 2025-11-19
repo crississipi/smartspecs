@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Logitech BRIO Ultra HD Pro",
+    "price": 132.99,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 82.0,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Mb2dpdGVjaCUyMEJSSU8lMjBVbHRyYSUyMEhEJTIwUHJvPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20BRIO%20Ultra%20HD%20Pro"
+  },
+  {
+    "name": "Elgato Facecam Pro",
+    "price": 299.99,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 90.0,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5MRyUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5FbGdhdG8lMjBGYWNlY2FtJTIwUHJvPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Elgato%20Facecam%20Pro"
+  },
+  {
+    "name": "Insta360 Link 2",
+    "price": 199.99,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZWJjYW08L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SW5zdGEzNjAlMjBMaW5rJTIwMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Insta360%20Link%202"
+  },
+  {
+    "name": "Elgato FACECAM MK.2",
+    "price": 129.99,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 84.0,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5MRyUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5FbGdhdG8lMjBGQUNFQ0FNJTIwTUsuMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Elgato%20FACECAM%20MK.2"
+  },
+  {
+    "name": "Logitech MX BRIO",
+    "price": 199.99,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "ChromeOS"
+    ],
+    "fov": 90.0,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Mb2dpdGVjaCUyME1YJTIwQlJJTzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20MX%20BRIO"
+  },
+  {
+    "name": "Insta360 Insta360 Link",
+    "price": 179.0,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.5,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZWJjYW08L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+SW5zdGEzNjAlMjBJbnN0YTM2MCUyMExpbms8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Insta360%20Insta360%20Link"
+  },
+  {
+    "name": "NexiGo N660P",
+    "price": 51.99,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZWJjYW08L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TmV4aUdvJTIwTjY2MFA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=NexiGo%20N660P"
+  },
+  {
+    "name": "Logitech StreamCam",
+    "price": 159.0,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78.0,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Mb2dpdGVjaCUyMFN0cmVhbUNhbTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20StreamCam"
+  },
+  {
+    "name": "Logitech StreamCam Plus",
+    "price": 159.99,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFdlYmNhbTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5Mb2dpdGVjaCUyMFN0cmVhbUNhbSUyMFBsdXM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20StreamCam%20Plus"
+  }
+]

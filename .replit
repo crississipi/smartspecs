@@ -1,0 +1,50 @@
+# Replit configuration for AI Chatbot
+# This configuration allows the repl to run both PHP and Python services
+
+language = "php"
+
+# Entry point - our startup script will handle both services
+run = "bash start.sh"
+
+# When to reload
+deploy = "bash start.sh"
+
+# Build command - install dependencies
+buildCommand = """
+composer install --no-dev --optimize-autoloader --no-interaction
+cd ai_service && pip install -r requirements.txt
+"""
+
+# Hidden files (don't show in file tree)
+hidden = [
+  "*.log",
+  "vendor/*",
+  "__pycache__",
+  "*.pyc",
+  ".env",
+  "cache",
+  "pcpartpicker_cache"
+]
+
+# LSP configuration
+[languages.php]
+pattern = "**/*.php"
+[languages.python]
+pattern = "**/*.py"
+
+# Unit tests (if any)
+# [unitTest]
+# language = "php"
+
+# Packager
+[packager]
+language = "php"
+
+[packager.features]
+packageSearch = true
+guessImports = true
+enabledForHosting = false
+
+# Nix for system packages
+[nix]
+channel = "stable-22_11"

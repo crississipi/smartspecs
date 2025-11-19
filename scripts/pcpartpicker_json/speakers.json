@@ -1,0 +1,1007 @@
+[
+  {
+    "name": "Creative Labs Pebble 2.0",
+    "price": 29.0,
+    "configuration": 2.0,
+    "wattage": 4.4,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black, White",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBQZWJibGUlMjAyLjA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Pebble%202.0"
+  },
+  {
+    "name": "SteelSeries Arena 9 EU",
+    "price": 877.06,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGVlbFNlcmllcyUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlN0ZWVsU2VyaWVzJTIwQXJlbmElMjA5JTIwRVU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SteelSeries%20Arena%209%20EU"
+  },
+  {
+    "name": "Kanto TUK",
+    "price": 899.99,
+    "configuration": 2.0,
+    "wattage": 260.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "White / Black, Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5LYW50byUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkthbnRvJTIwVFVLPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Kanto%20TUK"
+  },
+  {
+    "name": "Logitech Z207 (Black)",
+    "price": 55.99,
+    "configuration": 2.0,
+    "wattage": 0.01,
+    "frequency_response": null,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjIwNyUyMCUyOEJsYWNrJTI5PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z207%20%28Black%29"
+  },
+  {
+    "name": "Razer Leviathan V2 X",
+    "price": 69.98,
+    "configuration": 2.0,
+    "wattage": 65.0,
+    "frequency_response": [
+      85,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTGV2aWF0aGFuJTIwVjIlMjBYPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Leviathan%20V2%20X"
+  },
+  {
+    "name": "Edifier MR4",
+    "price": 169.99,
+    "configuration": 2.0,
+    "wattage": 42.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "White, Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyME1SNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20MR4"
+  },
+  {
+    "name": "Creative Labs Pebble Plus",
+    "price": 49.99,
+    "configuration": 2.1,
+    "wattage": 8.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBQZWJibGUlMjBQbHVzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Pebble%20Plus"
+  },
+  {
+    "name": "Logitech G560",
+    "price": 225.0,
+    "configuration": 2.1,
+    "wattage": 120.0,
+    "frequency_response": [
+      40,
+      18
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwRzU2MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20G560"
+  },
+  {
+    "name": "Logitech Z313",
+    "price": 59.99,
+    "configuration": 2.1,
+    "wattage": 25.0,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjMxMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z313"
+  },
+  {
+    "name": "Sony HT-S100F Soundbar",
+    "price": 118.0,
+    "configuration": 2.0,
+    "wattage": 44.0,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Tb255JTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U29ueSUyMEhULVMxMDBGJTIwU291bmRiYXI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Sony%20HT-S100F%20Soundbar"
+  },
+  {
+    "name": "Creative Labs Pebble Pro",
+    "price": 66.48,
+    "configuration": 2.0,
+    "wattage": 30.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black / Copper",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBQZWJibGUlMjBQcm88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Pebble%20Pro"
+  },
+  {
+    "name": "Creative Labs Pebble V2",
+    "price": 33.24,
+    "configuration": 2.0,
+    "wattage": 8.0,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black / Copper",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBQZWJibGUlMjBWMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Pebble%20V2"
+  },
+  {
+    "name": "Logitech X-540",
+    "price": 615.86,
+    "configuration": 5.1,
+    "wattage": 70.0,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWC01NDA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20X-540"
+  },
+  {
+    "name": "Razer Leviathan V2 Pro",
+    "price": 499.99,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTGV2aWF0aGFuJTIwVjIlMjBQcm88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Leviathan%20V2%20Pro"
+  },
+  {
+    "name": "SteelSeries Arena 9 US",
+    "price": 599.99,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGVlbFNlcmllcyUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlN0ZWVsU2VyaWVzJTIwQXJlbmElMjA5JTIwVVM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SteelSeries%20Arena%209%20US"
+  },
+  {
+    "name": "Logitech Z323",
+    "price": 64.98,
+    "configuration": 2.1,
+    "wattage": 30.0,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjMyMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z323"
+  },
+  {
+    "name": "Razer Leviathan V2",
+    "price": 249.99,
+    "configuration": 2.1,
+    "wattage": 65.0,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTGV2aWF0aGFuJTIwVjI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Leviathan%20V2"
+  },
+  {
+    "name": "Creative Labs Pebble V3",
+    "price": 44.99,
+    "configuration": 2.0,
+    "wattage": 8.0,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black / Copper, White / Copper",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBQZWJibGUlMjBWMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Pebble%20V3"
+  },
+  {
+    "name": "Creative Labs Stage Air V2",
+    "price": 61.74,
+    "configuration": 2.0,
+    "wattage": 10.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTdGFnZSUyMEFpciUyMFYyPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Stage%20Air%20V2"
+  },
+  {
+    "name": "Logitech Z407",
+    "price": 114.99,
+    "configuration": 2.1,
+    "wattage": 40.0,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjQwNzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z407"
+  },
+  {
+    "name": "Creative Labs T60",
+    "price": 94.99,
+    "configuration": 2.0,
+    "wattage": 60.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black / Gold",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBUNjA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20T60"
+  },
+  {
+    "name": "Klipsch R-51PM",
+    "price": 399.99,
+    "configuration": 2.0,
+    "wattage": 120.0,
+    "frequency_response": [
+      68,
+      21
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5LbGlwc2NoJTIwUi01MVBNPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Klipsch%20R-51PM"
+  },
+  {
+    "name": "Edifier S350DB",
+    "price": 549.99,
+    "configuration": 2.1,
+    "wattage": 150.0,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black / Brown",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFMzNTBEQjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20S350DB"
+  },
+  {
+    "name": "Razer NOMMO CHROMA",
+    "price": 114.99,
+    "configuration": 2.0,
+    "wattage": null,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTk9NTU8lMjBDSFJPTUE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20NOMMO%20CHROMA"
+  },
+  {
+    "name": "NZXT Relay",
+    "price": 279.99,
+    "configuration": 2.0,
+    "wattage": 80.0,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5OWlhUJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TlpYVCUyMFJlbGF5PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=NZXT%20Relay"
+  },
+  {
+    "name": "Yamaha HS8",
+    "price": 398.99,
+    "configuration": 2.0,
+    "wattage": 120.0,
+    "frequency_response": [
+      38,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS8"
+  },
+  {
+    "name": "Logitech Z207 (White)",
+    "price": 49.99,
+    "configuration": 2.0,
+    "wattage": 0.01,
+    "frequency_response": null,
+    "color": "White",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjIwNyUyMCUyOFdoaXRlJTI5PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z207%20%28White%29"
+  },
+  {
+    "name": "Creative Labs Sound Blaster GS5 RGB Soundbar",
+    "price": 94.99,
+    "configuration": 2.0,
+    "wattage": 60.0,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTb3VuZCUyMEJsYXN0ZXIlMjBHUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Sound%20Blaster%20GS5%20RGB%20Soundbar"
+  },
+  {
+    "name": "Edifier R1280DB-Brown",
+    "price": 189.99,
+    "configuration": 2.0,
+    "wattage": 42.0,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Brown / Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFIxMjgwREItQnJvd248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20R1280DB-Brown"
+  },
+  {
+    "name": "Logitech Z625",
+    "price": 189.95,
+    "configuration": 2.1,
+    "wattage": 200.0,
+    "frequency_response": null,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjYyNTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z625"
+  },
+  {
+    "name": "Logitech Z533",
+    "price": 149.99,
+    "configuration": 2.1,
+    "wattage": 60.0,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjUzMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z533"
+  },
+  {
+    "name": "Logitech Z200",
+    "price": 50.98,
+    "configuration": 2.0,
+    "wattage": 10.0,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjIwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z200"
+  },
+  {
+    "name": "Razer Nommo V2 Pro",
+    "price": 449.99,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTm9tbW8lMjBWMiUyMFBybzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Nommo%20V2%20Pro"
+  },
+  {
+    "name": "Edifier R1280DB-Black",
+    "price": 189.99,
+    "configuration": 2.0,
+    "wattage": 42.0,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFIxMjgwREItQmxhY2s8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20R1280DB-Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "price": 333.97,
+    "configuration": 2.0,
+    "wattage": 100.0,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Black, White / Black, Pink / Black, Red / Black, Purple / Black, Gray / Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5LYW50byUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkthbnRvJTIwT1JBPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Kanto%20ORA"
+  },
+  {
+    "name": "Edifier R1700BT",
+    "price": 219.99,
+    "configuration": 2.0,
+    "wattage": 66.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black / Brown",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFIxNzAwQlQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20R1700BT"
+  },
+  {
+    "name": "Edifier R980T",
+    "price": 81.99,
+    "configuration": 2.0,
+    "wattage": 24.0,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFI5ODBUPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20R980T"
+  },
+  {
+    "name": "Kanto ORA4",
+    "price": 347.65,
+    "configuration": 2.0,
+    "wattage": 140.0,
+    "frequency_response": [
+      60,
+      22
+    ],
+    "color": "Black, White",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5LYW50byUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkthbnRvJTIwT1JBNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Kanto%20ORA4"
+  },
+  {
+    "name": "Razer Nommo V2 X",
+    "price": 149.99,
+    "configuration": 2.0,
+    "wattage": null,
+    "frequency_response": [
+      75,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTm9tbW8lMjBWMiUyMFg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Nommo%20V2%20X"
+  },
+  {
+    "name": "Razer NOMMO PRO",
+    "price": 399.99,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTk9NTU8lMjBQUk88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20NOMMO%20PRO"
+  },
+  {
+    "name": "SteelSeries Arena 7 US",
+    "price": 329.99,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGVlbFNlcmllcyUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlN0ZWVsU2VyaWVzJTIwQXJlbmElMjA3JTIwVVM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SteelSeries%20Arena%207%20US"
+  },
+  {
+    "name": "PreSonus Eris 3.5 2nd Gen",
+    "price": 114.99,
+    "configuration": 2.0,
+    "wattage": 50.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black / Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5QcmVTb251cyUyMEVyaXMlMjAzLjUlMjAybmQlMjBHZW48L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=PreSonus%20Eris%203.5%202nd%20Gen"
+  },
+  {
+    "name": "Yamaha HS8 W",
+    "price": 398.99,
+    "configuration": 1.0,
+    "wattage": 120.0,
+    "frequency_response": [
+      38,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzglMjBXPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS8%20W"
+  },
+  {
+    "name": "Yamaha HS5",
+    "price": 199.99,
+    "configuration": 1.0,
+    "wattage": 70.0,
+    "frequency_response": [
+      54,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS5"
+  },
+  {
+    "name": "Edifier R33BT",
+    "price": 99.99,
+    "configuration": 2.0,
+    "wattage": 10.0,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FZGlmaWVyJTIwU3BlYWtlcnM8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+RWRpZmllciUyMFIzM0JUPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Edifier%20R33BT"
+  },
+  {
+    "name": "Creative Labs Sound Blaster Katana V2",
+    "price": 319.99,
+    "configuration": 2.1,
+    "wattage": 126.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTb3VuZCUyMEJsYXN0ZXIlMjBLYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Sound%20Blaster%20Katana%20V2"
+  },
+  {
+    "name": "Lenovo M0520",
+    "price": 15.61,
+    "configuration": 2.0,
+    "wattage": 2.0,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5MZW5vdm8lMjBNMDUyMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Lenovo%20M0520"
+  },
+  {
+    "name": "PreSonus Eris E3.5 BT",
+    "price": 139.99,
+    "configuration": 2.0,
+    "wattage": 50.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5QcmVTb251cyUyMEVyaXMlMjBFMy41JTIwQlQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=PreSonus%20Eris%20E3.5%20BT"
+  },
+  {
+    "name": "Creative Labs T100",
+    "price": 104.49,
+    "configuration": 2.0,
+    "wattage": 40.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBUMTAwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20T100"
+  },
+  {
+    "name": "SteelSeries Arena 3 US",
+    "price": 169.99,
+    "configuration": 2.0,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGVlbFNlcmllcyUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlN0ZWVsU2VyaWVzJTIwQXJlbmElMjAzJTIwVVM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SteelSeries%20Arena%203%20US"
+  },
+  {
+    "name": "Logitech Z213",
+    "price": 103.78,
+    "configuration": 2.1,
+    "wattage": 7.0,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Mb2dpdGVjaCUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkxvZ2l0ZWNoJTIwWjIxMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Logitech%20Z213"
+  },
+  {
+    "name": "ADAM Audio T8V",
+    "price": 299.99,
+    "configuration": 1.0,
+    "wattage": 180.0,
+    "frequency_response": [
+      33,
+      25
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5BREFNJTIwQXVkaW8lMjBUOFY8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=ADAM%20Audio%20T8V"
+  },
+  {
+    "name": "Yamaha HS5 W",
+    "price": 199.99,
+    "configuration": 1.0,
+    "wattage": 70.0,
+    "frequency_response": [
+      54,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzUlMjBXPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS5%20W"
+  },
+  {
+    "name": "Audioengine HD3-BLK",
+    "price": 349.0,
+    "configuration": 2.0,
+    "wattage": 60.0,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5BdWRpb2VuZ2luZSUyMEhEMy1CTEs8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Audioengine%20HD3-BLK"
+  },
+  {
+    "name": "Creative Labs Sound Blaster Katana V2X",
+    "price": 279.99,
+    "configuration": 2.1,
+    "wattage": 90.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTb3VuZCUyMEJsYXN0ZXIlMjBLYTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Sound%20Blaster%20Katana%20V2X"
+  },
+  {
+    "name": "Razer Nommo V2",
+    "price": 299.99,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5SYXplciUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlJhemVyJTIwTm9tbW8lMjBWMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Razer%20Nommo%20V2"
+  },
+  {
+    "name": "Mackie CR5-XBT",
+    "price": 199.99,
+    "configuration": 2.0,
+    "wattage": 80.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Green / Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NYWNraWUlMjBDUjUtWEJUPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Mackie%20CR5-XBT"
+  },
+  {
+    "name": "Micca COVO-S",
+    "price": 59.99,
+    "configuration": 2.0,
+    "wattage": 100.0,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNjYSUyMENPVk8tUzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Micca%20COVO-S"
+  },
+  {
+    "name": "Creative Labs Stage 360",
+    "price": 159.99,
+    "configuration": 2.1,
+    "wattage": 180.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTdGFnZSUyMDM2MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20Stage%20360"
+  },
+  {
+    "name": "Yamaha HS7",
+    "price": 349.99,
+    "configuration": 2.0,
+    "wattage": 95.0,
+    "frequency_response": [
+      43,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzc8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS7"
+  },
+  {
+    "name": "Creative Labs SBS E2900",
+    "price": 94.99,
+    "configuration": 2.1,
+    "wattage": 60.0,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcmVhdGl2ZSUyMExhYnMlMjBTcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5DcmVhdGl2ZSUyMExhYnMlMjBTQlMlMjBFMjkwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Creative%20Labs%20SBS%20E2900"
+  },
+  {
+    "name": "IK Multimedia IP-ILOUD-MM-IN",
+    "price": 349.99,
+    "configuration": 2.0,
+    "wattage": 70.0,
+    "frequency_response": [
+      45,
+      22
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5JSyUyME11bHRpbWVkaWElMjBJUC1JTE9VRC1NTS1JTjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=IK%20Multimedia%20IP-ILOUD-MM-IN"
+  },
+  {
+    "name": "PreSonus 3.5BT 2nd Gen",
+    "price": 139.99,
+    "configuration": 2.0,
+    "wattage": 50.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5QcmVTb251cyUyMDMuNUJUJTIwMm5kJTIwR2VuPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=PreSonus%203.5BT%202nd%20Gen"
+  },
+  {
+    "name": "Mackie CR4-XBT",
+    "price": 149.99,
+    "configuration": 2.0,
+    "wattage": 50.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black / Green",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NYWNraWUlMjBDUjQtWEJUPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Mackie%20CR4-XBT"
+  },
+  {
+    "name": "Vanatoo Transparent Zero Plus",
+    "price": 499.99,
+    "configuration": 2.0,
+    "wattage": 96.0,
+    "frequency_response": [
+      52,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5WYW5hdG9vJTIwVHJhbnNwYXJlbnQlMjBaZXJvJTIwUGx1czwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Vanatoo%20Transparent%20Zero%20Plus"
+  },
+  {
+    "name": "Audioengine HD3-WHT",
+    "price": 349.0,
+    "configuration": 2.0,
+    "wattage": 60.0,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "White / Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5BdWRpb2VuZ2luZSUyMEhEMy1XSFQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Audioengine%20HD3-WHT"
+  },
+  {
+    "name": "Micca MB42X",
+    "price": 99.99,
+    "configuration": 2.0,
+    "wattage": 150.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNjYSUyME1CNDJYPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Micca%20MB42X"
+  },
+  {
+    "name": "Micca MB42",
+    "price": 84.99,
+    "configuration": 2.0,
+    "wattage": 150.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNjYSUyME1CNDI8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Micca%20MB42"
+  },
+  {
+    "name": "Yamaha HS7 W",
+    "price": 349.99,
+    "configuration": 1.0,
+    "wattage": 95.0,
+    "frequency_response": [
+      43,
+      30
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5ZYW1haGElMjBIUzclMjBXPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Yamaha%20HS7%20W"
+  },
+  {
+    "name": "Mackie MR624",
+    "price": 229.99,
+    "configuration": 1.0,
+    "wattage": 65.0,
+    "frequency_response": [
+      38,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NYWNraWUlMjBNUjYyNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Mackie%20MR624"
+  },
+  {
+    "name": "Mackie MR824",
+    "price": 279.99,
+    "configuration": 1.0,
+    "wattage": 85.0,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NYWNraWUlMjBNUjgyNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Mackie%20MR824"
+  },
+  {
+    "name": "Micca PB42X",
+    "price": 139.99,
+    "configuration": 2.0,
+    "wattage": 30.0,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NaWNjYSUyMFBCNDJYPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Micca%20PB42X"
+  },
+  {
+    "name": "M-Audio BX8 D3",
+    "price": 325.1,
+    "configuration": 1.0,
+    "wattage": 150.0,
+    "frequency_response": [
+      37,
+      22
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NLUF1ZGlvJTIwQlg4JTIwRDM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=M-Audio%20BX8%20D3"
+  },
+  {
+    "name": "M-Audio AV32",
+    "price": 160.0,
+    "configuration": 2.0,
+    "wattage": 20.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NLUF1ZGlvJTIwQVYzMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=M-Audio%20AV32"
+  },
+  {
+    "name": "M-Audio AV42",
+    "price": 200.0,
+    "configuration": 2.0,
+    "wattage": 40.0,
+    "frequency_response": [
+      75,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NLUF1ZGlvJTIwQVY0MjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=M-Audio%20AV42"
+  },
+  {
+    "name": "SteelSeries Arena 3 AU",
+    "price": 169.99,
+    "configuration": 2.0,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TdGVlbFNlcmllcyUyMFNwZWFrZXJzPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlN0ZWVsU2VyaWVzJTIwQXJlbmElMjAzJTIwQVU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SteelSeries%20Arena%203%20AU"
+  },
+  {
+    "name": "Behringer MS16",
+    "price": 129.0,
+    "configuration": 2.0,
+    "wattage": 16.0,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5CZWhyaW5nZXIlMjBNUzE2PC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Behringer%20MS16"
+  },
+  {
+    "name": "Mackie MR524",
+    "price": 179.99,
+    "configuration": 1.0,
+    "wattage": 50.0,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TcGVha2VyczwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5NYWNraWUlMjBNUjUyNDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Mackie%20MR524"
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Apricorn Aegis Fortress L3",
+    "price": 12999.0,
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 20000,
+    "price_per_gb": 0.65,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMEZvcnRyZXNzJTIwTDM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Fortress%20L3"
+  },
+  {
+    "name": "Western Digital My Book Duo",
+    "price": 1199.99,
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 44000,
+    "price_per_gb": 0.027,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwQm9vayUyMER1bzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Book%20Duo"
+  },
+  {
+    "name": "Western Digital WD_BLACK P10",
+    "price": 117.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 5000,
+    "price_per_gb": 0.023,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMFdEX0JMQUNLJTIwUDEwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20WD_BLACK%20P10"
+  },
+  {
+    "name": "Seagate Expansion",
+    "price": 318.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 24000,
+    "price_per_gb": 0.013,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBFeHBhbnNpb248L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Expansion"
+  },
+  {
+    "name": "Western Digital ELEMENTS",
+    "price": 59.97,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.06,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEVMRU1FTlRTPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20ELEMENTS"
+  },
+  {
+    "name": "Samsung T9 Portable",
+    "price": 299.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.075,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUOSUyMFBvcnRhYmxlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T9%20Portable"
+  },
+  {
+    "name": "Corsair EX400U",
+    "price": 319.99,
+    "interface": "USB Type-C 4.0 Gen 3x2",
+    "capacity": 4000,
+    "price_per_gb": 0.08,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db3JzYWlyJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNvcnNhaXIlMjBFWDQwMFU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Corsair%20EX400U"
+  },
+  {
+    "name": "Western Digital My Passport",
+    "price": 111.85,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.028,
+    "color": "Black, White, Red, Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwUGFzc3BvcnQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Passport"
+  },
+  {
+    "name": "Samsung T5 EVO Portable",
+    "price": 529.97,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.066,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUNSUyMEVWTyUyMFBvcnRhYmxlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T5%20EVO%20Portable"
+  },
+  {
+    "name": "Seagate Portable Drive",
+    "price": 79.98,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.04,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBQb3J0YWJsZSUyMERyaXZlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Portable%20Drive"
+  },
+  {
+    "name": "Apricorn Padlock DT FIPS",
+    "price": 1012.98,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 20000,
+    "price_per_gb": 0.051,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBQYWRsb2NrJTIwRFQlMjBGSVBTPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Padlock%20DT%20FIPS"
+  },
+  {
+    "name": "SanDisk Extreme Portable V2",
+    "price": 104.99,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.105,
+    "color": "Black / Orange",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW5kaXNrJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbkRpc2slMjBFeHRyZW1lJTIwUG9ydGFibGUlMjBWMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=SanDisk%20Extreme%20Portable%20V2"
+  },
+  {
+    "name": "Samsung T7 Portable",
+    "price": 89.99,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.09,
+    "color": "Black / Silver, Black, Blue / Silver, Red / Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUNyUyMFBvcnRhYmxlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T7%20Portable"
+  },
+  {
+    "name": "Verbatim Vx460",
+    "price": 37.4,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 128,
+    "price_per_gb": 0.292,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VmVyYmF0aW0lMjBWeDQ2MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Verbatim%20Vx460"
+  },
+  {
+    "name": "Seagate Backup Plus Slim",
+    "price": 59.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.059,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBCYWNrdXAlMjBQbHVzJTIwU2xpbTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Backup%20Plus%20Slim"
+  },
+  {
+    "name": "Seagate Backup Plus Portable",
+    "price": 105.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.026,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBCYWNrdXAlMjBQbHVzJTIwUG9ydGFibGU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Backup%20Plus%20Portable"
+  },
+  {
+    "name": "Samsung T7 Shield",
+    "price": 289.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 4000,
+    "price_per_gb": 0.072,
+    "color": "Black, Beige, Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUNyUyMFNoaWVsZDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T7%20Shield"
+  },
+  {
+    "name": "Western Digital WD_BLACK D10",
+    "price": 189.99,
+    "interface": "USB Type-A 3.2 Gen 2",
+    "capacity": 8000,
+    "price_per_gb": 0.024,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMFdEX0JMQUNLJTIwRDEwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20WD_BLACK%20D10"
+  },
+  {
+    "name": "Crucial X10",
+    "price": 439.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 8000,
+    "price_per_gb": 0.06,
+    "color": "Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYMTA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X10"
+  },
+  {
+    "name": "Crucial X10 Pro",
+    "price": 254.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.064,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYMTAlMjBQcm88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X10%20Pro"
+  },
+  {
+    "name": "Western Digital easystore",
+    "price": 199.99,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 14000,
+    "price_per_gb": 0.024,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMGVhc3lzdG9yZTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20easystore"
+  },
+  {
+    "name": "Western Digital My Book",
+    "price": 289.99,
+    "interface": "USB Type-A 3.2 Gen 2",
+    "capacity": 14000,
+    "price_per_gb": 0.021,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwQm9vazwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Book"
+  },
+  {
+    "name": "Toshiba Canvio Basics 3.0",
+    "price": 79.98,
+    "interface": null,
+    "capacity": 2000,
+    "price_per_gb": 0.04,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMEJhc2ljcyUyMDMuMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Basics%203.0"
+  },
+  {
+    "name": "Crucial X6",
+    "price": 74.98,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.075,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYNjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X6"
+  },
+  {
+    "name": "Western Digital WD_BLACK P50",
+    "price": 299.0,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.299,
+    "color": "Black / Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMFdEX0JMQUNLJTIwUDUwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20WD_BLACK%20P50"
+  },
+  {
+    "name": "Corsair EX100U",
+    "price": 234.8,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.059,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5Db3JzYWlyJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNvcnNhaXIlMjBFWDEwMFU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Corsair%20EX100U"
+  },
+  {
+    "name": "Apricorn NVX",
+    "price": 628.8,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 2000,
+    "price_per_gb": 0.314,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBOVlg8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20NVX"
+  },
+  {
+    "name": "Samsung T5",
+    "price": 239.99,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.24,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUNTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T5"
+  },
+  {
+    "name": "Crucial X9",
+    "price": 229.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 4000,
+    "price_per_gb": 0.057,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYOTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X9"
+  },
+  {
+    "name": "Seagate One Touch",
+    "price": 189.28,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.024,
+    "color": "Black, Red, Silver, Gray, Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBPbmUlMjBUb3VjaDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20One%20Touch"
+  },
+  {
+    "name": "Western Digital ‎WDBU6Y0050BBK-WESN",
+    "price": 117.49,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 5000,
+    "price_per_gb": 0.023,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMCVFMiU4MCU4RVdEQlU2WTAwNTBCQks8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20%E2%80%8EWDBU6Y0050BBK-WESN"
+  },
+  {
+    "name": "MSI DATAMAG",
+    "price": 139.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 2000,
+    "price_per_gb": 0.07,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5NU0klMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TVNJJTIwREFUQU1BRzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=MSI%20DATAMAG"
+  },
+  {
+    "name": "Toshiba Canvio Basics",
+    "price": 109.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.109,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMEJhc2ljczwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Basics"
+  },
+  {
+    "name": "Seagate Game Drive Xbox GamePass Edition",
+    "price": 229.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.057,
+    "color": "White",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBHYW1lJTIwRHJpdmUlMjBYYm94JTIwR2FtZVBhPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Game%20Drive%20Xbox%20GamePass%20Edition"
+  },
+  {
+    "name": "Kingston XS1000",
+    "price": 129.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 2000,
+    "price_per_gb": 0.065,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5LaW5nc3RvbiUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5LaW5nc3RvbiUyMFhTMTAwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Kingston%20XS1000"
+  },
+  {
+    "name": "TEAMGROUP PD1000",
+    "price": 69.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.07,
+    "color": "Teal",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5URUFNR1JPVVAlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VEVBTUdST1VQJTIwUEQxMDAwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=TEAMGROUP%20PD1000"
+  },
+  {
+    "name": "Seagate STEB6000403",
+    "price": 224.5,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 6000,
+    "price_per_gb": 0.037,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBTVEVCNjAwMDQwMzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20STEB6000403"
+  },
+  {
+    "name": "Western Digital My Book Essential",
+    "price": 151.02,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.151,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwQm9vayUyMEVzc2VudDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Book%20Essential"
+  },
+  {
+    "name": "Crucial X9 Pro",
+    "price": 80.0,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.08,
+    "color": "Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYOSUyMFBybzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X9%20Pro"
+  },
+  {
+    "name": "Western Digital Elements Portable",
+    "price": 114.45,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.029,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEVsZW1lbnRzJTIwUG9ydGE8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20Elements%20Portable"
+  },
+  {
+    "name": "ADATA DashDrive Durable HD650",
+    "price": 71.98,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.072,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QURBVEElMjBEYXNoRHJpdmUlMjBEdXJhYmxlJTIwSEQ2NTA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=ADATA%20DashDrive%20Durable%20HD650"
+  },
+  {
+    "name": "Western Digital My Book Studio",
+    "price": 259.52,
+    "interface": "IEEE 1394B 9-Pin, USB Type-A 2.0",
+    "capacity": 2000,
+    "price_per_gb": 0.13,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwQm9vayUyMFN0dWRpbzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Book%20Studio"
+  },
+  {
+    "name": "Apricorn Aegis Padlock DT",
+    "price": 1279.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 22000,
+    "price_per_gb": 0.058,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMFBhZGxvY2slMjBEVDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Padlock%20DT"
+  },
+  {
+    "name": "Apricorn Aegis Padlock 3.0",
+    "price": 4949.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 16000,
+    "price_per_gb": 0.309,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMFBhZGxvY2slMjAzLjA8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Padlock%203.0"
+  },
+  {
+    "name": "TEAMGROUP PD20M Mag",
+    "price": 67.49,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.067,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5URUFNR1JPVVAlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VEVBTUdST1VQJTIwUEQyME0lMjBNYWc8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=TEAMGROUP%20PD20M%20Mag"
+  },
+  {
+    "name": "SanDisk SDSSDT40-8T00-NA25",
+    "price": 569.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 8000,
+    "price_per_gb": 0.071,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW5kaXNrJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbkRpc2slMjBTRFNTRFQ0MC04VDAwLU5BMjU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SanDisk%20SDSSDT40-8T00-NA25"
+  },
+  {
+    "name": "Kingston XS2000",
+    "price": 104.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 1000,
+    "price_per_gb": 0.105,
+    "color": "Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5LaW5nc3RvbiUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5LaW5nc3RvbiUyMFhTMjAwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Kingston%20XS2000"
+  },
+  {
+    "name": "Seagate Backup Plus",
+    "price": 248.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.031,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBCYWNrdXAlMjBQbHVzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Backup%20Plus"
+  },
+  {
+    "name": "Western Digital My Passport Ultra Portable",
+    "price": 149.99,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.075,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwUGFzc3BvcnQlMjBVbDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Passport%20Ultra%20Portable"
+  },
+  {
+    "name": "Apricorn Aegis Fortress",
+    "price": 2626.72,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 8000,
+    "price_per_gb": 0.328,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMEZvcnRyZXNzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Fortress"
+  },
+  {
+    "name": "Toshiba Canvio Desk",
+    "price": 228.88,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 3000,
+    "price_per_gb": 0.076,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMERlc2s8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Desk"
+  },
+  {
+    "name": "Toshiba Canvio Connect",
+    "price": 74.98,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 500,
+    "price_per_gb": 0.15,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMENvbm5lY3Q8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Connect"
+  },
+  {
+    "name": "TEAMGROUP PD20 Eco Mini",
+    "price": 72.98,
+    "interface": "USB Type-C",
+    "capacity": 1000,
+    "price_per_gb": 0.073,
+    "color": "White / Green",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5URUFNR1JPVVAlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VEVBTUdST1VQJTIwUEQyMCUyMEVjbyUyME1pbmk8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=TEAMGROUP%20PD20%20Eco%20Mini"
+  },
+  {
+    "name": "KIOXIA EXCERIA PLUS",
+    "price": 214.53,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 2000,
+    "price_per_gb": 0.107,
+    "color": "Gray",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+S0lPWElBJTIwRVhDRVJJQSUyMFBMVVM8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=KIOXIA%20EXCERIA%20PLUS"
+  },
+  {
+    "name": "Lexar ARMOR 700",
+    "price": 274.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.069,
+    "color": "Black, Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TGV4YXIlMjBBUk1PUiUyMDcwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Lexar%20ARMOR%20700"
+  },
+  {
+    "name": "LaCie Rugged Mini",
+    "price": 99.99,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.05,
+    "color": "Orange / Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TGFDaWUlMjBSdWdnZWQlMjBNaW5pPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=LaCie%20Rugged%20Mini"
+  },
+  {
+    "name": "Sabrent Rocket Nano",
+    "price": 109.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 512,
+    "price_per_gb": 0.215,
+    "color": "Pink, Red, Silver, Gold, Blue",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2FicmVudCUyMFJvY2tldCUyME5hbm88L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Sabrent%20Rocket%20Nano"
+  },
+  {
+    "name": "Transcend StoreJet",
+    "price": 94.99,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.047,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VHJhbnNjZW5kJTIwU3RvcmVKZXQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Transcend%20StoreJet"
+  },
+  {
+    "name": "SanDisk SDSSDT40-4T00-NA25",
+    "price": 289.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 4000,
+    "price_per_gb": 0.072,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW5kaXNrJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbkRpc2slMjBTRFNTRFQ0MC00VDAwLU5BMjU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SanDisk%20SDSSDT40-4T00-NA25"
+  },
+  {
+    "name": "Buffalo Technology DriveStation Axis Velocity",
+    "price": 109.99,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": null,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QnVmZmFsbyUyMFRlY2hub2xvZ3klMjBEcml2ZVN0YXRpbzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Buffalo%20Technology%20DriveStation%20Axis%20Velocity"
+  },
+  {
+    "name": "TEAMGROUP T-Create CinemaPr P31",
+    "price": 339.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.085,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5URUFNR1JPVVAlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VEVBTUdST1VQJTIwVC1DcmVhdGUlMjBDaW5lbWFQciUyMFAzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=TEAMGROUP%20T-Create%20CinemaPr%20P31"
+  },
+  {
+    "name": "SanDisk Professional PRO-Blade Transport",
+    "price": 339.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 4000,
+    "price_per_gb": 0.085,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW5kaXNrJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbkRpc2slMjBQcm9mZXNzaW9uYWwlMjBQUk8tQmxhZGU8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=SanDisk%20Professional%20PRO-Blade%20Transport"
+  },
+  {
+    "name": "Western Digital My Passport For Mac",
+    "price": 128.0,
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.128,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyME15JTIwUGFzc3BvcnQlMjBGbzwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20My%20Passport%20For%20Mac"
+  },
+  {
+    "name": "Toshiba Canvio Slim II",
+    "price": 105.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.105,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMFNsaW0lMjBJSTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Slim%20II"
+  },
+  {
+    "name": "ADATA CH11",
+    "price": 65.68,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 500,
+    "price_per_gb": 0.131,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QURBVEElMjBDSDExPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=ADATA%20CH11"
+  },
+  {
+    "name": "TEAMGROUP M200",
+    "price": 119.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 2000,
+    "price_per_gb": 0.06,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5URUFNR1JPVVAlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VEVBTUdST1VQJTIwTTIwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=TEAMGROUP%20M200"
+  },
+  {
+    "name": "Lexar Professional SL600",
+    "price": 84.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 1000,
+    "price_per_gb": 0.085,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TGV4YXIlMjBQcm9mZXNzaW9uYWwlMjBTTDYwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Lexar%20Professional%20SL600"
+  },
+  {
+    "name": "Sabrent Rocket Nano Rugged",
+    "price": 99.99,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.1,
+    "color": "Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2FicmVudCUyMFJvY2tldCUyME5hbm8lMjBSdWdnZWQ8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Sabrent%20Rocket%20Nano%20Rugged"
+  },
+  {
+    "name": "Silicon Power PC60",
+    "price": 306.86,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 2000,
+    "price_per_gb": 0.153,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TaWxpY29uJTIwUG93ZXIlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2lsaWNvbiUyMFBvd2VyJTIwUEM2MDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Silicon%20Power%20PC60"
+  },
+  {
+    "name": "Samsung T3 Portable",
+    "price": 179.0,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.179,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW1zdW5nJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbXN1bmclMjBUMyUyMFBvcnRhYmxlPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Samsung%20T3%20Portable"
+  },
+  {
+    "name": "ADATA SD700",
+    "price": 173.71,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 256,
+    "price_per_gb": 0.679,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QURBVEElMjBTRDcwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=ADATA%20SD700"
+  },
+  {
+    "name": "SanDisk Extreme 900",
+    "price": 150.44,
+    "interface": "USB Type-A 3.2 Gen 2",
+    "capacity": 960,
+    "price_per_gb": 0.157,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TYW5kaXNrJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNhbkRpc2slMjBFeHRyZW1lJTIwOTAwPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=SanDisk%20Extreme%20900"
+  },
+  {
+    "name": "Lexar SL500",
+    "price": 180.3,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 512,
+    "price_per_gb": 0.352,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+TGV4YXIlMjBTTDUwMDwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Lexar%20SL500"
+  },
+  {
+    "name": "Sabrent Rocket nano XTRM",
+    "price": 166.59,
+    "interface": "USB Type-C 3.2 Gen 2",
+    "capacity": 1000,
+    "price_per_gb": 0.167,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2FicmVudCUyMFJvY2tldCUyMG5hbm8lMjBYVFJNPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Sabrent%20Rocket%20nano%20XTRM"
+  },
+  {
+    "name": "Apricorn Padlock SSD",
+    "price": 1047.95,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 4000,
+    "price_per_gb": 0.262,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBQYWRsb2NrJTIwU1NEPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Padlock%20SSD"
+  },
+  {
+    "name": "Silicon Power Bolt B75",
+    "price": 252.49,
+    "interface": "USB Type-C 3.2 Gen 1",
+    "capacity": 960,
+    "price_per_gb": 0.263,
+    "color": "Silver",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TaWxpY29uJTIwUG93ZXIlMjBFeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2lsaWNvbiUyMFBvd2VyJTIwQm9sdCUyMEI3NTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Silicon%20Power%20Bolt%20B75"
+  },
+  {
+    "name": "Sabrent Rocket Nano V2",
+    "price": 119.99,
+    "interface": "USB Type-C 3.2 Gen 2x2",
+    "capacity": 1000,
+    "price_per_gb": 0.12,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+U2FicmVudCUyMFJvY2tldCUyME5hbm8lMjBWMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Sabrent%20Rocket%20Nano%20V2"
+  },
+  {
+    "name": "Toshiba Canvio Connect II",
+    "price": 108.95,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": 0.109,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+VG9zaGliYSUyMENhbnZpbyUyMENvbm5lY3QlMjBJSTwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Toshiba%20Canvio%20Connect%20II"
+  },
+  {
+    "name": "Crucial X8",
+    "price": 229.0,
+    "interface": "USB Type-A 3.2 Gen 1, USB Type-C 3.2 Gen 2",
+    "capacity": 2000,
+    "price_per_gb": 0.114,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5DcnVjaWFsJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPkNydWNpYWwlMjBYODwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Crucial%20X8"
+  },
+  {
+    "name": "Seagate Backup Plus Ultra Touch",
+    "price": 149.94,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.075,
+    "color": "White",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5TZWFnYXRlJTIwRXh0ZXJuYWwlMjBTdG9yYWdlPC90ZXh0PgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiM5OTkiPlNlYWdhdGUlMjBCYWNrdXAlMjBQbHVzJTIwVWx0cmElMjBUb3VjPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Seagate%20Backup%20Plus%20Ultra%20Touch"
+  },
+  {
+    "name": "Buslink DL-4TSDU31G2",
+    "price": 499.99,
+    "interface": "USB Type-A 3.2 Gen 2",
+    "capacity": 4000,
+    "price_per_gb": 0.125,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QnVzbGluayUyMERMLTRUU0RVMzFHMjwvdGV4dD4KICAgIDwvc3ZnPg==",
+    "link": "https://pcpartpicker.com/search/?q=Buslink%20DL-4TSDU31G2"
+  },
+  {
+    "name": "Buffalo Technology Americas MiniStation",
+    "price": 66.98,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 1000,
+    "price_per_gb": null,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QnVmZmFsbyUyMFRlY2hub2xvZ3klMjBBbWVyaWNhcyUyME1pPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Buffalo%20Technology%20Americas%20MiniStation"
+  },
+  {
+    "name": "Apricorn Aegis Padlock Fortress",
+    "price": 262.44,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 2000,
+    "price_per_gb": 0.131,
+    "color": "Black",
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMFBhZGxvY2slMjBGb3J0cmVzPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Padlock%20Fortress"
+  },
+  {
+    "name": "Western Digital WDBGPU0010BBK-NESN",
+    "price": 119.99,
+    "interface": null,
+    "capacity": 1000,
+    "price_per_gb": 0.12,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMEV4dGVybmFsJTIwU3RvcmFnZTwvdGV4dD4KICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjYwJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiAKICAgICAgICAgICAgICBmb250LXNpemU9IjE0IiBmaWxsPSIjOTk5Ij5XZXN0ZXJuJTIwRGlnaXRhbCUyMFdEQkdQVTAwMTBCQkstPC90ZXh0PgogICAgPC9zdmc+",
+    "link": "https://pcpartpicker.com/search/?q=Western%20Digital%20WDBGPU0010BBK-NESN"
+  },
+  {
+    "name": "Apricorn Aegis Padlock",
+    "price": 493.0,
+    "interface": "USB Type-A 3.2 Gen 1",
+    "capacity": 128,
+    "price_per_gb": 3.852,
+    "color": null,
+    "image_url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIj4KICAgICAgICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iI2YwZjBmMCIvPgogICAgICAgIDx0ZXh0IHg9IjUwJSIgeT0iNDUlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIAogICAgICAgICAgICAgIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjNjY2Ij5FeHRlcm5hbCUyMFN0b3JhZ2U8L3RleHQ+CiAgICAgICAgPHRleHQgeD0iNTAlIiB5PSI2MCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgCiAgICAgICAgICAgICAgZm9udC1zaXplPSIxNCIgZmlsbD0iIzk5OSI+QXByaWNvcm4lMjBBZWdpcyUyMFBhZGxvY2s8L3RleHQ+CiAgICA8L3N2Zz4=",
+    "link": "https://pcpartpicker.com/search/?q=Apricorn%20Aegis%20Padlock"
+  }
+]
