@@ -2,6 +2,8 @@
 
 This guide will help you deploy your AI Chatbot project to Render.
 
+> **⚠️ Memory Issue Note:** If you're experiencing memory errors with the Python AI service on Render (512MB limit), consider deploying the Python service to **Railway** or **Fly.io** instead. See `DEPLOYMENT_PLATFORMS_COMPARISON.md` for details. The PHP service can remain on Render.
+
 ## Prerequisites
 
 1. **GitHub Account** - Your code must be in a GitHub repository

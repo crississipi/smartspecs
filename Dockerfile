@@ -20,14 +20,22 @@ RUN apt-get update && apt-get install -y \
 # Install Composer
 COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 
-# Copy application files
-COPY . /var/www/html/
+# Copy composer files first for better Docker layer caching
+COPY composer.json composer.lock* ./
 
-# Install PHP dependencies
-# First try to install from lock file, if that fails (lock file outdated), update and install
-RUN composer install --no-dev --optimize-autoloader --no-interaction || \
-    (composer update --no-dev --optimize-autoloader --no-interaction && \
-     composer install --no-dev --optimize-autoloader --no-interaction)
+# Install PHP dependencies with better error handling
+RUN if [ -f composer.lock ]; then \
+        composer install --no-dev --optimize-autoloader --no-interaction || \
+        (echo "Lock file outdated, updating..." && \
+         composer update --no-dev --optimize-autoloader --no-interaction && \
+         composer install --no-dev --optimize-autoloader --no-interaction); \
+    else \
+        echo "No composer.lock found, running composer install..." && \
+        composer install --no-dev --optimize-autoloader --no-interaction; \
+    fi
+
+# Copy rest of application files
+COPY . /var/www/html/
 
 # Enable Apache mod_rewrite
 RUN a2enmod rewrite

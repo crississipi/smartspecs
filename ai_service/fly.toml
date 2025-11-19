@@ -1,0 +1,28 @@
+# Fly.io configuration for AI Service
+# Run: fly launch (first time) or fly deploy (subsequent)
+
+app = "ai-chatbot-python"
+primary_region = "iad"
+
+[build]
+
+[env]
+  PORT = "5000"
+  HOST = "0.0.0.0"
+  MODEL_NAME = "distilgpt2"
+  USE_LIGHTWEIGHT_MODEL = "true"
+  DEBUG = "false"
+
+[http_service]
+  internal_port = 5000
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
+
+[[vm]]
+  memory_mb = 512
+  cpu_kind = "shared"
+  cpus = 1
+

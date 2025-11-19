@@ -1,2 +1,1 @@
-worker: cd ai_service && python app.py
-
+web: python app.py
