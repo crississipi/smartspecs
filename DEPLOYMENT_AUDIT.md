@@ -1,11 +1,11 @@
 # Deployment Security Audit Report
 
 ## Date: $(date)
-## Platform: Replit
+## Platform: Render
 
 ## Executive Summary
 
-A comprehensive security audit has been completed to prepare the application for deployment on Replit. All hardcoded credentials have been removed and replaced with environment variable references.
+A comprehensive security audit has been completed to prepare the application for deployment on Render. All hardcoded credentials have been removed and replaced with environment variable references. The application is configured for Render with two web services: PHP (frontend/API) and Python (AI service).
 
 ## Security Issues Found and Fixed
 
@@ -56,28 +56,38 @@ A comprehensive security audit has been completed to prepare the application for
 
 ## Required Environment Variables
 
-### For Replit Deployment:
+### For Render Deployment:
 
-Set these in **Replit Secrets** tab:
+Set these in **Render Dashboard** → **Environment** tab for each service:
+
+**PHP Service:**
 
 ```
-# Database
 DB_HOST=your-database-host
-DB_PORT=11634
+DB_PORT=11634 (for MySQL) or 5432 (for PostgreSQL)
 DB_USER=your-database-user
 DB_PASS=your-database-password
 DB_NAME=defaultdb
 DB_SSL=true
-
-# API Keys
 GOOGLE_API_KEY=your-google-api-key
 GOOGLE_CSE_ID=your-google-cse-id
-HF_API_KEY=your-huggingface-api-key
+PYTHON_SERVICE_URL=https://ai-chatbot-python.onrender.com (set after Python service deploys)
+```
 
-# Optional
-PORT=5000
-DEBUG=false
+**Python Service:**
+```
+DB_HOST=your-database-host
+DB_PORT=11634 (for MySQL) or 5432 (for PostgreSQL)
+DB_USER=your-database-user
+DB_PASS=your-database-password
+DB_NAME=defaultdb
+DB_SSL=true
+HF_API_KEY=your-huggingface-api-key
+FRONTEND_URL=https://ai-chatbot-php.onrender.com (set after PHP service deploys)
+PORT=5000 (Render will auto-set, but can specify)
+HOST=0.0.0.0
 MODEL_NAME=microsoft/DialoGPT-medium
+DEBUG=false
 ```
 
 ## Files Modified
@@ -135,9 +145,14 @@ MODEL_NAME=microsoft/DialoGPT-medium
 
 ## Deployment Checklist
 
-Before deploying to Replit:
+Before deploying to Render:
 
-- [ ] All environment variables set in Replit Secrets
+- [ ] Deploy Python service first
+- [ ] Copy Python service URL
+- [ ] Deploy PHP service with Python service URL
+- [ ] Copy PHP service URL
+- [ ] Update Python service with PHP service URL
+- [ ] All environment variables set in Render Dashboard for both services
 - [ ] `.env.example` reviewed for required variables
 - [ ] Database connection tested
 - [ ] API keys verified (Google, Hugging Face)
@@ -155,25 +170,31 @@ Before deploying to Replit:
    - Test database connection
    - Test API integrations
 
-2. **Replit Testing:**
-   - Set all environment variables
-   - Deploy application
+2. **Render Testing:**
+   - Deploy Python service first
+   - Verify Python service is accessible (test `/health` endpoint)
+   - Deploy PHP service with Python service URL
+   - Update Python service with PHP service URL
+   - Set all environment variables in both services
    - Test database connection
    - Test API endpoints
-   - Verify CORS configuration
-   - Check logs for errors
+   - Verify CORS configuration (services can communicate)
+   - Check logs for errors in Render Dashboard
 
 ## Conclusion
 
-✅ **Project is deployment-ready for Replit**
+✅ **Project is deployment-ready for Render**
 
-All hardcoded credentials have been removed and replaced with environment variable references. The application now follows security best practices and is ready for secure deployment.
+All hardcoded credentials have been removed and replaced with environment variable references. The application is configured for Render with two web services (PHP and Python). The application now follows security best practices and is ready for secure deployment.
 
 **Next Steps:**
-1. Set environment variables in Replit Secrets
-2. Deploy to Replit
-3. Test all functionality
-4. Monitor logs for issues
+1. Push code to GitHub
+2. Deploy Python service on Render first
+3. Deploy PHP service on Render with Python service URL
+4. Update service URLs (cross-reference both services)
+5. Set all environment variables in Render Dashboard
+6. Test all functionality
+7. Monitor logs for issues in Render Dashboard
 
 For questions or issues, refer to:
 - `DEPLOYMENT.md` - Deployment instructions

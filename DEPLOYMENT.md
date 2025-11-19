@@ -1,287 +1,338 @@
-# Deployment Guide for Replit
+# Deployment Guide for Render
 
-This guide will help you deploy your AI Chatbot project to Replit.
+This guide will help you deploy your AI Chatbot project to Render.
 
 ## Prerequisites
 
-1. **Replit Account** - Sign up at [replit.com](https://replit.com)
-2. **GitHub Account** (optional) - For version control
-3. **Database** - You can use AivenDB or any MySQL/PostgreSQL database
+1. **GitHub Account** - Your code must be in a GitHub repository
+2. **Render Account** - Sign up at [render.com](https://render.com)
+3. **Database** - You can use Render's PostgreSQL (free), AivenDB, or any MySQL/PostgreSQL database
 
-## Why Replit?
+## Architecture Overview
 
-Replit offers:
-- **Free background workers** - No payment required for background services
-- **Always-on option** - Free tier allows always-on services
-- **Easy deployment** - Simple one-click deployment
-- **Multiple languages** - Supports both PHP and Python in the same repl
-- **Built-in IDE** - Code directly in the browser
+Your application consists of two web services:
 
-## Step 1: Create a New Repl
+1. **PHP Web Service** (`ai-chatbot-php`)
+   - Frontend (HTML/CSS/JavaScript)
+   - API endpoints for authentication, threads, messages
+   - Calls Python service via HTTP
 
-1. Go to [Replit](https://replit.com) and sign in
-2. Click **+ Create Repl** or **Create** button
-3. Choose **Import from GitHub** if your code is on GitHub, or **Blank Repl**
-4. If importing from GitHub:
-   - Enter your repository URL: `https://github.com/yourusername/ai-chatbot.git`
-   - Choose language: **PHP**
-   - Click **Import from GitHub**
-5. If creating blank repl:
-   - Choose template: **PHP**
-   - Name: `ai-chatbot`
-   - Click **Create Repl**
+2. **Python Web Service** (`ai-chatbot-python`)
+   - AI service with Flask API
+   - Endpoints: `/generate`, `/title`, `/health`, etc.
+   - Must be a web service (not background worker) to expose HTTP endpoints
 
-## Step 2: Configure Environment Variables
+## Step 1: Push Code to GitHub
 
-1. In your Repl, click on the **Secrets** tab (lock icon) in the left sidebar
-2. Add the following environment variables:
+1. Initialize git repository (if not already done):
+   ```bash
+   git init
+   git add .
+   git commit -m "Ready for Render deployment"
+   ```
 
-### Required Environment Variables:
+2. Create a GitHub repository and push:
+   ```bash
+   git remote add origin https://github.com/yourusername/ai-chatbot.git
+   git branch -M main
+   git push -u origin main
+   ```
 
-```
-DB_HOST=your-database-host
-DB_PORT=11634 (for MySQL) or 5432 (for PostgreSQL)
-DB_USER=your-database-user
-DB_PASS=your-database-password
-DB_NAME=defaultdb
-DB_SSL=true
-GOOGLE_API_KEY=your-google-api-key
-GOOGLE_CSE_ID=your-google-cse-id
-HF_API_KEY=your-huggingface-api-key
-```
+## Step 2: Create PostgreSQL Database on Render (Optional)
 
-### Optional Environment Variables:
+If you want to use Render's free PostgreSQL instead of AivenDB:
 
-```
-PORT=5000 (optional, for Python service - defaults to 5000)
-DEBUG=false
-MODEL_NAME=microsoft/DialoGPT-medium
-FRONTEND_URL=https://your-repl-slug.your-username.repl.co (auto-configured)
-PYTHON_SERVICE_URL=http://localhost:5000 (auto-configured)
-```
+1. Go to Render Dashboard → **New** → **PostgreSQL**
+2. Name: `ai-chatbot-db`
+3. Plan: **Free**
+4. Region: Choose closest to you
+5. Click **Create Database**
+6. Wait for it to be ready, then copy the **Internal Database URL** and **External Database URL**
 
-**Important**: 
-- Never commit credentials to GitHub. Always use Replit Secrets.
-- See `SECURITY.md` for security best practices.
-- Copy `.env.example` to `.env` for local development (never commit `.env`).
+**Note**: If using AivenDB or external database, skip this step.
 
-## Step 3: Install Dependencies
+## Step 3: Deploy Python AI Service (Deploy This First)
 
-The first time you run the repl, it will automatically:
+**Important**: Deploy Python service first because PHP service needs its URL.
 
-1. **Install PHP dependencies** via `composer install` (defined in `.replit`)
-2. **Install Python dependencies** via `pip install -r ai_service/requirements.txt`
+1. Go to Render Dashboard → **New** → **Web Service**
+2. Connect your GitHub repository
+3. Configure:
+   - **Name**: `ai-chatbot-python`
+   - **Environment**: `Python 3`
+   - **Region**: Choose closest to you
+   - **Branch**: `main`
+   - **Root Directory**: Leave empty (or `ai_service` if you want)
+   - **Build Command**: `pip install -r ai_service/requirements.txt`
+   - **Start Command**: `cd ai_service && python app.py`
+   - **Plan**: **Free**
 
-You can also install manually:
-```bash
-# Install PHP dependencies
-composer install --no-dev --optimize-autoloader
+4. Add Environment Variables:
+   ```
+   PYTHON_VERSION=3.11.0
+   PORT=5000
+   HOST=0.0.0.0
+   DB_HOST=<your-database-host>
+   DB_PORT=<your-database-port> (5432 for PostgreSQL, 11634 for MySQL)
+   DB_USER=<your-database-user>
+   DB_PASS=<your-database-password>
+   DB_NAME=<your-database-name>
+   DB_SSL=true
+   HF_API_KEY=<your-huggingface-api-key>
+   MODEL_NAME=microsoft/DialoGPT-medium
+   FRONTEND_URL=<will-set-after-php-service-deployed>
+   DEBUG=false
+   ```
+   
+   **Note**: `PORT` will be automatically set by Render - you can leave it or set to 5000.
 
-# Install Python dependencies
-cd ai_service
-pip install -r requirements.txt
-cd ..
-```
+5. Click **Create Web Service**
 
-**Note**: The first build may take 10-15 minutes due to large Python dependencies (transformers, torch, etc.)
+6. Wait for deployment to complete, then copy the **External URL** (e.g., `https://ai-chatbot-python.onrender.com`)
 
-## Step 4: Run Your Application
+**Important**: Save this URL - you'll need it for the PHP service.
 
-1. Click the **Run** button in Replit (or press `Ctrl+Enter`)
-2. The `start.sh` script will automatically:
-   - Start PHP server on the main port (assigned by Replit)
-   - Start Python service on port 5000 (or custom PORT)
-   - Configure CORS for both services
-   - Set up proper URLs
+## Step 4: Deploy PHP Web Service
 
-3. You should see output like:
-```
-=========================================
-Starting AI Chatbot Services...
-=========================================
-Base URL: https://your-repl-slug.your-username.repl.co
-PHP Service: https://your-repl-slug.your-username.repl.co
-Python Service: http://localhost:5000
-...
-Services are running!
-```
+1. Go to Render Dashboard → **New** → **Web Service**
+2. Connect the same GitHub repository
+3. Configure:
+   - **Name**: `ai-chatbot-php`
+   - **Environment**: `Docker`
+   - **Region**: Same as Python service
+   - **Branch**: `main`
+   - **Dockerfile Path**: `./Dockerfile`
+   - **Docker Context**: `.` (root directory)
+   - **Plan**: **Free**
 
-## Step 5: Access Your Application
+4. Add Environment Variables:
+   ```
+   DB_HOST=<your-database-host>
+   DB_PORT=<your-database-port> (5432 for PostgreSQL, 11634 for MySQL)
+   DB_USER=<your-database-user>
+   DB_PASS=<your-database-password>
+   DB_NAME=<your-database-name>
+   DB_SSL=true
+   GOOGLE_API_KEY=<your-google-api-key>
+   GOOGLE_CSE_ID=<your-google-cse-id>
+   HF_API_KEY=<your-huggingface-api-key>
+   PYTHON_SERVICE_URL=https://ai-chatbot-python.onrender.com
+   ```
+   
+   **Note**: `PYTHON_SERVICE_URL` should be the External URL from Step 3.
 
-1. After the services start, Replit will automatically:
-   - Assign a public URL like: `https://your-repl-slug.your-username.repl.co`
-   - Open a webview showing your application
+5. Click **Create Web Service**
 
-2. The application will be accessible at:
-   - Main URL: `https://your-repl-slug.your-username.repl.co`
-   - Both PHP frontend and Python API run on the same domain
+6. Wait for deployment to complete, then copy the **External URL** (e.g., `https://ai-chatbot-php.onrender.com`)
 
-## Step 6: Enable Always-On (Optional)
+## Step 5: Update Service URLs
 
-By default, Replit free tier services sleep after inactivity. To keep your service always running:
+After both services are deployed:
 
-1. Go to your Repl settings
-2. Under **Usage**, find **Always On**
-3. Enable it (free tier includes some always-on hours)
+1. **Update Python Service:**
+   - Go to your Python service → **Environment** tab
+   - Update `FRONTEND_URL` to your PHP service URL (e.g., `https://ai-chatbot-php.onrender.com`)
+   - Click **Save Changes** (service will automatically redeploy)
 
-**Note**: Free tier has limitations on always-on hours per month. Consider upgrading for production use.
+2. **Verify PHP Service:**
+   - Check that `PYTHON_SERVICE_URL` is set correctly in PHP service environment variables
 
-## Architecture
+## Step 6: Database Migration (If Using Render PostgreSQL)
 
-Your application runs with:
-- **PHP Frontend**: Serves web pages, handles authentication, database operations
-- **Python AI Service**: Runs Flask API on port 5000, handles AI model inference
-- **Both services** communicate via HTTP on `localhost`
+If you're migrating from MySQL to PostgreSQL:
 
-The `start.sh` script manages both services:
-- Starts PHP built-in server in background
-- Starts Python Flask service in background
-- Handles process cleanup on shutdown
-- Configures environment variables automatically
+1. Export your MySQL data:
+   ```bash
+   mysqldump -h your-mysql-host -u user -p database_name > backup.sql
+   ```
 
-## Environment Variables
+2. Convert MySQL to PostgreSQL (use a tool like `pgloader` or manual conversion)
 
-### Required Variables
+3. Import to Render PostgreSQL:
+   ```bash
+   psql $DATABASE_URL < converted_backup.sql
+   ```
+
+**Note**: You can also keep using AivenDB - just use your AivenDB credentials in the environment variables.
+
+## Step 7: Using render.yaml (Alternative Method)
+
+Instead of manual setup, you can use the `render.yaml` file:
+
+1. Go to Render Dashboard → **New** → **Blueprint**
+2. Connect your GitHub repository
+3. Render will automatically detect `render.yaml` and create both services
+4. You'll still need to:
+   - Set environment variables manually (secrets are not in render.yaml)
+   - Update `PYTHON_SERVICE_URL` in PHP service after Python service deploys
+   - Update `FRONTEND_URL` in Python service after PHP service deploys
+
+**Note**: With Blueprint, deploy services one at a time or manually set the URLs.
+
+## Step 8: Test Your Deployment
+
+1. Visit your PHP service URL: `https://ai-chatbot-php.onrender.com`
+2. Check logs in Render Dashboard for any errors:
+   - PHP service logs
+   - Python service logs
+3. Test the AI chat functionality
+4. Verify database connection
+5. Test authentication (login/register)
+
+## Important Notes
+
+### Free Tier Limitations
+
+- **Spin-down**: Services spin down after 15 minutes of inactivity
+- **Cold start**: First request after spin-down takes ~30 seconds
+- **Monthly hours**: 750 hours/month total across all services
+- **Build time**: Python service build may take 10-15 minutes due to large dependencies (transformers, torch)
+
+### Environment Variables
+
+Never commit credentials to GitHub. Always use Render's environment variable settings in the dashboard.
+
+### SSL/HTTPS
+
+Render automatically provides SSL certificates. The code is configured to detect HTTPS automatically.
+
+### Service Communication
+
+- PHP service calls Python service via HTTP (public URL)
+- CORS is configured to allow requests from your PHP service domain
+- Both services use `RENDER_EXTERNAL_URL` environment variable (auto-set by Render)
+
+### File Storage
+
+- JSON files in `scripts/pcpartpicker_json/` are stored in your GitHub repository
+- Runtime cache files (in `cache/` directories) are ephemeral and will be lost on redeploy
+- Database is persistent
+
+## Troubleshooting
+
+### Build Fails
+
+**PHP Service:**
+- Check Dockerfile logs in Render Dashboard
+- Ensure `composer.json` has all dependencies
+- Verify Dockerfile syntax
+
+**Python Service:**
+- Check build logs in Render Dashboard
+- Large dependencies (transformers, torch) may take 10-15 minutes
+- If build times out, consider using a Dockerfile with pre-installed dependencies
+- Check that `ai_service/requirements.txt` exists
+
+### Database Connection Fails
+
+- Verify environment variables are set correctly in Render dashboard
+- Check SSL settings (PostgreSQL requires SSL, MySQL may vary)
+- Ensure database is accessible from Render's network
+- For AivenDB, check that external connections are allowed
+- Check database logs for connection attempts
+
+### Python Service Not Responding
+
+- Check worker logs in Render Dashboard
+- Verify service is deployed as **Web Service** (not Background Worker)
+- Check CORS settings - ensure `FRONTEND_URL` is set correctly
+- Verify `PYTHON_SERVICE_URL` is set correctly in PHP service
+- Test Python service directly: `https://ai-chatbot-python.onrender.com/health`
+
+### PHP Service Can't Connect to Python Service
+
+- Verify `PYTHON_SERVICE_URL` is set in PHP service environment variables
+- Check Python service is running (visit its URL in browser)
+- Check Python service logs for errors
+- Verify CORS is configured correctly in `ai_service/app.py`
+- Test Python service health endpoint: `curl https://ai-chatbot-python.onrender.com/health`
+
+### Slow First Request
+
+- This is normal on free tier due to spin-down
+- Python service may take 30-60 seconds on first request (model loading)
+- Consider upgrading to paid plan for always-on service
+- Implement health checks to keep services warm
+
+### CORS Errors
+
+- Verify `FRONTEND_URL` is set correctly in Python service
+- Check that PHP service URL matches `FRONTEND_URL`
+- Verify `RENDER_EXTERNAL_URL` is being used (auto-set by Render)
+- Check browser console for specific CORS error messages
+
+## Environment Variables Reference
+
+### PHP Service Required Variables
+
 - `DB_HOST` - Database hostname
-- `DB_PORT` - Database port (11634 for MySQL, 5432 for PostgreSQL)
+- `DB_PORT` - Database port
 - `DB_USER` - Database username
 - `DB_PASS` - Database password
 - `DB_NAME` - Database name
 - `DB_SSL` - SSL enabled (true/false)
-- `HF_API_KEY` - Hugging Face API key for models
-- `GOOGLE_API_KEY` - Google API key for image search
+- `GOOGLE_API_KEY` - Google API key
+- `GOOGLE_CSE_ID` - Google Custom Search Engine ID
+- `PYTHON_SERVICE_URL` - Python service URL (e.g., `https://ai-chatbot-python.onrender.com`)
+
+### Python Service Required Variables
+
+- `DB_HOST` - Database hostname
+- `DB_PORT` - Database port
+- `DB_USER` - Database username
+- `DB_PASS` - Database password
+- `DB_NAME` - Database name
+- `DB_SSL` - SSL enabled (true/false)
+- `HF_API_KEY` - Hugging Face API key
+- `FRONTEND_URL` - PHP service URL (e.g., `https://ai-chatbot-php.onrender.com`)
 
 ### Optional Variables
-- `PORT` - Python service port (default: 5000)
+
+- `PORT` - Service port (auto-set by Render, but can override)
 - `DEBUG` - Debug mode (default: false)
 - `MODEL_NAME` - AI model name (default: microsoft/DialoGPT-medium)
-- `FRONTEND_URL` - Frontend URL (auto-detected from Replit)
-- `PYTHON_SERVICE_URL` - Python service URL (auto-configured)
 
-### Auto-Configured Variables
-These are automatically set by Replit and the startup script:
-- `REPL_SLUG` - Your repl identifier
-- `REPL_OWNER` - Your username
-- `REPL_ID` - Repl ID
+### Auto-Configured Variables (Set by Render)
 
-## File Structure
+- `RENDER_EXTERNAL_URL` - Public URL of the service (automatically set)
+- `RENDER_SERVICE_NAME` - Name of the service (automatically set)
 
-```
-ai-chatbot/
-├── .replit              # Replit configuration
-├── replit.nix           # Nix package dependencies
-├── start.sh             # Startup script (runs both services)
-├── config.php           # PHP configuration
-├── index.php            # Main PHP entry point
-├── api/                 # PHP API endpoints
-├── ai_service/
-│   ├── app.py           # Python Flask service
-│   ├── requirements.txt # Python dependencies
-│   └── ...
-├── composer.json        # PHP dependencies
-└── ...
-```
+## Deployment Checklist
 
-## Troubleshooting
+Before deploying:
 
-### Services Won't Start
+- [ ] Code pushed to GitHub
+- [ ] All secrets removed from code (use environment variables)
+- [ ] `.env` files excluded from git (in `.gitignore`)
+- [ ] Database credentials ready
+- [ ] API keys ready (Google, Hugging Face)
 
-1. **Check logs**:
-   - PHP logs: `php-server.log`
-   - Python logs: `python-server.log`
+During deployment:
 
-2. **Check dependencies**:
-   ```bash
-   composer install
-   cd ai_service && pip install -r requirements.txt
-   ```
+- [ ] Deploy Python service first
+- [ ] Copy Python service URL
+- [ ] Deploy PHP service with Python service URL
+- [ ] Copy PHP service URL
+- [ ] Update Python service with PHP service URL
+- [ ] Set all environment variables in both services
+- [ ] Verify both services are running
 
-3. **Check environment variables**:
-   - Go to Secrets tab
-   - Ensure all required variables are set
+After deployment:
 
-### Database Connection Fails
-
-1. **Verify credentials** in Secrets tab
-2. **Check SSL settings** - AivenDB requires SSL
-3. **Test connection**:
-   ```bash
-   php test_connection.php
-   ```
-
-### Python Service Not Responding
-
-1. **Check Python logs**: `python-server.log`
-2. **Verify port**: Check if port 5000 is in use
-3. **Check CORS**: Ensure `FRONTEND_URL` is set correctly
-
-### Slow First Request
-
-- First request after sleep takes longer due to cold start
-- Python model loading takes time (30-60 seconds)
-- Consider enabling Always-On for faster responses
-
-### Build Fails
-
-1. **Memory limits**: Large Python packages may exceed memory
-   - Try building Python dependencies separately
-   - Use smaller model variants if possible
-
-2. **Dependency conflicts**:
-   ```bash
-   cd ai_service
-   pip install --upgrade pip
-   pip install -r requirements.txt --no-cache-dir
-   ```
-
-## Updating Your Application
-
-1. **Via Replit Editor**:
-   - Edit files directly in Replit
-   - Click **Run** to redeploy
-
-2. **Via GitHub**:
-   - Push changes to GitHub
-   - In Replit: Click **Version Control** → **Pull from GitHub**
-
-## Performance Tips
-
-1. **Enable Always-On**: Prevents cold starts
-2. **Use Model Caching**: Python service caches loaded models
-3. **Database Connection Pooling**: Already configured in Python service
-4. **Optimize Dependencies**: Remove unused packages
-
-## Free Tier Limitations
-
-- **Spin-down**: Services sleep after inactivity (unless Always-On enabled)
-- **Resource limits**: CPU and memory limits apply
-- **Storage**: Limited disk space
-- **Always-On hours**: Limited free always-on hours per month
-
-## Production Considerations
-
-For production use, consider:
-- Upgrading to Replit Hacker/Pro plan for more resources
-- Using external database (AivenDB, Supabase, etc.)
-- Implementing rate limiting
-- Adding monitoring and error tracking
-- Setting up backups
+- [ ] Test PHP service URL in browser
+- [ ] Test Python service health endpoint
+- [ ] Test authentication (login/register)
+- [ ] Test AI chat functionality
+- [ ] Check logs for errors
+- [ ] Verify database connections
 
 ## Support
 
-For issues specific to Replit:
-- [Replit Documentation](https://docs.replit.com)
-- [Replit Community](https://replit.com/talk)
+For issues specific to Render:
+- [Render Documentation](https://render.com/docs)
+- [Render Community](https://community.render.com)
 
 For application-specific issues:
-- Check logs in `php-server.log` and `python-server.log`
-- Review error messages in Replit console
-- Verify environment variables are set correctly
-
-## Migration from Render
-
-If you're migrating from Render:
-1. All environment variables work the same way
-2. Update `PYTHON_SERVICE_URL` if needed (auto-configured on Replit)
-3. Database connection settings remain the same
-4. No changes needed to application code
+- Check logs in Render Dashboard
+- Review `SECURITY.md` for security best practices
+- Check `DEPLOYMENT_AUDIT.md` for deployment configuration

@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# Startup script for Replit deployment
+# Startup script for Replit deployment (Optional - for Replit only)
 # This script starts both PHP and Python services simultaneously
+# For Render deployment, see DEPLOYMENT.md - Render deploys services separately
 
 echo "========================================="
 echo "Starting AI Chatbot Services..."

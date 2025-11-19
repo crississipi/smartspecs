@@ -1,5 +1,6 @@
-# Replit configuration for AI Chatbot
+# Replit configuration for AI Chatbot (Optional - for Replit deployment)
 # This configuration allows the repl to run both PHP and Python services
+# For Render deployment, see DEPLOYMENT.md
 
 language = "php"
 

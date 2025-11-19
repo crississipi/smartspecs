@@ -1,32 +1,33 @@
-# DEPRECATED: This file is no longer used. Project has been migrated to Replit.
-# See DEPLOYMENT.md for Replit deployment instructions.
-
-# services:
+services:
+  # PHP Web Service - Frontend and API
   - type: web
     name: ai-chatbot-php
     dockerfilePath: ./Dockerfile
     dockerContext: .
     envVars:
       - key: DB_HOST
-        value: "your-database-host-here"
+        sync: false
       - key: DB_PORT
-        value: "11634"
+        sync: false
       - key: DB_USER
-        value: "your-database-user-here"
+        sync: false
       - key: DB_PASS
-        value: "your-database-password-here"
+        sync: false
       - key: DB_NAME
-        value: "defaultdb"
+        sync: false
       - key: DB_SSL
         value: "true"
       - key: GOOGLE_API_KEY
         sync: false
+      - key: GOOGLE_CSE_ID
+        sync: false
       - key: HF_API_KEY
         sync: false
       - key: PYTHON_SERVICE_URL
-        sync: false
+        sync: false  # Will be set after Python service is deployed
 
-  - type: worker
+  # Python Web Service - AI Service (must be web service to expose HTTP endpoints)
+  - type: web
     name: ai-chatbot-python
     env: python
     buildCommand: pip install -r ai_service/requirements.txt
@@ -35,7 +36,7 @@
       - key: PYTHON_VERSION
         value: 3.11.0
       - key: PORT
-        value: "5000"
+        sync: false  # Render will set this automatically
       - key: HOST
         value: "0.0.0.0"
       - key: DB_HOST
@@ -53,13 +54,15 @@
       - key: HF_API_KEY
         sync: false
       - key: MODEL_NAME
-        sync: false
+        value: "microsoft/DialoGPT-medium"
       - key: FRONTEND_URL
-        sync: false
+        sync: false  # Will be set to PHP service URL
+      - key: DEBUG
+        value: "false"
 
 databases:
   - name: ai-chatbot-db
     plan: free
     databaseName: defaultdb
-    user: your-database-user-here
+    user: avnadmin
 
