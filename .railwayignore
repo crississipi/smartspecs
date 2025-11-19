@@ -1,0 +1,5 @@
+# Tell Railway to ignore Dockerfile when deploying Python service
+# Dockerfile is only for PHP service on Render
+Dockerfile
+render.yaml
+
