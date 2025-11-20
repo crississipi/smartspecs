@@ -11,11 +11,24 @@ ob_start();
 // Session configuration - MUST be set BEFORE session_start()
 ini_set('session.cookie_httponly', 1);
 ini_set('session.use_only_cookies', 1);
-ini_set('session.cookie_secure', isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 1 : 0); // Auto-detect HTTPS
-ini_set('session.cookie_samesite', 'Strict');
+
+// Detect HTTPS properly for Render (behind proxy/load balancer)
+$isHttps = false;
+if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') {
+    $isHttps = true;
+} elseif (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+    $isHttps = true;
+} elseif (isset($_SERVER['HTTP_X_FORWARDED_SSL']) && $_SERVER['HTTP_X_FORWARDED_SSL'] === 'on') {
+    $isHttps = true;
+} elseif (isset($_SERVER['SERVER_PORT']) && $_SERVER['SERVER_PORT'] == 443) {
+    $isHttps = true;
+}
+
+ini_set('session.cookie_secure', $isHttps ? 1 : 0);
+ini_set('session.cookie_samesite', 'Lax'); // Changed from 'Strict' to 'Lax' for better compatibility with page refreshes
 ini_set('session.use_strict_mode', 1);
-ini_set('session.cookie_lifetime', 0);
-ini_set('session.gc_maxlifetime', 1800);
+ini_set('session.cookie_lifetime', 0); // Session cookie (expires when browser closes)
+ini_set('session.gc_maxlifetime', 86400); // 24 hours - increased from 30 minutes for better persistence
 
 // Load environment variables from .env file (if exists) for local development
 if (file_exists(__DIR__ . '/vendor/autoload.php')) {
@@ -25,6 +38,17 @@ if (file_exists(__DIR__ . '/vendor/autoload.php')) {
         $dotenv->safeLoad();
     }
 }
+
+// Set explicit session cookie parameters for better reliability
+// This ensures cookies work properly on Render and other hosting platforms
+session_set_cookie_params([
+    'lifetime' => 0, // Session cookie
+    'path' => '/',
+    'domain' => '', // Empty = current domain only
+    'secure' => $isHttps,
+    'httponly' => true,
+    'samesite' => 'Lax'
+]);
 
 // Start session AFTER configuration
 if (session_status() === PHP_SESSION_NONE) {
