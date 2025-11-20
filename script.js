@@ -62,7 +62,7 @@ const showLoginBtn = document.getElementById('showLoginBtn');
 const googleLoginBtn = document.getElementById('googleLoginBtn');
 const googleSignupBtn = document.getElementById('googleSignupBtn');
 const threadInput = document.getElementById('threadInput');
-const sendBtn = threadInput ? threadInput.querySelector('button') : null;
+const sendBtn = document.getElementById('sendButton');
 const textInput = document.getElementById('textInput');
 const threadMessages = document.querySelector('.thread-messages');
 const convoHolder = document.querySelector('.convo-holder');
@@ -193,14 +193,12 @@ async function loadUserInfo() {
         if (emailSpan) emailSpan.textContent = user.email;
       }
       
-      // Load night mode preference
-      if (result.user.preferences && result.user.preferences.night_mode) {
-        document.body.classList.add('night');
-        loginCard.classList.add('night');
-        mainContent.classList.add('night-messages');
-        toggleNightMode.classList.add('turned-on');
-        changeIcons();
-      }
+    // Load night mode preference
+    if (result.user.preferences && result.user.preferences.night_mode) {
+      document.body.classList.add('night');
+      toggleNightMode.classList.add('turned-on');
+      changeIcons();
+    }
     }
   } finally {
     removeSimpleLoader(loader);
@@ -340,17 +338,45 @@ document.addEventListener("DOMContentLoaded", function() {
   changeIcons();
   checkAuth();
   updateDeleteButtonVisibility();
+  setupSendButton(); // Set up send button after DOM is loaded
 });
 
-// Handle send message
-if (sendBtn && textInput) {
-  sendBtn.addEventListener('click', sendMessage);
-  textInput.addEventListener('keypress', (e) => {
-    if (e.key === 'Enter' && !e.shiftKey) {
+// Handle send message - set up event listeners
+function setupSendButton() {
+  const btn = document.getElementById('sendButton');
+  const input = document.getElementById('textInput');
+  
+  if (btn && input) {
+    // Remove existing listeners to avoid duplicates
+    const newBtn = btn.cloneNode(true);
+    btn.parentNode.replaceChild(newBtn, btn);
+    
+    // Add click event
+    newBtn.addEventListener('click', (e) => {
       e.preventDefault();
       sendMessage();
-    }
-  });
+    });
+    
+    // Add Enter key event
+    input.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendMessage();
+      }
+    });
+    
+    console.log('Send button event listeners attached');
+  } else {
+    console.warn('Send button or text input not found');
+  }
+}
+
+// Set up send button when DOM is ready
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', setupSendButton);
+} else {
+  // DOM already loaded, set up immediately
+  setTimeout(setupSendButton, 100); // Small delay to ensure elements are available
 }
 
 // Render recommendation data into HTML
@@ -1740,12 +1766,8 @@ forms.forEach((form) => {
 nightModeBtn.addEventListener('click', async () => {
   const isNightMode = !document.body.classList.contains('night');
   toggleNightMode.classList.toggle('turned-on');
+  // Just toggle night class on body - CSS filter handles the rest
   document.body.classList.toggle('night');
-  loginCard.classList.toggle('night');
-  mainContent.classList.toggle('night-messages');
-  userMessage.forEach((message) => {
-    message.classList.toggle('night-thread');
-  });
   changeIcons();
   
   // Save preference
