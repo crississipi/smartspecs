@@ -2577,7 +2577,8 @@ class EnhancedAIResponseGenerator:
 enhanced_ai_generator = EnhancedAIResponseGenerator()
 
 # Generate smart recommendation
-def generate_smart_recommendation(user_message: str, conversation_history: List[Dict] = None, request_id: str = None) -> Dict[str, Any]:
+def generate_smart_recommendation(user_message: str, conversation_history: List[Dict] = None, 
+                                 request_id: str = None, thread_id: int = None) -> Dict[str, Any]:
     if request_id:
         update_progress(request_id, "Understanding your request")
     
