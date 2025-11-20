@@ -499,8 +499,9 @@ function renderComponentTable(data) {
             html += '</td>';
             html += '</tr>';
             // Add hidden row for alternatives
+            const colspan = isUpgrade ? 8 : 6; // More columns for upgrade tables
             html += '<tr class="alternatives-row" id="' + alternativesRowId + '" style="display: none;">';
-            html += '<td colspan="6" class="alternatives-cell">';
+            html += '<td colspan="' + colspan + '" class="alternatives-cell">';
             html += '<div class="alternatives-container">';
             html += '<div class="alternatives-loading" id="alt-loading-' + compId + '" style="display: none; padding: 20px; text-align: center; color: #6c757d;">Loading alternatives...</div>';
             html += '<div class="alternatives-content" id="alt-content-' + compId + '"></div>';
@@ -742,7 +743,7 @@ class TypingAnimation {
         // Format phase text with budget if provided
         let phaseText = newPhase;
         if (budget !== null && budget > 0) {
-            phaseText = phaseText.replace(/\$xx,xxx/g, `₱${budget.toLocaleString('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0})}`);
+            phaseText = phaseText.replace(/\$your/g, `₱${budget.toLocaleString('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0})}`);
         }
         
         // Check if this phase is already in the list
@@ -795,18 +796,18 @@ class TypingAnimation {
     
     deletePhase() {
         if (this.currentText.length === 0) {
-            // Move to next phase
+            // Move to next phase (loop back to start if at end)
             this.currentPhaseIndex++;
-            if (this.currentPhaseIndex < this.phases.length) {
-                const nextPhase = this.phases[this.currentPhaseIndex];
-                const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
-                setTimeout(() => {
-                    this.typePhase(nextText);
-                }, this.pauseAfterDeleting);
-            } else {
-                // All phases done, restart or wait
-                this.cursorElement.style.opacity = '0.3';
+            if (this.currentPhaseIndex >= this.phases.length) {
+                // Loop back to the beginning
+                this.currentPhaseIndex = 0;
             }
+            
+            const nextPhase = this.phases[this.currentPhaseIndex];
+            const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
+            setTimeout(() => {
+                this.typePhase(nextText);
+            }, this.pauseAfterDeleting);
             return;
         }
         
@@ -821,19 +822,19 @@ class TypingAnimation {
                 this.textElement.textContent = this.currentText;
                 this.animationFrame = setTimeout(deleteChar, speedVariation);
             } else {
-                // Finished deleting
+                // Finished deleting - move to next phase (loop if needed)
                 this.isDeleting = false;
                 this.currentPhaseIndex++;
-                if (this.currentPhaseIndex < this.phases.length) {
-                    const nextPhase = this.phases[this.currentPhaseIndex];
-                    const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
-                    setTimeout(() => {
-                        this.typePhase(nextText);
-                    }, this.pauseAfterDeleting);
-                } else {
-                    // All phases done
-                    this.cursorElement.style.opacity = '0.3';
+                if (this.currentPhaseIndex >= this.phases.length) {
+                    // Loop back to the beginning for continuous animation
+                    this.currentPhaseIndex = 0;
                 }
+                
+                const nextPhase = this.phases[this.currentPhaseIndex];
+                const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
+                setTimeout(() => {
+                    this.typePhase(nextText);
+                }, this.pauseAfterDeleting);
             }
         };
         
@@ -885,13 +886,23 @@ function showLoadingAnimation(requestId = null) {
     threadMessages.appendChild(loadingDiv);
     scrollToBottom();
     
-    // Initialize typing animation
+    // Initialize typing animation with more phrases for continuous loop
     const defaultPhases = [
         "Understanding your request",
+        "Analyzing your requirements",
         "Finding components within ₱xx,xxx budget",
+        "Searching the database for compatible parts",
         "Checking compatibility with other parts",
+        "Evaluating performance benchmarks",
         "Looking for better components",
-        "Finalizing results"
+        "Comparing prices and specifications",
+        "Optimizing the build configuration",
+        "Verifying component availability",
+        "Calculating total system cost",
+        "Reviewing power consumption",
+        "Checking thermal requirements",
+        "Finalizing recommendations",
+        "Preparing your results"
     ];
     
     const typingAnim = new TypingAnimation(typingContainer, defaultPhases);
@@ -1810,7 +1821,9 @@ function toggleAlternatives(componentId, rowIndex) {
         return;
     }
     
-    const alternativesRow = document.getElementById('alternatives-row-' + componentId);
+    // The row ID includes both componentId and index
+    const alternativesRowId = 'alternatives-row-' + componentId + '-' + rowIndex;
+    const alternativesRow = document.getElementById(alternativesRowId);
     const alternativesContent = document.getElementById('alt-content-' + componentId);
     const loadingDiv = document.getElementById('alt-loading-' + componentId);
     const button = document.getElementById('alt-btn-' + componentId);
@@ -1840,12 +1853,8 @@ function toggleAlternatives(componentId, rowIndex) {
             loadingDiv.style.display = 'block';
             alternativesContent.innerHTML = '';
             
-            fetch('http://localhost:5000/alternatives', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({component_id: componentId})
-            })
-            .then(response => response.json())
+            // Use API_BASE endpoint instead of hardcoded localhost
+            apiCall('/api/alternatives.php', 'POST', {component_id: componentId})
             .then(data => {
                 loadingDiv.style.display = 'none';
                 
@@ -1890,7 +1899,7 @@ function toggleAlternatives(componentId, rowIndex) {
             })
             .catch(error => {
                 loadingDiv.style.display = 'none';
-                console.error('Error:', error);
+                console.error('Error loading alternatives:', error);
                 alternativesContent.innerHTML = '<div class="alternatives-error">Error loading alternatives. Please try again.</div>';
             });
         }
