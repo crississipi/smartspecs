@@ -25,12 +25,36 @@
     --thread-messages-bg: #FFFFFF;
 }
 
-/* Night Mode - Use filter for automatic inversion */
+/* Night Mode - Darker colors with high contrast */
 body.night {
-    filter: invert(1) hue-rotate(180deg);
+    --bg-color: #0A0A0A;
+    --text-color: #F5F5F5;
+    --border-color: #2A2A2A;
+    --hover-bg: #1A1A1A;
+    --hover-color: #FFFFFF;
+    --focus-border: #555;
+    --secondary-bg: #151515;
+    --secondary-text: #D0D0D0;
+    --tertiary-text: #B0B0B0;
+    --header-bg: #0F0F0F;
+    --header-border: #252525;
+    --table-bg: #121212;
+    --table-header-bg: #1A1A1A;
+    --input-bg: #0F0F0F;
+    --button-hover: #333;
+    --button-focus: #444;
+    --user-message-bg: #1F1F1F;
+    --ai-message-text: #E0E0E0;
+    --main-bg: #0D0D0D;
+    --side-nav-bg: #0F0F0F;
+    --login-card-bg: #121212;
+    --thread-header-bg: #0F0F0F;
+    --thread-messages-bg: #0A0A0A;
+    /* Remove filter - using explicit dark colors instead */
+    filter: none;
 }
 
-/* Preserve images in night mode (don't invert them) */
+/* Preserve images in night mode (no filter needed now) */
 body.night img,
 body.night svg,
 body.night [style*="background-image"],
@@ -38,7 +62,7 @@ body.night .component-image,
 body.night .component-thumbnail,
 body.night .component-image img,
 body.night .component-thumbnail img {
-    filter: invert(1) hue-rotate(180deg);
+    filter: none;
 }
 
 * {
@@ -77,10 +101,10 @@ table {
     width: 100%; 
     border-collapse: collapse; 
     margin-bottom: 30px;
-    border: 1px solid #E0E0E0;
+    border: 1px solid color-mix(in srgb, var(--border-color) 100%, var(--bg-color) 0%);
     border-radius: 8px;
     overflow: hidden;
-    background-color: #FFFFFF;
+    background-color: color-mix(in srgb, var(--table-bg) 100%, var(--bg-color) 0%);
 }
 
 /* Night mode table styles removed - handled by filter */
@@ -95,13 +119,13 @@ th, td {
 }
 
 th {
-    background-color: #F5F5F5;
-    color: #4A4A4A;
+    background-color: color-mix(in srgb, var(--table-header-bg) 100%, var(--bg-color) 0%);
+    color: color-mix(in srgb, var(--secondary-text) 100%, var(--bg-color) 0%);
     font-weight: 500;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    border-bottom: 1px solid #E0E0E0;
+    border-bottom: 1px solid color-mix(in srgb, var(--border-color) 100%, var(--bg-color) 0%);
 }
 
 /* Night mode th styles removed - handled by filter */
@@ -109,8 +133,8 @@ th {
 td {
     font-weight: 400;
     font-size: 14px;
-    color: #5A5A5A;
-    border-bottom: 1px solid #F0F0F0;
+    color: color-mix(in srgb, var(--tertiary-text) 100%, var(--bg-color) 0%);
+    border-bottom: 1px solid color-mix(in srgb, var(--border-color) 80%, var(--bg-color) 20%);
 }
 
 /* Night mode td styles removed - handled by filter */
@@ -120,16 +144,16 @@ tbody tr:last-child td {
 }
 
 tbody tr:hover {
-    background-color: #F9F9F9;
+    background-color: color-mix(in srgb, var(--hover-bg) 100%, var(--bg-color) 0%);
 }
 
 /* Night mode tbody tr:hover removed - handled by filter */
 
 tfoot tr td {
     font-weight: 500;
-    background-color: #F8F8F8;
-    color: #4A4A4A;
-    border-top: 1px solid #E0E0E0;
+    background-color: color-mix(in srgb, var(--secondary-bg) 100%, var(--bg-color) 0%);
+    color: color-mix(in srgb, var(--secondary-text) 100%, var(--bg-color) 0%);
+    border-top: 1px solid color-mix(in srgb, var(--border-color) 100%, var(--bg-color) 0%);
 }
 
 /* Night mode tfoot styles removed - handled by filter */
@@ -155,11 +179,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background-color: #FAFAFA;
+    background-color: color-mix(in srgb, var(--main-bg) 100%, var(--bg-color) 0%);
     height: 100vh;
     width: 100vw;
     transition: all 0.3s ease-in-out;
-    color: #2C2C2C;
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%);
 }
 
 main {
@@ -262,19 +286,15 @@ header {
     display: flex;
     align-items: center;
     padding: 0 10px;
-    border-bottom: 1px solid #E5E5E5;
+    border-bottom: 1px solid color-mix(in srgb, var(--header-border) 100%, var(--bg-color) 0%);
     z-index: 999;
     gap: 10px;
     position: relative;
-    background-color: #FFFFFF;
-    color: #2C2C2C !important;
+    background-color: color-mix(in srgb, var(--header-bg) 100%, var(--bg-color) 0%);
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%) !important;
 }
 
-.night header {
-    background-color: #1A1A1A;
-    border-bottom: 1px solid #2A2A2A;
-    color: #E5E5E5 !important;
-}
+/* Night mode header styles removed - handled by CSS variables */
 
 h1 {
     color: inherit;
@@ -495,8 +515,8 @@ img {
     height: 100%;
     width: 100%;
     display: flex;
-    background-color: #FAFAFA;
-    color: #2C2C2C;
+    background-color: color-mix(in srgb, var(--main-bg) 100%, var(--bg-color) 0%);
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%);
     overflow-x: hidden;
     position: relative;
 }
@@ -643,8 +663,8 @@ img {
     gap: 30px;
     z-index: 0;
     position: relative;
-    background-color: inherit;
-    color: #2C2C2C;
+    background-color: color-mix(in srgb, var(--thread-messages-bg) 100%, var(--bg-color) 0%);
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%);
     font-size: 14px !important;
     user-select: text !important;
 }
@@ -759,7 +779,7 @@ img {
     height: auto;
     width: auto;
     max-width: 100%; /* Changed from 75% to 100% */
-    color: #4A4A4A !important;
+    color: color-mix(in srgb, var(--ai-message-text) 100%, var(--bg-color) 0%) !important;
     font-weight: 400;
     line-height: 1.6;
 }
@@ -899,13 +919,11 @@ img {
     font-size: 15px !important;
     resize: none;
     overflow-y: auto;
-    color: #2C2C2C;
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%);
     font-weight: 400;
 }
 
-.night .thread-holder .thread-input textarea {
-    color: #E5E5E5;
-}
+/* Night mode textarea styles removed - handled by CSS variables */
 
 .thread-holder .thread-input button {
     height: 24px;
@@ -971,11 +989,11 @@ img {
 
 .main-content .new-convo {
     padding: 24px 12px;
-    background-color: #F0F0F0 !important;
+    background-color: color-mix(in srgb, var(--secondary-bg) 100%, var(--bg-color) 0%) !important;
     border-radius: 8px;
     font-weight: 500;
-    color: #2C2C2C;
-    border: 1px solid #E0E0E0;
+    color: color-mix(in srgb, var(--text-color) 100%, var(--bg-color) 0%);
+    border: 1px solid color-mix(in srgb, var(--border-color) 100%, var(--bg-color) 0%);
 }
 
 .night .main-content .new-convo {
