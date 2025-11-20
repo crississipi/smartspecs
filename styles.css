@@ -1991,6 +1991,73 @@ main .login-page .login-card .forgot-pass #step3 form span {
     background-color: #6A90C2;
 }
 
+/* Typing Animation Styles */
+.typing-animation-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    min-height: 20px;
+}
+
+.typing-text {
+    color: #6A6A6A;
+    font-size: 14px;
+    font-style: italic;
+    white-space: pre;
+}
+
+.night .typing-text {
+    color: #A0A0A0;
+}
+
+.typing-cursor {
+    display: inline-block;
+    width: 2px;
+    height: 16px;
+    background-color: #4A90E2;
+    animation: blink 1s infinite;
+    margin-left: 2px;
+}
+
+.night .typing-cursor {
+    background-color: #6A90C2;
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 1;
+    }
+    51%, 100% {
+        opacity: 0.3;
+    }
+}
+
+.typing-container {
+    flex: 1;
+    min-height: 20px;
+}
+
+/* Simple Loader for Database Fetches */
+.simple-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    padding: 12px;
+}
+
+.simple-loader .spinner-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #4A90E2;
+    animation: bounce 1.4s infinite ease-in-out both;
+}
+
+.night .simple-loader .spinner-dot {
+    background-color: #6A90C2;
+}
+
 @keyframes bounce {
     0%, 80%, 100% {
         transform: scale(0.8);
@@ -2438,6 +2505,83 @@ main .login-page .login-card .forgot-pass #step3 form span {
 .table-actions {
     display: flex;
     gap: 8px;
+}
+
+/* Upgrade suggestion table styles */
+.upgrade-table {
+    border-left: 3px solid #4A90E2;
+}
+
+.upgrade-row {
+    background-color: #f8f9fa;
+}
+
+.night .upgrade-row {
+    background-color: #2a2a2a;
+}
+
+.component-current-cell {
+    font-size: 12px;
+}
+
+.current-component-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.current-name {
+    font-weight: 500;
+    color: #666;
+}
+
+.night .current-name {
+    color: #aaa;
+}
+
+.current-price {
+    font-size: 11px;
+    color: #999;
+}
+
+.night .current-price {
+    color: #777;
+}
+
+.component-diff-cell {
+    font-size: 12px;
+}
+
+.price-difference {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.diff-amount {
+    font-weight: 600;
+    color: #28a745;
+}
+
+.night .diff-amount {
+    color: #4caf50;
+}
+
+.diff-percent {
+    font-size: 11px;
+    color: #6c757d;
+}
+
+.night .diff-percent {
+    color: #999;
+}
+
+.price-decrease .diff-amount {
+    color: #dc3545;
+}
+
+.night .price-decrease .diff-amount {
+    color: #f44336;
 }
 
 .btn-view, .btn-alternate {

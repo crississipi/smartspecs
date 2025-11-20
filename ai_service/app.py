@@ -16,6 +16,9 @@ from pathlib import Path
 import backoff
 import subprocess
 from mysql.connector import pooling
+import threading
+import uuid
+import json
 
 # Configure comprehensive logging
 logging.basicConfig(
@@ -93,6 +96,41 @@ try:
 except Exception as e:
     logger.error(f"Database pool creation failed: {e}")
     connection_pool = None
+
+# Progress tracking for requests
+progress_store = {}
+progress_lock = threading.Lock()
+
+def update_progress(request_id: str, phase: str, budget: float = None):
+    """Update progress for a request"""
+    with progress_lock:
+        if request_id not in progress_store:
+            progress_store[request_id] = {
+                'phases': [],
+                'current_phase': None,
+                'start_time': time.time()
+            }
+        progress_store[request_id]['current_phase'] = phase
+        if phase not in [p['phase'] for p in progress_store[request_id]['phases']]:
+            progress_store[request_id]['phases'].append({
+                'phase': phase,
+                'budget': budget,
+                'timestamp': time.time()
+            })
+
+def get_progress(request_id: str) -> Optional[Dict]:
+    """Get current progress for a request"""
+    with progress_lock:
+        return progress_store.get(request_id)
+
+def clear_progress(request_id: str):
+    """Clear progress after request completes (with delay for polling)"""
+    def delayed_clear():
+        time.sleep(30)  # Keep for 30 seconds after completion
+        with progress_lock:
+            if request_id in progress_store:
+                del progress_store[request_id]
+    threading.Thread(target=delayed_clear, daemon=True).start()
 
 # Add this helper function after imports, before classes
 def to_float(value):
@@ -2036,6 +2074,351 @@ class SmartQueryParser:
 
 query_parser = SmartQueryParser()
 
+# Upgrade Detection and Suggestion System
+class UpgradeSuggestionSystem:
+    def __init__(self):
+        self.upgrade_keywords = [
+            'upgrade', 'upgrading', 'upgraded', 'upgrades',
+            'future upgrade', 'future upgrades', 'future-proof',
+            'better', 'improve', 'improvement', 'enhance',
+            'next level', 'next step', 'better option',
+            'upgrade path', 'upgrade for', 'upgrade my',
+            'should i upgrade', 'can i upgrade', 'what to upgrade',
+            'upgrade cpu', 'upgrade gpu', 'upgrade ram',
+            'upgrade storage', 'upgrade motherboard', 'upgrade psu',
+            'upgrade case', 'upgrade cooler', 'upgrade monitor'
+        ]
+        
+        self.component_type_keywords = {
+            'cpu': ['cpu', 'processor', 'chip'],
+            'gpu': ['gpu', 'graphics', 'video card', 'graphics card', 'vga'],
+            'ram': ['ram', 'memory', 'ddr'],
+            'storage': ['storage', 'ssd', 'hdd', 'hard drive', 'disk'],
+            'motherboard': ['motherboard', 'mobo', 'mainboard', 'board'],
+            'psu': ['psu', 'power supply', 'power'],
+            'case': ['case', 'chassis', 'tower'],
+            'cooler': ['cooler', 'cooling', 'fan', 'heatsink'],
+            'monitor': ['monitor', 'display', 'screen']
+        }
+    
+    def detect_upgrade_request(self, query: str) -> Dict[str, Any]:
+        """Detect if the query is about upgrades and extract component types"""
+        query_lower = query.lower()
+        
+        # Check for upgrade keywords
+        has_upgrade_keyword = any(keyword in query_lower for keyword in self.upgrade_keywords)
+        
+        if not has_upgrade_keyword:
+            return {'is_upgrade_request': False}
+        
+        # Extract mentioned component types
+        mentioned_components = []
+        for comp_type, keywords in self.component_type_keywords.items():
+            if any(keyword in query_lower for keyword in keywords):
+                mentioned_components.append(comp_type)
+        
+        # If no specific component mentioned, it's for all components
+        if not mentioned_components:
+            mentioned_components = ['all']
+        
+        return {
+            'is_upgrade_request': True,
+            'mentioned_components': mentioned_components,
+            'query': query
+        }
+    
+    def extract_previous_build(self, conversation_history: List[Dict], thread_id: int = None) -> Dict[str, Any]:
+        """Extract previous build components from conversation history or database"""
+        previous_components = {}
+        previous_budget = None
+        recommendation_id = None
+        
+        # First, try to extract from conversation history
+        if conversation_history:
+            # Look through history in reverse (most recent first)
+            for msg in reversed(conversation_history):
+                if msg.get('role') == 'assistant':
+                    content = msg.get('content', '')
+                    
+                    # Try to parse JSON content (recommendation data)
+                    try:
+                        if content.startswith('{') or content.startswith('['):
+                            data = json.loads(content)
+                            if isinstance(data, dict):
+                                # Check if it's a recommendation structure
+                                if 'components' in data and isinstance(data['components'], list):
+                                    for comp in data['components']:
+                                        comp_type = comp.get('type') or comp.get('component_type')
+                                        if comp_type:
+                                            previous_components[comp_type] = comp
+                                    
+                                    # Extract budget if available
+                                    if 'budget_analysis' in data:
+                                        budget_data = data['budget_analysis']
+                                        previous_budget = budget_data.get('user_budget') or budget_data.get('max_budget')
+                                    
+                                    if previous_components:
+                                        return {
+                                            'has_previous_build': True,
+                                            'components': previous_components,
+                                            'budget': previous_budget,
+                                            'recommendation_id': recommendation_id
+                                        }
+                    except (json.JSONDecodeError, ValueError):
+                        pass
+        
+        # If not found in history, try to query database for latest recommendation in thread
+        if thread_id and not previous_components:
+            try:
+                conn = db_manager.get_connection()
+                if conn:
+                    cursor = conn.cursor(dictionary=True)
+                    
+                    # Get the latest recommendation from this thread
+                    query = """
+                        SELECT m.recommendation_id, r.budget_analysis
+                        FROM messages m
+                        LEFT JOIN recommendations r ON m.recommendation_id = r.id
+                        WHERE m.thread_id = %s 
+                        AND m.data_type = 'recommendation'
+                        AND m.recommendation_id IS NOT NULL
+                        ORDER BY m.created_at DESC
+                        LIMIT 1
+                    """
+                    cursor.execute(query, (thread_id,))
+                    result = cursor.fetchone()
+                    
+                    if result and result.get('recommendation_id'):
+                        recommendation_id = result['recommendation_id']
+                        
+                        # Get components from this recommendation
+                        comp_query = """
+                            SELECT component_type as type, brand, model, price, currency, 
+                                   image_url, source_url
+                            FROM recommendation_components
+                            WHERE recommendation_id = %s
+                            AND tier IN ('balanced', 'premium', 'budget')
+                            ORDER BY 
+                                CASE component_type
+                                    WHEN 'cpu' THEN 1
+                                    WHEN 'motherboard' THEN 2
+                                    WHEN 'ram' THEN 3
+                                    WHEN 'gpu' THEN 4
+                                    WHEN 'storage' THEN 5
+                                    WHEN 'psu' THEN 6
+                                    WHEN 'case' THEN 7
+                                    WHEN 'cooler' THEN 8
+                                    ELSE 9
+                                END
+                        """
+                        cursor.execute(comp_query, (recommendation_id,))
+                        comp_results = cursor.fetchall()
+                        
+                        # Group by component type (take first occurrence of each type)
+                        for comp in comp_results:
+                            comp_type = comp.get('type')
+                            if comp_type and comp_type not in previous_components:
+                                previous_components[comp_type] = {
+                                    'type': comp_type,
+                                    'brand': comp.get('brand'),
+                                    'model': comp.get('model'),
+                                    'price': to_float(comp.get('price', 0)),
+                                    'currency': comp.get('currency', 'PHP'),
+                                    'image_url': comp.get('image_url'),
+                                    'source_url': comp.get('source_url')
+                                }
+                        
+                        # Extract budget from recommendation
+                        if result.get('budget_analysis'):
+                            try:
+                                budget_data = json.loads(result['budget_analysis'])
+                                previous_budget = budget_data.get('user_budget') or budget_data.get('max_budget')
+                            except (json.JSONDecodeError, ValueError):
+                                pass
+                    
+                    cursor.close()
+                    conn.close()
+            except Exception as e:
+                logger.error(f"Error extracting previous build from database: {e}")
+        
+        return {
+            'has_previous_build': len(previous_components) > 0,
+            'components': previous_components,
+            'budget': previous_budget,
+            'recommendation_id': recommendation_id
+        }
+    
+    def check_message_relevance(self, current_message: str, previous_messages: List[Dict]) -> bool:
+        """Check if current message is relevant to previous conversation"""
+        if not previous_messages or len(previous_messages) < 2:
+            return False
+        
+        # Get last assistant message
+        last_assistant_msg = None
+        for msg in reversed(previous_messages):
+            if msg.get('role') == 'assistant':
+                last_assistant_msg = msg.get('content', '')
+                break
+        
+        if not last_assistant_msg:
+            return False
+        
+        # Extract keywords from both messages
+        current_lower = current_message.lower()
+        previous_lower = last_assistant_msg.lower()
+        
+        # Component-related keywords
+        component_keywords = ['cpu', 'gpu', 'ram', 'storage', 'motherboard', 'psu', 'case', 'cooler', 'monitor',
+                            'processor', 'graphics', 'memory', 'ssd', 'hdd', 'power supply']
+        
+        # Check if both mention similar components
+        current_components = [kw for kw in component_keywords if kw in current_lower]
+        previous_components = [kw for kw in component_keywords if kw in previous_lower]
+        
+        if current_components and previous_components:
+            # Check for overlap
+            overlap = set(current_components) & set(previous_components)
+            if overlap:
+                return True
+        
+        # Check for budget mentions in both
+        budget_keywords = ['budget', 'price', 'cost', 'peso', 'php', '₱']
+        if any(kw in current_lower for kw in budget_keywords) and any(kw in previous_lower for kw in budget_keywords):
+            return True
+        
+        return False
+    
+    def suggest_upgrades(self, current_components: Dict[str, Dict], 
+                        mentioned_components: List[str],
+                        budget: float = None) -> Dict[str, Any]:
+        """Suggest future upgrades for components"""
+        suggestions = {}
+        
+        # If 'all' is mentioned, suggest upgrades for all components
+        if 'all' in mentioned_components:
+            mentioned_components = list(current_components.keys())
+        
+        # Calculate upgrade budget (20-30% more than current component price)
+        for comp_type in mentioned_components:
+            if comp_type not in current_components:
+                continue
+            
+            current_comp = current_components[comp_type]
+            current_price = to_float(current_comp.get('price', 0))
+            
+            if current_price <= 0:
+                continue
+            
+            # Calculate upgrade price range (20-50% more expensive)
+            min_upgrade_price = current_price * 1.2
+            max_upgrade_price = current_price * 1.5
+            
+            # If overall budget is provided, allocate portion for this component
+            if budget:
+                # Allocate based on component importance
+                allocation_ratios = {
+                    'cpu': 0.20, 'gpu': 0.35, 'ram': 0.10, 'storage': 0.10,
+                    'motherboard': 0.12, 'psu': 0.08, 'case': 0.02, 'cooler': 0.03
+                }
+                component_budget = budget * allocation_ratios.get(comp_type, 0.10)
+                max_upgrade_price = max(max_upgrade_price, component_budget)
+            
+            # Search for better components in the upgrade price range
+            upgrade_options = db_manager.search_components(
+                component_type=comp_type,
+                min_price=min_upgrade_price,
+                max_price=max_upgrade_price,
+                limit=5
+            )
+            
+            if upgrade_options:
+                # Filter out the current component if it's in the results
+                current_model = current_comp.get('model', '').lower()
+                upgrade_options = [opt for opt in upgrade_options 
+                                if opt.get('model', '').lower() != current_model]
+                
+                if upgrade_options:
+                    # Sort by price (ascending) and performance (higher price usually = better)
+                    upgrade_options.sort(key=lambda x: to_float(x.get('price', 0)))
+                    
+                    suggestions[comp_type] = {
+                        'current': current_comp,
+                        'upgrade_options': upgrade_options[:3],  # Top 3 options
+                        'price_range': {
+                            'min': min_upgrade_price,
+                            'max': max_upgrade_price
+                        }
+                    }
+        
+        return suggestions
+    
+    def format_upgrade_suggestions(self, suggestions: Dict[str, Any], 
+                                  mentioned_components: List[str]) -> Dict[str, Any]:
+        """Format upgrade suggestions as structured data for frontend table rendering"""
+        if not suggestions:
+            return {
+                'ai_message': "I couldn't find suitable upgrade options for the mentioned components. Please check if you have a previous build recommendation.",
+                'type': 'text'
+            }
+        
+        # Build introduction message
+        response_parts = []
+        response_parts.append("🔧 **Future Upgrade Suggestions**")
+        
+        if 'all' in mentioned_components or len(mentioned_components) > 3:
+            response_parts.append("Here are upgrade paths for your current build:")
+        else:
+            comp_names = ', '.join([c.upper() for c in mentioned_components if c != 'all'])
+            response_parts.append(f"Here are upgrade options for your {comp_names}:")
+        
+        ai_message = "\n".join(response_parts)
+        
+        # Build structured components list for table
+        upgrade_components = []
+        
+        for comp_type, suggestion_data in suggestions.items():
+            current = suggestion_data['current']
+            upgrade_options = suggestion_data['upgrade_options']
+            
+            current_name = f"{current.get('brand', '')} {current.get('model', '')}".strip()
+            current_price = to_float(current.get('price', 0))
+            
+            # Add each upgrade option as a component entry
+            for option in upgrade_options:
+                option_price = to_float(option.get('price', 0))
+                price_diff = option_price - current_price
+                price_diff_pct = (price_diff / current_price * 100) if current_price > 0 else 0
+                
+                upgrade_components.append({
+                    'type': comp_type,
+                    'brand': option.get('brand', ''),
+                    'model': option.get('model', ''),
+                    'price': option_price,
+                    'currency': option.get('currency', 'PHP'),
+                    'image_url': option.get('image_url'),
+                    'source_url': option.get('source_url'),
+                    'id': option.get('id'),
+                    'component_id': option.get('id'),
+                    # Additional metadata for display
+                    'current_component': current_name,
+                    'current_price': current_price,
+                    'price_difference': price_diff,
+                    'price_difference_percent': price_diff_pct,
+                    'is_upgrade': True
+                })
+        
+        return {
+            'ai_message': ai_message + "\n\n💡 **Note:** These are suggestions based on price ranges. Always verify compatibility before upgrading!",
+            'type': 'upgrade_suggestion',
+            'components': upgrade_components,
+            'upgrade_metadata': {
+                'mentioned_components': mentioned_components,
+                'suggestions_count': len(upgrade_components)
+            }
+        }
+
+upgrade_system = UpgradeSuggestionSystem()
+
 # Enhanced AI Response Generator
 class EnhancedAIResponseGenerator:
     def __init__(self):
@@ -2050,6 +2433,60 @@ class EnhancedAIResponseGenerator:
         
         if parsed_query and not parsed_query.get("is_pc_related", True):
             return "I specialize in PC components and computer builds. For PC components or a complete computer setup, I'd be happy to help with that!"
+        
+        # Check for upgrade requests
+        upgrade_detection = upgrade_system.detect_upgrade_request(user_message)
+        
+        if upgrade_detection.get('is_upgrade_request'):
+            # Extract thread_id from parsed_query if available (passed via generate_smart_recommendation)
+            thread_id = parsed_query.get('thread_id') if parsed_query else None
+            
+            # Extract previous build from conversation history and database
+            previous_build = upgrade_system.extract_previous_build(conversation_history or [], thread_id)
+            
+            if previous_build.get('has_previous_build') and previous_build.get('components'):
+                # Generate upgrade suggestions
+                mentioned_components = upgrade_detection.get('mentioned_components', ['all'])
+                previous_budget = previous_build.get('budget')
+                
+                suggestions = upgrade_system.suggest_upgrades(
+                    previous_build['components'],
+                    mentioned_components,
+                    previous_budget
+                )
+                
+                if suggestions:
+                    # Format and return upgrade suggestions as structured data
+                    upgrade_data = upgrade_system.format_upgrade_suggestions(
+                        suggestions, mentioned_components
+                    )
+                    
+                    # Check relevance to previous conversation
+                    is_relevant = upgrade_system.check_message_relevance(
+                        user_message, conversation_history or []
+                    )
+                    
+                    # Return structured response that frontend can render as table
+                    # This is a dict, not a string, so we need to handle it specially
+                    return upgrade_data
+                else:
+                    return ("I couldn't find suitable upgrade options. "
+                           "Please make sure you have a previous build recommendation in this conversation, "
+                           "or ask for a new build first.")
+            else:
+                return ("I'd be happy to suggest upgrades! However, I need to see your current build first. "
+                       "Please ask for a PC build recommendation, and then I can suggest upgrade paths for specific components.")
+        
+        # Check message relevance for context awareness
+        if conversation_history and len(conversation_history) > 1:
+            is_relevant = upgrade_system.check_message_relevance(user_message, conversation_history)
+            if is_relevant:
+                logger.info("Current message is relevant to previous conversation")
+        
+        # Check if upgrade response was returned (it's a dict with 'type' key)
+        if isinstance(upgrade_detection.get('is_upgrade_request'), bool) and upgrade_detection.get('is_upgrade_request'):
+            # This will be handled above, but if we reach here, return upgrade response
+            pass
         
         if db_results and len(db_results) > 0:
             return self._generate_component_response(user_message, db_results, parsed_query, budget_analysis, minimum_build)
@@ -2140,7 +2577,10 @@ class EnhancedAIResponseGenerator:
 enhanced_ai_generator = EnhancedAIResponseGenerator()
 
 # Generate smart recommendation
-def generate_smart_recommendation(user_message: str, conversation_history: List[Dict] = None) -> Dict[str, Any]:
+def generate_smart_recommendation(user_message: str, conversation_history: List[Dict] = None, request_id: str = None) -> Dict[str, Any]:
+    if request_id:
+        update_progress(request_id, "Understanding your request")
+    
     translated_message = translator.translate_to_english(user_message)
     
     if translated_message != user_message:
@@ -2148,11 +2588,16 @@ def generate_smart_recommendation(user_message: str, conversation_history: List[
         user_message = translated_message
     
     parsed_query = query_parser.parse_query(user_message)
+    # Add thread_id to parsed_query for upgrade system
+    if thread_id:
+        parsed_query['thread_id'] = thread_id
     logger.info(f"Parsed query: {parsed_query}")
     
     has_budget = bool(parsed_query.get("price_constraints", {}).get("max_price"))
     is_complete_build = (parsed_query.get("query_context") == "complete_build" or 
                         parsed_query.get("should_generate_complete_build"))
+    
+    max_budget = parsed_query.get("price_constraints", {}).get("max_price", 0)
     
     db_results = []
     needs_update = False
@@ -2160,12 +2605,22 @@ def generate_smart_recommendation(user_message: str, conversation_history: List[
     budget_analysis = {}
     minimum_build = None
     
+    if request_id and max_budget > 0:
+        update_progress(request_id, f"Finding components within ₱{max_budget:,.0f} budget", max_budget)
+    elif request_id:
+        update_progress(request_id, "Searching for components")
+    
     if is_complete_build:
         try:
+            if request_id:
+                update_progress(request_id, "Checking compatibility with other parts", max_budget)
             recommendations = advanced_build_generator.generate_customized_recommendations(parsed_query)
             multiple_recommendations = recommendations.get("builds", {})
             budget_analysis = recommendations.get("budget_analysis", {})
             minimum_build = recommendations.get("minimum_build")
+            
+            if request_id:
+                update_progress(request_id, "Looking for better components", max_budget)
             
             logger.info(f"Build generation results: builds={list(multiple_recommendations.keys())}, balanced_count={len(multiple_recommendations.get('balanced', []))}, budget_count={len(multiple_recommendations.get('budget', []))}, premium_count={len(multiple_recommendations.get('premium', []))}, budget_feasible={budget_analysis.get('is_feasible', 'unknown')}")
         
@@ -2222,17 +2677,26 @@ def generate_smart_recommendation(user_message: str, conversation_history: List[
             search_query=user_message
         )
     
+    if request_id:
+        update_progress(request_id, "Finalizing results", max_budget)
+    
     ai_context = enhanced_ai_generator.generate_contextual_response(
         user_message, db_results, parsed_query, conversation_history, budget_analysis, minimum_build
     )
     
-    recommendation_id = db_manager.create_recommendation(
-        ai_response=ai_context,
-        query_analysis=parsed_query,
-        components_found=len(db_results),
-        needs_update=needs_update,
-        budget_analysis=budget_analysis
-    )
+    # Check if response is upgrade suggestion (dict with 'type' key)
+    is_upgrade_suggestion = isinstance(ai_context, dict) and ai_context.get('type') == 'upgrade_suggestion'
+    
+    # Handle upgrade suggestions differently - they don't need recommendation_id
+    recommendation_id = None
+    if not is_upgrade_suggestion:
+        recommendation_id = db_manager.create_recommendation(
+            ai_response=ai_context if isinstance(ai_context, str) else str(ai_context),
+            query_analysis=parsed_query,
+            components_found=len(db_results),
+            needs_update=needs_update,
+            budget_analysis=budget_analysis
+        )
     
     if db_results and recommendation_id:
         for component in db_results[:10]:
@@ -2256,18 +2720,36 @@ def generate_smart_recommendation(user_message: str, conversation_history: List[
         for component in minimum_build:
             db_manager.add_recommendation_component(recommendation_id, component, 'minimum')
     
-    return {
-        "recommendation_id": recommendation_id,
-        "query_analysis": parsed_query,
-        "components_found": len(db_results),
-        "components": db_results,
-        "ai_response": ai_context,
-        "needs_update": needs_update,
-        "multiple_recommendations": multiple_recommendations,
-        "budget_analysis": budget_analysis,
-        "minimum_build": minimum_build,
-        "timestamp": datetime.now().isoformat()
-    }
+    # Return structured response
+    if is_upgrade_suggestion:
+        # For upgrade suggestions, return the structured data directly
+        return {
+            "recommendation_id": None,
+            "query_analysis": parsed_query,
+            "components_found": len(ai_context.get('components', [])),
+            "components": ai_context.get('components', []),
+            "ai_response": ai_context.get('ai_message', ''),
+            "needs_update": False,
+            "multiple_recommendations": {},
+            "budget_analysis": {},
+            "minimum_build": [],
+            "timestamp": datetime.now().isoformat(),
+            "is_upgrade_suggestion": True,
+            "upgrade_metadata": ai_context.get('upgrade_metadata', {})
+        }
+    else:
+        return {
+            "recommendation_id": recommendation_id,
+            "query_analysis": parsed_query,
+            "components_found": len(db_results),
+            "components": db_results,
+            "ai_response": ai_context if isinstance(ai_context, str) else str(ai_context),
+            "needs_update": needs_update,
+            "multiple_recommendations": multiple_recommendations,
+            "budget_analysis": budget_analysis,
+            "minimum_build": minimum_build,
+            "timestamp": datetime.now().isoformat()
+        }
 
 # Format smart response with HTML
 def format_smart_response(recommendation: Dict[str, Any]) -> str:
@@ -2296,9 +2778,24 @@ def health():
         "timestamp": datetime.now().isoformat()
     })
 
+@app.route('/progress/<request_id>', methods=['GET'])
+def get_progress_endpoint(request_id):
+    """Get progress for a request"""
+    progress = get_progress(request_id)
+    if progress:
+        return jsonify({
+            "success": True,
+            "progress": progress
+        })
+    return jsonify({
+        "success": False,
+        "message": "Progress not found"
+    }), 404
+
 @app.route('/generate', methods=['POST'])
 def generate():
     start_time = time.time()
+    request_id = str(uuid.uuid4())
     
     try:
         data = request.json
@@ -2309,12 +2806,15 @@ def generate():
         if not user_message:
             return jsonify({"success": False, "error": "Message is required"}), 400
         
-        logger.info(f"Processing request: {user_message[:100]}... (Thread: {thread_id})")
+        logger.info(f"Processing request: {user_message[:100]}... (Thread: {thread_id}, Request ID: {request_id})")
         
-        recommendation = generate_smart_recommendation(user_message, conversation_history)
+        recommendation = generate_smart_recommendation(user_message, conversation_history, request_id, thread_id)
         
         processing_time = time.time() - start_time
         logger.info(f"Request processed in {processing_time:.2f}s")
+        
+        # Clear progress after a delay
+        clear_progress(request_id)
         
         # Return structured data instead of HTML
         return jsonify({
@@ -2332,6 +2832,7 @@ def generate():
             },
             "recommendation_id": recommendation["recommendation_id"],
             "thread_id": thread_id,
+            "request_id": request_id,
             "processing_time": f"{processing_time:.2f}s",
             "timestamp": recommendation["timestamp"]
         })

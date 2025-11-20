@@ -135,7 +135,8 @@ function sendMessage($conn, $userId) {
 
     if ($responseData && isset($responseData['success']) && $responseData['success']) {
         error_log("=== DEBUG: Processing successful response ===");
-        if (isset($responseData['data']) && isset($responseData['data']['type']) && $responseData['data']['type'] === 'recommendation') {
+        if (isset($responseData['data']) && isset($responseData['data']['type']) && 
+            ($responseData['data']['type'] === 'recommendation' || $responseData['data']['type'] === 'upgrade_suggestion')) {
             error_log("DEBUG: Detected recommendation type");
             
             // Extract plain text introduction from ai_message
@@ -161,9 +162,9 @@ function sendMessage($conn, $userId) {
             // Update ai_message to only contain the introduction
             $responseData['data']['ai_message'] = $introductionText;
             
-            // Store the full recommendation data as JSON (components are already separate in the structure)
+            // Store the full recommendation/upgrade data as JSON (components are already separate in the structure)
             $content = json_encode($responseData['data']);
-            $dataType = 'recommendation';
+            $dataType = $responseData['data']['type']; // 'recommendation' or 'upgrade_suggestion'
             $recommendationId = $responseData['recommendation_id'] ?? null;
             error_log("DEBUG: Stored recommendation - Introduction: " . substr($introductionText, 0, 100) . "...");
         } else {
@@ -207,11 +208,15 @@ function sendMessage($conn, $userId) {
     $result = $stmt->get_result();
     $thread = $result->fetch_assoc();
     
+    // Extract request_id from Python service response if available
+    $requestId = $responseData['request_id'] ?? null;
+    
     sendJSON([
         'success' => true,
         'thread_id' => $threadId,
         'thread_title' => $thread['title'],
         'is_new_thread' => $isNewThread,
+        'request_id' => $requestId,
         'user_message' => [
             'id' => $userMessageId,
             'role' => 'user',

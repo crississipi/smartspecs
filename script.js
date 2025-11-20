@@ -163,54 +163,80 @@ async function checkAuth() {
   }
 }
 
+// Show simple loading spinner
+function showSimpleLoader(container) {
+    if (!container) return null;
+    const loader = document.createElement('div');
+    loader.className = 'simple-loader';
+    loader.innerHTML = '<div class="spinner-dot"></div><div class="spinner-dot"></div><div class="spinner-dot"></div>';
+    container.appendChild(loader);
+    return loader;
+}
+
+function removeSimpleLoader(loader) {
+    if (loader && loader.parentNode) {
+        loader.remove();
+    }
+}
+
 // Load user information
 async function loadUserInfo() {
-  const result = await apiCall('/api/user.php');
-  if (result.success && result.user) {
-    const user = result.user;
-    if (profileInfo) {
-      const nameSpan = profileInfo.querySelector('h2');
-      const emailSpan = profileInfo.querySelector('span');
-      if (nameSpan) nameSpan.textContent = user.name || user.email.split('@')[0];
-      if (emailSpan) emailSpan.textContent = user.email;
+  const loader = showSimpleLoader(profileInfo);
+  try {
+    const result = await apiCall('/api/user.php');
+    if (result.success && result.user) {
+      const user = result.user;
+      if (profileInfo) {
+        const nameSpan = profileInfo.querySelector('h2');
+        const emailSpan = profileInfo.querySelector('span');
+        if (nameSpan) nameSpan.textContent = user.name || user.email.split('@')[0];
+        if (emailSpan) emailSpan.textContent = user.email;
+      }
+      
+      // Load night mode preference
+      if (result.user.preferences && result.user.preferences.night_mode) {
+        document.body.classList.add('night');
+        loginCard.classList.add('night');
+        mainContent.classList.add('night-messages');
+        toggleNightMode.classList.add('turned-on');
+        changeIcons();
+      }
     }
-    
-    // Load night mode preference
-    if (result.user.preferences && result.user.preferences.night_mode) {
-      document.body.classList.add('night');
-      loginCard.classList.add('night');
-      mainContent.classList.add('night-messages');
-      toggleNightMode.classList.add('turned-on');
-      changeIcons();
-    }
+  } finally {
+    removeSimpleLoader(loader);
   }
 }
 
 // Load threads
 async function loadThreads() {
-  const result = await apiCall('/api/threads.php');
-  if (result.success && result.threads) {
-    if (convoHolder) {
-      convoHolder.innerHTML = '';
-      
-      if (result.threads.length === 0) {
-        const emptyBtn = document.createElement('button');
-        emptyBtn.className = 'nav-btn';
-        emptyBtn.textContent = 'No conversations yet';
-        emptyBtn.disabled = true;
-        convoHolder.appendChild(emptyBtn);
-      } else {
-        result.threads.forEach(thread => {
-          const btn = document.createElement('button');
-          btn.className = 'nav-btn thread-btn';
-          btn.type = 'button';
-          btn.setAttribute('data-thread-id', thread.id); // Add this line
-          btn.textContent = thread.title;
-          btn.addEventListener('click', () => loadThread(thread.id));
-          convoHolder.appendChild(btn);
-        });
+  const loader = showSimpleLoader(convoHolder);
+  try {
+    const result = await apiCall('/api/threads.php');
+    if (result.success && result.threads) {
+      if (convoHolder) {
+        convoHolder.innerHTML = '';
+        
+        if (result.threads.length === 0) {
+          const emptyBtn = document.createElement('button');
+          emptyBtn.className = 'nav-btn';
+          emptyBtn.textContent = 'No conversations yet';
+          emptyBtn.disabled = true;
+          convoHolder.appendChild(emptyBtn);
+        } else {
+          result.threads.forEach(thread => {
+            const btn = document.createElement('button');
+            btn.className = 'nav-btn thread-btn';
+            btn.type = 'button';
+            btn.setAttribute('data-thread-id', thread.id); // Add this line
+            btn.textContent = thread.title;
+            btn.addEventListener('click', () => loadThread(thread.id));
+            convoHolder.appendChild(btn);
+          });
+        }
       }
     }
+  } finally {
+    removeSimpleLoader(loader);
   }
 }
 
@@ -225,56 +251,61 @@ function debugThreadLoading(threadId) {
 async function loadThread(threadId) {
   console.log('Loading thread:', threadId);
   
-  const result = await apiCall(`/api/threads.php?id=${threadId}`);
-  if (result.success && result.thread) {
-    const thread = result.thread;
-    
-    // Update thread title
-    if (threadTitleInput) {
-      threadTitleInput.value = thread.title;
-    }
-    
-    // Display messages
-    if (threadMessages) {
-      threadMessages.innerHTML = '';
+  const loader = showSimpleLoader(threadMessages);
+  try {
+    const result = await apiCall(`/api/threads.php?id=${threadId}`);
+    if (result.success && result.thread) {
+      const thread = result.thread;
       
-      if (thread.messages && thread.messages.length > 0) {
-        thread.messages.forEach(msg => {
-          addMessageToUI(msg.content, msg.role);
-        });
-        
-        // Scroll to bottom after loading messages
-        setTimeout(() => {
-          threadMessages.scrollTop = threadMessages.scrollHeight;
-        }, 100);
-      } else {
-        showWelcomeTemplate();
+      // Update thread title
+      if (threadTitleInput) {
+        threadTitleInput.value = thread.title;
       }
-    }
-    
-    // Store current thread ID
-    window.currentThreadId = threadId;
-    
-    // Update delete button visibility
-    updateDeleteButtonVisibility();
-    
-    console.log('Loaded thread:', threadId, 'with', thread.messages?.length || 0, 'messages');
-  } else {
-    console.error('Failed to load thread:', result.message);
-    notification(result.message || "Failed to load thread", "alert");
-    
-    // If thread doesn't exist, clear it and create a new one
-    if (result.message && result.message.includes('not found')) {
-      window.currentThreadId = null;
+      
+      // Display messages
       if (threadMessages) {
         threadMessages.innerHTML = '';
-        showWelcomeTemplate();
+        
+        if (thread.messages && thread.messages.length > 0) {
+          thread.messages.forEach(msg => {
+            addMessageToUI(msg.content, msg.role);
+          });
+          
+          // Scroll to bottom after loading messages
+          setTimeout(() => {
+            threadMessages.scrollTop = threadMessages.scrollHeight;
+          }, 100);
+        } else {
+          showWelcomeTemplate();
+        }
       }
-      if (threadTitleInput) {
-        threadTitleInput.value = '';
-      }
+      
+      // Store current thread ID
+      window.currentThreadId = threadId;
+      
+      // Update delete button visibility
       updateDeleteButtonVisibility();
+      
+      console.log('Loaded thread:', threadId, 'with', thread.messages?.length || 0, 'messages');
+    } else {
+      console.error('Failed to load thread:', result.message);
+      notification(result.message || "Failed to load thread", "alert");
+      
+      // If thread doesn't exist, clear it and create a new one
+      if (result.message && result.message.includes('not found')) {
+        window.currentThreadId = null;
+        if (threadMessages) {
+          threadMessages.innerHTML = '';
+          showWelcomeTemplate();
+        }
+        if (threadTitleInput) {
+          threadTitleInput.value = '';
+        }
+        updateDeleteButtonVisibility();
+      }
     }
+  } finally {
+    removeSimpleLoader(loader);
   }
 }
 
@@ -350,18 +381,29 @@ function renderComponentTable(data) {
     if (!data) return '';
     
     let html = '';
+    const isUpgrade = data.type === 'upgrade_suggestion' || data.is_upgrade_suggestion;
     
     // Render components table if components exist
     if (data.components && data.components.length > 0) {
         html += '<div class="components-table-section">';
-        html += '<h4>Recommended Components (' + data.components.length + ' found)</h4>';
+        
+        if (isUpgrade) {
+            html += '<h4>🔧 Upgrade Options (' + data.components.length + ' suggestions)</h4>';
+        } else {
+            html += '<h4>Recommended Components (' + data.components.length + ' found)</h4>';
+        }
+        
         html += '<div class="table-container">';
-        html += '<table class="components-table">';
+        html += '<table class="components-table' + (isUpgrade ? ' upgrade-table' : '') + '">';
         html += '<thead>';
         html += '<tr>';
         html += '<th>Type</th>';
         html += '<th>Brand</th>';
         html += '<th>Model</th>';
+        if (isUpgrade) {
+            html += '<th>Current</th>';
+            html += '<th>Price Difference</th>';
+        }
         html += '<th>Price</th>';
         html += '<th>Image</th>';
         html += '<th>Actions</th>';
@@ -381,10 +423,10 @@ function renderComponentTable(data) {
             // Use data URI for placeholder (1x1 transparent pixel) instead of external URL
             const placeholderImage = 'data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'60\' height=\'60\'%3E%3Crect width=\'60\' height=\'60\' fill=\'%23f0f0f0\'/%3E%3Ctext x=\'50%25\' y=\'50%25\' text-anchor=\'middle\' dy=\'.3em\' font-size=\'10\' fill=\'%23999\'%3ENo Image%3C/text%3E%3C/svg%3E';
             const finalImageUrl = imageUrl && imageUrl.trim() ? imageUrl : placeholderImage;
-            const rowId = 'component-row-' + compId;
-            const alternativesRowId = 'alternatives-row-' + compId;
+            const rowId = 'component-row-' + compId + '-' + index;
+            const alternativesRowId = 'alternatives-row-' + compId + '-' + index;
             
-            html += '<tr class="component-row" id="' + rowId + '">';
+            html += '<tr class="component-row' + (isUpgrade ? ' upgrade-row' : '') + '" id="' + rowId + '">';
             html += '<td class="component-type-cell">';
             html += '<span class="component-type-badge">' + escapeHtml(compType.toUpperCase()) + '</span>';
             html += '</td>';
@@ -394,6 +436,26 @@ function renderComponentTable(data) {
             html += '<td class="component-model-cell">';
             html += '<div class="component-model">' + escapeHtml(model) + '</div>';
             html += '</td>';
+            
+            // Show current component and price difference for upgrades
+            if (isUpgrade && comp.current_component) {
+                html += '<td class="component-current-cell">';
+                html += '<div class="current-component-info">';
+                html += '<div class="current-name">' + escapeHtml(comp.current_component) + '</div>';
+                html += '<div class="current-price">₱' + formatNumber(comp.current_price || 0, 2) + '</div>';
+                html += '</div>';
+                html += '</td>';
+                html += '<td class="component-diff-cell">';
+                const priceDiff = comp.price_difference || 0;
+                const priceDiffPct = comp.price_difference_percent || 0;
+                const diffClass = priceDiff >= 0 ? 'price-increase' : 'price-decrease';
+                html += '<div class="price-difference ' + diffClass + '">';
+                html += '<span class="diff-amount">+' + formatNumber(priceDiff, 2) + '</span>';
+                html += '<span class="diff-percent">(+' + formatNumber(priceDiffPct, 1) + '%)</span>';
+                html += '</div>';
+                html += '</td>';
+            }
+            
             html += '<td class="component-price-cell">';
             html += '<span class="price-amount">₱' + formatNumber(price, 2) + '</span>';
             html += '</td>';
@@ -404,7 +466,7 @@ function renderComponentTable(data) {
             html += '<td class="component-actions-cell">';
             html += '<div class="table-actions">';
             html += '<a href="' + escapeHtml(sourceUrl) + '" target="_blank" class="btn-view">View</a>';
-            if (compId) {
+            if (compId && !isUpgrade) {
                 html += '<button onclick="toggleAlternatives(' + compId + ', ' + index + ')" class="btn-alternate" id="alt-btn-' + compId + '">Alternatives</button>';
             }
             html += '</div>';
@@ -607,27 +669,283 @@ async function loadThread(threadId) {
 // Add a flag to prevent multiple simultaneous refreshes
 let isRefreshingThread = false;
 
-// Function to show loading animation
-function showLoadingAnimation() {
+// Typing animation component
+class TypingAnimation {
+    constructor(container, phases = []) {
+        this.container = container;
+        this.phases = phases;
+        this.currentPhaseIndex = 0;
+        this.currentText = '';
+        this.isTyping = false;
+        this.isDeleting = false;
+        this.typingSpeed = 50; // ms per character
+        this.deletingSpeed = 30; // ms per character
+        this.pauseAfterTyping = 1500; // ms to pause after typing
+        this.pauseAfterDeleting = 500; // ms to pause after deleting
+        this.textElement = null;
+        this.cursorElement = null;
+        this.animationFrame = null;
+        this.init();
+    }
+    
+    init() {
+        this.textElement = document.createElement('span');
+        this.textElement.className = 'typing-text';
+        this.cursorElement = document.createElement('span');
+        this.cursorElement.className = 'typing-cursor';
+        this.cursorElement.textContent = '|';
+        
+        const wrapper = document.createElement('div');
+        wrapper.className = 'typing-animation-wrapper';
+        wrapper.appendChild(this.textElement);
+        wrapper.appendChild(this.cursorElement);
+        
+        this.container.innerHTML = '';
+        this.container.appendChild(wrapper);
+        
+        this.start();
+    }
+    
+    start() {
+        if (this.phases.length === 0) return;
+        this.currentPhaseIndex = 0;
+        this.typePhase(this.phases[0]);
+    }
+    
+    updatePhase(newPhase, budget = null) {
+        // Format phase text with budget if provided
+        let phaseText = newPhase;
+        if (budget !== null && budget > 0) {
+            phaseText = phaseText.replace(/\$xx,xxx/g, `₱${budget.toLocaleString('en-US', {minimumFractionDigits: 0, maximumFractionDigits: 0})}`);
+        }
+        
+        // Check if this phase is already in the list
+        const existingIndex = this.phases.findIndex(p => {
+            if (typeof p === 'string') return p === newPhase;
+            return p.text === newPhase;
+        });
+        
+        if (existingIndex === -1) {
+            // New phase - add it
+            this.phases.push(phaseText);
+            if (!this.isTyping && !this.isDeleting) {
+                this.currentPhaseIndex = this.phases.length - 1;
+                this.typePhase(phaseText);
+            }
+        } else if (existingIndex > this.currentPhaseIndex) {
+            // Phase exists but we haven't reached it yet - update it
+            this.phases[existingIndex] = phaseText;
+        } else if (existingIndex === this.currentPhaseIndex && this.isTyping) {
+            // Currently typing this phase - update the target
+            this.phases[existingIndex] = phaseText;
+        }
+    }
+    
+    typePhase(phaseText) {
+        this.isTyping = true;
+        this.isDeleting = false;
+        const targetText = typeof phaseText === 'string' ? phaseText : phaseText.text || phaseText;
+        let charIndex = 0;
+        
+        const type = () => {
+            if (charIndex < targetText.length) {
+                // Add slight randomness to typing speed for realism
+                const speedVariation = this.typingSpeed + (Math.random() * 30 - 15);
+                this.currentText = targetText.substring(0, charIndex + 1);
+                this.textElement.textContent = this.currentText;
+                charIndex++;
+                this.animationFrame = setTimeout(type, speedVariation);
+            } else {
+                // Finished typing this phase
+                this.isTyping = false;
+                setTimeout(() => {
+                    this.deletePhase();
+                }, this.pauseAfterTyping);
+            }
+        };
+        
+        type();
+    }
+    
+    deletePhase() {
+        if (this.currentText.length === 0) {
+            // Move to next phase
+            this.currentPhaseIndex++;
+            if (this.currentPhaseIndex < this.phases.length) {
+                const nextPhase = this.phases[this.currentPhaseIndex];
+                const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
+                setTimeout(() => {
+                    this.typePhase(nextText);
+                }, this.pauseAfterDeleting);
+            } else {
+                // All phases done, restart or wait
+                this.cursorElement.style.opacity = '0.3';
+            }
+            return;
+        }
+        
+        this.isDeleting = true;
+        this.isTyping = false;
+        
+        const deleteChar = () => {
+            if (this.currentText.length > 0) {
+                // Add slight randomness to deleting speed
+                const speedVariation = this.deletingSpeed + (Math.random() * 20 - 10);
+                this.currentText = this.currentText.substring(0, this.currentText.length - 1);
+                this.textElement.textContent = this.currentText;
+                this.animationFrame = setTimeout(deleteChar, speedVariation);
+            } else {
+                // Finished deleting
+                this.isDeleting = false;
+                this.currentPhaseIndex++;
+                if (this.currentPhaseIndex < this.phases.length) {
+                    const nextPhase = this.phases[this.currentPhaseIndex];
+                    const nextText = typeof nextPhase === 'string' ? nextPhase : nextPhase.text || nextPhase;
+                    setTimeout(() => {
+                        this.typePhase(nextText);
+                    }, this.pauseAfterDeleting);
+                } else {
+                    // All phases done
+                    this.cursorElement.style.opacity = '0.3';
+                }
+            }
+        };
+        
+        deleteChar();
+    }
+    
+    stop() {
+        if (this.animationFrame) {
+            clearTimeout(this.animationFrame);
+        }
+        this.isTyping = false;
+        this.isDeleting = false;
+    }
+    
+    destroy() {
+        this.stop();
+        if (this.container) {
+            this.container.innerHTML = '';
+        }
+    }
+}
+
+// Function to show loading animation with typing effect
+function showLoadingAnimation(requestId = null) {
     if (!threadMessages) return null;
     
     const loadingDiv = document.createElement('div');
     loadingDiv.className = 'ai-input loading-message';
     loadingDiv.id = 'loading-indicator';
-    loadingDiv.innerHTML = `
-        <div class="ai-message">
-            <div class="loading-spinner">
-                <div class="spinner-dot"></div>
-                <div class="spinner-dot"></div>
-                <div class="spinner-dot"></div>
-            </div>
-            <span class="loading-text">Generating your PC build recommendation...</span>
-        </div>
+    
+    const messageDiv = document.createElement('div');
+    messageDiv.className = 'ai-message';
+    
+    const spinner = document.createElement('div');
+    spinner.className = 'loading-spinner';
+    spinner.innerHTML = `
+        <div class="spinner-dot"></div>
+        <div class="spinner-dot"></div>
+        <div class="spinner-dot"></div>
     `;
+    
+    const typingContainer = document.createElement('div');
+    typingContainer.className = 'typing-container';
+    
+    messageDiv.appendChild(spinner);
+    messageDiv.appendChild(typingContainer);
+    loadingDiv.appendChild(messageDiv);
     
     threadMessages.appendChild(loadingDiv);
     scrollToBottom();
+    
+    // Initialize typing animation
+    const defaultPhases = [
+        "Understanding your request",
+        "Finding components within ₱xx,xxx budget",
+        "Checking compatibility with other parts",
+        "Looking for better components",
+        "Finalizing results"
+    ];
+    
+    const typingAnim = new TypingAnimation(typingContainer, defaultPhases);
+    loadingDiv.typingAnimation = typingAnim;
+    loadingDiv.requestId = requestId;
+    
+    // Start polling for progress if requestId is provided
+    if (requestId) {
+        pollProgress(requestId, typingAnim);
+    }
+    
     return loadingDiv;
+}
+
+// Poll progress from Python service
+async function pollProgress(requestId, typingAnim) {
+    if (!requestId || !typingAnim) return;
+    
+    // Try to get Python service URL from meta tag or environment
+    let pythonServiceUrl = document.querySelector('meta[name="python-service-url"]')?.content;
+    if (!pythonServiceUrl) {
+        // Try to infer from current location (for Render deployment)
+        const currentHost = window.location.hostname;
+        if (currentHost.includes('render.com') || currentHost.includes('onrender.com')) {
+            // For Render, Python service is on Railway - we can't directly access it from frontend
+            // So we'll use the PHP backend as a proxy
+            pythonServiceUrl = window.location.origin;
+        } else if (currentHost === 'localhost' || currentHost === '127.0.0.1') {
+            pythonServiceUrl = 'http://localhost:5000';
+        }
+    }
+    
+    if (!pythonServiceUrl) {
+        // Can't poll, use default animation
+        return;
+    }
+    
+    // If we're using the PHP backend as proxy, use the API endpoint
+    const progressUrl = pythonServiceUrl === window.location.origin 
+        ? `${API_BASE}/api/progress.php?request_id=${requestId}`
+        : `${pythonServiceUrl}/progress/${requestId}`;
+    
+    const maxAttempts = 120; // 2 minutes max (1 second intervals)
+    let attempts = 0;
+    
+    const poll = async () => {
+        if (attempts >= maxAttempts) return;
+        
+        try {
+            const response = await fetch(progressUrl, {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                credentials: 'include'
+            });
+            
+            if (response.ok) {
+                const data = await response.json();
+                if (data.success && data.progress) {
+                    const currentPhase = data.progress.current_phase;
+                    const budget = data.progress.phases?.find(p => p.phase === currentPhase)?.budget;
+                    
+                    if (currentPhase) {
+                        typingAnim.updatePhase(currentPhase, budget);
+                    }
+                }
+            }
+        } catch (error) {
+            console.error('Progress poll error:', error);
+        }
+        
+        attempts++;
+        if (attempts < maxAttempts) {
+            setTimeout(poll, 1000); // Poll every second
+        }
+    };
+    
+    // Start polling after a short delay
+    setTimeout(poll, 500);
 }
 
 // Function to remove loading animation
@@ -664,8 +982,9 @@ async function sendMessage() {
     textInput.value = '';
     textInput.style.height = 'auto';
     
-    // Show loading animation
-    const loadingIndicator = showLoadingAnimation();
+    // Show loading animation (requestId will be set after response)
+    let loadingIndicator = showLoadingAnimation();
+    let requestId = null;
     
     try {
         // Send to PHP backend
@@ -673,6 +992,18 @@ async function sendMessage() {
             thread_id: window.currentThreadId || null,
             message: message
         });
+        
+        // Get request_id from response if available
+        if (result.request_id) {
+            requestId = result.request_id;
+            // Update loading indicator with requestId
+            if (loadingIndicator) {
+                loadingIndicator.requestId = requestId;
+                if (loadingIndicator.typingAnimation) {
+                    pollProgress(requestId, loadingIndicator.typingAnimation);
+                }
+            }
+        }
         
         // Remove loading animation
         removeLoadingAnimation();
@@ -700,7 +1031,7 @@ async function sendMessage() {
             if (!isRefreshingThread && window.currentThreadId) {
                 isRefreshingThread = true;
                 // Refresh the current thread to get updated messages
-                await refreshThreadMessages(window.currentThreadId);
+                await loadThread(window.currentThreadId);
                 // Refresh thread list in sidebar (but don't reload the current thread)
                 loadThreads();
                 // Ensure scroll to bottom after refresh

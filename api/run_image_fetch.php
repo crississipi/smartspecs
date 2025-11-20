@@ -97,6 +97,107 @@ if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
     }
 }
 
+// Function to update components with image URLs from JSON cache
+function updateComponentsFromCache($db) {
+    $cache_file = __DIR__ . '/../scripts/image_cache/image_urls_cache.json';
+    
+    if (!file_exists($cache_file)) {
+        return [
+            'success' => false,
+            'message' => 'Cache file not found',
+            'updated' => 0
+        ];
+    }
+    
+    $cache_data = json_decode(file_get_contents($cache_file), true);
+    if (!$cache_data || !is_array($cache_data)) {
+        return [
+            'success' => false,
+            'message' => 'Invalid cache data',
+            'updated' => 0
+        ];
+    }
+    
+    $updated = 0;
+    $errors = 0;
+    
+    // Process in batches to avoid memory issues
+    $batch_size = 50;
+    $items = array_slice($cache_data, 0, 1000); // Limit to first 1000 items
+    
+    foreach (array_chunk($items, $batch_size) as $batch) {
+        foreach ($batch as $component_name => $data) {
+            if (!is_array($data) || !isset($data[0])) {
+                continue; // Skip invalid entries
+            }
+            
+            $image_url = $data[0]; // First element is the image URL
+            if (empty($image_url) || !filter_var($image_url, FILTER_VALIDATE_URL)) {
+                continue; // Skip invalid URLs
+            }
+            
+            // Try to match component by model name (fuzzy match)
+            // Extract brand and model from component name
+            $name_parts = explode(' ', $component_name, 2);
+            $brand = $name_parts[0] ?? '';
+            $model = $name_parts[1] ?? $component_name;
+            
+            // Update components where model matches (case-insensitive)
+            $stmt = $db->prepare("
+                UPDATE components 
+                SET image_url = ? 
+                WHERE (model LIKE ? OR model LIKE ?) 
+                AND (image_url IS NULL OR image_url = '' OR image_url LIKE '%placeholder%')
+                LIMIT 1
+            ");
+            
+            $like_brand_model = '%' . $db->real_escape_string($component_name) . '%';
+            $like_model = '%' . $db->real_escape_string($model) . '%';
+            
+            $stmt->bind_param("sss", $image_url, $like_brand_model, $like_model);
+            
+            if ($stmt->execute()) {
+                if ($stmt->affected_rows > 0) {
+                    $updated++;
+                }
+            } else {
+                $errors++;
+            }
+            $stmt->close();
+        }
+    }
+    
+    return [
+        'success' => true,
+        'message' => "Updated $updated components with image URLs",
+        'updated' => $updated,
+        'errors' => $errors,
+        'total_processed' => count($items)
+    ];
+}
+
+// Check if update action is requested
+$action = $_GET['action'] ?? $_POST['action'] ?? 'fetch';
+
+if ($action === 'update') {
+    // Update components from cache
+    require_once __DIR__ . '/../config.php';
+    $conn = getDBConnection();
+    if (!$conn) {
+        http_response_code(500);
+        echo json_encode([
+            'success' => false,
+            'message' => 'Database connection failed'
+        ]);
+        exit;
+    }
+    
+    $result = updateComponentsFromCache($conn);
+    $conn->close();
+    echo json_encode($result);
+    exit;
+}
+
 // Return success immediately (script runs in background)
 echo json_encode([
     'success' => true,
