@@ -809,19 +809,17 @@ class BudgetAwareBuildGenerator:
         self.essential_components = ["cpu", "motherboard", "ram", "storage", "psu", "case", "cooler", "case-fan", "keyboard", "mouse", "speakers"]
     
     def generate_build_within_budget(self, max_budget: float, performance_needs: List[str], 
-                                   include_peripherals: bool = False, use_case: str = None) -> Dict[str, Any]:
+                                   include_peripherals: bool = True, use_case: str = None) -> Dict[str, Any]:
         """Generate a complete build that MAXIMIZES budget utilization to 95-100%"""
         
         max_budget = to_float(max_budget)
         
+        # Peripherals (keyboard, mouse, speakers) are already included in budget allocations
+        # So we use the full budget for allocations
         component_budget = max_budget
-        peripheral_budget = 0
+        peripheral_budget = 0  # Only used for additional peripherals like headphones
         
-        if include_peripherals:
-            peripheral_budget = max_budget * 0.12
-            component_budget = max_budget - peripheral_budget
-        
-        # Get initial allocations
+        # Get initial allocations - peripherals are already included in allocations
         allocations = self._get_budget_allocations(component_budget, performance_needs)
         
         build_components = []
@@ -860,14 +858,17 @@ class BudgetAwareBuildGenerator:
             )
             total_cost = sum(to_float(comp['price']) for comp in build_components)
         
-        # Step 5: Add peripherals if needed
+        # Step 5: Add additional peripherals if needed (headphones for content creation, etc.)
+        # Note: keyboard, mouse, speakers are already in essential_components and budget allocations
         if include_peripherals and use_case:
-            peripherals = self._add_peripherals(use_case, peripheral_budget)
-            for p in peripherals:
+            additional_peripherals = self._add_peripherals(use_case, peripheral_budget)
+            for p in additional_peripherals:
                 price = to_float(p['price'])
                 p['price'] = price
-            build_components.extend(peripherals)
-            total_cost += sum(to_float(p['price']) for p in peripherals)
+                # Only add if not already in build_components
+                if not any(comp.get('type') == p.get('type') for comp in build_components):
+                    build_components.append(p)
+                    total_cost += price
         
         # Step 6: Final check - if over budget, optimize
         if total_cost > max_budget:
@@ -2915,14 +2916,31 @@ def get_alternatives():
         original_price = to_float(original_component.get('price', 0))
         original_component['price'] = float(original_price)
         
+        # Get original component type for strict filtering
+        original_type = original_component.get('type', '').lower().strip()
+        
         for alt in alternatives:
             # Ensure alt price is float - double conversion to be safe
             alt_price = to_float(alt.get('price', 0))
             alt['price'] = float(alt_price)
             
-            if (alt.get('type') == original_component.get('type') and 
+            # Strict type matching - must be exact same type
+            alt_type = alt.get('type', '').lower().strip()
+            
+            # Only include if types match exactly AND price is within range
+            # Also exclude peripherals (keyboard, mouse, speakers, monitor, headphones) from non-peripheral alternatives
+            peripheral_types = {'keyboard', 'mouse', 'speakers', 'monitor', 'headphones', 'webcam', 'microphone'}
+            
+            if (alt_type == original_type and 
+                alt_type and original_type and  # Both must have types
                 abs(alt_price - original_price) <= 5000):
-                compatible_alternatives.append(alt)
+                # If original is NOT a peripheral, exclude peripheral alternatives
+                if original_type not in peripheral_types:
+                    if alt_type not in peripheral_types:
+                        compatible_alternatives.append(alt)
+                else:
+                    # If original IS a peripheral, only allow same peripheral type
+                    compatible_alternatives.append(alt)
         
         # Convert original component price to float for JSON serialization
         original_component_copy = original_component.copy()
