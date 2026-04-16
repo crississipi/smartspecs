@@ -1,7 +1,4 @@
 <?php
-/**
- * Render recommendation data into HTML
- */
 function renderRecommendation($data) {
     if (!isset($data['type']) || $data['type'] !== 'recommendation') {
         return '<div class="ai-message">' . htmlspecialchars($data['ai_message'] ?? '') . '</div>';

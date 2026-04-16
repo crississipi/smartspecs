@@ -1,7 +1,0 @@
-# Railway configuration - tells Railway to use Nixpacks, not Docker
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "python app.py"
-

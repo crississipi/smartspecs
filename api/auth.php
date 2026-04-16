@@ -1,13 +1,10 @@
 <?php
-// Start output buffering at the VERY beginning
 if (ob_get_level() == 0) {
     ob_start();
 }
 
 require_once __DIR__ . '/../config.php';
 
-// Don't start session again - it's already started in config.php
-// Just verify it's active
 if (session_status() !== PHP_SESSION_ACTIVE) {
     session_start();
 }
@@ -16,12 +13,10 @@ $method = $_SERVER['REQUEST_METHOD'];
 $action = $_GET['action'] ?? '';
 
 try {
-    // Clean output buffer before sending JSON
     if (ob_get_level() > 0) {
         ob_end_clean();
     }
     
-    // Set JSON header
     header('Content-Type: application/json; charset=utf-8');
     
     switch ($method) {
@@ -36,8 +31,7 @@ try {
     }
 } catch (Exception $e) {
     error_log('Auth API Error: ' . $e->getMessage());
-    
-    // Ensure clean output for errors too
+
     if (ob_get_level() > 0) {
         ob_end_clean();
     }

@@ -379,6 +379,81 @@ if (document.readyState === 'loading') {
   setTimeout(setupSendButton, 100); // Small delay to ensure elements are available
 }
 
+// Lightweight Markdown to HTML parser
+function parseMarkdown(text) {
+    if (!text) return '';
+    
+    // Escape HTML first to prevent injection
+    let html = text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    
+    // Process line by line for lists and paragraphs
+    const lines = html.split('\n');
+    let result = [];
+    let inUl = false;
+    let inOl = false;
+    
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i];
+        
+        // Unordered list items (- item or • item or * item at start)
+        const ulMatch = line.match(/^\s*[-•*]\s+(.+)/);
+        // Ordered list items (1. item, 2. item, etc.)
+        const olMatch = line.match(/^\s*(\d+)\.\s+(.+)/);
+        
+        if (ulMatch) {
+            if (inOl) { result.push('</ol>'); inOl = false; }
+            if (!inUl) { result.push('<ul>'); inUl = true; }
+            result.push('<li>' + ulMatch[1] + '</li>');
+        } else if (olMatch) {
+            if (inUl) { result.push('</ul>'); inUl = false; }
+            if (!inOl) { result.push('<ol>'); inOl = true; }
+            result.push('<li>' + olMatch[2] + '</li>');
+        } else {
+            // Close any open lists
+            if (inUl) { result.push('</ul>'); inUl = false; }
+            if (inOl) { result.push('</ol>'); inOl = false; }
+            
+            // Empty line = paragraph break
+            if (line.trim() === '') {
+                result.push('<br>');
+            } else {
+                result.push(line);
+            }
+        }
+    }
+    
+    // Close any remaining open lists
+    if (inUl) result.push('</ul>');
+    if (inOl) result.push('</ol>');
+    
+    html = result.join('\n');
+    
+    // Bold: **text** or __text__
+    html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/__(.+?)__/g, '<strong>$1</strong>');
+    
+    // Italic: *text* or _text_ (but not inside bold)
+    html = html.replace(/(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)/g, '<em>$1</em>');
+    html = html.replace(/(?<!_)_(?!_)(.+?)(?<!_)_(?!_)/g, '<em>$1</em>');
+    
+    // Inline code: `text`
+    html = html.replace(/`([^`]+)`/g, '<code>$1</code>');
+    
+    // Convert remaining newlines to <br> (but not inside list items)
+    html = html.replace(/\n(?!<\/?[uo]l|<\/?li|<br)/g, '<br>');
+    
+    // Clean up multiple <br> tags
+    html = html.replace(/(<br>\s*){3,}/g, '<br><br>');
+    
+    // Add emoji support for common patterns
+    html = html.replace(/:\)/g, '😊');
+    
+    return html;
+}
+
 // Render recommendation data into HTML
 function renderRecommendation(data) {
     if (!data || !data.ai_message) {
@@ -388,138 +463,162 @@ function renderRecommendation(data) {
     // Extract plain text from ai_message (remove HTML if present)
     let messageText = data.ai_message;
     
-    // Remove HTML tags if present
-    if (messageText.includes('<')) {
+    // Remove HTML tags if present (but keep markdown)
+    if (messageText.includes('<') && !messageText.includes('**') && !messageText.includes('- ')) {
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = messageText;
         messageText = tempDiv.textContent || tempDiv.innerText || messageText;
     }
     
-    // Clean up: remove extra whitespace
-    messageText = messageText.replace(/\s+/g, ' ').trim();
-    
-    // Return only the introduction text
-    return '<div class="ai-message">' + escapeHtml(messageText) + '</div>';
+    // Return with markdown formatting
+    return '<div class="ai-message">' + parseMarkdown(messageText) + '</div>';
 }
 
-// NEW FUNCTION: Render component table separately
+// NEW FUNCTION: Render component cards separately
 function renderComponentTable(data) {
     if (!data) return '';
     
     let html = '';
     const isUpgrade = data.type === 'upgrade_suggestion' || data.is_upgrade_suggestion;
     
-    // Render components table if components exist
+    // Render component cards if components exist
     if (data.components && data.components.length > 0) {
-        html += '<div class="components-table-section">';
+        html += '<div class="components-card-section">';
         
         if (isUpgrade) {
-            html += '<h4>🔧 Upgrade Options (' + data.components.length + ' suggestions)</h4>';
+            html += '<div class="components-section-header"><span class="section-icon">🔧</span> Upgrade Options <span class="section-count">' + data.components.length + ' suggestions</span></div>';
         } else {
-            html += '<h4>Recommended Components (' + data.components.length + ' found)</h4>';
+            html += '<div class="components-section-header"><span class="section-icon">💻</span> Recommended Components <span class="section-count">' + data.components.length + ' found</span></div>';
         }
         
-        html += '<div class="table-container">';
-        html += '<table class="components-table' + (isUpgrade ? ' upgrade-table' : '') + '">';
-        html += '<thead>';
-        html += '<tr>';
-        html += '<th>Type</th>';
-        html += '<th>Brand</th>';
-        html += '<th>Model</th>';
-        if (isUpgrade) {
-            html += '<th>Current</th>';
-            html += '<th>Price Difference</th>';
-        }
-        html += '<th>Price</th>';
-        html += '<th>Image</th>';
-        html += '<th>Actions</th>';
-        html += '</tr>';
-        html += '</thead>';
-        html += '<tbody>';
+        html += '<div class="components-card-grid">';
         
         data.components.slice(0, 12).forEach((comp, index) => {
             const imageUrl = comp.image_url || comp.image || '';
             const sourceUrl = comp.source_url || comp.url || '#';
             const price = comp.price || 0;
-            const compId = comp.id || comp.component_id || 0;
+            const compId = comp.id || comp.component_id || index;
             const compType = comp.component_type || comp.type || '';
             const brand = comp.brand || 'N/A';
             const model = comp.model || 'N/A';
+            const storeName = comp.store_name || '';
+            const reason = comp.reason || '';
+            const currency = comp.currency || 'PHP';
+            const currencySymbol = currency === 'PHP' ? '₱' : currency === 'USD' ? '$' : currency === 'EUR' ? '€' : currency + ' ';
             
-            // Use data URI for placeholder (1x1 transparent pixel) instead of external URL
-            const placeholderImage = 'data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'60\' height=\'60\'%3E%3Crect width=\'60\' height=\'60\' fill=\'%23f0f0f0\'/%3E%3Ctext x=\'50%25\' y=\'50%25\' text-anchor=\'middle\' dy=\'.3em\' font-size=\'10\' fill=\'%23999\'%3ENo Image%3C/text%3E%3C/svg%3E';
-            const finalImageUrl = imageUrl && imageUrl.trim() ? imageUrl : placeholderImage;
-            const rowId = 'component-row-' + compId + '-' + index;
-            const alternativesRowId = 'alternatives-row-' + compId + '-' + index;
+            const finalImageUrl = safeExternalUrl(imageUrl);
+            const finalSourceUrl = safeExternalUrl(sourceUrl);
+            const cardId = 'component-card-' + index;
             
-            html += '<tr class="component-row' + (isUpgrade ? ' upgrade-row' : '') + '" id="' + rowId + '">';
-            html += '<td class="component-type-cell">';
+            html += '<div class="component-card' + (isUpgrade ? ' upgrade-card' : '') + '" id="' + cardId + '" style="animation-delay: ' + (index * 0.06) + 's">';
+            
+            // Card image section
+            html += '<div class="component-card-image">';
             html += '<span class="component-type-badge">' + escapeHtml(compType.toUpperCase()) + '</span>';
-            html += '</td>';
-            html += '<td class="component-brand-cell">';
-            html += '<div class="component-brand">' + escapeHtml(brand) + '</div>';
-            html += '</td>';
-            html += '<td class="component-model-cell">';
-            html += '<div class="component-model">' + escapeHtml(model) + '</div>';
-            html += '</td>';
+            if (finalImageUrl && finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="component-media-link">';
+              html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(model) + '" class="component-image" loading="lazy">';
+              html += '</a>';
+            } else if (finalImageUrl) {
+              html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(model) + '" class="component-image" loading="lazy">';
+            } else {
+              html += '<div class="component-image-empty">No image</div>';
+            }
+            html += '</div>';
             
-            // Show current component and price difference for upgrades
+            // Card body
+            html += '<div class="component-card-body">';
+            html += '<div class="component-card-info">';
+            html += '<div class="component-brand">' + escapeHtml(brand) + '</div>';
+            if (finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="component-model component-model-link">' + escapeHtml(model) + '</a>';
+            } else {
+              html += '<div class="component-model">' + escapeHtml(model) + '</div>';
+            }
+            if (reason) {
+                html += '<div class="component-reason">' + escapeHtml(reason) + '</div>';
+            }
+            html += '</div>';
+            
+            // Upgrade info
             if (isUpgrade && comp.current_component) {
-                html += '<td class="component-current-cell">';
-                html += '<div class="current-component-info">';
-                html += '<div class="current-name">' + escapeHtml(comp.current_component) + '</div>';
-                html += '<div class="current-price">₱' + formatNumber(comp.current_price || 0, 2) + '</div>';
+                html += '<div class="component-upgrade-info">';
+                html += '<div class="upgrade-from">';
+                html += '<span class="upgrade-label">Current:</span>';
+                html += '<span class="current-name">' + escapeHtml(comp.current_component) + '</span>';
                 html += '</div>';
-                html += '</td>';
-                html += '<td class="component-diff-cell">';
                 const priceDiff = comp.price_difference || 0;
                 const priceDiffPct = comp.price_difference_percent || 0;
                 const diffClass = priceDiff >= 0 ? 'price-increase' : 'price-decrease';
                 html += '<div class="price-difference ' + diffClass + '">';
-                html += '<span class="diff-amount">+' + formatNumber(priceDiff, 2) + '</span>';
+                html += '<span class="diff-amount">+' + currencySymbol + formatNumber(priceDiff, 2) + '</span>';
                 html += '<span class="diff-percent">(+' + formatNumber(priceDiffPct, 1) + '%)</span>';
                 html += '</div>';
-                html += '</td>';
+                html += '</div>';
             }
             
-            html += '<td class="component-price-cell">';
-            html += '<span class="price-amount">₱' + formatNumber(price, 2) + '</span>';
-            html += '</td>';
-            html += '<td class="component-image-cell">';
-            // Remove onerror handler - use placeholder directly
-            html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(model) + '" class="component-image">';
-            html += '</td>';
-            html += '<td class="component-actions-cell">';
-            html += '<div class="table-actions">';
-            html += '<a href="' + escapeHtml(sourceUrl) + '" target="_blank" class="btn-view">View</a>';
-            if (compId && !isUpgrade) {
-                html += '<button onclick="toggleAlternatives(' + compId + ', ' + index + ')" class="btn-alternate" id="alt-btn-' + compId + '">Alternatives</button>';
+            // Price section
+            html += '<div class="component-card-price">';
+            html += '<span class="price-amount">' + currencySymbol + formatNumber(price, 2) + '</span>';
+            if (storeName) {
+                html += '<span class="store-name">' + escapeHtml(storeName) + '</span>';
             }
             html += '</div>';
-            html += '</td>';
-            html += '</tr>';
-            // Add hidden row for alternatives
-            const colspan = isUpgrade ? 8 : 6; // More columns for upgrade tables
-            html += '<tr class="alternatives-row" id="' + alternativesRowId + '" style="display: none;">';
-            html += '<td colspan="' + colspan + '" class="alternatives-cell">';
-            html += '<div class="alternatives-container">';
-            html += '<div class="alternatives-loading" id="alt-loading-' + compId + '" style="display: none; padding: 20px; text-align: center; color: #6c757d;">Loading alternatives...</div>';
-            html += '<div class="alternatives-content" id="alt-content-' + compId + '"></div>';
+            
+            // Actions
+            html += '<div class="component-card-actions">';
+            if (finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="btn-view" title="Open product page"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Product Link</a>';
+            }
+            if (!isUpgrade) {
+                const altData = encodeURIComponent(JSON.stringify({type: compType, brand: brand, model: model, price: price}));
+                html += '<button onclick="toggleAlternativesOnline(this, ' + index + ')" data-component="' + altData + '" class="btn-alternate" id="alt-btn-' + index + '"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"/><path d="M8 3H3v5"/><path d="M12 22v-8.3a4 4 0 00-1.172-2.872L3 3"/><path d="m15 9 6-6"/></svg> Alternatives</button>';
+            }
             html += '</div>';
-            html += '</td>';
-            html += '</tr>';
+            
+            // Alternatives expandable section (hidden by default)
+            html += '<div class="component-card-alternatives" id="alternatives-row-' + index + '" style="display: none;">';
+            html += '<div class="alternatives-container">';
+            html += '<div class="alternatives-loading" id="alt-loading-' + index + '" style="display: none;">Loading alternatives...</div>';
+            html += '<div class="alternatives-content" id="alt-content-' + index + '"></div>';
+            html += '</div>';
+            html += '</div>';
+            
+            html += '</div>'; // card-body
+            html += '</div>'; // component-card
         });
         
-        html += '</tbody>';
-        html += '</table>';
-        html += '</div>';
-        html += '</div>';
+        html += '</div>'; // components-card-grid
+        html += '</div>'; // components-card-section
     }
     
-    // REMOVED: Multiple recommendations section
-    // if (data.multiple_recommendations) {
-    //     html += renderMultipleRecommendations(data.multiple_recommendations);
-    // }
+    // Render build_info (compatibility notes, assumptions) for single builds
+    if (data.build_info && !isUpgrade) {
+        const bi = data.build_info;
+        if (bi.compatibility_notes && bi.compatibility_notes.length > 0) {
+            html += '<div class="build-compatibility-notes">';
+            html += '<div class="compatibility-header">✓ Compatibility Verified</div>';
+            html += '<ul>';
+            bi.compatibility_notes.forEach(note => {
+                html += '<li>' + escapeHtml(note) + '</li>';
+            });
+            html += '</ul></div>';
+        }
+        if (bi.assumptions && bi.assumptions.length > 0) {
+            html += '<div class="build-assumptions">';
+            html += '<div class="assumptions-header">💡 Assumptions</div>';
+            html += '<ul>';
+            bi.assumptions.forEach(a => {
+                html += '<li>' + escapeHtml(a) + '</li>';
+            });
+            html += '</ul></div>';
+        }
+    }
+    
+    // Multiple recommendations section (budget/balanced/premium tiers)
+    if (data.multiple_recommendations && Object.keys(data.multiple_recommendations).length > 0) {
+        html += renderMultipleRecommendations(data.multiple_recommendations);
+    }
     
     return html;
 }
@@ -536,31 +635,86 @@ function renderMultipleRecommendations(multipleRecs) {
     const tierNames = { budget: 'Budget Build', balanced: 'Balanced Build', premium: 'Premium Build' };
     
     tiers.forEach(tier => {
-        if (multipleRecs[tier] && multipleRecs[tier].length > 0) {
-            const total = multipleRecs[tier].reduce((sum, comp) => sum + (comp.price || 0), 0);
-            html += '<div class="recommendation-tier ' + tier + '">';
-            html += '<h5>' + tierNames[tier] + ' - ₱' + formatNumber(total, 2) + '</h5>';
-            html += '<div class="tier-components">';
+        // Support both old format (array) and new format (object with components key)
+        let tierData = multipleRecs[tier];
+        if (!tierData) return;
+        let components = Array.isArray(tierData) ? tierData : (tierData.components || []);
+        let buildName = !Array.isArray(tierData) ? tierData.build_name : null;
+        let compatNotes = !Array.isArray(tierData) ? (tierData.compatibility_notes || []) : [];
+        let assumptions = !Array.isArray(tierData) ? (tierData.assumptions || []) : [];
+        
+        if (components.length === 0) return;
+        
+        const total = components.reduce((sum, comp) => sum + (comp.price || 0), 0);
+        // Detect currency from first component
+        const firstComp = components[0];
+        const currency = firstComp.currency || 'PHP';
+        const currencySymbol = currency === 'PHP' ? '₱' : currency === 'USD' ? '$' : currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : currency === 'JPY' ? '¥' : currency + ' ';
+        
+        html += '<div class="recommendation-tier ' + tier + '">';
+        // Use build_name if available, otherwise use default tier name
+        const displayName = buildName || tierNames[tier];
+        html += '<div class="tier-header">';
+        html += '<h5>' + escapeHtml(displayName) + '</h5>';
+        html += '<span class="tier-total">' + currencySymbol + formatNumber(total, 2) + '</span>';
+        html += '</div>';
+        html += '<div class="tier-components-grid">';
+        
+        components.forEach((comp, compIdx) => {
+            const imageUrl = comp.image_url || comp.image || '';
+          const finalImageUrl = safeExternalUrl(imageUrl);
+            const sourceUrl = comp.source_url || '#';
+          const finalSourceUrl = safeExternalUrl(sourceUrl);
+            const storeName = comp.store_name || '';
+            const compCurrency = comp.currency || currency;
+            const compSymbol = compCurrency === 'PHP' ? '₱' : compCurrency === 'USD' ? '$' : compCurrency === 'EUR' ? '€' : compCurrency === 'GBP' ? '£' : compCurrency === 'JPY' ? '¥' : compCurrency + ' ';
             
-            multipleRecs[tier].forEach(comp => {
-                const imageUrl = comp.image_url || comp.image || '';
-                // Use data URI placeholder instead of external URL
-                const placeholderImage = 'data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\'%3E%3Crect width=\'40\' height=\'40\' fill=\'%23f0f0f0\'/%3E%3Ctext x=\'50%25\' y=\'50%25\' text-anchor=\'middle\' dy=\'.3em\' font-size=\'8\' fill=\'%23999\'%3E%3C/text%3E%3C/svg%3E';
-                const finalImageUrl = imageUrl && imageUrl.trim() ? imageUrl : placeholderImage;
-                
-                html += '<div class="tier-component">';
-                html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(comp.model || '') + '" class="component-thumbnail">';
-                html += '<div class="tier-component-info">';
-                html += '<div class="tier-component-type">' + escapeHtml((comp.type || comp.component_type || '').toUpperCase()) + '</div>';
-                html += '<div class="tier-component-name">' + escapeHtml(comp.brand || '') + ' ' + escapeHtml(comp.model || '') + '</div>';
-                html += '</div>';
-                html += '<div class="tier-component-price">₱' + formatNumber(comp.price || 0, 2) + '</div>';
-                html += '</div>';
+            html += '<div class="tier-component-card" style="animation-delay: ' + (compIdx * 0.05) + 's">';
+            html += '<div class="tier-card-image">';
+            html += '<span class="tier-type-badge">' + escapeHtml((comp.type || comp.component_type || '').toUpperCase()) + '</span>';
+            if (finalImageUrl && finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="component-media-link">';
+              html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(comp.model || '') + '" class="component-thumbnail" loading="lazy">';
+              html += '</a>';
+            } else if (finalImageUrl) {
+              html += '<img src="' + escapeHtml(finalImageUrl) + '" alt="' + escapeHtml(comp.model || '') + '" class="component-thumbnail" loading="lazy">';
+            } else {
+              html += '<div class="component-image-empty">No image</div>';
+            }
+            html += '</div>';
+            html += '<div class="tier-card-body">';
+            if (finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="tier-component-name component-model-link">' + escapeHtml(comp.brand || '') + ' ' + escapeHtml(comp.model || '') + '</a>';
+            } else {
+              html += '<div class="tier-component-name">' + escapeHtml(comp.brand || '') + ' ' + escapeHtml(comp.model || '') + '</div>';
+            }
+            if (comp.reason) {
+                html += '<div class="tier-component-reason">' + escapeHtml(comp.reason) + '</div>';
+            }
+            html += '<div class="tier-card-footer">';
+            html += '<span class="tier-component-price">' + compSymbol + formatNumber(comp.price || 0, 2) + '</span>';
+            if (finalSourceUrl) {
+              html += '<a href="' + escapeHtml(finalSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="btn-view-small" title="' + escapeHtml(storeName) + '">Product Link</a>';
+            }
+            html += '</div>';
+            html += '</div>';
+            html += '</div>';
+        });
+        
+        html += '</div>';
+        
+        // Render compatibility notes if available
+        if (compatNotes.length > 0) {
+            html += '<div class="tier-compatibility-notes">';
+            html += '<div class="compatibility-header">✓ Compatibility Verified</div>';
+            html += '<ul>';
+            compatNotes.forEach(note => {
+                html += '<li>' + escapeHtml(note) + '</li>';
             });
-            
-            html += '</div>';
-            html += '</div>';
+            html += '</ul></div>';
         }
+        
+        html += '</div>';
     });
     
     html += '</div>';
@@ -573,6 +727,13 @@ function escapeHtml(text) {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+}
+
+function safeExternalUrl(value) {
+  if (!value || typeof value !== 'string') return '';
+  const trimmed = value.trim();
+  if (!/^https?:\/\//i.test(trimmed)) return '';
+  return trimmed;
 }
 
 function formatNumber(num, decimals = 0) {
@@ -596,7 +757,7 @@ function addMessageToUI(content, role, data = null) {
         messageDiv.appendChild(span);
     } else {
         // Check if it's structured data (recommendation)
-        if (data && data.data_type === 'recommendation' && data.data) {
+        if (data && (data.data_type === 'recommendation' || data.data_type === 'upgrade_suggestion') && data.data) {
             // Render introduction text
             const messageContent = document.createElement('div');
             messageContent.className = 'ai-message';
@@ -618,10 +779,10 @@ function addMessageToUI(content, role, data = null) {
             messageContent.innerHTML = content;
             messageDiv.appendChild(messageContent);
         } else {
-            // Plain text
+            // Plain text - use markdown parser for formatted responses
             const messageContent = document.createElement('div');
             messageContent.className = 'ai-message';
-            messageContent.textContent = content;
+            messageContent.innerHTML = parseMarkdown(content);
             messageDiv.appendChild(messageContent);
         }
     }
@@ -858,54 +1019,144 @@ class TypingAnimation {
 }
 
 // Function to show loading animation with typing effect
-function showLoadingAnimation(requestId = null) {
+// Detect message type for context-aware loading phases
+function detectMessageType(message) {
+    if (!message) return 'general';
+    const msg = message.toLowerCase();
+    
+    // Greeting patterns
+    if (/^(hi|hello|hey|good\s*(morning|afternoon|evening)|sup|yo|what'?s?\s*up)\b/.test(msg) && msg.length < 30) {
+        return 'greeting';
+    }
+
+    if (/(update|refresh|latest|current|recheck)\s+(all\s+)?(component\s+)?prices?/.test(msg) || /prices?\s+(update|refresh|recheck)/.test(msg)) {
+      return 'price_update';
+    }
+    
+    // Build/recommendation patterns
+    if (/\b(build|recommend|suggest|pc\s*build|gaming\s*(pc|setup|rig)|workstation|budget.*build|assemble|setup.*pc|parts?\s*list)\b/.test(msg)) {
+        return 'build';
+    }
+    
+    // Component search patterns
+    if (/\b(best|top|compare|find|search|looking\s*for|where\s*(to\s*)?buy|price|cheap|affordable)\b.*\b(gpu|cpu|ram|ssd|motherboard|graphics\s*card|processor|monitor|keyboard|mouse|case|psu|power\s*supply|cooler|fan)\b/.test(msg) ||
+        /\b(gpu|cpu|ram|ssd|motherboard|graphics\s*card|processor|monitor|keyboard|mouse|case|psu|power\s*supply|cooler|fan)\b.*\b(best|top|compare|find|search|price|cheap|affordable)\b/.test(msg)) {
+        return 'search';
+    }
+    
+    // Tips/advice patterns
+    if (/\b(how\s*to|tip|trick|hack|advice|fix|troubleshoot|optimize|improve|overclock|clean|maintain|upgrade|install|setup|configure|tweak|boost|speed\s*up|slow|issue|problem|error|crash|blue\s*screen|bsod|lag|freeze|overheat)\b/.test(msg)) {
+        return 'tips';
+    }
+    
+    // Upgrade patterns
+    if (/\b(upgrade|replace|swap|better|improve|boost)\b.*\b(gpu|cpu|ram|ssd|motherboard|graphics|processor|system|pc|laptop|computer)\b/.test(msg)) {
+        return 'upgrade';
+    }
+    
+    return 'general';
+}
+
+// Get loading phases based on message type
+function getLoadingPhases(messageType) {
+    switch (messageType) {
+        case 'greeting':
+            return [
+                "Thinking",
+                "Preparing a response"
+            ];
+        case 'build':
+            return [
+                "Thinking",
+                "Analyzing your requirements",
+                "Browsing through the internet",
+                "Searching for the latest components",
+                "Comparing prices across stores",
+                "Checking part compatibility",
+                "Optimizing for your budget",
+                "Finalizing recommendations"
+            ];
+        case 'search':
+            return [
+                "Thinking",
+                "Understanding your search",
+                "Browsing through the internet",
+                "Searching across multiple stores",
+                "Comparing prices and availability",
+                "Verifying product details",
+                "Preparing your results"
+            ];
+        case 'tips':
+            return [
+                "Thinking",
+                "Analyzing your request",
+                "Researching solutions",
+                "Gathering expert recommendations",
+                "Generating response"
+            ];
+        case 'upgrade':
+            return [
+                "Thinking",
+                "Analyzing your current setup",
+                "Browsing through the internet",
+                "Searching for compatible upgrades",
+                "Comparing upgrade options",
+                "Evaluating performance improvements",
+                "Finalizing suggestions"
+            ];
+        case 'price_update':
+          return [
+            "Reading component data files",
+            "Checking product pages for current prices",
+            "Updating verified prices",
+            "Recalculating pricing ranges",
+            "Finalizing component data update"
+          ];
+        default:
+            return [
+                "Thinking",
+                "Analyzing your request",
+                "Browsing through the internet",
+                "Generating response"
+            ];
+    }
+}
+
+function showLoadingAnimation(requestId = null, userMessage = null) {
     if (!threadMessages) return null;
     
     const loadingDiv = document.createElement('div');
-    loadingDiv.className = 'ai-input loading-message';
+    loadingDiv.className = 'ai-input';
     loadingDiv.id = 'loading-indicator';
     
-    const messageDiv = document.createElement('div');
-    messageDiv.className = 'ai-message';
+    // Build the loading UI directly — no wrapping .ai-message div
+    const inner = document.createElement('div');
+    inner.className = 'loading-bubble';
     
     const spinner = document.createElement('div');
     spinner.className = 'loading-spinner';
-    spinner.innerHTML = `
-        <div class="spinner-dot"></div>
-        <div class="spinner-dot"></div>
-        <div class="spinner-dot"></div>
-    `;
+    spinner.innerHTML = '<span></span><span></span><span></span>';
     
     const typingContainer = document.createElement('div');
     typingContainer.className = 'typing-container';
+
+    const skeletonStrip = document.createElement('div');
+    skeletonStrip.className = 'loading-skeleton-strip';
+    skeletonStrip.innerHTML = '<div class="loading-skeleton-card"></div><div class="loading-skeleton-card"></div><div class="loading-skeleton-card"></div>';
     
-    messageDiv.appendChild(spinner);
-    messageDiv.appendChild(typingContainer);
-    loadingDiv.appendChild(messageDiv);
+    inner.appendChild(spinner);
+    inner.appendChild(typingContainer);
+    inner.appendChild(skeletonStrip);
+    loadingDiv.appendChild(inner);
     
     threadMessages.appendChild(loadingDiv);
     scrollToBottom();
     
-    // Initialize typing animation with more phrases for continuous loop
-    const defaultPhases = [
-        "Understanding your request",
-        "Analyzing your requirements",
-        "Finding components within ₱xx,xxx budget",
-        "Searching the database for compatible parts",
-        "Checking compatibility with other parts",
-        "Evaluating performance benchmarks",
-        "Looking for better components",
-        "Comparing prices and specifications",
-        "Optimizing the build configuration",
-        "Verifying component availability",
-        "Calculating total system cost",
-        "Reviewing power consumption",
-        "Checking thermal requirements",
-        "Finalizing recommendations",
-        "Preparing your results"
-    ];
+    // Determine context-aware loading phrases
+    const messageType = detectMessageType(userMessage);
+    const phases = getLoadingPhases(messageType);
     
-    const typingAnim = new TypingAnimation(typingContainer, defaultPhases);
+    const typingAnim = new TypingAnimation(typingContainer, phases);
     loadingDiv.typingAnimation = typingAnim;
     loadingDiv.requestId = requestId;
     
@@ -1019,8 +1270,8 @@ async function sendMessage() {
     textInput.value = '';
     textInput.style.height = 'auto';
     
-    // Show loading animation (requestId will be set after response)
-    let loadingIndicator = showLoadingAnimation();
+    // Show loading animation (context-aware based on message)
+    let loadingIndicator = showLoadingAnimation(null, message);
     let requestId = null;
     
     try {
@@ -1815,36 +2066,48 @@ conPass.addEventListener('input', () => {
 });
 
 // Toggle alternatives visibility and fetch if needed
-function toggleAlternatives(componentId, rowIndex) {
-    if (!componentId) {
-        alert('Component ID not available for alternatives.');
+function toggleAlternativesOnline(buttonElement, rowIndex) {
+    // Get component data from button's data attribute
+    const compDataStr = decodeURIComponent(buttonElement.getAttribute('data-component'));
+    let compData;
+    try {
+        compData = JSON.parse(compDataStr);
+    } catch (e) {
+        console.error('Failed to parse component data:', e);
         return;
     }
     
-    // The row ID includes both componentId and index
-    const alternativesRowId = 'alternatives-row-' + componentId + '-' + rowIndex;
+    const alternativesRowId = 'alternatives-row-' + rowIndex;
     const alternativesRow = document.getElementById(alternativesRowId);
-    const alternativesContent = document.getElementById('alt-content-' + componentId);
-    const loadingDiv = document.getElementById('alt-loading-' + componentId);
-    const button = document.getElementById('alt-btn-' + componentId);
+    const alternativesContent = document.getElementById('alt-content-' + rowIndex);
+    const loadingDiv = document.getElementById('alt-loading-' + rowIndex);
+    const button = document.getElementById('alt-btn-' + rowIndex);
     
     if (!alternativesRow) return;
     
-    // Toggle visibility
+    // Toggle visibility with smooth animation
     const isVisible = alternativesRow.style.display !== 'none';
     
     if (isVisible) {
-        // Hide alternatives
-        alternativesRow.style.display = 'none';
+        // Hide alternatives with animation
+        alternativesRow.style.maxHeight = '0';
+        alternativesRow.style.opacity = '0';
+        setTimeout(() => {
+            alternativesRow.style.display = 'none';
+        }, 300);
         if (button) {
-            button.textContent = 'Alternatives';
+            button.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"/><path d="M8 3H3v5"/><path d="M12 22v-8.3a4 4 0 00-1.172-2.872L3 3"/><path d="m15 9 6-6"/></svg> Alternatives';
             button.classList.remove('active');
         }
     } else {
-        // Show alternatives
+        // Show alternatives with animation
         alternativesRow.style.display = '';
+        requestAnimationFrame(() => {
+            alternativesRow.style.maxHeight = '2000px';
+            alternativesRow.style.opacity = '1';
+        });
         if (button) {
-            button.textContent = 'Hide Alternatives';
+            button.innerHTML = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg> Hide';
             button.classList.add('active');
         }
         
@@ -1853,38 +2116,62 @@ function toggleAlternatives(componentId, rowIndex) {
             loadingDiv.style.display = 'block';
             alternativesContent.innerHTML = '';
             
-            // Use API_BASE endpoint instead of hardcoded localhost
-            apiCall('/api/alternatives.php', 'POST', {component_id: componentId})
+            // Send component details (not ID) for AI-powered alternative search
+            apiCall('/api/alternatives.php', 'POST', {
+                component_type: compData.type,
+                brand: compData.brand,
+                model: compData.model,
+                price: compData.price
+            })
             .then(data => {
                 loadingDiv.style.display = 'none';
                 
                 if (data.success && data.alternatives && data.alternatives.length > 0) {
-                    // Render alternatives inline
                     let altHtml = '<div class="alternatives-header">';
-                    altHtml += '<strong>Alternative Components:</strong> ';
+                    altHtml += '<strong>Alternative Components</strong> ';
                     altHtml += '<span class="alt-count">' + data.alternatives.length + ' found</span>';
+                    if (data.compatibility_note) {
+                        altHtml += '<div class="alt-note">' + escapeHtml(data.compatibility_note) + '</div>';
+                    }
                     altHtml += '</div>';
-                    altHtml += '<div class="alternatives-list">';
+                    altHtml += '<div class="alternatives-card-grid">';
                     
-                    data.alternatives.forEach(alt => {
+                    data.alternatives.forEach((alt, altIdx) => {
                         const altImageUrl = alt.image_url || alt.image || '';
-                        const altPlaceholderImage = 'data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'40\' height=\'40\'%3E%3Crect width=\'40\' height=\'40\' fill=\'%23f0f0f0\'/%3E%3Ctext x=\'50%25\' y=\'50%25\' text-anchor=\'middle\' dy=\'.3em\' font-size=\'8\' fill=\'%23999\'%3ENo Image%3C/text%3E%3C/svg%3E';
-                        const altFinalImageUrl = altImageUrl && altImageUrl.trim() ? altImageUrl : altPlaceholderImage;
+                      const altFinalImageUrl = safeExternalUrl(altImageUrl);
                         const altSourceUrl = alt.source_url || alt.url || '#';
+                      const finalAltSourceUrl = safeExternalUrl(altSourceUrl);
+                        const altStoreName = alt.store_name || '';
+                        const altReason = alt.reason || '';
+                        const altCurrency = alt.currency || 'PHP';
+                        const altSymbol = altCurrency === 'PHP' ? '₱' : altCurrency === 'USD' ? '$' : altCurrency === 'EUR' ? '€' : altCurrency + ' ';
                         
-                        altHtml += '<div class="alternative-item">';
-                        altHtml += '<div class="alt-image">';
-                        altHtml += '<img src="' + escapeHtml(altFinalImageUrl) + '" alt="' + escapeHtml(alt.model || '') + '" class="alt-component-image">';
+                        altHtml += '<div class="alt-card" style="animation-delay: ' + (altIdx * 0.05) + 's">';
+                        altHtml += '<div class="alt-card-image">';
+                        if (altFinalImageUrl && finalAltSourceUrl) {
+                          altHtml += '<a href="' + escapeHtml(finalAltSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="component-media-link">';
+                          altHtml += '<img src="' + escapeHtml(altFinalImageUrl) + '" alt="' + escapeHtml(alt.model || '') + '" class="alt-component-image" loading="lazy">';
+                          altHtml += '</a>';
+                        } else if (altFinalImageUrl) {
+                          altHtml += '<img src="' + escapeHtml(altFinalImageUrl) + '" alt="' + escapeHtml(alt.model || '') + '" class="alt-component-image" loading="lazy">';
+                        } else {
+                          altHtml += '<div class="component-image-empty">No image</div>';
+                        }
                         altHtml += '</div>';
-                        altHtml += '<div class="alt-info">';
+                        altHtml += '<div class="alt-card-body">';
                         altHtml += '<div class="alt-brand-model">' + escapeHtml(alt.brand || 'N/A') + ' ' + escapeHtml(alt.model || 'N/A') + '</div>';
-                        altHtml += '<div class="alt-type">' + escapeHtml((alt.type || '').toUpperCase()) + '</div>';
+                        if (altReason) {
+                            altHtml += '<div class="alt-reason">' + escapeHtml(altReason) + '</div>';
+                        }
+                        altHtml += '<div class="alt-card-footer">';
+                        altHtml += '<span class="alt-price-amount">' + altSymbol + formatNumber(alt.price || 0, 2) + '</span>';
+                        if (altStoreName) {
+                            altHtml += '<span class="alt-store">' + escapeHtml(altStoreName) + '</span>';
+                        }
                         altHtml += '</div>';
-                        altHtml += '<div class="alt-price">';
-                        altHtml += '<span class="alt-price-amount">₱' + formatNumber(alt.price || 0, 2) + '</span>';
-                        altHtml += '</div>';
-                        altHtml += '<div class="alt-actions">';
-                        altHtml += '<a href="' + escapeHtml(altSourceUrl) + '" target="_blank" class="btn-view-small">View</a>';
+                        if (finalAltSourceUrl) {
+                          altHtml += '<a href="' + escapeHtml(finalAltSourceUrl) + '" target="_blank" rel="noopener noreferrer" class="btn-view-small" title="Search at ' + escapeHtml(altStoreName || 'store') + '">Product Link</a>';
+                        }
                         altHtml += '</div>';
                         altHtml += '</div>';
                     });
@@ -1905,10 +2192,10 @@ function toggleAlternatives(componentId, rowIndex) {
         }
     }
     
-    // Scroll to show the alternatives row
+    // Scroll to show the alternatives
     setTimeout(() => {
         if (alternativesRow.style.display !== 'none') {
             alternativesRow.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         }
-    }, 100);
+    }, 150);
 }

@@ -34,9 +34,66 @@ ini_set('session.gc_maxlifetime', 86400); // 24 hours - increased from 30 minute
 if (file_exists(__DIR__ . '/vendor/autoload.php')) {
     require_once __DIR__ . '/vendor/autoload.php';
     if (class_exists('Dotenv\Dotenv')) {
-        $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+        // Use createUnsafeImmutable so values are available via getenv() too
+        $dotenv = Dotenv\Dotenv::createUnsafeImmutable(__DIR__);
         $dotenv->safeLoad();
     }
+}
+
+function getConfigValue($key, $default = null) {
+    static $dotenvValues = null;
+
+    if ($dotenvValues === null) {
+        $dotenvValues = [];
+        $envFile = __DIR__ . '/.env';
+
+        if (is_readable($envFile)) {
+            $lines = file($envFile, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+            foreach ($lines as $line) {
+                $trimmedLine = trim($line);
+                if ($trimmedLine === '' || str_starts_with($trimmedLine, '#')) {
+                    continue;
+                }
+
+                $separatorPosition = strpos($trimmedLine, '=');
+                if ($separatorPosition === false) {
+                    continue;
+                }
+
+                $name = trim(substr($trimmedLine, 0, $separatorPosition));
+                $value = trim(substr($trimmedLine, $separatorPosition + 1));
+
+                if ($value !== '' && strlen($value) >= 2) {
+                    $quote = $value[0];
+                    if (($quote === '"' || $quote === "'") && $value[strlen($value) - 1] === $quote) {
+                        $value = substr($value, 1, -1);
+                    }
+                }
+
+                $dotenvValues[$name] = stripcslashes($value);
+            }
+        }
+    }
+
+    $value = getenv($key);
+    if ($value !== false && $value !== null && $value !== '') {
+        return $value;
+    }
+
+    if (isset($_ENV[$key]) && $_ENV[$key] !== '') {
+        return $_ENV[$key];
+    }
+
+    if (isset($_SERVER[$key]) && $_SERVER[$key] !== '') {
+        return $_SERVER[$key];
+    }
+
+    if (isset($dotenvValues[$key]) && $dotenvValues[$key] !== '') {
+        return $dotenvValues[$key];
+    }
+
+    return $default;
 }
 
 // Set explicit session cookie parameters for better reliability
@@ -64,12 +121,12 @@ if (!isset($_SESSION['created'])) {
 }
 
 // Database configuration - Use environment variables (no hardcoded credentials)
-define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
-define('DB_PORT', getenv('DB_PORT') ? (int)getenv('DB_PORT') : 3306);
-define('DB_USER', getenv('DB_USER') ?: 'root');
-define('DB_PASS', getenv('DB_PASS') ?: '');
-define('DB_NAME', getenv('DB_NAME') ?: 'defaultdb');
-define('DB_SSL', getenv('DB_SSL') === 'true' || getenv('DB_SSL') === '1' || (getenv('DB_SSL') === null && false));
+define('DB_HOST', getConfigValue('DB_HOST', 'localhost'));
+define('DB_PORT', (int)getConfigValue('DB_PORT', 3306));
+define('DB_USER', getConfigValue('DB_USER', 'root'));
+define('DB_PASS', getConfigValue('DB_PASS', ''));
+define('DB_NAME', getConfigValue('DB_NAME', 'defaultdb'));
+define('DB_SSL', in_array(strtolower((string)getConfigValue('DB_SSL', 'false')), ['1', 'true', 'yes', 'on'], true));
 
 // Determine allowed origin dynamically (to allow cookies)
 $origin = $_SERVER['HTTP_ORIGIN'] ?? '';
@@ -93,7 +150,7 @@ if ($render_url) {
 $repl_slug = getenv('REPL_SLUG');
 $repl_owner = getenv('REPL_OWNER');
 if ($repl_slug && $repl_owner) {
-    $replit_url = "https://${repl_slug}.${repl_owner}.repl.co";
+    $replit_url = "https://{$repl_slug}.{$repl_owner}.repl.co";
     $allowed_origins[] = $replit_url;
     $allowed_origins[] = str_replace('https://', 'http://', $replit_url);
 }
@@ -106,55 +163,96 @@ if (in_array($origin, $allowed_origins)) {
 header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS');
 header('Access-Control-Allow-Headers: Content-Type, Authorization');
 
-if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+if (($_SERVER['REQUEST_METHOD'] ?? '') === 'OPTIONS') {
     http_response_code(200);
     exit;
+}
+
+function createDBConnection() {
+    $conn = mysqli_init();
+
+    if (!$conn) {
+        throw new Exception('mysqli_init failed');
+    }
+
+    mysqli_options($conn, MYSQLI_OPT_CONNECT_TIMEOUT, 10);
+
+    if (defined('MYSQLI_OPT_READ_TIMEOUT')) {
+        mysqli_options($conn, MYSQLI_OPT_READ_TIMEOUT, 30);
+    }
+
+    $flags = 0;
+
+    if (DB_SSL) {
+        mysqli_ssl_set($conn, null, null, null, null, null);
+
+        if (defined('MYSQLI_OPT_SSL_VERIFY_SERVER_CERT')) {
+            mysqli_options($conn, MYSQLI_OPT_SSL_VERIFY_SERVER_CERT, false);
+        }
+
+        $flags |= MYSQLI_CLIENT_SSL;
+    }
+
+    $connected = @mysqli_real_connect(
+        $conn,
+        DB_HOST,
+        DB_USER,
+        DB_PASS,
+        DB_NAME,
+        DB_PORT,
+        null,
+        $flags
+    );
+
+    if (!$connected) {
+        throw new Exception('Connection failed: ' . mysqli_connect_error());
+    }
+
+    if (!$conn->set_charset('utf8mb4')) {
+        throw new Exception('Error setting charset: ' . $conn->error);
+    }
+
+    return $conn;
+}
+
+function isDBConnectionAlive($conn) {
+    if (!($conn instanceof mysqli)) {
+        return false;
+    }
+
+    try {
+        return @$conn->query('SELECT 1') !== false;
+    } catch (Throwable $e) {
+        return false;
+    }
 }
 
 // Database connection with error handling
 function getDBConnection() {
     static $conn = null;
-    if ($conn === null) {
-        try {
-            $conn = mysqli_init();
-            
-            if (!$conn) {
-                throw new Exception("mysqli_init failed");
-            }
-            
-            // Set SSL options for AivenDB
-            if (DB_SSL) {
-                mysqli_ssl_set($conn, NULL, NULL, NULL, NULL, NULL);
-                mysqli_options($conn, MYSQLI_OPT_SSL_VERIFY_SERVER_CERT, false);
-            }
-            
-            // Connect with SSL
-            $connected = @mysqli_real_connect(
-                $conn, 
-                DB_HOST, 
-                DB_USER, 
-                DB_PASS, 
-                DB_NAME, 
-                DB_PORT, 
-                NULL, 
-                MYSQLI_CLIENT_SSL
-            );
-            
-            if (!$connected) {
-                throw new Exception("Connection failed: " . mysqli_connect_error());
-            }
-            
-            if (!$conn->set_charset("utf8mb4")) {
-                throw new Exception("Error setting charset: " . $conn->error);
-            }
-            
-        } catch (Exception $e) {
-            error_log("Database connection error: " . $e->getMessage());
-            // Don't expose database details to client
-            return null;
-        }
+
+    if ($conn !== null && isDBConnectionAlive($conn)) {
+        return $conn;
     }
-    return $conn;
+
+    if ($conn !== null) {
+        try {
+            @$conn->close();
+        } catch (Throwable $e) {
+            // Ignore cleanup failures and attempt a fresh connection.
+        }
+
+        $conn = null;
+    }
+
+    try {
+        $conn = createDBConnection();
+        return $conn;
+    } catch (Exception $e) {
+        error_log('Database connection error: ' . $e->getMessage());
+        // Don't expose database details to client
+        return null;
+    }
 }
 
 // Helper function to send JSON response

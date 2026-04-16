@@ -1,0 +1,1370 @@
+[
+    {
+        "name": "Kingston A400 240GB SATA SSD",
+        "brand": "Kingston",
+        "model": "A400 240GB",
+        "type": "SATA SSD",
+        "capacity": "240GB",
+        "interface": "SATA III",
+        "read_speed": "500 MB/s",
+        "write_speed": "350 MB/s",
+        "price": 895,
+        "price_range": "budget",
+        "image_url": "Kingston A400 240GB Kingston A400 240GB SATA SSD",
+        "link": "https://easypc.com.ph/products/kingston-ssdnow-a400-120gb-sata3-m-2-2-5-and-m-2-form-factors-fast-start-up-loading-and-file-transfers-more-reliable-and-durable-than-a-hard-drive-multiple-capacities-with-space-for-applications-or-a-hard-drive-replacement-solid-state-drive?variant=45295688482987",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial BX500 240GB SATA SSD",
+        "brand": "Crucial",
+        "model": "BX500 240GB",
+        "type": "SATA SSD",
+        "capacity": "240GB",
+        "interface": "SATA III",
+        "read_speed": "540 MB/s",
+        "write_speed": "500 MB/s",
+        "price": 1195,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/Crucial_BX500_240G-a_540x.jpg?v=1697440587",
+        "link": "https://easypc.com.ph/cdn/shop/products/Crucial_BX500_240G-a_540x.jpg?v=1697440587",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Green 240GB SATA SSD",
+        "brand": "Western Digital",
+        "model": "Green 240GB",
+        "type": "SATA SSD",
+        "capacity": "240GB",
+        "interface": "SATA III",
+        "read_speed": "545 MB/s",
+        "write_speed": "430 MB/s",
+        "price": 1295,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Western_Digital_240GB_large.jpg?v=1702437033",
+        "link": "https://easypc.com.ph/products/western-digital-240gb-green-m-2-fast-performance-with-cost-effective-nvme-pcie-2400mb-s-read-performance-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "TeamGroup CX2 256GB SATA SSD",
+        "brand": "TeamGroup",
+        "model": "CX2 256GB",
+        "type": "SATA SSD",
+        "capacity": "256GB",
+        "interface": "SATA III",
+        "read_speed": "520 MB/s",
+        "write_speed": "430 MB/s",
+        "price": 1095,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/files/10789_large.png?v=1770842372",
+        "link": "https://easypc.com.ph/products/teamgroup-vulcan-16gb-8gbx2-6000mhz-cl38-ddr5-memory",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Kingston A400 480GB SATA SSD",
+        "brand": "Kingston",
+        "model": "A400 480GB",
+        "type": "SATA SSD",
+        "capacity": "480GB",
+        "interface": "SATA III",
+        "read_speed": "500 MB/s",
+        "write_speed": "450 MB/s",
+        "price": 1595,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Kingston_SSDNow_A400_120GB_SSD_large.jpg?v=1701648627",
+        "link": "https://easypc.com.ph/products/kingston-ssdnow-a400-120gb-sata3-m-2-2-5-and-m-2-form-factors-fast-start-up-loading-and-file-transfers-more-reliable-and-durable-than-a-hard-drive-multiple-capacities-with-space-for-applications-or-a-hard-drive-replacement-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial BX500 500GB SATA SSD",
+        "brand": "Crucial",
+        "model": "BX500 500GB",
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "read_speed": "540 MB/s",
+        "write_speed": "500 MB/s",
+        "price": 1895,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Crucial_BX500_240G_large.jpg?v=1697440594",
+        "link": "https://easypc.com.ph/products/easypc-crucial-bx500-240gb-3d-nand-sata-2-5-ssd-sata-interface-high-performance",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 870 EVO 250GB SATA SSD",
+        "brand": "Samsung",
+        "model": "870 EVO 250GB",
+        "type": "SATA SSD",
+        "capacity": "250GB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 1495,
+        "price_range": "budget",
+        "image_url": "Samsung 870 EVO 250GB Samsung 870 EVO 250GB SATA SSD",
+        "link": "https://easypc.com.ph/products/samsung-870-evo-250gb-sata-2-5-world-s-best-selling-ssd-series-pioneering-ssd-technology-boasting-upgraded-performance-reliability-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue 500GB SATA SSD",
+        "brand": "Western Digital",
+        "model": "Blue 500GB",
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 2195,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Western_Digital_Solid_State_Drive_500gb_Blue_SATA_2.5-b_large.jpg?v=1700464327",
+        "link": "https://easypc.com.ph/products/western-digital-solid-state-drive-500gb-blue-sata-2-5",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate Barracuda 1TB HDD",
+        "brand": "Seagate",
+        "model": "Barracuda ST1000DM010",
+        "type": "HDD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "210 MB/s",
+        "write_speed": "210 MB/s",
+        "price": 1995,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Seagate_2TB_ST2000VX015_SkyHawk_large.jpg?v=1702880245",
+        "link": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Seagate_2TB_ST2000VX015_SkyHawk_large.jpg?v=1702880245",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue 1TB HDD",
+        "brand": "Western Digital",
+        "model": "Blue WD10EZEX",
+        "type": "HDD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "180 MB/s",
+        "write_speed": "180 MB/s",
+        "price": 2200,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/files/WesternDigital1tbHarddiskDriveBlue_large.jpg?v=1698993943",
+        "link": "https://easypc.com.ph/products/western-digital-1tb-harddisk-drive-blue",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Toshiba DT01ACA100 1TB HDD",
+        "brand": "Toshiba",
+        "model": "DT01ACA100",
+        "type": "HDD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "185 MB/s",
+        "write_speed": "185 MB/s",
+        "price": 2200,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Toshiba_Canvio_Basics_HDTB410AKCAA_1tb_large.jpg?v=1702426113",
+        "link": "https://easypc.com.ph/products/toshiba-canvio-basics-hdtb410akcaa-1tb-usb-c-2-5-superspeed-usb-3-0-usb-type-c-cable-easy-plug-and-play-operation-external-hard-disk-drive-black",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate Barracuda 2TB HDD",
+        "brand": "Seagate",
+        "model": "Barracuda ST2000DM008",
+        "type": "HDD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "read_speed": "220 MB/s",
+        "write_speed": "220 MB/s",
+        "price": 3300,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Toshiba_Canvio_Basics_HDTB410AKCAA_1tb_large.jpg?v=1702426113",
+        "link": "https://easypc.com.ph/pages/search-results-page?q=toshiba",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue 2TB HDD",
+        "brand": "Western Digital",
+        "model": "Blue WD20EZBX",
+        "type": "HDD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "read_speed": "200 MB/s",
+        "write_speed": "200 MB/s",
+        "price": 3300,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/files/WesternDigital1tbHarddiskDriveBlue_large.jpg?v=1698993943",
+        "link": "https://easypc.com.ph/products/western-digital-1tb-harddisk-drive-blue",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Kingston NV2 250GB NVMe SSD",
+        "brand": "Kingston",
+        "model": "NV2 250GB",
+        "type": "NVMe SSD",
+        "capacity": "250GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "3000 MB/s",
+        "write_speed": "1300 MB/s",
+        "price": 1800,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Kingston_NV1_500GB_large.jpg?v=1698983071",
+        "link": "https://easypc.com.ph/pages/search-results-page?q=Kingston%20NV2%20250GB%20Kingston%20NV2%20250GB%20NVMe%20SSD",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue SN580 250GB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Blue SN580 250GB",
+        "type": "NVMe SSD",
+        "capacity": "250GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "4000 MB/s",
+        "write_speed": "2000 MB/s",
+        "price": 1800,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/41SXOXTpk9L._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Western-Digital-SN580-Internal-Solid/dp/B0C8WPRM9T/ref=sr_1_1?crid=XDN46XL3QNK4&dib=eyJ2IjoiMSJ9.BVHLClGLz4bm3KAVBSmeGETGRb9yFfoeTp-JqujJo_WtrMtJKh7JRXmufzpdqRjRPIzGY2h0IOCqyKVQ0c27m2D8PshJxEPvhp4XscBA88pxamU3kdZ1eNAcfSMHZVTN1R84Cnibbg1_EpxKakPINvNnIiH_jHk_o67q4E4YdbAFV4UcNt1h6g9sNp9eLhAMEPaintNcwN_d6aptwcJT1htVoPMSruw-s4mfRf3vVpU.-HYUE2NbETqsGBPiFHf8OQV267xzf9tghikJ4I6JnYY&dib_tag=se&keywords=Western%2BDigital%2BBlue%2BSN580%2B250GB%2BWD%2BBlue%2BSN580%2B250GB%2BNVMe%2BSSD&nsdOptOutParam=true&qid=1773372246&sprefix=corsair%2Bvengeance%2B32gb%2B2x16gb%2Bddr5-5600%2Bcorsair%2Bvengeance%2B32gb%2B2x16gb%2Bddr5-5600%2Caps%2C557&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial P3 500GB NVMe SSD",
+        "brand": "Crucial",
+        "model": "P3 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "1900 MB/s",
+        "price": 2800,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/51iNNIdPqkL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Crucial-P310-500GB-2280-PCIe/dp/B0DC8K6KQD/ref=sr_1_1?crid=3CV1D8WP4JIHW&dib=eyJ2IjoiMSJ9.841tBzUdc6wrQSbOCFwRGHDkOyHbD8aJq_6STmA9eSt5G7VikQxW5WOeF2bzE3dT81Zs4VeJ5iNx1-OowHZB2NA7hqgLH_FkBHNiYrwcbka6m0I1SQT3ooDg89Wfh-DfY7hUMDxWAeoViJnGGJZQL2WDM2T0eZifUL_7xJ2geCb8lNuUFpixgXqCWGH0pb_fxkJ78nJD6WsbynsWnCitBbtk_s6bKpEEXPlB80DZcDo.y7AXoOetyjav5nMJdVwqXzfQn4GkXt77GLxu1eY4dvE&dib_tag=se&keywords=Crucial+P3+500GB+Crucial+P3+500GB+NVMe+SSD&nsdOptOutParam=true&qid=1773372263&sprefix=western+digital+blue+sn580+250gb+wd+blue+sn580+250gb+nvme+ssd%2Caps%2C376&sr=8-1",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Kingston NV2 500GB NVMe SSD",
+        "brand": "Kingston",
+        "model": "NV2 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "2100 MB/s",
+        "price": 2800,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Kingston_NV1_500GB_large.jpg?v=1698983071",
+        "link": "https://easypc.com.ph/products/kingston-nv1-500gb-pcie-m-2-nvme-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "ADATA Legend 800 500GB NVMe SSD",
+        "brand": "ADATA",
+        "model": "Legend 800 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "2200 MB/s",
+        "price": 2800,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/products/adata-4gb-1x4-2666mhz-ddr4-260-pin-interface-extra-fast-ultra-efficient-rohs-compliant-jedec-standard-sodimm-memory?variant=39934048600235",
+        "link": "https://easypc.com.ph/products/adata-4gb-1x4-2666mhz-ddr4-260-pin-interface-extra-fast-ultra-efficient-rohs-compliant-jedec-standard-sodimm-memory?variant=39934048600235",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 870 EVO 500GB SATA SSD",
+        "brand": "Samsung",
+        "model": "870 EVO 500GB",
+        "type": "SATA SSD",
+        "capacity": "500GB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 2000,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Samsung_870_Evo_500gb_SATA_2.5_Solid_State_Drive_large.jpg?v=1701408171",
+        "link": "https://easypc.com.ph/pages/search-results-page?q=Samsung%20870%20EVO%20500GB%20Samsung%20870%20EVO%20500GB%20SATA%20SSD",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 870 EVO 1TB SATA SSD",
+        "brand": "Samsung",
+        "model": "870 EVO 1TB",
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Samsung_870_EVO_1TB_SATA_2.5_Solid_State_Drive-b_large.jpg?v=1701412892",
+        "link": "https://easypc.com.ph/products/samsung-870-evo-1tb-sata-2-5-560mb-s-seq-read-530mb-s-seq-write-internal-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial BX500 1TB SATA SSD",
+        "brand": "Crucial",
+        "model": "BX500 1TB",
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "540 MB/s",
+        "write_speed": "500 MB/s",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/files/10210_large.png?v=1772007151",
+        "link": "https://easypc.com.ph/products/crucial-p310-1tb-m-2-nvme-pcie-gen4x4-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue 1TB SATA SSD",
+        "brand": "Western Digital",
+        "model": "Blue 1TB",
+        "type": "SATA SSD",
+        "capacity": "1TB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/2604-b_large.jpg?v=1586259966",
+        "link": "Western Digital Blue 1TB WD Blue 1TB SATA SSD",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Kingston NV2 1TB NVMe SSD",
+        "brand": "Kingston",
+        "model": "NV2 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "2100 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.shopify.com/s/files/1/0101/4864/2879/products/Kingston_NV1_500GB_large.jpg?v=1698983071",
+        "link": "https://easypc.com.ph/products/kingston-nv1-500gb-pcie-m-2-nvme-solid-state-drive",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial P3 1TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "P3 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "3000 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://www.amazon.com/Crucial-Plus-PCIe-NAND-5000MB/dp/B0B25ML2FH/ref=sr_1_2?crid=ZCWVCS5ROTKB&dib=eyJ2IjoiMSJ9.gWMHeuGH9Xo9dYAxoHB7wJLiZBdrwoQqZpminUtptG9mO9XzgWvb2tciXE8Z0465c4aUoX6OxE7EBgoL8e-amdW0sRr_mUeJ71I4EWjkpJcvxoyA1E_Eh3w8h3XGxSPfhI0vGlOFReG1ps0zm2r7rYwJ_VfersTaX2NpT7BAxm1_L_yB0h6-PUG-cgxdF8b59mQbRcRr81KvsWXaTQKEUoXhChcskhOW-QMwV3i1t3s.k-lRTANmM0TY28LYzGXXVu7o_dKsIZ7ipcZ9e0e0CNo&dib_tag=se&keywords=Crucial+P3+1TB+Crucial+P3+1TB+NVMe+SSD&nsdOptOutParam=true&qid=1773372486&sprefix=crucial+p3+500gb+crucial+p3+500gb+nvme+ssd%2Caps%2C542&sr=8-2",
+        "link": "https://www.amazon.com/Crucial-Plus-PCIe-NAND-5000MB/dp/B0B25NXWC7/ref=sr_1_1?crid=ZCWVCS5ROTKB&dib=eyJ2IjoiMSJ9.gWMHeuGH9Xo9dYAxoHB7wJLiZBdrwoQqZpminUtptG9mO9XzgWvb2tciXE8Z0465c4aUoX6OxE7EBgoL8e-amdW0sRr_mUeJ71I4EWjkpJcvxoyA1E_Eh3w8h3XGxSPfhI0vGlOFReG1ps0zm2r7rYwJ_VfersTaX2NpT7BAxm1_L_yB0h6-PUG-cgxdF8b59mQbRcRr81KvsWXaTQKEUoXhChcskhOW-QMwV3i1t3s.k-lRTANmM0TY28LYzGXXVu7o_dKsIZ7ipcZ9e0e0CNo&dib_tag=se&keywords=Crucial+P3+1TB+Crucial+P3+1TB+NVMe+SSD&nsdOptOutParam=true&qid=1773372486&sprefix=crucial+p3+500gb+crucial+p3+500gb+nvme+ssd%2Caps%2C542&sr=8-1",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue SN580 1TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Blue SN580 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "4150 MB/s",
+        "write_speed": "4150 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/41SXOXTpk9L._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Western-Digital-SN580-Internal-Solid/dp/B0C8WPRM9T/ref=sr_1_1?crid=X7VZPKZ47FE7&dib=eyJ2IjoiMSJ9.BVHLClGLz4bm3KAVBSmeGOZY4zn93DrMKwwLuExFGEpKgBGyvZWATburLy1qv1LUa6b7ia18PE9hrJr2_H_JrOqilNxnvjt5wcG2ecxFn7b8J0VoLMeBZxUtr9-iHtYCQ8O7DrpOWazYK9fGI56AwgSI7wedccQtmT0O50QLSZVWsX7D52s2A4m7hZvgjY2AvwF4xvxus3oCi4erHj2Krqv9G6koKB-hCFzqt8nBTus.eYjNz5BugVneqdKNGAcDWK4EDFTciN3ng2b8AEBOevI&dib_tag=se&keywords=Western+Digital+Blue+SN580+1TB+WD+Blue+SN580+1TB+NVMe+SSD&nsdOptOutParam=true&qid=1773372542&sprefix=crucial+p3+1tb+crucial+p3+1tb+nvme+ssd%2Caps%2C492&sr=8-1",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 980 1TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "980 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "3000 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "ADATA Legend 850 1TB NVMe SSD",
+        "brand": "ADATA",
+        "model": "Legend 850 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5000 MB/s",
+        "write_speed": "4500 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial P3 Plus 1TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "P3 Plus 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5000 MB/s",
+        "write_speed": "4200 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "TeamGroup MP34 1TB NVMe SSD",
+        "brand": "TeamGroup",
+        "model": "MP34 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3400 MB/s",
+        "write_speed": "2900 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Sabrent Rocket 1TB NVMe SSD",
+        "brand": "Sabrent",
+        "model": "Rocket 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3450 MB/s",
+        "write_speed": "3000 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 EVO 1TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 EVO 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x2",
+        "read_speed": "5000 MB/s",
+        "write_speed": "4200 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "SK Hynix Platinum P41 500GB NVMe SSD",
+        "brand": "SK Hynix",
+        "model": "Platinum P41 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7000 MB/s",
+        "write_speed": "4700 MB/s",
+        "price": 2800,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN770 500GB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN770 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5000 MB/s",
+        "write_speed": "4000 MB/s",
+        "price": 2800,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 980 PRO 500GB NVMe SSD",
+        "brand": "Samsung",
+        "model": "980 PRO 500GB",
+        "type": "NVMe SSD",
+        "capacity": "500GB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "6900 MB/s",
+        "write_speed": "5000 MB/s",
+        "price": 2800,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate Barracuda 4TB HDD",
+        "brand": "Seagate",
+        "model": "Barracuda ST4000DM004",
+        "type": "HDD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "read_speed": "190 MB/s",
+        "write_speed": "190 MB/s",
+        "price": 5500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Blue 4TB HDD",
+        "brand": "Western Digital",
+        "model": "Blue WD40EZAZ",
+        "type": "HDD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "read_speed": "180 MB/s",
+        "write_speed": "180 MB/s",
+        "price": 5500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Toshiba P300 4TB HDD",
+        "brand": "Toshiba",
+        "model": "P300 4TB",
+        "type": "HDD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "read_speed": "190 MB/s",
+        "write_speed": "190 MB/s",
+        "price": 5500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Kingston NV2 2TB NVMe SSD",
+        "brand": "Kingston",
+        "model": "NV2 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "2800 MB/s",
+        "price": 8500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial P3 2TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "P3 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 3.0 x4",
+        "read_speed": "3500 MB/s",
+        "write_speed": "3000 MB/s",
+        "price": 8500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial P3 Plus 2TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "P3 Plus 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5000 MB/s",
+        "write_speed": "4200 MB/s",
+        "price": 8500,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN770 1TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN770 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5150 MB/s",
+        "write_speed": "4900 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 EVO Plus 1TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 EVO Plus 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x2",
+        "read_speed": "7250 MB/s",
+        "write_speed": "6300 MB/s",
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 PRO 1TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 PRO 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7450 MB/s",
+        "write_speed": "6900 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN850X 1TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN850X 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7300 MB/s",
+        "write_speed": "6300 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "SK Hynix Platinum P41 1TB NVMe SSD",
+        "brand": "SK Hynix",
+        "model": "Platinum P41 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7000 MB/s",
+        "write_speed": "6500 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Corsair MP600 PRO LPX 1TB NVMe SSD",
+        "brand": "Corsair",
+        "model": "MP600 PRO LPX 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7100 MB/s",
+        "write_speed": "5800 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus 1TB NVMe SSD",
+        "brand": "Sabrent",
+        "model": "Rocket 4 Plus 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7100 MB/s",
+        "write_speed": "5800 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "ADATA Legend 970 1TB NVMe SSD",
+        "brand": "ADATA",
+        "model": "Legend 970 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "10000 MB/s",
+        "write_speed": "10000 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 PRO 2TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 PRO 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7450 MB/s",
+        "write_speed": "6900 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN850X 2TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN850X 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7300 MB/s",
+        "write_speed": "6600 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "SK Hynix Platinum P41 2TB NVMe SSD",
+        "brand": "SK Hynix",
+        "model": "Platinum P41 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7000 MB/s",
+        "write_speed": "6500 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN770 2TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN770 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "5150 MB/s",
+        "write_speed": "4850 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 EVO Plus 2TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 EVO Plus 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 5.0 x2",
+        "read_speed": "7250 MB/s",
+        "write_speed": "6300 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Corsair MP600 PRO LPX 2TB NVMe SSD",
+        "brand": "Corsair",
+        "model": "MP600 PRO LPX 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7100 MB/s",
+        "write_speed": "6800 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Sabrent Rocket 4 Plus 2TB NVMe SSD",
+        "brand": "Sabrent",
+        "model": "Rocket 4 Plus 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7100 MB/s",
+        "write_speed": "6600 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 870 EVO 2TB SATA SSD",
+        "brand": "Samsung",
+        "model": "870 EVO 2TB",
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 6000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial MX500 2TB SATA SSD",
+        "brand": "Crucial",
+        "model": "MX500 2TB",
+        "type": "SATA SSD",
+        "capacity": "2TB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "510 MB/s",
+        "price": 6000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate Barracuda 6TB HDD",
+        "brand": "Seagate",
+        "model": "Barracuda ST6000DM003",
+        "type": "HDD",
+        "capacity": "6TB",
+        "interface": "SATA III",
+        "read_speed": "185 MB/s",
+        "write_speed": "185 MB/s",
+        "price": 12000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black 6TB HDD",
+        "brand": "Western Digital",
+        "model": "Black WD6004FZWX",
+        "type": "HDD",
+        "capacity": "6TB",
+        "interface": "SATA III",
+        "read_speed": "227 MB/s",
+        "write_speed": "227 MB/s",
+        "price": 12000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate IronWolf 4TB NAS HDD",
+        "brand": "Seagate",
+        "model": "IronWolf ST4000VN006",
+        "type": "HDD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "read_speed": "195 MB/s",
+        "write_speed": "195 MB/s",
+        "price": 5500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial T500 1TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "T500 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7300 MB/s",
+        "write_speed": "6800 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial T500 2TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "T500 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7400 MB/s",
+        "write_speed": "7000 MB/s",
+        "price": 8500,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial T700 1TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "T700 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "11700 MB/s",
+        "write_speed": "9500 MB/s",
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 PRO 4TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 PRO 4TB",
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7450 MB/s",
+        "write_speed": "6900 MB/s",
+        "price": 17000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Black SN850X 4TB NVMe SSD",
+        "brand": "Western Digital",
+        "model": "Black SN850X 4TB",
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7300 MB/s",
+        "write_speed": "6600 MB/s",
+        "price": 17000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial T700 2TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "T700 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "12400 MB/s",
+        "write_speed": "11800 MB/s",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 990 PRO w/ Heatsink 2TB NVMe SSD",
+        "brand": "Samsung",
+        "model": "990 PRO w/ Heatsink 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 4.0 x4",
+        "read_speed": "7450 MB/s",
+        "write_speed": "6900 MB/s",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Corsair MP700 1TB NVMe SSD",
+        "brand": "Corsair",
+        "model": "MP700 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "10000 MB/s",
+        "write_speed": "9500 MB/s",
+        "price": 4200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Corsair MP700 2TB NVMe SSD",
+        "brand": "Corsair",
+        "model": "MP700 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "10000 MB/s",
+        "write_speed": "9500 MB/s",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Sabrent Rocket 5 1TB NVMe SSD",
+        "brand": "Sabrent",
+        "model": "Rocket 5 1TB",
+        "type": "NVMe SSD",
+        "capacity": "1TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "14000 MB/s",
+        "write_speed": "12000 MB/s",
+        "price": 4200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Sabrent Rocket 5 2TB NVMe SSD",
+        "brand": "Sabrent",
+        "model": "Rocket 5 2TB",
+        "type": "NVMe SSD",
+        "capacity": "2TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "14000 MB/s",
+        "write_speed": "12000 MB/s",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate Barracuda 8TB HDD",
+        "brand": "Seagate",
+        "model": "Barracuda ST8000DM004",
+        "type": "HDD",
+        "capacity": "8TB",
+        "interface": "SATA III",
+        "read_speed": "190 MB/s",
+        "write_speed": "190 MB/s",
+        "price": 12000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "WD Red Plus 8TB NAS HDD",
+        "brand": "Western Digital",
+        "model": "Red Plus WD80EFPX",
+        "type": "HDD",
+        "capacity": "8TB",
+        "interface": "SATA III",
+        "read_speed": "210 MB/s",
+        "write_speed": "210 MB/s",
+        "price": 12000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Seagate IronWolf 8TB NAS HDD",
+        "brand": "Seagate",
+        "model": "IronWolf ST8000VN004",
+        "type": "HDD",
+        "capacity": "8TB",
+        "interface": "SATA III",
+        "read_speed": "210 MB/s",
+        "write_speed": "210 MB/s",
+        "price": 12000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Samsung 870 EVO 4TB SATA SSD",
+        "brand": "Samsung",
+        "model": "870 EVO 4TB",
+        "type": "SATA SSD",
+        "capacity": "4TB",
+        "interface": "SATA III",
+        "read_speed": "560 MB/s",
+        "write_speed": "530 MB/s",
+        "price": 11000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    },
+    {
+        "name": "Crucial T700 4TB NVMe SSD",
+        "brand": "Crucial",
+        "model": "T700 4TB",
+        "type": "NVMe SSD",
+        "capacity": "4TB",
+        "interface": "PCIe 5.0 x4",
+        "read_speed": "12400 MB/s",
+        "write_speed": "11800 MB/s",
+        "price": 17000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 81,
+            "max": 688200
+        }
+    }
+]

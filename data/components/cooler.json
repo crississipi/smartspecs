@@ -1,0 +1,1966 @@
+[
+    {
+        "name": "ID-COOLING SE-214-XT",
+        "brand": "ID-COOLING",
+        "model": "SE-214-XT",
+        "type": "Air",
+        "height_mm": 150,
+        "tdp_rating": 180,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/20211123150851_36843_400x.jpg?v=1676876600",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-se-214-xt-argb-cpu-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING SE-214-XT ARGB",
+        "brand": "ID-COOLING",
+        "model": "SE-214-XT ARGB",
+        "type": "Air",
+        "height_mm": 150,
+        "tdp_rating": 180,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/20211123150846_23260_400x.jpg?v=1676876603",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-se-214-xt-argb-cpu-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool AK400",
+        "brand": "Deepcool",
+        "model": "AK400",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 220,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 895,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/6933412727446_400x.jpg?v=1759474108",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-ak400-performance-cpu-cooler-r-ak400-bknnmn-g-1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool AK400 White",
+        "brand": "Deepcool",
+        "model": "AK400",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 220,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1400,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/stjhsrydxty_400x.jpg?v=1744616883",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-ak400-digital-wh-cpu-cooler-with-a-status-display-white-r-ak400-whadmn-g",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright Assassin X 120 Refined SE",
+        "brand": "Thermalright",
+        "model": "Assassin X 120 Refined SE",
+        "type": "Air",
+        "height_mm": 148,
+        "tdp_rating": 180,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/AX120-R-SE-_E4_B8_BB_E5_9B_BE1_400x.jpg?v=1755228860",
+        "link": "https://ecommerce.datablitz.com.ph/products/thermalright-assassin-x-120-refined-se-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright Peerless Assassin 120 SE",
+        "brand": "Thermalright",
+        "model": "Peerless Assassin 120 SE",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 260,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3495,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/71j6VKsz-fL._SL1500_400x.jpg?v=1755230302",
+        "link": "https://ecommerce.datablitz.com.ph/products/thermalright-peerless-assassin-120-se-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright Peerless Assassin 120 SE ARGB",
+        "brand": "Thermalright",
+        "model": "Peerless Assassin 120 SE ARGB",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 260,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "budget",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2025/08/Peerless-Assassin-120-SE-ARGB-btz-ph-0.webp",
+        "link": "https://bermorzone.com.ph/shop/cooling-systems/aircooling-system/thermalright-peerless-assassin-120-se-argb-dual-tower-cpu-air-cooler/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master Hyper 212 Halo Black",
+        "brand": "Cooler Master",
+        "model": "Hyper 212 Halo Black",
+        "type": "Air",
+        "height_mm": 157,
+        "tdp_rating": 150,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1400,
+        "price_range": "budget",
+        "image_url": "https://a.storyblok.com/f/281110/1500x1500/0f450a7172/hyper-212-halo-black-01-gallery-01.png/m/1440x0/smart",
+        "link": "https://shopee.ph/Cooler-Master-HYPER-212-HALO-BLACK-CPU-Air-Cooler-i.742206475.22047825868",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master Hyper 212 Halo White",
+        "brand": "Cooler Master",
+        "model": "Hyper 212 Halo White",
+        "type": "Air",
+        "height_mm": 157,
+        "tdp_rating": 150,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1400,
+        "price_range": "budget",
+        "image_url": "https://a.storyblok.com/f/281110/1500x1500/83929a7537/hyper-212-halo-white-01-gallery-01.png/m/1440x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/hyper-212-halo-white/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool AK500 Digital",
+        "brand": "Deepcool",
+        "model": "AK500 Digital",
+        "type": "Air",
+        "height_mm": 164,
+        "tdp_rating": 240,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/AK500_DIGITAL/Gallery/608X760/01.jpg?fm=webp&q=60",
+        "link": "https://www.deepcool.com/products/Cooling/cpuaircoolers/AK500-DIGITAL-CPU-Cooler-With-Status-Display-1851-1700-AM5/2023/17236.shtml",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright Phantom Spirit 120 SE",
+        "brand": "Thermalright",
+        "model": "Phantom Spirit 120 SE",
+        "type": "Air",
+        "height_mm": 154,
+        "tdp_rating": 260,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/5-3_1_400x.jpg?v=1755237322",
+        "link": "https://ecommerce.datablitz.com.ph/products/thermalright-phantom-spirit-120-se-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-U12S redux",
+        "brand": "Noctua",
+        "model": "NH-U12S redux",
+        "type": "Air",
+        "height_mm": 158,
+        "tdp_rating": 200,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81l6gVhXm8L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Noctua-NH-U12S-Performance-Cooler-redux-1700/dp/B08WPDD6GD",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-U12A chromax.black",
+        "brand": "Noctua",
+        "model": "NH-U12A chromax.black",
+        "type": "Air",
+        "height_mm": 158,
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81Ww6xZa1aL._AC_SY450_.jpg",
+        "link": "https://www.amazon.com/Noctua-NH-U12A-chromax-Black-Single-Tower-Cooler/dp/B098XP1Y38",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-D15 chromax.black",
+        "brand": "Noctua",
+        "model": "NH-D15 chromax.black",
+        "type": "Air",
+        "height_mm": 165,
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/nh_d15_chromax_black_1_4_400x.jpg?v=1679367637",
+        "link": "https://ecommerce.datablitz.com.ph/products/noctua-nh-d15-chromax-black-dual-tower-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-D15G2",
+        "brand": "Noctua",
+        "model": "NH-D15G2",
+        "type": "Air",
+        "height_mm": 168,
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM5"
+        ],
+        "price": 4200,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0841501100406_400x.jpg?v=1743593197",
+        "link": "https://ecommerce.datablitz.com.ph/products/noctua-nh-d15-g2-next-gen-d-type-premium-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "be quiet! Dark Rock Pro 5",
+        "brand": "be quiet!",
+        "model": "Dark Rock Pro 5",
+        "type": "Air",
+        "height_mm": 168,
+        "tdp_rating": 270,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=d8427a50425@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://www.bequiet.com/en/cpucooler/4466",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "be quiet! Dark Rock Elite",
+        "brand": "be quiet!",
+        "model": "Dark Rock Elite",
+        "type": "Air",
+        "height_mm": 168,
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "high_end",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=e7c36a50426@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://www.bequiet.com/en/cpucooler/4468",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "be quiet! Pure Rock 2 Black",
+        "brand": "be quiet!",
+        "model": "Pure Rock 2 Black",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 150,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://www.bequiet.com/en/img/successor/Successor_en.svg",
+        "link": "https://www.bequiet.com/en/cpucooler/1842",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool Assassin IV",
+        "brand": "Deepcool",
+        "model": "Assassin IV",
+        "type": "Air",
+        "height_mm": 164,
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPUAirCoolers/ASSASSIN_IV/Gallery/608X760/01.jpg?fm=webp&q=60",
+        "link": "https://www.deepcool.com/products/Cooling/cpuaircoolers/Assassin-IV-Premium-CPU-Air-Cooler-1851-1700-AM5/2024/17129.shtml",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master Hyper 622 Halo Black",
+        "brand": "Cooler Master",
+        "model": "Hyper 622 Halo Black",
+        "type": "Air",
+        "height_mm": 159,
+        "tdp_rating": 200,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://a.storyblok.com/f/281110/1500x1500/bcadf881cb/hyper-622-halo-black-01-gallery-01.png/m/1440x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/hyper-622-halo-black/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright Frost Commander 140 Black",
+        "brand": "Thermalright",
+        "model": "Frost Commander 140 Black",
+        "type": "Air",
+        "height_mm": 163,
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://www.thermalright.com/wp-content/uploads/2021/12/5-3.jpg",
+        "link": "https://www.thermalright.com/product/frost-commander-140-black/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-L9i-17xx chromax.black",
+        "brand": "Noctua",
+        "model": "NH-L9i-17xx chromax.black",
+        "type": "Air",
+        "height_mm": 37,
+        "tdp_rating": 65,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851"
+        ],
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://www.noctua.at/_next/image?url=https%3A%2F%2Fcdn.noctua.at%2Fmedia%2FNH-L9i-17xx-chromax.black.png&w=828&q=75",
+        "link": "https://www.noctua.at/en/products/nh-l9i-17xx-chromax-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Noctua NH-L12S chromax.black",
+        "brand": "Noctua",
+        "model": "NH-L12S chromax.black",
+        "type": "Air",
+        "height_mm": 70,
+        "tdp_rating": 95,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4200,
+        "price_range": "mid_range",
+        "image_url": "https://www.noctua.at/_next/image?url=https%3A%2F%2Fcdn.noctua.at%2Fmedia%2Fnoctua_nh_l12s_1.jpg&w=828&q=75",
+        "link": "https://www.noctua.at/en/products/nh-l12s",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING IS-55 ARGB",
+        "brand": "ID-COOLING",
+        "model": "IS-55 ARGB",
+        "type": "Air",
+        "height_mm": 55,
+        "tdp_rating": 130,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/nfgngfgnfgnfgn_400x.jpg?v=1744531100",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-is-55-argb-120mm-cpu-air-cooler-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermalright AXP90-X47 Full Black",
+        "brand": "Thermalright",
+        "model": "AXP90-X47 Full Black",
+        "type": "Air",
+        "height_mm": 47,
+        "tdp_rating": 90,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://www.thermalright.com/wp-content/uploads/2021/05/3-1.jpg",
+        "link": "https://www.thermalright.com/product/axp90-x47-black/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING SE-224-XTS ARGB",
+        "brand": "ID-COOLING",
+        "model": "SE-224-XTS ARGB",
+        "type": "Air",
+        "height_mm": 154,
+        "tdp_rating": 220,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/BFD_b356eea4-d483-4ba5-91b5-9043b37f9843_400x.jpg?v=1699260151",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-se-224-xts-argb-120mm-cpu-air-cooler-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Freezer 36 Black",
+        "brand": "Arctic",
+        "model": "Freezer 36 Black",
+        "type": "Air",
+        "height_mm": 159,
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer5_25779d21-a9d2-40c7-8060-bb0c4383db47_400x.jpg?v=1749603520",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-freezer-36-multi-compatible-tower-cpu-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Freezer 36 A-RGB Black",
+        "brand": "Arctic",
+        "model": "Freezer 36 A-RGB Black",
+        "type": "Air",
+        "height_mm": 159,
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Freezer_36_A-RGB_Black_G01_400x.jpg?v=1750575223",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-freezer-36-a-rgb-multi-compatible-tower-cpu-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROZN A410 ARGB Black",
+        "brand": "ID-COOLING",
+        "model": "FROZN A410 ARGB Black",
+        "type": "Air",
+        "height_mm": 155,
+        "tdp_rating": 230,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://static.idcooling.com/file/image/20231116/20231116161545_38780.jpg",
+        "link": "https://shopee.ph/ID-Cooling-FROZN-A410-ARGB-Air-Cooler-Black-i.78433938.28754944265",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROZN A610 ARGB Black",
+        "brand": "ID-COOLING",
+        "model": "FROZN A610 ARGB Black",
+        "type": "Air",
+        "height_mm": 164,
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/20231116151331_62055_400x.jpg?v=1726803377",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-frozn-a610-argb-6-heatpipe-120mm-4pin-pwm-5v-3pin-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROZN A620 ARGB Black",
+        "brand": "ID-COOLING",
+        "model": "FROZN A620 ARGB Black",
+        "type": "Air",
+        "height_mm": 164,
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/20231116143418_55042_400x.jpg?v=1709554504",
+        "link": "https://ecommerce.datablitz.com.ph/products/id-cooling-frozn-a620-argb-twin-tower-cpu-cooler-with-2x120mm-pwm-argb-fan",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master Hyper 212 LED",
+        "brand": "Cooler Master",
+        "model": "Hyper 212 LED",
+        "type": "Air",
+        "height_mm": 160,
+        "tdp_rating": 150,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "AM4"
+        ],
+        "price": 1400,
+        "price_range": "budget",
+        "image_url": "https://a.storyblok.com/f/281110/03d200fc4c/h212led_g1.png/m/1440x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/hyper-212-led/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROSTFLOW X 120",
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 120",
+        "type": "AIO",
+        "radiator_size": "120mm",
+        "tdp_rating": 180,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "budget",
+        "image_url": "https://images.versus.io/objects/id-cooling-frostflow-x-120.front.variety.1758917783428.jpg",
+        "link": "https://versus.com/en/id-cooling-frostflow-x-120-vs-noctua-nh-d12l",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LE300 120mm",
+        "brand": "Deepcool",
+        "model": "LE300",
+        "type": "AIO",
+        "radiator_size": "120mm",
+        "tdp_rating": 180,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/Deepcool_LE300_AIO_Liquid_Cooler_w_Anti-Leak_Tech-a_540x.jpg?v=1705911438",
+        "link": "https://easypc.com.ph/products/deepcool-le300-aio-liquid-cooler-w-anti-leak-tech?variant=42644600422571",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 120",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 120",
+        "type": "AIO",
+        "radiator_size": "120mm",
+        "tdp_rating": 200,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/ARAC2467-b_320x.jpg?v=1638140480",
+        "link": "https://easypc.com.ph/products/arctic-cooling-liquid-freezer-ii-120-240-280-360-420mm-multi-compatible-all-in-one-cpu-water-cooler-lga-1700-compatible-fully-sleeved-tubes-4jtp?variant=41221163516075",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LE500 ARGB 240mm",
+        "brand": "Deepcool",
+        "model": "LE500 ARGB",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/01_7_3e5024f4-fe51-4fe7-b1e2-cf464db53a0d_400x.jpg?v=1688140333",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-gammaxx-le500-240mm-6-color-liquid-cpu-cooler-r-le500-bklnmc-g-1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROSTFLOW X 240",
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/41cqIix6HoL._SL160_._SL160_.jpg",
+        "link": "https://www.pctechbits.com/id-cooling-frostflow-x-240-cpu-water-cooler-review/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master MasterLiquid ML240L V2 ARGB",
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML240L V2 ARGB",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "mid_range",
+        "image_url": "https://a.storyblok.com/f/281110/cccc06c554/masterliquid-ml240l-v2-rgb-gallery-4.png/m/1440x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/masterliquid-ml240l-v2-rgb/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 240",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 3595,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/liquid-freezer-ii-240-argb-g00_Badge_400x.jpg?v=1740745812",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-ii-240-a-rgb-multi-compatible-aio-cpu-water-cooler-black-acfre00093a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 240 A-RGB",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 240 A-RGB",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/liquid-freezer-ii-240-argb-g00_Badge_400x.jpg?v=1740745812",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-ii-240-a-rgb-multi-compatible-aio-cpu-water-cooler-black-acfre00093a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H100i Elite LCD XT 240mm",
+        "brand": "Corsair",
+        "model": "iCUE H100i Elite LCD XT",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 7500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0840006694199_400x.jpg?v=1678356033",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-icue-h100i-elite-lcd-xt-extreme-performance-240mm-rgb-liquid-cpu-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken 240 Black",
+        "brand": "NZXT",
+        "model": "Kraken 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1681507957-cooling_kraken-rgb_240_b_rgb-core_hero-1_rgb_400x.jpg?v=1682733881",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-kraken-240-rgb-240mm-aio-liquid-cooler-with-lcd-display-rgb-fans-matte-black-rl-kr240-b1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken 240 White",
+        "brand": "NZXT",
+        "model": "Kraken 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "high_end",
+        "image_url": "https://nzxt.com/cdn/shop/files/ITpzXg_660fb807-e374-42e9-ade3-02f44dc01355.png?v=1762528088&width=1000",
+        "link": "https://nzxt.com/products/kraken-240-rgb",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken Elite 240 Black",
+        "brand": "NZXT",
+        "model": "Kraken Elite 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "enthusiast",
+        "image_url": "https://nzxt.com/cdn/shop/files/jFl2Ah_a0ffdf54-262b-47bc-88ca-9f9b5ef2d5ca.png?v=1744896633&width=1000",
+        "link": "https://nzxt.com/products/kraken-240-rgb",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Lian Li GALAHAD II LCD 240 Black",
+        "brand": "Lian Li",
+        "model": "GALAHAD II LCD 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 7500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/240_t_b_400x.jpg?v=1708324287",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-galahad-ii-trinity-rgb-240mm-close-loop-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Lian Li GALAHAD II LCD 240 White",
+        "brand": "Lian Li",
+        "model": "GALAHAD II LCD 240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 7500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/240_t_w_400x.jpg?v=1708324287",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-galahad-ii-trinity-rgb-240mm-close-loop-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LT520 240mm",
+        "brand": "Deepcool",
+        "model": "LT520",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/01_8_400x.jpg?v=1676912868",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-lt520-240mm-high-performance-liquid-cpu-cooler-r-lt520-bkamnf-g-1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "MSI MAG CORELIQUID E240 White",
+        "brand": "MSI",
+        "model": "MAG CORELIQUID E240",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/FAN-MSI-MAG-CORELIQUID-E240-ARGB-WHITE-AIO-1.jpg?v=1745197804&width=600",
+        "link": "https://pcx.com.ph/products/msi-mag-coreliquid-e240-argb-aio-cpu-liquid-cooler-fan-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermaltake TH240 V2 ARGB Sync Black",
+        "brand": "Thermaltake",
+        "model": "TH240 V2 ARGB Sync",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 260,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/w/3/w361-pl12sw-a_01.jpg",
+        "link": "https://www.thermaltake.com/th240-v2-argb-sync-all-in-one-liquid-cooler.html",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LE720 ARGB 360mm",
+        "brand": "Deepcool",
+        "model": "LE720 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "mid_range",
+        "image_url": "https://easypc.com.ph/cdn/shop/files/Deepcool_LE720_White-a_320x.jpg?v=1694159325",
+        "link": "https://easypc.com.ph/products/deepcool-le720-360mm-aio-argb-liquid-cooler-white?variant=42751945179307",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ID-COOLING FROSTFLOW X 360",
+        "brand": "ID-COOLING",
+        "model": "FROSTFLOW X 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "mid_range",
+        "image_url": "https://static.idcooling.com/file/image/20221208/20221208150639_96573.jpg",
+        "link": "https://shopee.ph/ID-COOLING-FROSTFLOW-X-360-Black-version-reflective-pollution-integrated-water-cooling-radiator-Full-platform-buckle-including-2066-TR4-i.277755892.18130204748",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master MasterLiquid ML360L V2 ARGB",
+        "brand": "Cooler Master",
+        "model": "MasterLiquid ML360L V2 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/masterliquid-ml360l-v2-argb-gallery-1-image_500x.jpg?v=1676878007",
+        "link": "https://shopee.ph/Cooler-Master-MasterLiquid-ML360L-ARGB-V2-Liquid-CPU-Cooler-%28MLW-D36M-A18PA-R2%29-i.62858530.6046702169",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 280",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 280",
+        "type": "AIO",
+        "radiator_size": "280mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4195,
+        "price_range": "mid_range",
+        "image_url": "https://c1.neweggimages.com/productimage/nb1280/A2W0S2111100BP6M565.jpg",
+        "link": "https://www.newegg.com/arctic-cooling-liquid-cooling-system-liquid-freezer-ii/p/13C-000P-000R0?item=9SIA2W0KFB2645&utm_medium=affiliate&utm_campaign=afc-ran-com-_-Future+APAC+-+All+Sites-_-Editorial&utm_source=afc-Future+APAC+-+All+Sites&AFFID=2974604&AFFNAME=Future+APAC+-+All+Sites&ACRID=445839746302777785884695&ASUBID=tomshardware-ph-1287188216612367204&ASID=https%3A%2F%2Fwww.tomshardware.com%2Freviews%2Farctic-liquid-freezer-ii-280-all-in-one-cpu-cooler%2C6376.html&ranMID=44583&ranEAID=2974604&ranSiteID=HlvbvYZP82I-UhwjEhEvE.PfXfI5ny7d5w&utm_content=Editorial",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 360",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4795,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer12_a298ee09-3d64-4a6c-87c8-e315a2f0d809_400x.jpg?v=1740735506",
+        "link": "https://ecommerce.datablitz.com.ph/products/liquid-freezer-ii-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-acfre00101a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer II 360 A-RGB",
+        "brand": "Arctic",
+        "model": "Liquid Freezer II 360 A-RGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer12_a298ee09-3d64-4a6c-87c8-e315a2f0d809_400x.jpg?v=1740735506",
+        "link": "https://ecommerce.datablitz.com.ph/products/liquid-freezer-ii-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-acfre00101a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H150i Elite LCD XT 360mm",
+        "brand": "Corsair",
+        "model": "iCUE H150i Elite LCD XT",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 9500,
+        "price_range": "enthusiast",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Liquid-Cooling/CW-9060062-WW/Gallery/Common/H150i_ELITE_LCD_RENDER_01.webp",
+        "link": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060062-ww/icue-h150i-elite-lcd-display-liquid-cpu-cooler-cw-9060062-ww",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H150i Elite Capellix XT 360mm",
+        "brand": "Corsair",
+        "model": "iCUE H150i Elite Capellix XT",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Custom-Cooling/CW-9060070-WW/-base-elite-capellix-xt-cooler-config-Gallery-H150i-ELITE-CAPELLIX-XT-01.webp",
+        "link": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060070-ww/icue-h150i-elite-capellix-xt-liquid-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken 360 Black",
+        "brand": "NZXT",
+        "model": "Kraken 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/NGFFNGFGN_400x.jpg?v=1708130033",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-kraken-360-360mm-aio-liquid-cooler-with-lcd-display-matte-black-rl-kn360-b1-2",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken 360 White",
+        "brand": "NZXT",
+        "model": "Kraken 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1681508261-cooling_kraken-rgb_360_w_rgb-core_hero-1_rgb_400x.jpg?v=1682737711",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-kraken-360-rgb-360mm-aio-liquid-cooler-with-lcd-display-rgb-fans-matte-white-rl-kr360-w1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken Elite 360 Black",
+        "brand": "NZXT",
+        "model": "Kraken Elite 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/xcxcxbcxbc_400x.jpg?v=1735444218",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-kraken-elite-360-rgb-360mm-aio-liquid-cooler-with-ips-lcd-rgb-core-single-frame-fan-black-white-rl-kr36e-b2-rl-kr36e-w2",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "NZXT Kraken Elite 360 White",
+        "brand": "NZXT",
+        "model": "Kraken Elite 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bffbbfdb_400x.jpg?v=1735444218",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-kraken-elite-360-rgb-360mm-aio-liquid-cooler-with-ips-lcd-rgb-core-single-frame-fan-black-white-rl-kr36e-b2-rl-kr36e-w2",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Lian Li GALAHAD II LCD 360 Black",
+        "brand": "Lian Li",
+        "model": "GALAHAD II LCD 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 9500,
+        "price_range": "high_end",
+        "image_url": "https://easypc.com.ph/cdn/shop/files/Lian_Li_Galahad_II_LCD_360_ARGB_Liquid_Cooling_Black-a_540x.png?v=1699321806",
+        "link": "https://easypc.com.ph/products/lian-li-galahad-ii-lcd-360-argb-liquid-cooling-black?variant=43136627245227",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Lian Li GALAHAD II LCD 360 White",
+        "brand": "Lian Li",
+        "model": "GALAHAD II LCD 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 9500,
+        "price_range": "high_end",
+        "image_url": "https://lian-li.com/wp-content/uploads/2023/11/gl2tlw_016.jpg",
+        "link": "https://lian-li.com/product/galahad-ii-lcd/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Lian Li GALAHAD II Performance 360 Black",
+        "brand": "Lian Li",
+        "model": "GALAHAD II Performance 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://easypc.com.ph/cdn/shop/files/LianLIGalahadIITrinityPerformance360mmBlack-a_540x.png?v=1694680289",
+        "link": "https://easypc.com.ph/products/lian-li-galahad-ii-trinity-performance-360mm-liquid-cooling-black?variant=42952639479979",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LT720 360mm Black",
+        "brand": "Deepcool",
+        "model": "LT720",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/gnmdghmd_400x.jpg?v=1759650946",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-lt720-360mm-high-performance-liquid-cpu-cooler-r-lt720-bkamnf-g-1",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool LT720 360mm White",
+        "brand": "Deepcool",
+        "model": "LT720",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://cdn.deepcool.com/public/ProductFile/DEEPCOOL/Cooling/CPULiquidCoolers/LT720_WH/Gallery/608X760/01.jpg?fm=webp&q=60",
+        "link": "https://www.deepcool.com/products/Cooling/cpuliquidcoolers/LT720-WH-360mm-Liquid-Cooler-1851-1700-AM5/2024/16749.shtml",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Deepcool Mystique 360 LCD",
+        "brand": "Deepcool",
+        "model": "Mystique 360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "high_end",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/FAN-DEEPCOOLMYSTIQUE360ARGBBLACKWLCDSCREEN1_85e3be11-865c-4278-abaf-5e03a848c0ff.jpg?v=1754363810&width=600",
+        "link": "https://pcx.com.ph/products/deepcool-mystique-360-argb-w-lcd-screen-cpu-cooler-fan-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "MSI MAG CORELIQUID E360 White",
+        "brand": "MSI",
+        "model": "MAG CORELIQUID E360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 320,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/FAN-MSI-MAG-CORELIQUID-E360-ARGB-WHITE-AIO-1.jpg?v=1745199384&width=600",
+        "link": "https://pcx.com.ph/products/msi-mag-coreliquid-e360-argb-aio-cpu-liquid-cooler-fan-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "MSI MEG CORELIQUID S360 Black",
+        "brand": "MSI",
+        "model": "MEG CORELIQUID S360",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/RHREHBFSDBFXCB_400x.jpg?v=1705974673",
+        "link": "https://ecommerce.datablitz.com.ph/products/msi-meg-coreliquid-s360-360mm-aio-liquid-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ASUS ROG RYUO III 360 ARGB Black",
+        "brand": "ASUS",
+        "model": "ROG RYUO III 360 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/h732_86cf043f-d708-4b03-a144-cbaf937a8069_400x.jpg?v=1676923099",
+        "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-ryuo-iii-360-argb-all-in-one-cpu-liquid-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ASUS ROG RYUO III 360 ARGB White",
+        "brand": "ASUS",
+        "model": "ROG RYUO III 360 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/h732-2023-05-01T084749.550_400x.jpg?v=1682902187",
+        "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-ryuo-iii-360-argb-all-in-one-cpu-liquid-cooler-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX LC III 360 ARGB",
+        "brand": "ASUS",
+        "model": "ROG STRIX LC III 360 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/nfgmfhf_1bab3af6-9c90-405b-a39e-4102a8913c23_400x.jpg?v=1728779937",
+        "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-strix-lc-iii-360-argb-lcd-cpu-liquid-cooler-black",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermaltake TH360 V2 ARGB Sync Black",
+        "brand": "Thermaltake",
+        "model": "TH360 V2 ARGB Sync",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/FAN-THERMALTAKE-TH360-V2-ARGB-AIO-BLACK-1.jpg?v=1747706882&width=600",
+        "link": "https://pcx.com.ph/products/thermaltake-th360-v2-argb-sync-all-in-one-liquid-cooler-fan",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Thermaltake TH360 V2 ARGB Sync White",
+        "brand": "Thermaltake",
+        "model": "TH360 V2 ARGB Sync",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://media.pangoly.com/img/d/5/2/8/d528736e-ad72-4f90-9850-a8cf6dbebe40.jpg",
+        "link": "https://pangoly.com/en/product/thermaltake-th360-v2-argb-sync-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "EK-Nucleus AIO CR360 Lux D-RGB Black",
+        "brand": "EKWB",
+        "model": "EK-Nucleus AIO CR360 Lux D-RGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://www.ekwb.com/shop/media/catalog/product/cache/1/image/x800/17f82f742ffe127f42dca9de82fb58b1/e/k/ek-nucleus-aio-cr360-lux-d-rgb-art4.jpeg",
+        "link": "https://www.ekwb.com/shop/ek-nucleus-aio-cr360-lux-d-rgb",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "be quiet! Silent Loop 2 360mm",
+        "brand": "be quiet!",
+        "model": "Silent Loop 2 360mm",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "high_end",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=8f1afa37019@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://www.bequiet.com/en/watercooler/2260/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H100i RGB Elite 240mm Black",
+        "brand": "Corsair",
+        "model": "iCUE H100i RGB Elite",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "high_end",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Liquid-Cooling/base-rgb-elite-coolers-config/Gallery/H100i_RGB_ELITE_01.webp",
+        "link": "https://www.corsair.com/us/en/p/cpu-coolers/cw-9060058-ww/icue-h100i-rgb-elite-liquid-cpu-cooler-cw-9060058-ww",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H100i RGB Elite 240mm White",
+        "brand": "Corsair",
+        "model": "iCUE H100i RGB Elite",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 280,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 4500,
+        "price_range": "high_end",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Liquid-Cooling/CW-9060078-WW/H100i_RGB_ELITE_WHITE_01.webp",
+        "link": "https://www.corsair.com/ww/en/p/cpu-coolers/cw-9060078-ww/icue-h100i-rgb-elite-liquid-cpu-cooler-white-cw-9060078-ww",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cooler Master MasterLiquid 360 Atmos ARGB",
+        "brand": "Cooler Master",
+        "model": "MasterLiquid 360 Atmos ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://a.storyblok.com/f/281110/1280x1280/effecc8340/masterliquid-360-atmos.png/m/960x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/masterliquid-360-atmos/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Corsair iCUE H170i Elite LCD XT 420mm",
+        "brand": "Corsair",
+        "model": "iCUE H170i Elite LCD XT",
+        "type": "AIO",
+        "radiator_size": "420mm",
+        "tdp_rating": 400,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/H170i_ELITE_LCD_XT_01_400x.jpg?v=1685590251",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-icue-h170i-elite-lcd-xt-display-liquid-cpu-cooler",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer III 360 A-RGB Black",
+        "brand": "Arctic",
+        "model": "Liquid Freezer III 360 A-RGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/VSDVSDSDVVSD_400x.jpg?v=1740728789",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-iii-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-white-acfre00144a-acfre00152a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Arctic Liquid Freezer III 360 A-RGB White",
+        "brand": "Arctic",
+        "model": "Liquid Freezer III 360 A-RGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1851",
+            "AM5"
+        ],
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Liquid_Freezer_III_360_ARGB_White_G01_2_1600x.jpg?v=1740730023",
+        "link": "https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-iii-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-white-acfre00144a-acfre00152a",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Phanteks Glacier One 360T30 Black",
+        "brand": "Phanteks",
+        "model": "Glacier One 360T30",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 350,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "high_end",
+        "image_url": "https://phanteks.com/wp-content/uploads/2024/02/01_Glacier-One_D30-360_Black.webp",
+        "link": "https://phanteks.com/product/glacier-one-360d30-black/",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Cougar Aqua 360 ARGB",
+        "brand": "Cougar",
+        "model": "Aqua 360 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://cougargaming.com/_cgrwdr_/wwdpp/wp-content/uploads/2020/08/product-section-02-2.png",
+        "link": "https://shopee.ph/COUGAR-AQUA-360-AIO-ARGB-CPU-LIQUID-COOLER-FOR-INTEL-AMD-(3*120MM-ARGB-FAN-RAD)-i.217269287.42309860177",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Montech HyperFlow 240 ARGB",
+        "brand": "Montech",
+        "model": "HyperFlow 240 ARGB",
+        "type": "AIO",
+        "radiator_size": "240mm",
+        "tdp_rating": 250,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/ssvvdsdsvvsdsdv_400x.jpg?v=1740125364",
+        "link": "https://ecommerce.datablitz.com.ph/products/montech-hyperflow-argb-240-aio-cpu-liquid-cooler-black-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    },
+    {
+        "name": "Montech HyperFlow 360 ARGB",
+        "brand": "Montech",
+        "model": "HyperFlow 360 ARGB",
+        "type": "AIO",
+        "radiator_size": "360mm",
+        "tdp_rating": 300,
+        "socket_support": [
+            "LGA 1700",
+            "LGA 1200",
+            "LGA 1851",
+            "AM4",
+            "AM5"
+        ],
+        "price": 1600,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/vsdvdsdsvvsd_400x.jpg?v=1740272670",
+        "link": "https://ecommerce.datablitz.com.ph/products/montech-hyperflow-argb-360-aio-cpu-liquid-cooler-white",
+        "pricing_range": {
+            "min": 69,
+            "max": 1340000
+        }
+    }
+]

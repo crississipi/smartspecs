@@ -1,0 +1,1522 @@
+[
+    {
+        "name": "Darkflash DLM21 Mesh Black",
+        "brand": "Darkflash",
+        "model": "DLM21 Mesh",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 340,
+        "color": "Black",
+        "price": 1950,
+        "price_range": "budget",
+        "image_url": "https://www.darkflash.com/cdn/product/meta/000000000000156/202403030012515.png",
+        "link": "https://ecommerce.datablitz.com.ph/products/darkflash-dlm-21-mesh-matx-pc-gaming-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Tecware Forge M2 Black",
+        "brand": "Tecware",
+        "model": "Forge M2",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 310,
+        "color": "Black",
+        "price": 1495,
+        "price_range": "budget",
+        "image_url": "https://static.wixstatic.com/media/8517ed_8d0ae9a124ad456ca7ff908ef51994cf~mv2.png/v1/fill/w_110,h_63,al_c,q_80,usm_0.66_1.00_0.01/8517ed_8d0ae9a124ad456ca7ff908ef51994cf~mv2.png",
+        "link": "https://shopee.ph/Tecware-Forge-M2-TG-ARGB-MATX-Gaming-Case-Black-i.728002718.26367619982",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Tecware Forge M2 White",
+        "brand": "Tecware",
+        "model": "Forge M2",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 310,
+        "color": "White",
+        "price": 1695,
+        "price_range": "budget",
+        "image_url": "https://static.wixstatic.com/media/8517ed_bf34ba1b71eb482a9b800c5abf5ab48a~mv2.png/v1/fill/w_110,h_63,al_c,q_80,usm_0.66_1.00_0.01/8517ed_bf34ba1b71eb482a9b800c5abf5ab48a~mv2.png",
+        "link": "https://bermorzone.com.ph/shop/chassis/tecware-forge-m2-compact-matx-rgb-chassis-white/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Montech X1 Black",
+        "brand": "Montech",
+        "model": "X1",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 330,
+        "color": "Black",
+        "price": 1795,
+        "price_range": "budget",
+        "image_url": "https://media.pangoly.com/img/b/d/5/f/bd5f0a01-4d34-4106-ab61-63254ed12b9b.jpg",
+        "link": "https://pangoly.com/en/product/montech-x1-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Deepcool CC560 Black",
+        "brand": "Deepcool",
+        "model": "CC560",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 370,
+        "color": "Black",
+        "price": 2550,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bfdbfbf_130x.jpg?v=1713610083",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-cc560-v2-mid-tower-atx-case-black-r-cc560-bkgaa4-g-2",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Deepcool CC560 White",
+        "brand": "Deepcool",
+        "model": "CC560",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 370,
+        "color": "White",
+        "price": 2750,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/d3245ef_130x.jpg?v=1693556529",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-cc560-mid-tower-atx-case-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cougar MX330-G Air",
+        "brand": "Cougar",
+        "model": "MX330-G Air",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 350,
+        "color": "Black",
+        "price": 1895,
+        "price_range": "budget",
+        "image_url": "https://media.pangoly.com/img/a/d/e/f/adef78cd-c898-40ad-990d-48eb4e8a25af.jpg",
+        "link": "https://pangoly.com/en/product/cougar-mx330-g-air",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake Versa H18",
+        "brand": "Thermaltake",
+        "model": "Versa H18",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 350,
+        "color": "Black",
+        "price": 2450,
+        "price_range": "budget",
+        "image_url": "https://img.lazcdn.com/g/p/e1926de8877cb4b8f54e6336669c40f4.jpg_720x720q80.jpg_.webp",
+        "link": "https://www.lazada.com.ph/products/thermaltake-versa-h18-window-m-atx-gaming-chassis-i442820815.html",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake S100 TG",
+        "brand": "Thermaltake",
+        "model": "S100 TG",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 330,
+        "color": "Black",
+        "price": 2195,
+        "price_range": "budget",
+        "image_url": "https://pcmena.com/wp-content/uploads/2024/09/featured_image-402.webp",
+        "link": "https://shopee.ph/Thermaltake-S100-Tempered-Glass-Edition-Micro-Chassis-Slim-and-Compact-Design-Built-in-PSU-Shroud-i.366667598.25091294803",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H5 Flow Black",
+        "brand": "NZXT",
+        "model": "H5 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 365,
+        "color": "Black",
+        "price": 3995,
+        "price_range": "mid_range",
+        "image_url": "https://nzxt.com/cdn/shop/files/nQPd2VSSemEjdoVxxK64qo18SydPthk9OI6LYP3j.png?v=1744856936&width=1000",
+        "link": "https://nzxt.com/products/h5-flow",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H5 Flow White",
+        "brand": "NZXT",
+        "model": "H5 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 365,
+        "color": "White",
+        "price": 4495,
+        "price_range": "mid_range",
+        "image_url": "https://nzxt.com/cdn/shop/files/cHNKLnCSQFWZ4NQovq2Byrvrxt3XmnDDFHT2MgjC.png?v=1762528058&width=1000",
+        "link": "https://nzxt.com/products/h5-flow-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 4000D Airflow Black",
+        "brand": "Corsair",
+        "model": "4000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 360,
+        "color": "Black",
+        "price": 5495,
+        "price_range": "mid_range",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/base-4000d-airflow-config/Gallery/4000D_AF_BLACK_01.webp",
+        "link": "https://www.corsair.com/us/en/p/pc-cases/cc-9011200-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-black-cc-9011200-ww",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 4000D Airflow White",
+        "brand": "Corsair",
+        "model": "4000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 360,
+        "color": "White",
+        "price": 5495,
+        "price_range": "mid_range",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/base-4000d-airflow-config/Gallery/4000D_AF_WHITE_01.webp",
+        "link": "https://www.corsair.com/us/en/p/pc-cases/cc-9011201-ww/4000d-airflow-tempered-glass-mid-tower-atx-case-white-cc-9011201-ww",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Pop Air Black",
+        "brand": "Fractal Design",
+        "model": "Pop Air",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 405,
+        "color": "Black",
+        "price": 4895,
+        "price_range": "mid_range",
+        "image_url": "https://www.fractal-design.com/app/uploads/2026/01/01_Pop-2-Air_RGB_Black_TGL_Left-Front-2-810x810.jpg",
+        "link": "https://www.fractal-design.com/products/cases/pop/pop-2-air/black-tg-rgb/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Focus 2 Black",
+        "brand": "Fractal Design",
+        "model": "Focus 2",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 405,
+        "color": "Black",
+        "price": 5950,
+        "price_range": "mid_range",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2024/03/Fractal-Design-Focus-2-Black-Solid-btz-ph-1.webp",
+        "link": "https://bermorzone.com.ph/shop/chassis/fractal-design-focus-2-black-solid/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Focus 2 White",
+        "brand": "Fractal Design",
+        "model": "Focus 2",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 405,
+        "color": "White",
+        "price": 5495,
+        "price_range": "mid_range",
+        "image_url": "https://netcodex.ph/wp-content/uploads/2025/05/Focus-2-White-TG-Clear-Tint-768x768.jpg.webp",
+        "link": "https://netcodex.ph/product/fractal-design-focus-2-white-tg-clear-tint-atx-case-focus-2-white-tg-clear-tint/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li LANCOOL 205 Mesh Black",
+        "brand": "Lian Li",
+        "model": "LANCOOL 205 Mesh",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 380,
+        "color": "Black",
+        "price": 3450,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/Lian-Li-Lancool-205-Black-1-510x510_400x.jpg?v=1676917750",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-lancool-205-tempered-glass-atx-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li LANCOOL 205 Mesh White",
+        "brand": "Lian Li",
+        "model": "LANCOOL 205 Mesh",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 380,
+        "color": "White",
+        "price": 3995,
+        "price_range": "mid_range",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2021/10/71CEAfesxaL._AC_SL1500_.jpg",
+        "link": "https://bermorzone.com.ph/shop/chassis/lian-li-205-mesh-airflow-atx-3-argb-pwm-fans-pre-installed-mid-tower-chassis-white/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master MasterBox NR600",
+        "brand": "Cooler Master",
+        "model": "MasterBox NR600",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 410,
+        "color": "Black",
+        "price": 3595,
+        "price_range": "mid_range",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2019/08/71QwlwJu08L._SL1500_-1.jpg",
+        "link": "https://bermorzone.com.ph/shop/chassis/cooler-master-masterbox-nr600-w-front-mesh-ventilation-chassis/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Montech Air 903 MAX Black",
+        "brand": "Montech",
+        "model": "Air 903 MAX",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 4050,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/csa-gfa-gvsa-gvsa_400x.jpg?v=1709552601",
+        "link": "https://ecommerce.datablitz.com.ph/products/montech-air-903-max-ultra-cooling-mid-tower-e-atx-with-max-capacity-gaming-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Montech Air 903 MAX White",
+        "brand": "Montech",
+        "model": "Air 903 MAX",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "White",
+        "price": 4050,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/csa-gva-gvsa-gas_400x.jpg?v=1709552659",
+        "link": "https://ecommerce.datablitz.com.ph/products/montech-air-903-max-ultra-cooling-mid-tower-e-atx-with-max-capacity-gaming-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "MSI MAG FORGE 320R Airflow",
+        "brand": "MSI",
+        "model": "MAG FORGE 320R Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 390,
+        "color": "Black",
+        "price": 3950,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/vewgeqagvaqv_400x.jpg?v=1702887477",
+        "link": "https://ecommerce.datablitz.com.ph/products/msi-mag-forge-320r-airflow-gaming-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "be quiet! Pure Base 500DX Black",
+        "brand": "be quiet!",
+        "model": "Pure Base 500DX",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 369,
+        "color": "Black",
+        "price": 4995,
+        "price_range": "mid_range",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=2fff3a30317@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://shopee.ph/be-quiet!-PURE-BASE-500DX-i.342442078.22331972494",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "be quiet! Pure Base 500DX White",
+        "brand": "be quiet!",
+        "model": "Pure Base 500DX",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 369,
+        "color": "White",
+        "price": 4995,
+        "price_range": "mid_range",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=91650a30316@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://shopee.ph/be-quiet!-PURE-BASE-500DX-i.342442078.22331972494",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks Eclipse P400A Digital Black",
+        "brand": "Phanteks",
+        "model": "Eclipse P400A Digital",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "Black",
+        "price": 4495,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71HlajPgsCL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://shopee.ph/Phanteks-Eclipse-P400A-Black-or-White-Mid-Tower-T-G-Case-PH-EC400ATG-DBK01-DWT01-4JTP-i.77398075.14104936043",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks Eclipse P400A Digital White",
+        "brand": "Phanteks",
+        "model": "Eclipse P400A Digital",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "White",
+        "price": 4495,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81MRlQKdq1L._AC_SX425_.jpg",
+        "link": "https://shopee.ph/Phanteks-Eclipse-P400A-Black-or-White-Mid-Tower-T-G-Case-PH-EC400ATG-DBK01-DWT01-4JTP-i.77398075.14104936043",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake CTE C750 Air Black",
+        "brand": "Thermaltake",
+        "model": "CTE C750 Air",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 410,
+        "color": "Black",
+        "price": 4795,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71z8ezvYM6L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Tempered-Glass-Tower-Black/dp/B0C2VB45BW",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Deepcool CH510 Mesh Digital Black",
+        "brand": "Deepcool",
+        "model": "CH510 Mesh Digital",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 4650,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/GRGR_400x.jpg?v=1683336253",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-ch510-mesh-digital-mid-tower-atx-case-with-digital-lcd-display-and-magnetic-tempered-glass-window-r-ch510-bknse1-g-1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Deepcool CH510 Mesh Digital White",
+        "brand": "Deepcool",
+        "model": "CH510 Mesh Digital",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "White",
+        "price": 3795,
+        "price_range": "mid_range",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2020/09/ch510-wh.jpg",
+        "link": "https://bermorzone.com.ph/shop/chassis/deepcool-ch510-mid-tower-atx-computer-case/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GT302 ARGB Black",
+        "brand": "ASUS",
+        "model": "TUF Gaming GT302 ARGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 407,
+        "color": "Black",
+        "price": 7000,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-ASUS-TUF-GAMING-GT302-BLK-ARGB-TG-1.jpg?v=1740034429&width=700",
+        "link": "https://pcx.com.ph/products/asus-tuf-gaming-gt302-argb-tempered-glass-gaming-chassis-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GT302 ARGB White",
+        "brand": "ASUS",
+        "model": "TUF Gaming GT302 ARGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 407,
+        "color": "White",
+        "price": 5995,
+        "price_range": "mid_range",
+        "image_url": "https://i.pcmag.com/imagery/reviews/0757eVxFX4fHJTQswv3ut6c-1.fit_scale.size_1028x578.v1726854328.jpg",
+        "link": "https://www.pcmag.com/reviews/asus-tuf-gaming-gt302-argb",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cougar DarkBlader X5 RGB",
+        "brand": "Cougar",
+        "model": "DarkBlader X5 RGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 3850,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/517p-2ZZrKL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/COUGAR-DarkBlader-X5-RGB-Distinctive/dp/B08J3SZ1HS?th=1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "SilverStone FARA R1 V2",
+        "brand": "SilverStone",
+        "model": "FARA R1 V2",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 380,
+        "color": "Black",
+        "price": 2700,
+        "price_range": "budget",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-SILVERSTONE-FARA-R1-V2-TG-MESH-WHT-1.jpg?v=1698025676&width=700",
+        "link": "https://pcx.com.ph/products/silverstone-fara-r1-v2-tg-mesh-front-mid-tower-atx-chassis-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master MasterBox Q300L",
+        "brand": "Cooler Master",
+        "model": "MasterBox Q300L",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 360,
+        "color": "Black",
+        "price": 2495,
+        "price_range": "budget",
+        "image_url": "https://a.storyblok.com/f/281110/5c1192c34c/gallery-2-min.png/m/1440x0/smart",
+        "link": "https://shopee.ph/COOLER-MASTER-MASTERBOX-Q300L-(MCB-Q300L-KANN-S00)-i.727966619.42313827957",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 3000D Airflow Black",
+        "brand": "Corsair",
+        "model": "3000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 370,
+        "color": "Black",
+        "price": 6295,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/3000D_RGB_AF_BLACK_RENDER_01_400x.jpg?v=1702175283",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-3000d-rgb-airflow-tempered-glass-mid-tower-atx-pc-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 3000D Airflow White",
+        "brand": "Corsair",
+        "model": "3000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 370,
+        "color": "White",
+        "price": 3595,
+        "price_range": "mid_range",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Cases/CC-9011252-WW/3000D_AF_WHITE_RENDER_01.webp",
+        "link": "https://shopee.ph/Corsair-3000D-AIRFLOW-Mid-Tower-White-MATX-Chassis-PC-Case-i.50916350.24868630964",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Tecware Flatline TG Black",
+        "brand": "Tecware",
+        "model": "Flatline TG",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 350,
+        "color": "Black",
+        "price": 2295,
+        "price_range": "budget",
+        "image_url": "https://static.wixstatic.com/media/8517ed_2e6253768437448598eb87142c1a56d5~mv2.png/v1/fill/w_1960,h_930,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Flatline_slide_02.png",
+        "link": "https://shopee.ph/Tecware-Flatline-Black-TG-mATX-3*120mm-Fans-Chassis-i.122081568.17527229149",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake H200 TG ARGB Black",
+        "brand": "Thermaltake",
+        "model": "H200 TG ARGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 375,
+        "color": "Black",
+        "price": 3250,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/acsa-gsa-gsa-gsa_400x.jpg?v=1711957727",
+        "link": "https://ecommerce.datablitz.com.ph/products/thermaltake-h200-tg-rgb-mid-tower-4mm-tempered-glass-pc-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Deepcool Matrexx 40 3FS",
+        "brand": "Deepcool",
+        "model": "Matrexx 40 3FS",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 320,
+        "color": "Black",
+        "price": 2450,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/01_4_400x.png?v=1676887561",
+        "link": "https://ecommerce.datablitz.com.ph/products/deepcool-matrexx-40-micro-atx-case-dp-matx-matrexx40-3fs",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H7 Flow Black",
+        "brand": "NZXT",
+        "model": "H7 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 5995,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1712947673-h7-flow-hero-black_400x.jpg?v=1721905527",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h7-flow-mid-tower-atx-airflow-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H7 Flow White",
+        "brand": "NZXT",
+        "model": "H7 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "White",
+        "price": 5995,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1712947669-h7-flow-hero-white_400x.jpg?v=1721905526",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h7-flow-mid-tower-atx-airflow-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 5000D Airflow Black",
+        "brand": "Corsair",
+        "model": "5000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "Black",
+        "price": 8950,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/base-5000d-airflow-Gallery-5000D-AF-BLACK-001_400x.jpg?v=1676876036",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-5000d-airflow-tempered-glass-mid-tower-atx-pc-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 5000D Airflow White",
+        "brand": "Corsair",
+        "model": "5000D Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "White",
+        "price": 8950,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/base-5000d-airflow-Gallery-5000D-AF-WHITE-001_400x.jpg?v=1676876068",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-5000d-airflow-tempered-glass-mid-tower-atx-pc-case-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design North Charcoal Black",
+        "brand": "Fractal Design",
+        "model": "North",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 355,
+        "color": "Black",
+        "price": 12650,
+        "price_range": "high_end",
+        "image_url": "https://img.lazcdn.com/g/p/df7f909d3c3a1ba9e02281853637abb9.png_720x720q80.png_.webp",
+        "link": "https://www.lazada.com.ph/products/pdp-i4088248868-s22434971702.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253Afractal%252Bdesign%252Bnorth%253Bnid%253A4088248868%253Bsrc%253ALazadaMainSrp%253Brn%253A8fa3865b2ea48ad494973ff243d8710b%253Bregion%253Aph%253Bsku%253A4088248868_PH%253Bprice%253A12650%253Bclient%253Adesktop%253Bsupplier_id%253A24524%253Bsession_id%253A%253Bbiz_source%253Ah5_internal%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A5152%253Bitem_id%253A4088248868%253Bsku_id%253A22434971702%253Bshop_id%253A26256%253BtemplateInfo%253A107881_D_E%2523-1_A3_C%2523&freeshipping=1&fs_ab=2&fuse_fs=&lang=en&location=Metro%20Manila~Manila&price=1.265E%204&priceCompare=skuId%3A22434971702%3Bsource%3Alazada-search-voucher%3Bsn%3A8fa3865b2ea48ad494973ff243d8710b%3BoriginPrice%3A1265000%3BdisplayPrice%3A1265000%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1771918756730&ratingscore=&request_id=8fa3865b2ea48ad494973ff243d8710b&review=&sale=1&search=1&source=search&spm=a2o4l.searchlist.list.0&stock=1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design North Chalk White",
+        "brand": "Fractal Design",
+        "model": "North",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 355,
+        "color": "White",
+        "price": 12650,
+        "price_range": "high_end",
+        "image_url": "https://img.lazcdn.com/g/p/a2533bbe302501c28a37fff7d8f0f403.png_720x720q80.png_.webp",
+        "link": "https://www.lazada.com.ph/products/itw-fractal-design-north-mesh-gaming-pc-case-charcoal-blackchalk-white-i4088248868-s22434971703.html?",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li LANCOOL II Mesh Performance Black",
+        "brand": "Lian Li",
+        "model": "LANCOOL II Mesh Performance",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 384,
+        "color": "Black",
+        "price": 6750,
+        "price_range": "high_end",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-LIAN-LI-LANCOOL-II-MESH-RGB-BLACK-1.jpg?v=1741673127&width=700",
+        "link": "https://pcx.com.ph/products/lian-li-lancool-ii-mesh-tempered-glass-chassis-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li LANCOOL III Black",
+        "brand": "Lian Li",
+        "model": "LANCOOL III",
+        "form_factor": "E-ATX",
+        "max_gpu_length_mm": 420,
+        "color": "Black",
+        "price": 8795,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/5s4g5sg4sd_400x.jpg?v=1760515999",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-lancool-3r-x-mesh-rgb-e-atx-mid-tower-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li LANCOOL III White",
+        "brand": "Lian Li",
+        "model": "LANCOOL III",
+        "form_factor": "E-ATX",
+        "max_gpu_length_mm": 420,
+        "color": "White",
+        "price": 9735,
+        "price_range": "high_end",
+        "image_url": "https://img.lazcdn.com/g/p/de906efc197cf7e46684ee81474bf992.jpg_720x720q80.jpg_.webp",
+        "link": "https://www.lazada.com.ph/products/lian-li-lancool-iii-rgb-4x140mm-3argb-white-lan3rw-black-lan3rx-chassis-i3445914616.html",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks Eclipse G360A Black",
+        "brand": "Phanteks",
+        "model": "Eclipse G360A",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 5495,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/G360A_20black_2001_400x.jpg?v=1676921090",
+        "link": "https://ecommerce.datablitz.com.ph/products/phanteks-eclipse-g360a-drgb-tempered-glass-mid-tower-case-black-ph-ec360atg-dbk02",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks Eclipse G360A White",
+        "brand": "Phanteks",
+        "model": "Eclipse G360A",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "White",
+        "price": 7500,
+        "price_range": "high_end",
+        "image_url": "https://img.lazcdn.com/g/p/362bb3888bfca37751a5f0b4e04aa4d7.jpg_720x720q80.jpg_.webp",
+        "link": "https://www.lazada.com.ph/products/pinklehub-phanteks-eclipse-g360a-ultra-fine-performance-mesh-mid-tower-gaming-case-tempered-glass-digital-rgb-lighting-i3609068101-s18820689345.html?",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "be quiet! Silent Base 802 Airflow Black",
+        "brand": "be quiet!",
+        "model": "Silent Base 802 Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 432,
+        "color": "Black",
+        "price": 8495,
+        "price_range": "high_end",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=1918ba34431@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://shopee.ph/Be-Quiet!-Silent-Base-802-Window-Black-Case-4260052188385-Bgw39-i.21380649.15833243826",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "be quiet! Silent Base 802 Airflow White",
+        "brand": "be quiet!",
+        "model": "Silent Base 802 Airflow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 432,
+        "color": "White",
+        "price": 8495,
+        "price_range": "high_end",
+        "image_url": "https://www.bequiet.com/admin/ImageServer.php?ID=4eb38a34432@be-quiet.net&omitPreview=true&width=600",
+        "link": "https://shopee.ph/Be-Quiet!-Silent-Base-802-Window-White-4260052188408-Case-Bgw40-i.21380649.14433243189",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master HAF 700 EVO",
+        "brand": "Cooler Master",
+        "model": "HAF 700 EVO",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 490,
+        "color": "Black",
+        "price": 11495,
+        "price_range": "enthusiast",
+        "image_url": "https://a.storyblok.com/f/281110/b7e10f9ad7/haf-700-evo-gallery-1.png/m/1440x0/smart",
+        "link": "https://shopee.ph/Cooler-Master-HAF-700-EVO-PC-Case-Full-Tower-ARGB-Accessories-Included-i.742206475.23261227423",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair iCUE 7000X RGB Black",
+        "brand": "Corsair",
+        "model": "iCUE 7000X RGB",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 450,
+        "color": "Black",
+        "price": 11700,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/CC-9011226-WW-Gallery-7000X-RGB-BLACK-01_400x.jpg?v=1679466783",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-icue-7000x-rgb-tempered-glass-full-tower-atx-pc-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair iCUE 7000X RGB White",
+        "brand": "Corsair",
+        "model": "iCUE 7000X RGB",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 450,
+        "color": "White",
+        "price": 11900,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/CC-9011227-WW-Gallery-7000X-RGB-WHITE-01_400x.jpg?v=1679466441",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-icue-7000x-rgb-tempered-glass-full-tower-atx-pc-case-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11 Dynamic EVO Black",
+        "brand": "Lian Li",
+        "model": "O11 Dynamic EVO",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 422,
+        "color": "Black",
+        "price": 11000,
+        "price_range": "high_end",
+        "image_url": "https://lian-li.com/wp-content/uploads/2021/12/evo-600-000.jpg",
+        "link": "https://shopee.ph/Lian-Li-O11-Dynamic-EVO-XL-Full-Tower-Tempered-Glass-PC-Case-(Black-White)-itw-i.89762129.22388230816",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11 Dynamic EVO White",
+        "brand": "Lian Li",
+        "model": "O11 Dynamic EVO",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 422,
+        "color": "White",
+        "price": 11200,
+        "price_range": "high_end",
+        "image_url": "https://lian-li.com/wp-content/uploads/2021/12/evo-600-000.jpg",
+        "link": "https://shopee.ph/Lian-Li-O11-Dynamic-EVO-XL-Full-Tower-Tempered-Glass-PC-Case-(Black-White)-itw-i.89762129.22388230816",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11D Mini-S Snow White",
+        "brand": "Lian Li",
+        "model": "O11D Mini-S",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 395,
+        "color": "White",
+        "price": 11200,
+        "price_range": "mid_range",
+        "image_url": "https://lian-li.com/wp-content/uploads/2020/11/O11D-mini_black_side45.jpg",
+        "link": "https://shopee.ph/LIAN-LI-O11Dynamic-Mini-Case-Snow-White-(O11DMI-S)-i.65290500.4588601554",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11D Mini-S Black",
+        "brand": "Lian Li",
+        "model": "O11D Mini-S",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 395,
+        "color": "Black",
+        "price": 11000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fbfxghmg_400x.jpg?v=1753440753",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-o11-dynamic-mini-dual-chamber-gaming-pc-case-black-snow-mini-x-mini-s",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H9 Flow Black",
+        "brand": "NZXT",
+        "model": "H9 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 435,
+        "color": "Black",
+        "price": 7800,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1672294506-h9-flow-hero-black_400x.jpg?v=1676921009",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h9-flow-dual-chamber-mid-tower-airflow-case-matte-black-cm-h91fb-01",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H9 Flow White",
+        "brand": "NZXT",
+        "model": "H9 Flow",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 435,
+        "color": "White",
+        "price": 8000,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1672294349-h9-flow-hero-white_400x.jpg?v=1676921027",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h9-flow-dual-chamber-mid-tower-airflow-case-matte-white-cm-h91fw-01",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H9 Elite Black",
+        "brand": "NZXT",
+        "model": "H9 Elite",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 435,
+        "color": "Black",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1672294375-h9-elite-hero-black_400x.jpg?v=1676921027",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h9-elite-premium-dual-chamber-mid-tower-airflow-case-matte-black-cm-h91eb-01",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H9 Elite White",
+        "brand": "NZXT",
+        "model": "H9 Elite",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 435,
+        "color": "White",
+        "price": 8700,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1672294215-h9-elite-hero-white_400x.jpg?v=1676921041",
+        "link": "https://ecommerce.datablitz.com.ph/products/nzxt-h9-elite-premium-dual-chamber-mid-tower-airflow-case-matte-white-cm-h91ew-01",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Torrent Black",
+        "brand": "Fractal Design",
+        "model": "Torrent",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 461,
+        "color": "Black",
+        "price": 7800,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer22_aeb601a0-b1c5-4287-898e-eb024585489e_400x.jpg?v=1760682776",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-torrent-computer-case-rgb-black-tg-light-tint-rgb-white-tg-clear-tint",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Torrent White",
+        "brand": "Fractal Design",
+        "model": "Torrent",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 461,
+        "color": "White",
+        "price": 8000,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Layer35_445a402d-e2dd-4194-a753-6535a1e486e9_400x.jpg?v=1760682776",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-torrent-computer-case-rgb-black-tg-light-tint-rgb-white-tg-clear-tint",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Meshify 2 Compact Black",
+        "brand": "Fractal Design",
+        "model": "Meshify 2 Compact",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 360,
+        "color": "Black",
+        "price": 5800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Standard-Studio_Meshify2Compact_Black_Sheetmetal_Standard_6.-Left-Front-810x810_400x.jpg?v=1747033193",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-meshify-2-compact-computer-case-black-solid-black-tg-light-tint-rgb-black-tg-light-tint-rgb-white-tg-clear-tint-fd-c-mes2c-01-fd-c-mes2c-03-fd-c-mes2c-06-fd-c-mes2c-08",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Meshify 2 Compact White",
+        "brand": "Fractal Design",
+        "model": "Meshify 2 Compact",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 360,
+        "color": "White",
+        "price": 6000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Standard-Studio_Meshify2Compact_White_TGC_Standard_6.-Left-Front_1600x.jpg?v=1746706575",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-meshify-2-compact-computer-case-white-tg-clear-tint-fd-c-mes2c-05",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks Evolv X Black",
+        "brand": "Phanteks",
+        "model": "Evolv X",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 435,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "high_end",
+        "image_url": "https://phanteks.com/wp-content/uploads/2025/01/Evolv-X2_Black_22-600x600.webp",
+        "link": "https://shopee.ph/Phanteks-Enthoo-Evolv-X-Glass-Dual-Tempered-Side-panels-Desktop-Computer-PC-Case-i.50916350.7958447079",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks NV7 Black",
+        "brand": "Phanteks",
+        "model": "NV7",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 480,
+        "color": "Black",
+        "price": 7800,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/01_76_400x.jpg?v=1697942226",
+        "link": "https://ecommerce.datablitz.com.ph/products/phanteks-nv7-drgb-tempered-glass-full-tower-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Phanteks NV7 White",
+        "brand": "Phanteks",
+        "model": "NV7",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 480,
+        "color": "White",
+        "price": 8000,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/01_77_400x.jpg?v=1697942230",
+        "link": "https://ecommerce.datablitz.com.ph/products/phanteks-nv7-drgb-tempered-glass-full-tower-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11 Vision Black",
+        "brand": "Lian Li",
+        "model": "O11 Vision",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 415,
+        "color": "Black",
+        "price": 11000,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/wregaresgzsdfvb_400x.jpg?v=1706320529",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-o11-vision-aluminum-steel-tempered-glass-atx-mid-tower-pc-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li O11 Vision White",
+        "brand": "Lian Li",
+        "model": "O11 Vision",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 415,
+        "color": "White",
+        "price": 11200,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/wergsdvsdv_400x.jpg?v=1706320529",
+        "link": "https://ecommerce.datablitz.com.ph/products/lian-li-o11-vision-aluminum-steel-tempered-glass-atx-mid-tower-pc-case",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 5000T RGB Black",
+        "brand": "Corsair",
+        "model": "5000T RGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "Black",
+        "price": 8500,
+        "price_range": "enthusiast",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2023/10/Corsair-iCUE-5000T-RGB-Tempered-Glass-Mid-Tower-ATX-PC-Case-Black-btz-ph-1.avif",
+        "link": "https://bermorzone.com.ph/shop/chassis/corsair-icue-5000t-rgb-tempered-glass-mid-tower-atx-pc-case-black/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 5000T RGB White",
+        "brand": "Corsair",
+        "model": "5000T RGB",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 420,
+        "color": "White",
+        "price": 8700,
+        "price_range": "enthusiast",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2023/10/Icue-5000t-rgb-btz-ph-4-1-768x768.webp",
+        "link": "https://bermorzone.com.ph/shop/chassis/corsair-icue-5000t-rgb-tempered-glass-mid-tower-atx-pc-case-white/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Define 7 XL Black",
+        "brand": "Fractal Design",
+        "model": "Define 7 XL",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 491,
+        "color": "Black",
+        "price": 7800,
+        "price_range": "enthusiast",
+        "image_url": "https://m.media-amazon.com/images/I/51NNgQJ9q9L._AC_SX355_.jpg",
+        "link": "https://www.amazon.com/Fractal-Design-Aluminum-Tempered-Computer/dp/B08146HTV5?th=1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "ASUS ROG Hyperion GR701",
+        "brand": "ASUS",
+        "model": "ROG Hyperion GR701",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 460,
+        "color": "Black",
+        "price": 11000,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/iil-325302-657397_400x.jpg?v=1700881562",
+        "link": "https://ecommerce.datablitz.com.ph/products/asus-rog-hyperion-gr701-full-tower-gaming-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master NR200P Black",
+        "brand": "Cooler Master",
+        "model": "NR200P",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 330,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/nr200p_03_cooling_potential-imageleftorright_1600x.jpg?v=1690772914",
+        "link": "https://ecommerce.datablitz.com.ph/products/cooler-master-masterbox-nr200p-mini-itx-pc-case-black-mcb-nr200p-kgnn-s00",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master NR200P White",
+        "brand": "Cooler Master",
+        "model": "NR200P",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 330,
+        "color": "White",
+        "price": 6700,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/nr200p-gallery-5-image_400x.jpg?v=1690770447",
+        "link": "https://ecommerce.datablitz.com.ph/products/cooler-master-masterbox-nr200p-mini-itx-pc-case-white-mcb-nr200p-wgnn-s00",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "NZXT H1 V2 Black",
+        "brand": "NZXT",
+        "model": "H1 V2",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 324,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "enthusiast",
+        "image_url": "https://m.media-amazon.com/images/I/51dJ0MnzXUL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://shopee.ph/NZXT-H1-V2-Mini-ITX-PC-Case-Small-Form-Factor-ITX-Case-Dual-Chamber-Airflow-PC-Case-i.575072656.16140771896",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li A4-H2O A4 Black",
+        "brand": "Lian Li",
+        "model": "A4-H2O",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 322,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71oGbnMju5L._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/A4-H2O-Aluminum-Mini-ITX-Computer-Included/dp/B09T73JG49?th=1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "SSUPD Meshroom S Black",
+        "brand": "SSUPD",
+        "model": "Meshroom S",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 336,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ssupd.co/cdn/shop/files/BK-5_13c43442-3cb4-435e-9f85-2675974facc3.png?v=1684638001&width=600",
+        "link": "https://ssupd.co/products/cases-meshroom-s-v2?variant=50958452457656",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "SSUPD Meshroom S White",
+        "brand": "SSUPD",
+        "model": "Meshroom S",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 336,
+        "color": "White",
+        "price": 6700,
+        "price_range": "high_end",
+        "image_url": "https://ssupd.co/cdn/shop/files/1_0d5b589f-60a2-4618-aad4-714c2205f929.png?v=1723694578&width=600",
+        "link": "https://ssupd.co/products/cases-meshroom-s-v2?variant=50958452490424",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Terra Black",
+        "brand": "Fractal Design",
+        "model": "Terra",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 322,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dfbbbnt_400x.jpg?v=1704509397",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-terra-mini-itx-small-form-factor-pc-case-graphite-fd-c-ter1n-01",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Fractal Design Ridge Black",
+        "brand": "Fractal Design",
+        "model": "Ridge",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 335,
+        "color": "Black",
+        "price": 6500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/Ridge_Black_1_Left_Front-810x810_400x.jpg?v=1746858476",
+        "link": "https://ecommerce.datablitz.com.ph/products/fractal-design-ridge-pcie-4-0-mini-itx-small-form-factor-case-black-white-fd-c-rid1n-11-fd-c-rid1n-12",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake Tower 200 Black",
+        "brand": "Thermaltake",
+        "model": "Tower 200",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 380,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/i/m/images01_1.jpg",
+        "link": "https://shopee.ph/CA-1X9-00S1WN-00-Thermaltake-The-Tower-200-TG-Black-Mini-ITX-Vertical-Chassis-i.323829418.25356503265",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake Tower 200 White",
+        "brand": "Thermaltake",
+        "model": "Tower 200",
+        "form_factor": "Mini-ITX",
+        "max_gpu_length_mm": 380,
+        "color": "White",
+        "price": 3400,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/61pPTTo9ALL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Mini-ITX-Computer-Pre-Installed-CA-1X9-00S6WN-00/dp/B0C7SHGZGN?th=1",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "MSI MAG PANO M100R PZ Black",
+        "brand": "MSI",
+        "model": "MAG PANO M100R PZ",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 390,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-MSI-MAG-PANO-M100R-PZ-BLK-TG-ARGB-DUALCHAMBER-1.jpg?v=1709530694&width=600",
+        "link": "https://pcx.com.ph/products/msi-mag-pano-m100r-pz-tempered-glass-argb-mid-tower-dual-chamber-chassis-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "MSI MAG PANO M100R PZ White",
+        "brand": "MSI",
+        "model": "MAG PANO M100R PZ",
+        "form_factor": "Micro-ATX",
+        "max_gpu_length_mm": 390,
+        "color": "White",
+        "price": 3400,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-MSI-MAG-PANO-M100R-PZ-WHT-TG-ARGB-DUALCHAMBER-1.jpg?v=1746242400&width=600",
+        "link": "https://pcx.com.ph/products/msi-mag-pano-m100r-pz-tempered-glass-argb-gaming-case-white",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake CTE T500 Air Full Tower Black",
+        "brand": "Thermaltake",
+        "model": "CTE T500 Air",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 450,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "high_end",
+        "image_url": "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/c/a/ca-1x8-00f1wn-00_01a.jpg",
+        "link": "https://www.thermaltake.com/cte-t500-air-full-tower-chassis.html",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Thermaltake CTE T500 Air Full Tower White",
+        "brand": "Thermaltake",
+        "model": "CTE T500 Air",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 450,
+        "color": "White",
+        "price": 3400,
+        "price_range": "high_end",
+        "image_url": "https://www.thermaltake.com/media/catalog/product/cache/6af153fd0a0c509bdfcdfb60a394dd9c/c/a/ca-1x8-00f6wn-00_01.jpg",
+        "link": "https://www.thermaltake.com/cte-t500-air-snow-full-tower-chassis.html",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master MasterBox TD500 Mesh V2 Black",
+        "brand": "Cooler Master",
+        "model": "MasterBox TD500 Mesh V2",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 410,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "mid_range",
+        "image_url": "https://pcx.com.ph/cdn/shop/files/CASE-COOLER-MASTER-MASTERBOX-TD500-MESH-V2-BLK-1.jpg?v=1704424730&width=600",
+        "link": "https://pcx.com.ph/products/cooler-master-masterbox-td500-v2-td500v2-kgnn-s00-mesh-chassis-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Cooler Master MasterBox TD500 Mesh V2 White",
+        "brand": "Cooler Master",
+        "model": "MasterBox TD500 Mesh V2",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 410,
+        "color": "White",
+        "price": 3400,
+        "price_range": "mid_range",
+        "image_url": "https://a.storyblok.com/f/281110/cc16aa2f9e/td500-mesh-v2-black-gallery-2-0110.png/m/1440x0/smart",
+        "link": "https://shopee.ph/COOLER-MASTER-MASTERBOX-TD500-MESH-V2-i.342442078.20382449373",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Lian Li V3000 PLUS Black",
+        "brand": "Lian Li",
+        "model": "V3000 PLUS",
+        "form_factor": "Full Tower",
+        "max_gpu_length_mm": 460,
+        "color": "Black",
+        "price": 11000,
+        "price_range": "enthusiast",
+        "image_url": "https://bermorzone.com.ph/wp-content/uploads/2023/03/V3000PX.jpg",
+        "link": "https://bermorzone.com.ph/shop/chassis/lian-li-v3000-plus-black-tempered-glass-full-tower-eatx-gaming-computer-case-v3000px/",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 6500X Black",
+        "brand": "Corsair",
+        "model": "6500X",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "Black",
+        "price": 3200,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/6500X_BLACK_HERO_01_AA_400x.jpg?v=1758446427",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-6500x-tempered-glass-atx-mid-tower-dual-chamber-pc-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    },
+    {
+        "name": "Corsair 6500X White",
+        "brand": "Corsair",
+        "model": "6500X",
+        "form_factor": "ATX",
+        "max_gpu_length_mm": 400,
+        "color": "White",
+        "price": 3400,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/6500X_WHITE_HERO_01_AA_400x.jpg?v=1758446427",
+        "link": "https://ecommerce.datablitz.com.ph/products/corsair-6500x-tempered-glass-atx-mid-tower-dual-chamber-pc-case-black",
+        "pricing_range": {
+            "min": 36,
+            "max": 23950
+        }
+    }
+]

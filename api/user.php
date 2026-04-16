@@ -10,6 +10,10 @@ $method = $_SERVER['REQUEST_METHOD'];
 $userId = getCurrentUserId();
 $conn = getDBConnection();
 
+if (!$conn) {
+    sendJSON(['success' => false, 'message' => 'Database connection failed'], 500);
+}
+
 switch ($method) {
     case 'GET':
         getUserInfo($conn, $userId);

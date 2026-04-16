@@ -1,0 +1,1496 @@
+[
+    {
+        "name": "Kingston Fury Beast 8GB DDR4-3200",
+        "brand": "Kingston",
+        "model": "Fury Beast 8GB DDR4-3200",
+        "type": "DDR4",
+        "capacity": "8GB",
+        "kit": "1x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 1595,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/3966-a_720x.jpg?v=1632791388",
+        "link": "https://easypc.com.ph/products/kingston-fury-beast-16gb-2x8gb-ddr4-3200mhz-infrared-sync-technology-rgb-lighting-intel-xmp-ready-black-memory?variant=40835264872619",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 8GB DDR4-3200",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 8GB DDR4-3200",
+        "type": "DDR4",
+        "capacity": "8GB",
+        "kit": "1x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 1695,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/51Y7ugfDRWS._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RS1G6XW/ref=sr_1_1?crid=D2UQ2EXA46FT&dib=eyJ2IjoiMSJ9.1mf_KgIp42nX-vKNKlSnnUJnNxirgprdNpSfJvjKC1rW9WjB47nyyS0KI0Y_EZYdSYK9twy04rQoQOVYzU8VmZH1GBnNXAG0CdVEiRKP07hNpnlxH9buQZJqaxVIL2s1Ltif5weeD1sClkfWYKc43qiE3aJP59iXHsbjFhShvkh_Zpqtrwx4gjFKcfjh21hwCbWUMoO5WdHs3CTI8aJxRyVWmwetZfD2vztzcAQe4JY.2TgfgzTgukjPi7KtGgHH8n_dJHfdws1N6yM_I5J3E04&dib_tag=se&keywords=Corsair+Vengeance+LPX+8GB+DDR4-3200+Corsair+Vengeance+LPX+8GB+DDR4-3200&nsdOptOutParam=true&qid=1773371008&sprefix=msi+mag+a650gl+msi+mag+a65a0gl+650w+80%2B+gold%2Caps%2C563&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Vulcan Z 8GB DDR4-3200",
+        "brand": "TeamGroup",
+        "model": "T-Force Vulcan Z 8GB DDR4-3200",
+        "type": "DDR4",
+        "capacity": "8GB",
+        "kit": "1x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 1495,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71KDlsEhlEL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/TeamGroup-T-Force-Vulcan-3200Mhz-Gaming/dp/B08R66K4BG/ref=sr_1_1?crid=1P09D4HQMWZY9&dib=eyJ2IjoiMSJ9.I4rIakLiuL_unl5Ve4-ChMoVJpS_kb1kYUfzbZwqhFDAPeisFZ9hqvnuBODlmRY3MEKadSIsSwdPBqULQ3Q_3QpPHRKSPu5MACh2GI91qSyWt8kZihTk4bvB93S7-u6CQBnTSsh8cwOhI0MNn3gcf4lT99qtNsipXzE6n1qhWw6OhR-oSw2wiMoQFQJyE77bHyhTGENp4JST8CsMVGz-sxsWDf9T0W2MZlU3dhWS31A.JHobRMTHWHX8EUeLb8FNSE7-bQm2t9zYUbsObBphDPQ&dib_tag=se&keywords=TeamGroup%2BT-Force%2BVulcan%2BZ%2B8GB%2BDDR4-3200%2BTeamGroup%2BT-Force%2BVulcan%2BZ%2B8GB%2BDDR4-3200&nsdOptOutParam=true&qid=1773371036&sprefix=corsair%2Bvengeance%2Blpx%2B8gb%2Bddr4-3200%2Bcorsair%2Bvengeance%2Blpx%2B8gb%2Bddr4-3200%2Caps%2C420&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial 8GB DDR4-3200",
+        "brand": "Crucial",
+        "model": "8GB DDR4-3200",
+        "type": "DDR4",
+        "capacity": "8GB",
+        "kit": "1x8GB",
+        "speed": 3200,
+        "cas_latency": 22,
+        "price": 1395,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61FsaYbk3UL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Crucial-3200MHz-PC4-25600-Downclockable-Compatible/dp/B08C4Z69LN/ref=sr_1_1?crid=NRUHP96QGWS0&dib=eyJ2IjoiMSJ9.AU-7XkMHDl5GNfnXtFxo7ySBsAksJpX_HgJR44P38BDDMT-NKos7zScOk6yzrbok1mv8hFcllGvQ-sbgSnhPdQeVzxp9gN6kAtvwz6cQjFh_JhWAh7-U3yvWlNKGO_ooEQXtXkU76ZOFKy2zNgPm5G-izkDJQb9KfM8OfSnZsPq3pKwGrETC0E2DuBnhy7Fvf5O4284RJzt79rcLk69fpQf9GbajNxy9X1802hlrAoA.KIj4ep1-DIUkNbySTQ24JnCpA9auLJdAnLQ1aJbhqS4&dib_tag=se&keywords=Crucial%2B8GB%2BDDR4-3200%2BCrucial%2B8GB%2BDDR4-3200&qid=1773371062&sprefix=teamgroup%2Bt-force%2Bvulcan%2Bz%2B8gb%2Bddr4-3200%2Bteamgroup%2Bt-force%2Bvulcan%2Bz%2B8gb%2Bddr4-3200%2Caps%2C513&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200",
+        "brand": "G.Skill",
+        "model": "Ripjaws V 16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 2795,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/714ef+Bh6QL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/G-SKILL-Ripjaws-PC4-25600-Platform-F4-3200C16D-16GVRB/dp/B017RKV4N2/ref=sr_1_1?crid=2ZGJI7XU72IKV&dib=eyJ2IjoiMSJ9.hhskPfWqZMPyrd1eNReKXmt6Z6J1jp8Kk4wLrtXN651TTmk6LzNZK4Tejwlm0fcfyx3nmC7QNmbfI_XT6xRqktA1ofvVko2mXvy0SQ5-Zn0Z1vEqc9WQWhj9vOdPGqW7HT7Bbm3AfSPerFreqKLHN85iiHcJuQE5bYHAFxeIe8RDn6B1GCWyza6Y5d_QXkWX6kCe3avLI-_V47-mejMTG4O1x2PMK8XYd_PGdq2PBgY.ZL-Ki0quQFz5WJ1vvc2Zatr0CdDuZDkpyUtetNj2FdI&dib_tag=se&keywords=G.Skill%2BRipjaws%2BV%2B16GB%2B(2x8GB)%2BDDR4-3200%2BG.Skill%2BRipjaws%2BV%2B16GB%2B(2x8GB)%2BDDR4-3200&nsdOptOutParam=true&qid=1773371081&sprefix=crucial%2B8gb%2Bddr4-3200%2Bcrucial%2B8gb%2Bddr4-3200%2Caps%2C554&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 16GB (2x8GB) DDR4-3200",
+        "brand": "Kingston",
+        "model": "Fury Beast 16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 2995,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/16GB-3200MHz-DDR4-Beast-Black/dp/B097K2WBL3/ref=sr_1_1?crid=5I9HU6UXWR6O&dib=eyJ2IjoiMSJ9.pIhF620oH7DBHeXj3Fg6nTCVRrQEbVMmiCOMBvCHoWxyuUWDPMWDhZ5tdGn6cfpVn3sLPOCuhVMiW88ddrJMegJ8mc13ROpGjQy0D8TbKjpCxqg_pghWNLRBawsLtgyRhpynC40bCIF1ElJCVcG-moqaEd6Ot7w-ytRoZEcpOz6XHnYVyrQf5_1tnFMQ7m6_EIKD0UAZboNe1I6n9FGsAuQmUDwog9KvuPGsrz18haE.ByU9PTUjiq65bO9BnsFbNNR5ymA1UYoMZkdSNJKO5tA&dib_tag=se&keywords=Kingston+Fury+Beast+16GB+%282x8GB%29+DDR4-3200+Kingston+Fury+Beast+16GB+%282x8GB%29+DDR4-3200&nsdOptOutParam=true&qid=1773371106&sprefix=g.skill+ripjaws+v+16gb+2x8gb+addr4-3200+g.skill+ripjaws+v+16gb+2x8gb+ddr4-3200%2Caps%2C477&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 3195,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/51Y7ugfDRWS._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Corsair+Vengeance+LPX+16GB+%282x8GB%29+DDR4-3200+Corsair+Vengeance+LPX+16GB+%282x8GB%29+DDR4-3200&crid=3SDIKWBMAB8IP&sprefix=kingston+fury+beast+16gb+2x8gb+ddr4-3200+kingston+fury+beast+16gb+2x8gb+ddr4-3200%2Caps%2C420&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Vulcan Z 16GB (2x8GB) DDR4-3200",
+        "brand": "TeamGroup",
+        "model": "T-Force Vulcan Z 16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 2895,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71KDlsEhlEL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=TeamGroup+T-Force+Vulcan+Z+16GB+%282x8GB%29+DDR4-3200+TeamGroup+T-Force+Vulcan+Z+16GB+%282x8GB%29+DDR4-3200&crid=1D7YGS242WA43&sprefix=teamgroup+t-force+vulcan+z+16gb+2x8gb+ddr4-3200+teamgroup+t-force+vulcan+z+16gb+2x8gb+ddr4-3200%2Caps%2C466&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial 16GB (2x8GB) DDR4-3200",
+        "brand": "Crucial",
+        "model": "16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 22,
+        "price": 2795,
+        "price_range": "budget",
+        "image_url": "Crucial 16GB (2x8GB) DDR4-3200 Crucial 16GB (2x8GB) DDR4-3200",
+        "link": "https://www.amazon.com/s?k=Crucial+16GB+%282x8GB%29+DDR4-3200+Crucial+16GB+%282x8GB%29+DDR4-3200&crid=1Q8HMXOSF04TG&sprefix=crucial+16gb+2x8gb+ddr4-3200+crucial+16gb+2x8gb+ddr4-3200%2Caps%2C442&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Patriot Viper Steel 16GB (2x8GB) DDR4-3200",
+        "brand": "Patriot",
+        "model": "Viper Steel 16GB (2x8GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 2720,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/917jhv56PSL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Patriot+Viper+Steel+16GB+%282x8GB%29+DDR4-3200+Patriot+Viper+Steel+16GB+%282x8GB%29+DDR4-3200&crid=2F9I1ZYC1J8G2&sprefix=patriot+viper+steel+16gb+2x8gb+ddr4-3200+patriot+viper+steel+16gb+2x8gb+ddr4-3200%2Caps%2C514&ref=nb_sb_noss",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws V 16GB (2x8GB) DDR4-3600",
+        "brand": "G.Skill",
+        "model": "Ripjaws V 16GB (2x8GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 3220,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/618SEnJR1nL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg",
+        "link": "https://www.amazon.com/G-Skill-RipJaws-PC4-28800-CL16-19-19-39-F4-3600C16D-16GVKC/dp/B07X8DVDZZ/ref=sr_1_1?crid=2NQJQABY7O5NY&dib=eyJ2IjoiMSJ9.Ug6sy8a5koxDeMCUNJ5idjWichGgjdfhc6C7iWPOoQmeoUUlrzYaWIilb-gNoQXib-q9EqGO8dINSqdpzx__SxxEPqSvFa71qyOpfTxH0uUMKhVuOf8Od1ybdD_71UGDO4ihAk6267oqRQW-zSEOW2SZc0oxM57KdXA-Ihf9YkNn9jCCW6JtZV8Kt66pps3pfxcVWZb3RdUGHZ89PsLHAbkH-29ZS7LBeMfcBZSTlko.G_EINuG0xYN8XjfFG7STanrtXR90bEQWvFwQDkqgFuI&dib_tag=se&keywords=G.Skill%2BRipjaws%2BV%2B16GB%2B(2x8GB)%2BDDR4-3600%2BG.Skill%2BRipjaws%2BV%2B16GB%2B(2x8GB)%2BDDR4-3600&nsdOptOutParam=true&qid=1773371218&sprefix=patriot%2Bviper%2Bsteel%2B16gb%2B2x8gb%2Bddr4-3200%2Bpatriot%2Bviper%2Bsteel%2B16gb%2B2x8gb%2Bddr4-3200%2Caps%2C411&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3600",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 16GB (2x8GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 3220,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/51Y7ugfDRWS._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Corsair+Vengeance+LPX+16GB+%282x8GB%29+DDR4-3600+Corsair+Vengeance+LPX+16GB+%282x8GB%29+DDR4-3600&crid=LIME7JLP2VD6&sprefix=corsair+vengeance+lpx+16gb+2x8gb+ddr4-3600+corsair+vengeance+lpx+16gb+2x8gb+ddr4-3600%2Caps%2C410&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 16GB (2x8GB) DDR4-3600",
+        "brand": "Kingston",
+        "model": "Fury Beast 16GB (2x8GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 3220,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Kingston+Fury+Beast+16GB+%282x8GB%29+DDR4-3600+Kingston+Fury+Beast+16GB+%282x8GB%29+DDR4-3600&crid=3E2QWSH7YOL30&sprefix=kingston+fury+beast+16gb+2x8gb+ddr4-3600+kingston+fury+beast+16gb+2x8gb+ddr4-3600%2Caps%2C407&ref=nb_sb_noss",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Delta RGB 16GB (2x8GB) DDR4-3600",
+        "brand": "TeamGroup",
+        "model": "T-Force Delta RGB 16GB (2x8GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 3820,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71yyY+Y29WL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=TeamGroup+T-Force+Delta+RGB+16GB+%282x8GB%29+DDR4-3600+TeamGroup+T-Force+Delta+RGB+16GB+%282x8GB%29+DDR4-3600&crid=1RI3E5EJTLO1N&sprefix=teamgroup+t-force+delta+rgb+16gb+2x8gb+ddr4-3600+teamgroup+t-force+delta+rgb+16gb+2x8gb+ddr4-3600%2Caps%2C392&ref=nb_sb_noss",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 16GB (2x8GB) DDR4-3600",
+        "brand": "Kingston",
+        "model": "Fury Renegade 16GB (2x8GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 3600,
+        "cas_latency": 16,
+        "price": 3220,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0355/8296/7943/files/dgnsrfyhnm_360x.jpg?v=1741694266",
+        "link": "https://ecommerce.datablitz.com.ph/search?type=product&options%5Bprefix%5D=last&q=Kingston+Fury+Renegade+16GB+%282x8GB%29+DDR4-3600+Kingston+Fury+Renegade+16GB+%282x8GB%29+DDR4-3600",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial 16GB (2x8GB) DDR5-4800",
+        "brand": "Crucial",
+        "model": "16GB (2x8GB) DDR5-4800",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 4800,
+        "cas_latency": 40,
+        "price": 4000,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71mpqWtH5sL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Crucial+16GB+%282x8GB%29+DDR5-4800+Crucial+16GB+%282x8GB%29+DDR5-4800&ref=nb_sb_noss",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 16GB (2x8GB) DDR5-5200",
+        "brand": "Kingston",
+        "model": "Fury Beast 16GB (2x8GB) DDR5-5200",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 5200,
+        "cas_latency": 40,
+        "price": 4000,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71Y-MK6-fsL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=Kingston+Fury+Beast+16GB+%282x8GB%29+DDR5-5200+Kingston+Fury+Beast+16GB+%282x8GB%29+DDR5-5200&crid=35W5R44IG61X4&sprefix=crucial+16gb+2x8gb+ddr5-4800+crucial+16gb+2x8gb+ddr5-4800%2Caps%2C403&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Vulcan 16GB (2x8GB) DDR5-5200",
+        "brand": "TeamGroup",
+        "model": "T-Force Vulcan 16GB (2x8GB) DDR5-5200",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 5200,
+        "cas_latency": 40,
+        "price": 4000,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/818o9AYsviL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/TEAMGROUP-T-Force-PC5-48000-Compatible-FLRD532G6000HC38JDC01/dp/B0DXQ1346X/ref=sr_1_2?crid=2UQH3G5C8B13H&dib=eyJ2IjoiMSJ9.5UlaN8S1EtFWBvecMOuubA3dfInDZVlz7yltU3iJMRYdDdqFeIdEOpp-VLhQWDZDT6ELWnFlZ4jFHm16txoXeLWkIsbU5qLOAYvu2PVRxBjadnrO3AEWkCCVxLarpa7MksfqR-Ence4YcF1yzVm8sywYZeKlimVziXBCOjVkV88wifQ9G2VAJ5r0zouaJo3G-DO0UuIJ0ubMRfjlkHegpqunFCURfQm76CZLPNsftSM.cXVP5qIxUPufScBfQ7MYimF_n4eH2xUcNHP7tQYHWR0&dib_tag=se&keywords=TeamGroup+T-Force+Vulcan+16GB+%282x8GB%29+DDR5-5200+TeamGroup+T-Force+Vulcan+16GB+%282x8GB%29+DDR5-5200&nsdOptOutParam=true&qid=1773371443&sprefix=teamgroup+t-force+vulcan+16gb+2x8gb+ddr5-5200+teamgroup+t-force+vulcan+16gb+2x8gb+ddr5-5200%2Caps%2C448&sr=8-2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 16GB (2x8GB) DDR5-5600",
+        "brand": "Corsair",
+        "model": "Vengeance 16GB (2x8GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 4000,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61-Ag2lc5BL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-Vengeance-5200MHz-Compatible-Computer/dp/B0D2P1CVQD/ref=sr_1_1?crid=1MF9OP4ZVZ2T8&dib=eyJ2IjoiMSJ9.WmNwdSSNWOIjYU--PLIhdx5Wo2fJtXTlsKX33ETkefI8JMEA2Z7uvu36JymxHGbkAQT6KhPJO4jjB51sKsvWf6BtP6PqDqxGSXjHZkLUFpqno1HF7jYTlGAoAq_oLRrKc19FnfStR5Nz5zwZlWlSGu_e0IdmX5lpWw8KhyJ1oG5qvytlgIFac0BJV1SWJhGoeGeyWwRMaHHCgwt1SsRLlrY7AlmOCeS9x28U8ivp9KA.t8EG6dlP15cOs07eFfJ7bDsw3tR6tmkMXdY1YjwE3og&dib_tag=se&keywords=Corsair+Vengeance+16GB+%282x8GB%29+DDR5-5600+Corsair+Vengeance+16GB+%282x8GB%29+DDR5-5600&nsdOptOutParam=true&qid=1773371485&sprefix=teamgroup+t-force+vulcan+16gb+2x8gb+ddr5-5200+teamgroup+t-force+vulcan+16gb+2x8gb+ddr5-5200%2Caps%2C356&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws S5 16GB (2x8GB) DDR5-5600",
+        "brand": "G.Skill",
+        "model": "Ripjaws S5 16GB (2x8GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "16GB",
+        "kit": "2x8GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 4000,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71CrmOfjDDL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/G-SKILL-Gskill-5200-32GB-Ripjaws/dp/B09WB6HQL3/ref=sr_1_1?crid=1NNFH6VPKVZAE&dib=eyJ2IjoiMSJ9.0M0fJdhHrgBv1zQyH-xUCQyQlM-QEhAQE4sJAbt5Q8WHCdhcGKoDkim7UTUUn03vn0QkMJ4kqw8RtZmUUplrIMKtGrrcxswJdu-K7EL88txoCCTCCiPAkxMqup6iE7c5qOT-ERlf0yKvu3wj4WMeSx2IvZciKsiaJv0TbTLE1nbYi2UqX0ZzTubbplsAG70tn5aWlzsrmtAA1tdaQGjXdDcpHR21OiWtPH1m8j49hMw.Z4Jq1YbUak1cfXQ-UNAYmWErxpzzK9FEDkk57Djr7OI&dib_tag=se&keywords=G.Skill+Ripjaws+S5+16GB+%282x8GB%29+DDR5-5600+G.Skill+Ripjaws+S5+16GB+%282x8GB%29+DDR5-5600&nsdOptOutParam=true&qid=1773371504&sprefix=corsair+vengeance+16gb+2x8gb+ddr5-5600+corsair+vengeance+16gb+2x8gb+ddr5-5600%2Caps%2C354&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200",
+        "brand": "G.Skill",
+        "model": "Ripjaws V 32GB (2x16GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 4995,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/618SEnJR1nL._AC_UY218_.jpg",
+        "link": "https://m.media-amazon.com/images/I/618SEnJR1nL._AC_UY218_.jpg",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 32GB (2x16GB) DDR4-3200",
+        "brand": "Kingston",
+        "model": "Fury Beast 32GB (2x16GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 5440,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_UY218_.jpg",
+        "link": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_UY218_.jpg",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 32GB (2x16GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 5995,
+        "price_range": "mid_range",
+        "image_url": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200",
+        "link": "https://www.amazon.com/s?k=Corsair+Vengeance+LPX+32GB+%282x16GB%29+DDR4-3200+Corsair+Vengeance+LPX+32GB+%282x16GB%29+DDR4-3200&crid=2Y58KAKLQR7P&sprefix=corsair+vengeance+lpx+32gb+2x16gb+ddr4-3200+corsair+vengeance+lpx+32gb+2x16gb+ddr4-3200%2Caps%2C443&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Vulcan Z 32GB (2x16GB) DDR4-3200",
+        "brand": "TeamGroup",
+        "model": "T-Force Vulcan Z 32GB (2x16GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 5440,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/61wCOVcyvFL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=TeamGroup+T-Force+Vulcan+Z+32GB+%282x16GB%29+DDR4-3200+TeamGroup+T-Force+Vulcan+Z+32GB+%282x16GB%29+DDR4-3200&crid=3D0QYRPTZMQ7I&sprefix=teamgroup+t-force+vulcan+z+32gb+2x16gb+ddr4-3200+teamgroup+t-force+vulcan+z+32gb+2x16gb+ddr4-3200%2Caps%2C394&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws V 32GB (2x16GB) DDR4-3600",
+        "brand": "G.Skill",
+        "model": "Ripjaws V 32GB (2x16GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 5940,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/618SEnJR1nL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=G.Skill+Ripjaws+V+32GB+%282x16GB%29+DDR4-3600+G.Skill+Ripjaws+V+32GB+%282x16GB%29+DDR4-3600&crid=1D1ZHEULXTJRQ&sprefix=g.skill+ripjaws+v+32gb+2x16gb+ddr4-3600+g.skill+ripjaws+v+32gb+2x16gb+ddr4-3600%2Caps%2C385&ref=nb_sb_noss_2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3600",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 32GB (2x16GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 5940,
+        "price_range": "mid_range",
+        "image_url": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3600 Corsair Vengeance LPX 32GB (2x16GB) DDR4-3600",
+        "link": "https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RW6Z692/ref=sr_1_1?crid=2FJ25AYX43ITK&dib=eyJ2IjoiMSJ9.PyoFKd7S4ljtAVkGsvd4bwHcX11ykyBYU412YhCuvnhUqXEayWJlpZpOOAnLRlb_nOkT3dbuK6nbi6DLc5uyjYdeb7wV855SziF423BrsIE41_8XjMxYgJVZZuEZuAEMeqJ4KEsj6_Bg3FqN16i5uvhBYZf-9WkxvIaE8OHdsbNGoP36AXyfSToig6UAgT466-E6SDTHKI1ED_xs_GJtwgYECFUmo4hkefgcer1NPMQ.HODn_vXIu9UwmesOIv4WkCP_7sTdZJsCxJG0y-l4PPg&dib_tag=se&keywords=Corsair+Vengeance+LPX+32GB+%282x16GB%29+DDR4-3600+Corsair+Vengeance+LPX+32GB+%282x16GB%29+DDR4-3600&nsdOptOutParam=true&qid=1773371624&sprefix=corsair+vengeance+lpx+32gb+2x16gb+ddr4-3600+corsair+vengeance+lpx+32gb+2x16gb+ddr4-3600%2Caps%2C440&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 32GB (2x16GB) DDR4-3600",
+        "brand": "Kingston",
+        "model": "Fury Beast 32GB (2x16GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3600,
+        "cas_latency": 18,
+        "price": 5995,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/61uXihcspuL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Kingston-FURY-3600MHz-KF436C18BBK2-32/dp/B097K4QKQK/ref=sr_1_1?crid=3608BWHZE9VRG&dib=eyJ2IjoiMSJ9.F-cRuWR69axhuurIlDG1PXVVqJK3uSOyQXiy8uXZDn2bgVfwzUGWKAbyX9ddPhQtPmUtmejecHLnO4PpwJZDZfnCh1zKUwCxdDrRKBRjDZv4Uci9FHRYpGQEwQDXMPVHJONJs7Z27NZ4w0f3AR81KVla___yW5rBAveHkmjt2XJ1nJaP-cWMSNr3GsKWVMZIdSx1AYNF9YL6YpiGu3mSN4q0tUaRz-lEXiGEW2AO-6k.-EYHsYKIo9jdn9HdJTfOqGs260XTJg9AZzFslC05uqU&dib_tag=se&keywords=Kingston+Fury+Beast+32GB+%282x16GB%29+DDR4-3600+Kingston+Fury+Beast+32GB+%282x16GB%29+DDR4-3600&nsdOptOutParam=true&qid=1773371641&sprefix=corsair+vengeance+lpx+32gb+2x16gb+ddr4-3600+corsair+vengeance+lpx+32gb+2x16gb+ddr4-3600%2Caps%2C392&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 32GB (2x16GB) DDR4-3600",
+        "brand": "Kingston",
+        "model": "Fury Renegade 32GB (2x16GB) DDR4-3600",
+        "type": "DDR4",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 3600,
+        "cas_latency": 16,
+        "price": 5940,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71gjg2cODZL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Kingston-Renegade-3600MT-Desktop-Gaming/dp/B0CKJ71M2Y/ref=sr_1_1?crid=38C6IEA8ZOQH&dib=eyJ2IjoiMSJ9.AZuBX5A85UwD8_8QNWFV87orlqU5yTQMKFfWfnXYxCTl4gXMHfwB3uDt0E4PaWS9feUPWGueuGQEJlde1V_zjnnmjkhfKPdPt6ckuaM2HzbYfRBsgCIcUwem5vU6VO6P6ooScG620JJqAvpAze_YvnPzNPbBMvrcuBeWYTHwjSeCUReoZIyB3G1dUSY1za4qctDCtpLEDa8kyXPqT4ARX8AO_chSytTjy_raDjcQfGM.uInbjJAOnmLc9TY-7RDW0MvCKbjFsuo0zdIUjqMgD5c&dib_tag=se&keywords=Kingston+Fury+Renegade+32GB+%282x16GB%29+DDR4-3600+Kingston+Fury+Renegade+32GB+%282x16GB%29+DDR4-3600&nsdOptOutParam=true&qid=1773371676&sprefix=kingston+fury+beast+32gb+2x16gb+ddr4-3600+kingston+fury+beast+32gb+2x16gb+ddr4-3600%2Caps%2C359&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial 32GB (2x16GB) DDR5-4800",
+        "brand": "Crucial",
+        "model": "32GB (2x16GB) DDR5-4800",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 4800,
+        "cas_latency": 40,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71mpqWtH5sL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Crucial-5600MHz-5200MHz-4800MHz-CT2K16G56C46S5/dp/B0BLTDRRLF/ref=sr_1_1?crid=347AJ6WLOKXFH&dib=eyJ2IjoiMSJ9.yrUVSfGXNxpzmfo905g16Xd8hBARt9D0Zf8ABIV6E69-iwnQ-8FEaZ7U9NrJyX8PMC2hl85zzz4woEDE0zpe4jpGcqfZpBHnFtIOanGv3eeaKIOmZNmn5JeuHUFOCCaHM_J66JOGgSEjPBryC6ZX0atCuHyRI9b4iGEAf4YT-e1HT_HEhRSQ2OQZAyZdNbXtrX_j7uVpnGI8FBlNCUJI0W_E2FWImc9Yw634Y5A3uGw.Y54FpB9OYNfZpgLyz3V99r3_K3FQ9ndfkA2WBWDoVqQ&dib_tag=se&keywords=Crucial+32GB+%282x16GB%29+DDR5-4800+Crucial+32GB+%282x16GB%29+DDR5-4800&nsdOptOutParam=true&qid=1773371715&sprefix=kingston+fury+renegade+32gb+2x16gb+ddr4-3600+kingston+fury+renegade+32gb+2x16gb+ddr4-3600%2Caps%2C382&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 32GB (2x16GB) DDR5-5200",
+        "brand": "Kingston",
+        "model": "Fury Beast 32GB (2x16GB) DDR5-5200",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5200,
+        "cas_latency": 40,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71Y-MK6-fsL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/Kingston-Technology-5200MHz-Desktop-KF552C40BBK2-32/dp/B09KCLP63B/ref=sr_1_1?crid=VZFS2VJAVUE7&dib=eyJ2IjoiMSJ9.Y25WGwu9XoM3Gv3UTFsD-Nif_MWqI7VWTkKqq-C9jAYWphkKIcP_YH0Nten2QPwCThpnqhwHqwjoWQaI5QTGhOvNSX6Oi4xjuUaiUBWPlndZKKLE8Q1kBJICTeKwJ6czBU5935DRP4SSOirVY2i6qSKhlssc2JKhSmFLPbER282g4W44m2ZEWMlwR-Upnd_-7Tkd8c6nRSuNrtd-d4oMSsdFbuJ3uGzxXE8dQMXbBgc.4JucGsZqDlLV_hHSc40UaE7p64SYhGsH7WKSx3M6Gek&dib_tag=se&keywords=Kingston+Fury+Beast+32GB+%282x16GB%29+DDR5-5200+Kingston+Fury+Beast+32GB+%282x16GB%29+DDR5-5200&nsdOptOutParam=true&qid=1773371743&sprefix=kingston+fury+beast+32gb+2x16gb+ddr5-5200+kingston+fury+beast+32gb+2x16gb+ddr5-5200%2Caps%2C442&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Vulcan 32GB (2x16GB) DDR5-5600",
+        "brand": "TeamGroup",
+        "model": "T-Force Vulcan 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/812cbOq8tIL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/TEAMGROUP-T-Force-PC5-48000-Compatible-FLBD532G6000HC30DC01/dp/B0CBBDVTYD/ref=sr_1_2?crid=20I4FLWC26RWE&dib=eyJ2IjoiMSJ9.pwXeAFobTYebf5A_gFerYE-eWs_jkVhavvDCh4ypvr9NckRIVPV0e-Q4GRi2X8EJkbR76X0ujJCX7WLFvI32z7zwA91kOvID5jlcHAKDQAbQuPO-pfsaIS3nET7LqQntiKYt5NtzYZKd1KKnRxcCNbJ3YEQQxecss__9-z3bBjPPcpAMEMLQtrPi1awjCWdGItlEhSSpaVCOuxbdINlm3IuPA640lQRQZzHod9hcPL8.EPNmPAjviAC9aJiI9NOx6MRlBPy0t3tlDU7Df3x8VGo&dib_tag=se&keywords=TeamGroup+T-Force+Vulcan+32GB+%282x16GB%29+DDR5-5600+TeamGroup+T-Force+Vulcan+32GB+%282x16GB%29+DDR5-5600&nsdOptOutParam=true&qid=1773371772&sprefix=teamgroup+t-force+vulcan+32gb+2x16gb+ddr5-5600+teamgroup+t-force+vulcan+32gb+2x16gb+ddr5-5600%2Caps%2C398&sr=8-2",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 32GB (2x16GB) DDR5-5600",
+        "brand": "Corsair",
+        "model": "Vengeance 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 8190,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/51YgnMva5XL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-Vengeance-Compatible-Installation-Compatibility/dp/B0CK88P7VF/ref=sr_1_1?crid=3VZDDMFG5CUQF&dib=eyJ2IjoiMSJ9.whQQVhKlIoibld1LbiJXdbv4SJNLogUn272sQMgVTZpzw9LgQA5gGS-NsYQf0VEOLKKdgV8KqGupAfK4NYaC00-VLO_KS5hvoeNMYdSVeKUBRGOILSIMklBa-uqckhujZDYruWasgEGhtJuuZdK4RZ2s5M7fYMI5XRGRSdDpdU7ytwvrzkwV0KQcQqQ2eqF3XfxV_8Z_gADxilMQHd6Zg2JOYDgd9oFVMzjF4mhUqxM.owmSXjHcd0-ncU4LgeSk7kIC-Zkd1trMigW2XlpMeZA&dib_tag=se&keywords=Corsair+Vengeance+32GB+%282x16GB%29+DDR5-5600+Corsair+Vengeance+32GB+%282x16GB%29+DDR5-5600&nsdOptOutParam=true&qid=1773371799&sprefix=corsair+vengeance+32gb+2x16gb+ddr5-5600+corsair+vengeance+32gb+2x16gb+ddr5-5600%2Caps%2C448&sr=8-1",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws S5 32GB (2x16GB) DDR5-5600",
+        "brand": "G.Skill",
+        "model": "Ripjaws S5 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71CrmOfjDDL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/s?k=G.Skill+Ripjaws+S5+32GB+%282x16GB%29+DDR5-5600+G.Skill+Ripjaws+S5+32GB+%282x16GB%29+DDR5-5600&crid=3I6VPOYE1M0KQ&sprefix=g.skill+ripjaws+s5+32gb+2x16gb+ddr5-5600+g.skill+ripjaws+s5+32gb+2x16gb+ddr5-5600%2Caps%2C367&ref=nb_sb_noss",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 32GB (2x16GB) DDR5-5600",
+        "brand": "Kingston",
+        "model": "Fury Beast 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 7990,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial Pro 32GB (2x16GB) DDR5-5600",
+        "brand": "Crucial",
+        "model": "Pro 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Patriot Viper Venom 32GB (2x16GB) DDR5-5600",
+        "brand": "Patriot",
+        "model": "Viper Venom 32GB (2x16GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 8000,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000",
+        "brand": "Corsair",
+        "model": "Vengeance 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws S5 32GB (2x16GB) DDR5-6000",
+        "brand": "G.Skill",
+        "model": "Ripjaws S5 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 32GB (2x16GB) DDR5-6000",
+        "brand": "Kingston",
+        "model": "Fury Beast 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Delta RGB 32GB (2x16GB) DDR5-6000",
+        "brand": "TeamGroup",
+        "model": "T-Force Delta RGB 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 9000,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Crucial Pro 32GB (2x16GB) DDR5-6000",
+        "brand": "Crucial",
+        "model": "Pro 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Patriot Viper Venom 32GB (2x16GB) DDR5-6000",
+        "brand": "Patriot",
+        "model": "Viper Venom 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 36,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000",
+        "brand": "Corsair",
+        "model": "Vengeance RGB 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 9000,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 Neo 32GB (2x16GB) DDR5-6000",
+        "brand": "G.Skill",
+        "model": "Trident Z5 Neo 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 9000,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 32GB (2x16GB) DDR5-6000",
+        "brand": "Kingston",
+        "model": "Fury Renegade 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 32,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Flare X5 32GB (2x16GB) DDR5-6000",
+        "brand": "G.Skill",
+        "model": "Flare X5 32GB (2x16GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 8400,
+        "price_range": "mid_range",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6400",
+        "brand": "Corsair",
+        "model": "Vengeance 32GB (2x16GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 8800,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 32GB (2x16GB) DDR5-6400",
+        "brand": "G.Skill",
+        "model": "Trident Z5 32GB (2x16GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 9400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 32GB (2x16GB) DDR5-6400",
+        "brand": "Kingston",
+        "model": "Fury Renegade 32GB (2x16GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 8800,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Xtreem ARGB 32GB (2x16GB) DDR5-6400",
+        "brand": "TeamGroup",
+        "model": "T-Force Xtreem ARGB 32GB (2x16GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 9400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Patriot Viper Venom RGB 32GB (2x16GB) DDR5-6400",
+        "brand": "Patriot",
+        "model": "Viper Venom RGB 32GB (2x16GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 9400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 48GB (2x24GB) DDR5-5600",
+        "brand": "Corsair",
+        "model": "Vengeance 48GB (2x24GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 12000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws S5 48GB (2x24GB) DDR5-5600",
+        "brand": "G.Skill",
+        "model": "Ripjaws S5 48GB (2x24GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 12000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 48GB (2x24GB) DDR5-5600",
+        "brand": "Kingston",
+        "model": "Fury Beast 48GB (2x24GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 12000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 48GB (2x24GB) DDR5-6000",
+        "brand": "Corsair",
+        "model": "Vengeance 48GB (2x24GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 12400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 Neo 48GB (2x24GB) DDR5-6000",
+        "brand": "G.Skill",
+        "model": "Trident Z5 Neo 48GB (2x24GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 13000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 32GB (2x16GB) DDR5-7200",
+        "brand": "G.Skill",
+        "model": "Trident Z5 32GB (2x16GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 10200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 32GB (2x16GB) DDR5-7200",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 32GB (2x16GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 10200,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 32GB (2x16GB) DDR5-7200",
+        "brand": "Kingston",
+        "model": "Fury Renegade 32GB (2x16GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 9600,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws V 64GB (2x32GB) DDR4-3200",
+        "brand": "G.Skill",
+        "model": "Ripjaws V 64GB (2x32GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 10880,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance LPX 64GB (2x32GB) DDR4-3200",
+        "brand": "Corsair",
+        "model": "Vengeance LPX 64GB (2x32GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 10880,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 64GB (2x32GB) DDR4-3200",
+        "brand": "Kingston",
+        "model": "Fury Beast 64GB (2x32GB) DDR4-3200",
+        "type": "DDR4",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 3200,
+        "cas_latency": 16,
+        "price": 10880,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 64GB (2x32GB) DDR5-5600",
+        "brand": "Corsair",
+        "model": "Vengeance 64GB (2x32GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 16000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Ripjaws S5 64GB (2x32GB) DDR5-5600",
+        "brand": "G.Skill",
+        "model": "Ripjaws S5 64GB (2x32GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 16000,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Beast 64GB (2x32GB) DDR5-5600",
+        "brand": "Kingston",
+        "model": "Fury Beast 64GB (2x32GB) DDR5-5600",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 5600,
+        "cas_latency": 36,
+        "price": 14995,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 64GB (2x32GB) DDR5-6000",
+        "brand": "Corsair",
+        "model": "Vengeance 64GB (2x32GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 16400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 Neo 64GB (2x32GB) DDR5-6000",
+        "brand": "G.Skill",
+        "model": "Trident Z5 Neo 64GB (2x32GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 17000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 64GB (2x32GB) DDR5-6000",
+        "brand": "Kingston",
+        "model": "Fury Renegade 64GB (2x32GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 6000,
+        "cas_latency": 32,
+        "price": 16400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 64GB (2x32GB) DDR5-6400",
+        "brand": "G.Skill",
+        "model": "Trident Z5 64GB (2x32GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 17400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 64GB (2x32GB) DDR5-6400",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 64GB (2x32GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 17400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 64GB (2x32GB) DDR5-7200",
+        "brand": "G.Skill",
+        "model": "Trident Z5 64GB (2x32GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 18200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 64GB (2x32GB) DDR5-7200",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 64GB (2x32GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "64GB",
+        "kit": "2x32GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 18200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 Royal 32GB (2x16GB) DDR5-8000",
+        "brand": "G.Skill",
+        "model": "Trident Z5 Royal 32GB (2x16GB) DDR5-8000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 8000,
+        "cas_latency": 38,
+        "price": 11000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 32GB (2x16GB) DDR5-8000",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 32GB (2x16GB) DDR5-8000",
+        "type": "DDR5",
+        "capacity": "32GB",
+        "kit": "2x16GB",
+        "speed": 8000,
+        "cas_latency": 38,
+        "price": 11000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 48GB (2x24GB) DDR5-8000",
+        "brand": "G.Skill",
+        "model": "Trident Z5 48GB (2x24GB) DDR5-8000",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 8000,
+        "cas_latency": 38,
+        "price": 15000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 48GB (2x24GB) DDR5-7200",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 48GB (2x24GB) DDR5-7200",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 7200,
+        "cas_latency": 34,
+        "price": 14200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 Neo RGB 48GB (2x24GB) DDR5-6400",
+        "brand": "G.Skill",
+        "model": "Trident Z5 Neo RGB 48GB (2x24GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 13400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 48GB (2x24GB) DDR5-6400",
+        "brand": "Kingston",
+        "model": "Fury Renegade 48GB (2x24GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 12800,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "TeamGroup T-Force Delta RGB 48GB (2x24GB) DDR5-6400",
+        "brand": "TeamGroup",
+        "model": "T-Force Delta RGB 48GB (2x24GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 13400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Vengeance 48GB (2x24GB) DDR5-6400",
+        "brand": "Corsair",
+        "model": "Vengeance 48GB (2x24GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "48GB",
+        "kit": "2x24GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 12800,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "G.Skill Trident Z5 96GB (2x48GB) DDR5-6400",
+        "brand": "G.Skill",
+        "model": "Trident Z5 96GB (2x48GB) DDR5-6400",
+        "type": "DDR5",
+        "capacity": "96GB",
+        "kit": "2x48GB",
+        "speed": 6400,
+        "cas_latency": 32,
+        "price": 25400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Corsair Dominator Titanium 96GB (2x48GB) DDR5-6000",
+        "brand": "Corsair",
+        "model": "Dominator Titanium 96GB (2x48GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "96GB",
+        "kit": "2x48GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 25000,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    },
+    {
+        "name": "Kingston Fury Renegade 96GB (2x48GB) DDR5-6000",
+        "brand": "Kingston",
+        "model": "Fury Renegade 96GB (2x48GB) DDR5-6000",
+        "type": "DDR5",
+        "capacity": "96GB",
+        "kit": "2x48GB",
+        "speed": 6000,
+        "cas_latency": 30,
+        "price": 24400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 2,
+            "max": 409900
+        }
+    }
+]

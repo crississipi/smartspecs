@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/../config.php';
+require_once __DIR__ . '/ai_service.php';
 header('Content-Type: application/json; charset=utf-8');
 
 // Add CORS headers if needed
@@ -33,46 +34,36 @@ try {
     }
 
     $data = json_decode(file_get_contents('php://input'), true);
-    $component_id = $data['component_id'] ?? null;
 
-    if (!$component_id) {
-        handleError('Component ID is required', 400);
+    // Accept component details directly (no DB lookup needed for online search)
+    $componentType  = $data['component_type'] ?? $data['type'] ?? null;
+    $componentBrand = $data['brand'] ?? null;
+    $componentModel = $data['model'] ?? null;
+    $componentPrice = isset($data['price']) ? (float)$data['price'] : 0;
+    $component_id   = $data['component_id'] ?? null;
+
+    // Build original component info from request data
+    if (!$componentModel && !$component_id) {
+        handleError('Component details (brand, model, price) or component_id is required', 400);
     }
 
-    $aiServiceUrl = getenv('PYTHON_SERVICE_URL') ?: getenv('AI_SERVICE_URL') ?: 'http://localhost:5000';
-    $url = $aiServiceUrl . '/alternatives';
+    $originalComponent = [
+        'type'  => $componentType ?? 'unknown',
+        'brand' => $componentBrand ?? 'Unknown',
+        'model' => $componentModel ?? 'Unknown',
+        'price' => $componentPrice,
+    ];
 
-    $ch = curl_init($url);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['component_id' => (int)$component_id]));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, [
-        'Content-Type: application/json',
-        'Content-Length: ' . strlen(json_encode(['component_id' => (int)$component_id]))
+    // Use AI-powered online search for alternatives
+    $location = getUserLocation();
+    $alts = generateAlternativesOnline($originalComponent, $location);
+
+    sendJSON([
+        'success'            => true,
+        'original_component' => $originalComponent,
+        'alternatives'       => array_slice($alts, 0, 8),
+        'compatibility_note' => 'Alternatives are based on similar specs and price range. Always verify compatibility before purchasing.',
     ]);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-
-    $response = @curl_exec($ch);
-    $curlError = curl_error($ch);
-    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
-
-    if ($httpCode === 200 && $response) {
-        $responseData = json_decode($response, true);
-        if ($responseData) {
-            echo json_encode($responseData);
-        } else {
-            error_log("Failed to decode response from Python service. Response: " . substr($response ?? '', 0, 500));
-            handleError('Invalid response from service', 500);
-        }
-    } else {
-        error_log("Failed to fetch alternatives from Python service. HTTP Code: $httpCode, CURL Error: $curlError, Response: " . substr($response ?? '', 0, 500));
-        sendJSON([
-            'success' => false,
-            'message' => 'Failed to fetch alternatives',
-            'details' => $curlError ?: 'HTTP Error ' . $httpCode
-        ], $httpCode ?: 500);
-    }
 
 } catch (Exception $e) {
     handleError($e->getMessage());

@@ -1,0 +1,1346 @@
+[
+    {
+        "name": "Corsair CV450 450W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CV450",
+        "wattage": 450,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2295,
+        "price_range": "budget",
+        "image_url": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Power-Supply-Units/CP-9020209-NA/Gallery/CV450_PSU_01.webp",
+        "link": "https://www.corsair.com/us/en/p/psu/cp-9020209-na/cv-series-cv450-450-watt-80-plus-bronze-certified-psu-cp-9020209-na",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA 450 BR 450W 80+ Bronze",
+        "brand": "EVGA",
+        "model": "450 BR",
+        "wattage": 450,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 1995,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61iW1Gnm2WL._AC_SL1000_.jpg",
+        "link": "https://www.amazon.com/EVGA-100-BR-0450-K1-Bronze-Power-Supply/dp/B07DTP6SLJ/ref=sr_1_1?crid=AN1X7LRLYIND&dib=eyJ2IjoiMSJ9.M-TxHGlaCNuL-9qJwhiWOKAGGQBv9EcOD2djprIDYdIn9_RlK_lIaxPpbtCC3m_3VkKyY1c018drCkQtFf1bceWrIiH7iDxS4gdXaSUSvhgzXPiSVIVADZIpH9g5iqEoncKy7lPoc6lhytd33IFHL2IhgtoWSwaxk-aVjuR7jqoxKIqsv1cU3sndwj9t-jZt.Z6qAcOnVZ89ahmUJfdHLe1W4XrGyhzoptjoF2QMaoRU&dib_tag=se&keywords=EVGA+450+BR+EVGA+450+BR+450W+80%2B+Bronze&nsdOptOutParam=true&qid=1773320994&sprefix=evga+450+br+evga+450+br+450w+80%2B+bronze%2Caps%2C348&sr=8-1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master MWE 450 White V2",
+        "brand": "Cooler Master",
+        "model": "MWE 450 White V2",
+        "wattage": 450,
+        "efficiency": "80+ White",
+        "modular": "Non-Modular",
+        "price": 1895,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61eDXD7CS5L._SX466_.jpg",
+        "link": "https://www.amazon.com/Cooler-Master-GTX1660Ti-Back-line-MPX-4501-ACAAB/dp/B09KCM6228/ref=sr_1_3?crid=Y9A71XNN7C7P&dib=eyJ2IjoiMSJ9.hq4CUrgWVNAP6q8Zi5v_DJtIzoK-T90vka0kdK_Z6QGZiYnV0foR6W76W7PUwwuXoVGy4Fh1hlLYEJSwiVJsSsYgnBJBC7wx8fx07DNmMOt7SQ56z74b1AcRUVe8qI9xJbQv-7g19OWL3R4HFbRsRA.8fPiWaF3p70nNoVYLCavZ-dlO7TJu8X1Deo--2N-Ero&dib_tag=se&keywords=Cooler+Master+MWE+450+White+V2+Cooler+Master+MWE+450+White+V2&nsdOptOutParam=true&qid=1773321046&sprefix=evga+450+br+evga+450+br+450w+80%2B+bronze%2Caps%2C439&sr=8-3",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair CV550 550W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CV550",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2695,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71V8e069n-L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-Bronze-Modular-Low-Noise-Supply/dp/B0CQMQY2V2/ref=sr_1_1?crid=225GJZKL9UACM&dib=eyJ2IjoiMSJ9.GucKPLU9o5lGKSddwFUwjR5L7SB_m9fhUKJb9xh6dSq65CwZrWjEkiQa49UCtnxHuscQMIokLKiT68UWATs5lNDAaf53UABaJL2VEDeNDlU7TTiuvPwmYgYk8IecbykX3cfp7LSDzA007CD722ynooUSiKoOBkhKaojXIcfzxX_C9kiuP1CWz1UJ-Fuyr5yNBUi1mejWP10cwaaOVzk7sgA6zBccCo0V9kP0aAiXLo0.IJO02U6vptQ3Ci3NofNjqRHjf6pB1ICdjlbQQyVMcCo&dib_tag=se&keywords=Corsair%2BCV550%2BCorsair%2BCV550%2B550W%2B80%2B%2BBronze&qid=1773321073&sprefix=corsair%2Bcv550%2Bcorsair%2Bcv550%2B550w%2B80%2B%2Bbronze%2Caps%2C402&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA 500 BR 500W 80+ Bronze",
+        "brand": "EVGA",
+        "model": "500 BR",
+        "wattage": 500,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2195,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/617TL3px48L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/EVGA-100-BR-0500-K1-Bronze-Power-Supply/dp/B07DTMXD83/ref=sr_1_3?crid=SI290QFVZY44&dib=eyJ2IjoiMSJ9.C0rRg3o3JB-eitwRKF1qTFSi_9Rq5gI5lXb5_zNq9DG7hv3119lsW4m1KD0gCjiFSmr_HcJ7kmfu8dLMZ_wXVHPc7BqLcQpV4loS0PNKGGWdLfDxSYEIPX3GKyVkf73R._oZyYh_9G3-1wCJGIA3oSIj3jc9h9vzgdvIV7flPt5o&dib_tag=se&keywords=EVGA%2B500%2BBR%2BEVGA%2B500%2BBR%2B500W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773321094&sprefix=corsair%2Bcv550%2Bcorsair%2Bcv550%2B550w%2B80%2B%2Bbronze%2Caps%2C377&sr=8-3&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master MWE 500 White V2",
+        "brand": "Cooler Master",
+        "model": "MWE 500 White V2",
+        "wattage": 500,
+        "efficiency": "80+ White",
+        "modular": "Non-Modular",
+        "price": 2095,
+        "price_range": "budget",
+        "image_url": "https://a.storyblok.com/f/281110/31cbfca669/2-500w-mwe-white-230v-v2.png/m/1440x0/smart",
+        "link": "https://www.coolermaster.com/en-global/products/mwe-500-white-230v-v2/",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Smart 500W 80+ White",
+        "brand": "Thermaltake",
+        "model": "Smart 500W",
+        "wattage": 500,
+        "efficiency": "80+ White",
+        "modular": "Non-Modular",
+        "price": 2095,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/51pR5yIqMTL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Certified-Continuous-MCB-Q300L-KANN-S00-MasterBox/dp/B08DB4WSQ4/ref=sr_1_6?crid=2INZVG52OX6IR&dib=eyJ2IjoiMSJ9.l003BswokeF9ta2UW2Pw-FgdHrlrfDljoTiR4-TpfWmaeg3OUKdYTeUgeIEHJ6bH1ybM47uxZ24Z-pySHTZGO9wxA4JBjjqA5_9pSo9xxEtkewB2N4ATiHUA7Q2e3mBzakec6C9xZEQw-pOIg1twj7v1-7zOUvOsazaKxqPx1GBcivnRdAoY13RawBLuAobuwnSdv4e2opfL4pRHyoJ2A6Vuh1UP7pHosfPqnOOzeOI.iC9bVpZcd9W37c0CcjuvwnhWN8vMr_7oawoGBHwcTYQ&dib_tag=se&keywords=Thermaltake+Smart+500W+Thermaltake+Smart+500W+80%2B+White&nsdOptOutParam=true&qid=1773321195&sprefix=cooler+master+mwe+500+white+v2+cooler+master+mwe+500+white+v2%2Caps%2C356&sr=8-6",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic S12III 500W 80+ Bronze",
+        "brand": "Seasonic",
+        "model": "S12III 500",
+        "wattage": 500,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2495,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/81J0Tjy5u4L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Seasonic-S12III-SSR-500GB3-Control-Warranty/dp/B07MWG3911/ref=sr_1_1?crid=2JW8F2THU881P&dib=eyJ2IjoiMSJ9.lGagWdl_J4iRHsWTMqPI3ReKdX22ao6KLBR0jpTIFD3uAEk4-8eo8FqxSZFQRQgYKBaT4eBYXj9y1n-WDGG9jMqUBIU5VbEoa2P8jB8cg0PuZT3VejDy2hms3ViFz8nbqkfsyrjqMy-Ts-B8r8oeEBMxSvSOGqT1B1xsXTM6T58.cpTaEVWPwutSITXIpUr_qjZfhD7TVBi4vsDVCsXEPm4&dib_tag=se&keywords=Seasonic%2BS12III%2B500%2BSeasonic%2BS12III%2B500W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773321224&sprefix=seasonic%2Bs12iii%2B500%2Bseasonic%2Bs12iii%2B500w%2B80%2B%2Bbronze%2Caps%2C395&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! System Power 10 550W 80+ Bronze",
+        "brand": "be quiet!",
+        "model": "System Power 10 550W",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2795,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/81E2QP-zj5L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/quiet-System-Power-ATX24-BN327/dp/B0BJVMJ887",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Gigabyte P550B 550W 80+ Bronze",
+        "brand": "Gigabyte",
+        "model": "P550B",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2795,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/500_b063c06d-bdc0-4603-b391-b06988c2d109_500x.jpg?v=1676875361",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-gp-p550b-550w-80-plus-bronze-power-supply",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Smart 600W 80+ White",
+        "brand": "Thermaltake",
+        "model": "Smart 600W",
+        "wattage": 600,
+        "efficiency": "80+ White",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71GNnNSyIrL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Certified-Continuous-Active-PS-SPD-0600NPCWUS-W/dp/B014W3EMAO/ref=sr_1_1?crid=15T5QWKT598OH&dib=eyJ2IjoiMSJ9.l003BswokeF9ta2UW2Pw-DhxZkBmRGy1bKO17aqqslLEEeAdXQLMpqnyqj7cY_Z8SPzEXNcKsVhtAFr4da3pafSnaNZyEJC8WtZ6UnB9n91GVL8GCBdyRUIx0woCayKMmBe-3o86poGWyrBxyU0wiSCsrwBkCR4DTlV9-2IO_C2FL8PDy-_yIOFw_hq575EvW7-fMu6j6JO_Su_laXYHSISiQKHUEabVZfSyI87HRjU.dUqDXm4ZZsuqWOKUGuPiOw962Ruo4BxKqyhyeLsfSsY&dib_tag=se&keywords=Thermaltake%2BSmart%2B600W%2BThermaltake%2BSmart%2B600W%2B80%2B%2BWhite&nsdOptOutParam=true&qid=1773321338&sprefix=thermaltake%2Bsmart%2B600w%2Bthermaltake%2Bsmart%2B600w%2B80%2B%2Bwhite%2Caps%2C443&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA 600 BR 600W 80+ Bronze",
+        "brand": "EVGA",
+        "model": "600 BR",
+        "wattage": 600,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/61JIZLFj3eL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/EVGA-Certified-100-W1-0600-K1-Power-Supply/dp/B0160XJAQK/ref=sr_1_3?crid=2HQ1LRVG5KEGD&dib=eyJ2IjoiMSJ9.XqobbfspFjt6JFAXIhDnECceztbhqIIvrSoQ4xDa7xBVXX0tmMZoCJjf7dpVLa8H.K7s5pxovPuaGjeQbyWGl57coC-ljdm3ntkXRK0tddaM&dib_tag=se&keywords=EVGA%2B600%2BBR%2BEVGA%2B600%2BBR%2B600W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773321368&sprefix=evga%2B600%2Bbr%2Bevga%2B600%2Bbr%2B600w%2B80%2B%2Bbronze%2Caps%2C424&sr=8-3&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair CV650 650W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CV650",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71RA928k1gL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Corsair-CX650M-Modular-Supply-Bronze/dp/B093NTQJSF/ref=sr_1_1?crid=2WTFCJABFYBX6&dib=eyJ2IjoiMSJ9.9mz19Bu3zpwHnmkQ1iJFurSofn2eFXhEmtC4ozNhqKdVLb-p62YpVKqCQmEePq4LemMBO5Nt5BIxQ9HcEdJMz1kYMWA6W3KU2Dh6Dm43LUkGU3gQTL7zm2gwZ86EtKqBOsP7ibu_rJDaPa1fljih09oIZKHcLekpz0eMiJniQQpoh7_n9s5hKcnFr-azI-VhR9krmEMRuQiZVhMPpp-OCI3cgJbjg-HLYAxAJz0URbo.jYr5ZIrBHV6UsuuExHaK9VNtSLuNvNQjxNVI-bpS5IU&dib_tag=se&keywords=Corsair%2BCV650%2BCorsair%2BCV650%2B650W%2B80%2B%2BBronze&qid=1773321393&sprefix=corsair%2Bcv650%2Bcorsair%2Bcv650%2B650w%2B80%2B%2Bbronze%2Caps%2C408&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic S12III 650W 80+ Bronze",
+        "brand": "Seasonic",
+        "model": "S12III 650",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/81wiYplJRWL._AC_SX569_.jpg",
+        "link": "https://www.amazon.com/Seasonic-S12III-SSR-650GB3-Control-Warranty/dp/B07MWHRG99/ref=sr_1_1?crid=8NIDODM73ODY&dib=eyJ2IjoiMSJ9.x4hnsVkP3D11P2ajgtQNDqY9Q8OtTjY-B3HGzf0U5c7udIfOqm90k2Yzn7XjeDqpVr23Gp03U9QcpZoCpebckUkILv-SjpxM-f5_fHv6jmiMes79XIJbRvQj6FjkGfyKRVIUyq27vhZ7_BaJlCH_Kxv26VSW74d-IUbs9gj_yb80RkATUUf_f3eP2ulcyVVson9BMnGnMXOAHpqbkoziCtDmbGMrP9RyW8dI6Zr3p2I.xBX5hicF0SIDP6GTJes2QyIJB6RS34yy3jiTuvmzW34&dib_tag=se&keywords=Seasonic%2BS12III%2B650%2BSeasonic%2BS12III%2B650W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773321414&sprefix=corsair%2Bcv650%2Bcorsair%2Bcv650%2B650w%2B80%2B%2Bbronze%2Caps%2C360&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MAG A550BN 550W 80+ Bronze",
+        "brand": "MSI",
+        "model": "MAG A550BN",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2800,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/81kjvnj0WkL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/A550BN-Non-Modular-Compact-Low-Noise-Warranty/dp/B0991W1HKT/ref=sr_1_1?crid=3124EDM4YL13&dib=eyJ2IjoiMSJ9.vGGsqmnay1xmZXnWIoFsOG9lnq3xXNcVEBpjSN9xWrUfBPQ2U8u-SRgcnzi5tn1-EBDlMzi_him00tmfnWEUuVhmHDWvebWmUJJwydTe98WEJqTdyJvONOYv20SAjm1eSkwDMVbXl0WJP85iQKCCFd_u5XfevnYoAz-9qpoYk6E6l8CELNVDY2j-cpCbOYnS-80pOZzI9roVgzyZhr3mVDRHqw3vTM5GLYnHY8Rfa9M.kJX06v-LWjBqY3rd4pWh65wAC_G6_LVbQnMOyZIqAOc&dib_tag=se&keywords=MSI%2BMAG%2BA550BN%2BMSI%2BMAG%2BA550BN%2B550W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773321438&sprefix=msi%2Bmag%2Ba550bn%2Bmsi%2Bmag%2Ba550bn%2B550w%2B80%2B%2Bbronze%2Caps%2C366&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master MWE Bronze 550 V2",
+        "brand": "Cooler Master",
+        "model": "MWE Bronze 550 V2",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/91DsCn38ecL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Cooler-Master-MWE-Bronze-230V/dp/B08BKQ4DG1/ref=sr_1_9?crid=39JBNGZ4IU32D&dib=eyJ2IjoiMSJ9.hq4CUrgWVNAP6q8Zi5v_DJnHarqpHRPAmb24wKXwsikbOJosGPiHB-9kwTRFnPSvdGkAFxCxckzTn0sNQvrbL39l0k2DdG4pQy15aqdpBB9NDko8l2ybfvU80GF_1u_EkAQE9xWCiUDcmoa4SHeOCvu3aRFGQ33EAYEwD70QKso.APN0BKd_Z1i9PAWnc150J-s5hBMPWuBuxuOim01IM8g&dib_tag=se&keywords=Cooler%2BMaster%2BMWE%2BBronze%2B550%2BV2%2BCooler%2BMaster%2BMWE%2BBronze%2B550%2BV2&nsdOptOutParam=true&qid=1773321459&sprefix=cooler%2Bmaster%2Bmwe%2Bbronze%2B550%2Bv2%2Bcooler%2Bmaster%2Bmwe%2Bbronze%2B550%2Bv2%2Caps%2C373&sr=8-9&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Silverstone Essential SST-ET550-B 550W 80+ Bronze",
+        "brand": "SilverStone",
+        "model": "Essential ET550-B",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 2800,
+        "price_range": "budget",
+        "image_url": "https://m.media-amazon.com/images/I/71PbtjvTu8L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/SilverStone-Technology-Bronze-Cables-ET550-B/dp/B071HHSY2M/ref=sr_1_1?crid=1XTL0EN5UWIF8&dib=eyJ2IjoiMSJ9.-cJBPP_hO5cHz5_d9PMUtJwcqaOXX5ScZkuelJAtho0kS_G3TSu2HbdIJjU5V2qKpYHgFDxpQF0W5V1_RiU9rzXCs_T7kvjIg589F7QQKqBxqqPA4oHjFmcQTtFxXgm7qyaFtg2huknkanG25tP4o8mRSo4W_mq8OJA5sQMUaAPQxq81_r19Teti0p2crE8uHw8QzpgIp043J2mmgE4LtbZkg7Y29ZSb7zomdgk6j_U.FThyp8cXiy-3gg9b98aD4iRc7nhKplhTneXI4kORkdM&dib_tag=se&keywords=SilverStone+Essential+ET550-B+Silverstone+Essential+SST-ET550-B+550W+80%2B+Bronze&nsdOptOutParam=true&qid=1773321493&sprefix=cooler+master+mwe+bronze+550+v2+cooler+master+mwe+bronze+550+v2%2Caps%2C502&sr=8-1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cougar VTE X2 600W 80+ Bronze",
+        "brand": "Cougar",
+        "model": "VTE X2 600",
+        "wattage": 600,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Cougar-STC-500W-600W-80-Plus-Non-Modular-Power-Supply-Unit-itw-i.89762129.43269038617?extraParams=%7B%22display_model_id%22%3A79587057746%2C%22model_selection_logic%22%3A3%7D&sp_atk=fffe920d-5efa-41e0-93c6-aab9109330c3&xptdk=fffe920d-5efa-41e0-93c6-aab9109330c3",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "NZXT C650 650W 80+ Bronze",
+        "brand": "NZXT",
+        "model": "C650 Bronze",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Semi-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/cdn/shop/files/NZXTC650-b_540x.jpg?v=1689834498",
+        "link": "https://easypc.com.ph/products/nzxt-c650-650-watts-80-bronze-semi-modular-power-supply?variant=42809721880747",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master MWE Bronze 650 V2",
+        "brand": "Cooler Master",
+        "model": "MWE Bronze 650 V2",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "budget",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/Coolermaster_MWE_650W-a_540x.jpg?v=1701299152",
+        "link": "https://easypc.com.ph/products/coolermaster-mwe-650w-80-bronze-power-supply?variant=45295690317995",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair CX550M 550W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CX550M",
+        "wattage": 550,
+        "efficiency": "80+ Bronze",
+        "modular": "Semi-Modular",
+        "price": 2800,
+        "price_range": "mid_range",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/891-a_540x.jpg?v=1588506637",
+        "link": "https://easypc.com.ph/products/corsair-cx550m-semi-modular-with-apfc-80-plus-bronze-power-supply?variant=39928715739307",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair CX650M 650W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CX650M",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Semi-Modular",
+        "price": 3600,
+        "price_range": "mid_range",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/Corsair_CX650M_Power_Supply_650watts-a_540x.jpg?v=1700535487",
+        "link": "https://easypc.com.ph/products/corsair-cx650m-power-supply-650watts-semi-modular-with-apfc-80-plus-bronze?variant=39929372115115",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA SuperNOVA 650 G7 80+ Gold",
+        "brand": "EVGA",
+        "model": "SuperNOVA 650 G7",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71Z9y+sUBuS._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/EVGA-Supernova-Modular-Warranty-220-GA-0750-X1/dp/B07WW1XF51/ref=sr_1_12?dib=eyJ2IjoiMSJ9.Cq8YDUIhHna73-4A7pSScvDhR5ijl8pELGPGIkpFdypbkF6YgCcRslm8ks_Ng9X2Qc4UcXe0s5zHqGevR0Fqyv6gSocpyzBJUeHFA1lXF0rRP8RDAjuyQifmA_i5mTys7L1qcIcyQZ2fkW4UfUQWZngMo0UjyfYJJDIllKt5B48C4RGcwZGR2dOtSljx5eQZ0toqsW4nuQKrGitOkzzhwiCvDOaMlpO1Vc82zY3yQMo.N2AIYKH2DFxr9OmiWSNQCCNM7pB59WZELP0Wy3oSgrk&dib_tag=se&keywords=EVGA+SuperNOVA+650+G7+EVGA+SuperNOVA+650+G7+80%2B+Gold&nsdOptOutParam=true&qid=1773368916&sr=8-12",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic Focus GX-650 80+ Gold",
+        "brand": "Seasonic",
+        "model": "Focus GX-650",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "Seasonic Focus GX-650 Seasonic Focus GX-650 80+ Gold",
+        "link": "https://www.amazon.com/Seasonic-CORE-V2-GX-650-ATX3/dp/B0DP9M9VWD/ref=sr_1_1?crid=BLBWWJZKJMMS&dib=eyJ2IjoiMSJ9.kpOpe_WOx-jMyK83zX6MVq2MMz8b6YDWGIlgevmM5rN0SGDbnS1vF-6426eFIQYg0AhYPAYe7_Tc7QTjPkaCmw3AXEpXQz1ziQRVrnRXqUfB6n4KrL49msSPFi-4zQFxveCUeM36HTXq6BNjdxpqaC1ZRR_8JLtlyE3-5YrcbS7bJuS649th8D4xXgZqKUOZ.RbhsiMCplzIz7GHTWiGe18dRFQLs3UbdL2saQM_e3Y4&dib_tag=se&keywords=Seasonic+Focus+GX-650+Seasonic+Focus+GX-650+80%2B+Gold&nsdOptOutParam=true&qid=1773369094&sprefix=seasonic+focus+gx-650+seasonic+focus+gx-650+80%2B+gold%2Caps%2C1582&sr=8-1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM650 650W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM650",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71-8QqxEbrL._AC_UY218_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-Bronze-Modular-Low-Noise-Supply/dp/B0CQMSTN94/ref=sr_1_5?dib=eyJ2IjoiMSJ9.lyu667kPAmomW21a4pCv4jnxJ5DrJjTN1ItfrSPwCLpGA51MdZE1TPObq10LZ0nhQlTwLeaFCX89ce-GyQ0w2rgBHOrAJLI67eAbQZ-eyiz2JeqH8SEyIqa273lUl4pZXQiW5wB5Iyw4blq-rBlwcM4dB1B3MvW9sEUG1PUnjQhaMg3_GKZCdE2U5H7S0iUAzbfJ5W7ZUmWR4xbihOARmRrom0bFseCd0-_-aJNuRsI.k7wdVAPs2mE-NeE38w5ZWPyKa5mNdbBlstPlkWpHJd4&dib_tag=se&keywords=Corsair+RM650+Corsair+RM650+650W+80%2B+Gold&qid=1773369174&sr=8-5",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Pure Power 12 M 650W 80+ Gold",
+        "brand": "be quiet!",
+        "model": "Pure Power 12 M 650W",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/thujthdfhf_500x.jpg?v=1700443081",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/corsair-cx-series-cx650-650w-80-bronze-atx-power-supply",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V650 Gold V2 80+ Gold",
+        "brand": "Cooler Master",
+        "model": "V650 Gold V2",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/v650-sfx-gold-gallery-1-image_500x.jpg?v=1690770007",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/cooler-master-v650-650w-sfx-80-gold-full-modular-power-supply-black-mpy-6501-sfhagv-us",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MAG A650GL 650W 80+ Gold",
+        "brand": "MSI",
+        "model": "MAG A650GL",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71jWtdpPXcL._AC_UY218_.jpg",
+        "link": "https://m.media-amazon.com/images/I/71jWtdpPXcL._AC_SX425_.jpg",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Toughpower GF A3 650W 80+ Gold",
+        "brand": "Thermaltake",
+        "model": "Toughpower GF A3 650W",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81VoiSKcX3L._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Toughpower-Addressable-Motherboard-PS-TPD-0650F3FAGU-2/dp/B08PC8SW2M/ref=sr_1_4?crid=ZZUO3REM3WZW&dib=eyJ2IjoiMSJ9.EiesJvLwAcJC03nnQO68j5X_HsHd4Mv7MCoifaG_WUPYUDMNks9TXBQI5TLsL3AI2oYzS8y0zFM3ovYE0SDquqBmy1UurMOOAjaoJp4DvNvCepcrmm7zuVnvbYaLP7Ksf61k0dSNYwEiI_5wVAa4i79WwhoRvogMHL516VFN6Rmi-8vUDC0YHu4C0WJJEsGnalMX3jxXoXnR6qAO7yEfA4pw0cY-64mCCK-9b-Y5ccc.2_0tDuydLplxDGpNLgx8COfq2u3CAp3CSY9AHPmweFY&dib_tag=se&keywords=Thermaltake+Toughpower+GF+A3+650W+Thermaltake+Toughpower+GF+A3+650W+80%2B+GoldThermaltake+Toughpower+GF+A3+650W+Thermaltake+Toughpower+GF+A3+650W+80%2B+Gold&nsdOptOutParam=true&qid=1773399140&sprefix=thermaltake+toughpower+gf+a3+650w+thermaltake+toughpower+gf+a3+650w+80%2B+goldthermaltake+toughpower+gf+a3+650w+thermaltake+toughpower+gf+a3+650w+80%2B+gold%2Caps%2C486&sr=8-4",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "NZXT C650 Gold 650W 80+ Gold",
+        "brand": "NZXT",
+        "model": "C650 Gold",
+        "wattage": 650,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/NZXT-C650-650W-ATX-Modular-PSU-80-Plus-Gold-i.65290500.6693052862",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming 650B 650W 80+ Bronze",
+        "brand": "ASUS",
+        "model": "TUF Gaming 650B",
+        "wattage": 650,
+        "efficiency": "80+ Bronze",
+        "modular": "Non-Modular",
+        "price": 3600,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81eLlIQ5PsL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/A650BN-Non-Modular-Compact-Low-Noise-Warranty/dp/B0991TZ399/ref=sr_1_4?crid=SN69EPIVL08B&dib=eyJ2IjoiMSJ9.phT_fAX4yLibcPorGlW8rcaqS7rSGIs7zh4m3YJDdIPRr6GAmL5gB-J5vdlnVCJCVIvUduOZS5BdJykGIOIGjsXw82itolq-7a_xa6CWZYDrG-MYUpPg0Xn3dkNsFhmMDxslqqcC2MUXPxPgDxYIrjz3RvbPxEczgvxRvTmKkDi_HZW_Ch-jr2kJYaTdElmxOWNd0aPz1BA66KX-Pfq-JHkdgq8nXDg4tHoVn2YI9P8.RjVTYfC4SZjALPu8f8cgQj1GeMlt_9rO7ajgnTNxSP4&dib_tag=se&keywords=ASUS%2BTUF%2BGaming%2B650B%2BASUS%2BTUF%2BGaming%2B650B%2B650W%2B80%2B%2BBronze&nsdOptOutParam=true&qid=1773399677&sprefix=nzxt%2Bc650%2Bgold%2Bnzxt%2Bc650%2Bgold%2B650w%2B80%2B%2Bgold%2Caps%2C621&sr=8-4&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM750 750W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM750",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/61JTr9x4FcL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-RM750x-Ready-Modular-Supply/dp/B0FLG9Y4HZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UPZNdmiqq7NhAmUWifxUkA5fVhz07cMmV5oA0SYiCugnxpRgrWqHVWE6Qt1mx2HN0WyoJxra-_VbtxStcJGf0cj5frfg6ebwDV6t3_mS3ZxCza0Ca2WV4Xrq_Y1sgzPI0BRvIXBtgwQ6d-Zj5t0v5NcNXG9k0_xGnF4vb6RRup5bIETgB6jb7PZnLNRdGIilXeeWSdYhZP3iUuZuSoGGUhS7wjB6LPDC8ojPaPq9MQM.LA-nr-OYugp4vnBIkgkhIxaNDD9f0zfPGFFaFpIGWLM&dib_tag=se&keywords=Corsair%2BRM750%2BCorsair%2BRM750%2B750W%2B80%2B%2BGold&qid=1773399706&sr=8-2&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic Focus GX-750 80+ Gold",
+        "brand": "Seasonic",
+        "model": "Focus GX-750",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81i7j8lF5sL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/SEASONIC-Focus-V4-GX-750-750W-SRP-FGX751-A5A32SF/dp/B0DJHCTJFC/ref=sr_1_2?dib=eyJ2IjoiMSJ9.yjt-ljArxzi0LicaMHolrWsInmMelK82v9Bw-NCDTmfVPxkflU5U1lKS3nYcuH5lWDyb0hoBP7Ms4tOiDwrD3h06OpdeJoIePL4Z41vKPr25HJOHhWjxiDl2OBJkXm_0J1Dr4arZ6WJzxguLtg3EhOIuAAf7Ejd4avk1ZXoM3XtE-rnO33aBn7ACPx215W8wIJjuhIeZU9kWKU1cZv1TSyTSWw0fer6FkNftQNJfznk.Uj-UDfgirWz9yxVfulvyWCN_rywG3JB43dk3KXfqkjA&dib_tag=se&keywords=Seasonic+Focus+GX-750+Seasonic+Focus+GX-750+80%2B+Gold&nsdOptOutParam=true&qid=1773399764&sr=8-2",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA SuperNOVA 750 G7 80+ Gold",
+        "brand": "EVGA",
+        "model": "SuperNOVA 750 G7",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://images.evga.com/products/gallery/png/220-G7-0750-X1_LG_1.png",
+        "link": "https://www.evga.com/products/product.aspx?pn=220-G7-0750-X1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V750 Gold V2 80+ Gold",
+        "brand": "Cooler Master",
+        "model": "V750 Gold V2",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/v750-sfx-gold-gallery-3-image_500x.jpg?v=1759741292",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/cooler-master-v750-750w-sfx-80-gold-full-modular-power-supply-black-mpy-7501-sfhagv-us",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Pure Power 12 M 750W 80+ Gold",
+        "brand": "be quiet!",
+        "model": "Pure Power 12 M 750W",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/717RCxFOpML._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/quiet-Efficiency-Support-exceptionally-12V-Rails/dp/B0BT2YZGZK/ref=sr_1_1?dib=eyJ2IjoiMSJ9.KYY1gM2eOer_0NZEVyB2sGRynWh7Rdv9DEZq9sxIiMDk-WWJgSuLreD-Tdk1qst7OyAsX0o3vrTx-zbnsKnV0CL9IrLgbPXyCVQeZL3ey419Fy1Fe664Fj8i3lpJxz7wb3hZn2zEynJkBlD-kTxztR57N_cCVkUHrLRNgjj4_-tvGPBzASXpQ61S4Lwrl_ukduzz2usqKh7fMFSK0Ks7Qp-XbOeCK810UbF6HNWbptA.PTLVgjEXWkaWN4DOb33ZHLRqL7MX2H0CfyvPJPpV_u8&dib_tag=se&keywords=be%2Bquiet!%2BPure%2BPower%2B12%2BM%2B750W%2Bbe%2Bquiet!%2BPure%2BPower%2B12%2BM%2B750W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773399988&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MAG A750GL 750W 80+ Gold",
+        "brand": "MSI",
+        "model": "MAG A750GL",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/716c-SjLwPL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/MSI-MAG-A750GL-Gaming-Supply/dp/B0CC3QBGDL/ref=sr_1_1?dib=eyJ2IjoiMSJ9._2UF69n9QIUv7pRAKwagNEJlI9qpbjvAkuIYjuOmW3oRtiwJNX3mNez_jO9X3jyCoqBLoUA9c9iNjJVg81C9becE36BA3D6CxX5F0PTwDhRNkNf9HzlE1P_wUEccC3oOg4j6pPpHRlwK0Z4ESYPjbnFtCn0nW7DzQRNCmigt-H6zVTEtxAjGpzzyH0eu4l4N5L1wJphR69ax6rAtKRWUUghXRX1rvc2X-Ykrh-WXiyI.Kz629Xt-VBWPu6aP1Mr5_MYoo2E7WQFwqQIjctqoa7w&dib_tag=se&keywords=MSI%2BMAG%2BA750GL%2BMSI%2BMAG%2BA750GL%2B750W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773400712&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Toughpower GF A3 750W 80+ Gold",
+        "brand": "Thermaltake",
+        "model": "Toughpower GF A3 750W",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81FPRb1ORKL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Toughpower-Connectors-Crossfire-PS-TPD-0750FNFAGU-L/dp/B0C1JKB652/ref=sr_1_1?crid=3ONCEE2HBCYV9&dib=eyJ2IjoiMSJ9.Qh39LGwuB64kspB60M6fyNDsNGH4h0blV2iz9EEASCs13ysxdhsudKBEloBd3ktJBq9zoXJRGaIFdvGDgjUtRy-YW2Kz5Ov_e1t_9iJlPBx-bvDPgs5PFP1IV9XG2SkxJ86gOvSn6_ANVwJxfEiQ5cqjz9hLEcgLFJ1MgL2329n8iTK2qMkrQLxu0RgGMkGeP-lDWnIcNGfuOYFsLLTii7rDyjh31mr7qlPYxD791ao.vww8Z1-hrk5UjW8rfXgMq73ROTAQUbtCzMwT8AsBvmY&dib_tag=se&keywords=Thermaltake%2BToughpower%2BGF%2BA3%2B750W%2BThermaltake%2BToughpower%2BGF%2BA3%2B750W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773401547&sprefix=msi%2Bmag%2Ba750gl%2Bmsi%2Bmag%2Ba750gl%2B750w%2B80%2B%2Bgold%2Caps%2C732&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "NZXT C750 Gold 750W 80+ Gold",
+        "brand": "NZXT",
+        "model": "C750 Gold",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/51K+OJCIWYL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/NZXT-C750-Gold-Core-Cybenetics/dp/B0FQ6J4FSX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.hcTn3pifGG8z-v8ZoIFW2IBMG0Jr9_FM6uIKWPtlDK013ysxdhsudKBEloBd3ktJyWt4L-ICe41IpzQ0I79kxdf9eQguQltwlhNq_XJ_VxzkfTbVjXkJKWPf1JvYo9XitYcEQd-LUvw0ECHs5_3oJ2TeHkkgQSWFtAqwOu7BaRW_Q7c3yDS2f-8PQ_4pERVbcJTg_GBPfGwjK_Chet4ivuNFhHroeaVI0fKwg6PMzvA.oTLcB0-tQxIKPP_keyYQLN-04o6W5lBsnIuSGocKX3w&dib_tag=se&keywords=NZXT%2BC750%2BGold%2BNZXT%2BC750%2BGold%2B750W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773401576&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "SilverStone DA750 Gold 750W 80+ Gold",
+        "brand": "SilverStone",
+        "model": "DA750 Gold",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71RWRt6WdTL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/SilverStone-Technology-Decathlon-Modular-DA750-G/dp/B091SJBDYC/ref=sr_1_1?crid=1YRQCM7DH2Q6C&dib=eyJ2IjoiMSJ9.seoIYQWfTn_Et1HT0UehWdu9FegycOwIpiYO0G1_nr_36vCvmALiE5cPk4BT7J-MKP9Lybzij-mCS7vW7kMI1FOyAh0eG47Bf-zU2xoUqXUMg8zfnD2LnuT60tO24Hqatv791UGDpLusf6bqoLKEA2dML3KOXQw8MpjCYOCx6TLmifQW6vEmzYxvfQhp5jdj90cT-R5D3qo0BtRXmrdCRGtfrIOL6AzlPoUt7OqYS84.PVMd969x-tCnSB-H4CD89tUFqt79n1tki2YqZgBG_mY&dib_tag=se&keywords=SilverStone%2BDA750%2BGold%2BSilverStone%2BDA750%2BGold%2B750W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773401625&sprefix=silverstone%2Bda750%2Bgold%2Bsilverstone%2Bda750%2Bgold%2B750w%2B80%2B%2Bgold%2Caps%2C452&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Gigabyte UD750GM 750W 80+ Gold",
+        "brand": "Gigabyte",
+        "model": "UD750GM",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71zWBtqbQ0L._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/GIGABYTE-UD750GM-PG5-Platinum-Certified/dp/B0FJZHMSV9/ref=sr_1_1?crid=298Q75L816WAE&dib=eyJ2IjoiMSJ9.3lTUsK5y3Q_NHTfOeId56EXaiW0cSQqm-EENdydcYuZkR0_aWze-s-SjoZXJZ92ZwdNPdyovvBJqYli7LQbwcGLeMubfr42C5XzqaUHBndzaSINFnVcMKJTi1T0rKszq006MZgJfKxrfo9wILf4dpm0_krIu_qC_OeP3-Og-2oristvKSYatBO0wkBjmqxZ0qU6mnz3ziC7aKv-YjATjaHXS3ha2g6j8SPQNTnjizss.YqNm5DG-SLy7LAC-SPeyqGnT0THhdy7_npPb90vxIO4&dib_tag=se&keywords=Gigabyte+UD750GM+Gigabyte+UD750GM+750W+80%2B+Gold&qid=1773401660&sprefix=silverstone+da750+gold+silverstone+da750+gold+750w+80%2B+gold%2Caps%2C476&sr=8-1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair CX750M 750W 80+ Bronze",
+        "brand": "Corsair",
+        "model": "CX750M",
+        "wattage": 750,
+        "efficiency": "80+ Bronze",
+        "modular": "Semi-Modular",
+        "price": 4700,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71s0w+IiWuS._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Corsair-CX750M-Modular-Supply-Bronze/dp/B093ND8LML/ref=sr_1_1?crid=2YVLYO116XK9X&dib=eyJ2IjoiMSJ9.56urhHRDjvoSTZVUntaQJuH7CgNvswQSdvQRDgiNUxANefAAruXZXtwhoCVjSpLipEMqz91orqMPD6mloWpoF4IBAWuzAhUb66dO4YecneuN2UNcwsddpmfQxtx_ADOqJ1YCL-8IFYt9-5zhlghDTM8HxeM-NWVyiOM_9YZTMWLxC_qtnwTpquiMpRsZIEDvL0KLIM-lgVOsxkV4GmTU8ZwN0ZFfDAieAWT95dTbVVU.Zo434vJsA5tZoAFmRQvI9wh33_XItJcB6ojCmOhP3nI&dib_tag=se&keywords=Corsair%2BCX750M%2BCorsair%2BCX750M%2B750W%2B80%2B%2BBronze&qid=1773401699&sprefix=gigabyte%2Bud750gm%2Bgigabyte%2Bud750gm%2B750w%2B80%2B%2Bgold%2Caps%2C477&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cougar GEX X2 750W 80+ Gold",
+        "brand": "Cougar",
+        "model": "GEX X2 750",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Cougar-GR-Series-GR-750W-850W-80-Gold-ATX-3.1-Power-Supply-itw-i.89762129.45301525054?extraParams=%7B%22display_model_id%22%3A385136814967%2C%22model_selection_logic%22%3A3%7D&sp_atk=ebb59e5c-e327-4f6a-a27e-56bde3d7c295&xptdk=ebb59e5c-e327-4f6a-a27e-56bde3d7c295",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Phanteks Revolt ATX 3.0 750W 80+ Gold",
+        "brand": "Phanteks",
+        "model": "Revolt 750W ATX 3.0",
+        "wattage": 750,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 5900,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0886523500926_500x.jpg?v=1762668776",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/phanteks-revolt-750w-sfx-fully-modular-80-gold-power-supply-ph-p750gsf-us",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic Focus GX-850 ATX 3.0 80+ Gold",
+        "brand": "Seasonic",
+        "model": "Focus GX-850 ATX 3.0",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/xgncfghmf_500x.jpg?v=1766979317",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/seasonic-focus-gx-850-atx-3-850w-80-gold-atx-3-1-pcie-gen-5-fully-modular-power-supply-black-srp-fgx851-a5a32sf",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM850e 850W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM850e",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71uyBxzZ3bL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/CORSAIR-RM850e-Ready-Modular-Supply/dp/B0FLG5S4FP/ref=sr_1_1?crid=3DQUHEJA2AOM5&dib=eyJ2IjoiMSJ9.ZKUdPP4jN0laZdWoD5Qibk6iVooH6MBNuAQ_b6yR3bChBGfyE4BLcj6TAleoRkCH3v0vqT7alhpA7JcroWaleLtiXtlbSFWBfPoUst5LOX0BmGDuksbxn0iqT1kiplbS2bDe0hZBqoPM-T_Bq4hqk3mXjsGmktMN4LqxyftdrsFVhwI0t0PL2LG5ykBF8BgNx2quvXNVs-vxRF7VIahkRdqU-l4JoaLX7A_q6708DN8.1eUPUe0atX_6tC4FWd_dwHK9ipAL0VXAyrDcI5W1icM&dib_tag=se&keywords=Corsair%2BRM850e%2BCorsair%2BRM850e%2B850W%2B80%2B%2BGold&qid=1773403250&sprefix=corsair%2Brm850e%2Bcorsair%2Brm850e%2B850w%2B80%2B%2Bgold%2Caps%2C509&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM850x 850W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM850x",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/81sPI+eyRvL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Corsair-RM850x-Modular-Supply-Renewed/dp/B09D39JD1G/ref=sr_1_4?crid=YECWN59RAUBK&dib=eyJ2IjoiMSJ9.gnwe_TeEzh49CFCOx9na9H5Zq6dzDwOFAWpOwWEZH8yBNfEfiZY_Qsb5OkZW8V1lKIuprStHnbri1jhiCSuF2O4BTWMVLLikPnQwe4wpfxSdQtHPlgvmLePvAhn6tp45n0RdDHX2nUF4Ngi9GXg7HabuEtXOzLCqyLfJkvc5m1x04eRA3iQ1oMK43AhpskrTob9MpUS_bae68opsqypMk_axUBZ_YvhZtCQIe_IBKp4.FEGkedXGOMn2O3K0OcpkD2HuNKKUz04dxeiip1DMCr8&dib_tag=se&keywords=Corsair%2BRM850x%2BCorsair%2BRM850x%2B850W%2B80%2B%2BGold&qid=1773403308&sprefix=corsair%2Brm850x%2Bcorsair%2Brm850x%2B850w%2B80%2B%2Bgold%2Caps%2C413&sr=8-4&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA SuperNOVA 850 G7 80+ Gold",
+        "brand": "EVGA",
+        "model": "SuperNOVA 850 G7",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "https://easypc.com.ph/cdn/shop/products/3-A_540x.jpg?v=1588509035",
+        "link": "https://easypc.com.ph/products/evga-supernova-850w-g-80-fully-modular-power-supply-gold?variant=39927230628011",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V850 Gold V2 80+ Gold",
+        "brand": "Cooler Master",
+        "model": "V850 Gold V2",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71QR0RJ14QL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Cooler-Master-Efficiency-Included-Warranty/dp/B097Q9DB5G/ref=sr_1_3?crid=2A2ACD2W7C3NL&dib=eyJ2IjoiMSJ9.6e9TboPni2r1z8SXzZEJuxpLvB2G93Zy8HTX_ibtSiohBjUH8xibBSeSk6LJv0m2XFsgO2PF1AyVbnZ_8DbiCeURjqwMl5CTDh4uCEUwUqQZDTg5U6txRBlgKrBQzMhooeEJbmmOVxgFQo41D1gjVxG6sPIJAXOxZ_SyrXBTpFuGqiNhA3UfyaG68tphUdnTJyMcpZKAExU_dOxedLLbmcsxpVX00N1jSRCxaqWEvwo.KkobX08jI6Xen0mwpbTKpZCIeHh181cI5A1HbJZ2Q1w&dib_tag=se&keywords=Cooler%2BMaster%2BV850%2BGold%2BV2%2BCooler%2BMaster%2BV850%2BGold%2BV2%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773404104&sprefix=cooler%2Bmaster%2Bv850%2Bgold%2Bv2%2Bcooler%2Bmaster%2Bv850%2Bgold%2Bv2%2B80%2B%2Bgold%2Caps%2C473&sr=8-3&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Straight Power 12 850W 80+ Platinum",
+        "brand": "be quiet!",
+        "model": "Straight Power 12 850W",
+        "wattage": 850,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 9400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71qGLCFX--L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/quiet-Straight-Platinum-virtually-inaudible/dp/B0C86K2RP7/ref=sr_1_5?dib=eyJ2IjoiMSJ9.qX7gnKdv6BdpAt0SGYIi0IUNCoRYKGbVjItTp-aUYY-3nIo544biIA3WxLIOyOTprhNC55tIBtBgQg9pNoZKdxOnCX9Z-o3s4dB8tJoy73Cvh6DMlkp-j_tIIpRhN8n2wc6cBKf0Zxg_fL5zFITP0FTv89qH3M_cD_RGLpvc26y-zsUq1t-gnTBH-qKnpVx1XzWoSSOlYgIJpgUYTCCA6vFo2h2gpwCw8ltjfLzYL9Q.7cL6DZCdfuEwOK-ERIVaIYqvwlwxoOOScFTn0jbMYog&dib_tag=se&keywords=be%2Bquiet!%2BStraight%2BPower%2B12%2B850W%2Bbe%2Bquiet!%2BStraight%2BPower%2B12%2B850W%2B80%2B%2BPlatinum&nsdOptOutParam=true&qid=1773404236&sr=8-5&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MAG A850GL 850W 80+ Gold",
+        "brand": "MSI",
+        "model": "MAG A850GL",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71b3DFHWd7L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/A850GL-Modular-Compact-Dual-Color-Warranty/dp/B0CB9MSJ5N/ref=sr_1_1_mod_primary_new?crid=1N8TAXHVD61ZY&dib=eyJ2IjoiMSJ9.nMufP6uxaSUm24mGfiIMXDlLfYG14d31TKXNUrYITeQypfBfZ0mPXGZ8mO3_csjCzFDJykiDsWvYfQzJwoJTfR6dq8PN0soaI6dXkkdhi0q5cVoHpBh37mEAu9LbejsyQSM9rDQT7eEsASuZzmyLp0zGh1GigjSJalcsQDMDcgPjnPhD8nG71Oybj5Sstx3bqtlJuiGNLyFuxp4uWnKFeYjNCFEPKpeoDP53G7hm4qI.5iEua7_O9v8JrgRmnvs-f-qAgqY4jpcsgRu2C3ZLulc&dib_tag=se&keywords=MSI%2BMAG%2BA850GL%2BMSI%2BMAG%2BA850GL%2B850W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773404409&sprefix=be%2Bquiet%2Bstraight%2Bpower%2B12%2B850w%2Bbe%2Bquiet%2Bstraight%2Bpower%2B12%2B850w%2B80%2B%2Bplatinum%2Caps%2C354&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Toughpower GF3 850W ATX 3.0 80+ Gold",
+        "brand": "Thermaltake",
+        "model": "Toughpower GF3 850W",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71HdcQaSnOL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/Thermaltake-Toughpower-Crossfire-Connector-PS-TPD-0850FNFAGU-4/dp/B0BF3YF9KY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.JdB3YipKRLlO4x03XZAGRX_7mSuiaAzWzasGOC1hQeov9ADxzxGAIOrxOtiNQouC_V2AEa2AnpPsr7Ie7NYXZ_xdlSbDMnzwchmTJl0WG9aJk-00KvOVN8VKNhRNBAhvlnVKtkn8chDYE8tCHlW5tj4s71vgcd2q8jWsNeMkJNTS-cfNQ2_XtxkNb417_L1e8oChOPMSvn4EvINv29tCHM7TbGeM5W4hR3z7t9kVIq4.kKi5mh-cmFHgk3nTpQv9nI1pV7TWsiYi80Vva218WL8&dib_tag=se&keywords=Thermaltake%2BToughpower%2BGF3%2B850W%2BThermaltake%2BToughpower%2BGF3%2B850W%2BATX%2B3.0%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773405283&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "NZXT C850 Gold 850W 80+ Gold",
+        "brand": "NZXT",
+        "model": "C850 Gold",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/515k6GlgB1L._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/NZXT-C850-Gold-Core-Cybenetics/dp/B0FQ69SSM9/ref=sr_1_1?crid=C9HEUHQJCKEC&dib=eyJ2IjoiMSJ9.4njwTgvdEh_jZTjSerT7ZbrLt9TZdLUbcxmuAv-UMEqhhpWCRCtH9Bif1FIX6jHd0j8j8epqHSprOHNYnV-S111r_NhB7aV4vp_GCTZyS4aQG8vsECaoqmdaxHdXQsGH0JC_vHUYdLuM3IApo0crd-4T-jweR5pqMXMp4lLpvSrMJvQ3EQIbMIG18ALEkQ7fK9im-6x0IX35bVE3L03W2yEG3ypcodLfGvJNu0PA2Xs.MrbrHtXH40h9lF3jAQT5duoaAq9g3E57jftIJrb25ac&dib_tag=se&keywords=NZXT%2BC850%2BGold%2BNZXT%2BC850%2BGold%2B850W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773405326&sprefix=thermaltake%2Btoughpower%2Bgf3%2B850w%2Bthermaltake%2Btoughpower%2Bgf3%2B850w%2Batx%2B3.0%2B80%2B%2Bgold%2Caps%2C451&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX 850G 850W 80+ Gold",
+        "brand": "ASUS",
+        "model": "ROG STRIX 850G",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/81pAZMGhfGL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/ASUS-heatsinks-Axial-tech-Technology-Certification/dp/B08BPLJQMP/ref=sr_1_1?crid=7WM7AKKJA2I5&dib=eyJ2IjoiMSJ9.h4v2OKhWwrZzYRsHgw4mvjQORsw1vLMmZP1192Anu9lhoez34hvTmtcwT8LFB7V_vSqt8os6w3dydTTtFwltaIRIU0eS58_OdW484ZF2nCN97RPQcQArZH0FriqsOKwYXxrVGDRzvWsFnzCA_ysTbIrvwz8IQb3gO9pEIJ2lDzKJEq6bWWeLzuJe3gUajuR2EG5dp6jfJtf4s8WY7CcuSRzk6fPummSW0TOEuGXUV7w.BO5siYm1nJo5LcIMV0W0k2TsuwXkcPEX-mI5aFVhAiM&dib_tag=se&keywords=ASUS%2BROG%2BSTRIX%2B850G%2BASUS%2BROG%2BSTRIX%2B850G%2B850W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773405360&sprefix=nzxt%2Bc850%2Bgold%2Bnzxt%2Bc850%2Bgold%2B850w%2B80%2B%2Bgold%2Caps%2C398&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "SilverStone DA850 Gold 850W 80+ Gold",
+        "brand": "SilverStone",
+        "model": "DA850 Gold",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/71bHk9ZxaLL._AC_SX425_.jpg",
+        "link": "https://www.amazon.com/SilverStone-Technology-DA850R-SST-DA850R-GMA-SST-AX0850MCGD-C/dp/B0CL5K362Z/ref=sr_1_1?crid=29Z3NODHWTN7K&dib=eyJ2IjoiMSJ9.PhtEfUYE4aG-6I7RXV2VlP0OR042DKYA0Ew_YpI6V7sblO3vTy4PII5I8VYFBcMSdTvcKVuQYRMcF3EPXDbM7XcPuwFL_e1gvP1IvSxg1M9R344ee6yC0vC3bvbEpiCQGzj4W4e-XrI5b3RWE7Alcn-0pObceVkUjiuqNbpitYcceQBOYUuaTeMbw_cgzeUcu8ZNyRfiuEYO1J3kuDIWbXMCruwzgl2gyu9ylPqiz3Q.ac2-8u9dDQK6XZAZPzfTlHK3V3c-2wxvYsF--46by94&dib_tag=se&keywords=SilverStone%2BDA850%2BGold%2BSilverStone%2BDA850%2BGold%2B850W%2B80%2B%2BGold&nsdOptOutParam=true&qid=1773405393&sprefix=asus%2Brog%2Bstrix%2B850g%2Basus%2Brog%2Bstrix%2B850g%2B850w%2B80%2B%2Bgold%2Caps%2C1096&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Phanteks Revolt ATX 3.0 850W 80+ Gold",
+        "brand": "Phanteks",
+        "model": "Revolt 850W ATX 3.0",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Pure Power 12 M 850W 80+ Gold ATX 3.0",
+        "brand": "be quiet!",
+        "model": "Pure Power 12 M 850W ATX 3.0",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 7400,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM1000e 1000W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM1000e",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9700,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic Focus GX-1000 ATX 3.0 80+ Gold",
+        "brand": "Seasonic",
+        "model": "Focus GX-1000 ATX 3.0",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM1000x 1000W 80+ Gold",
+        "brand": "Corsair",
+        "model": "RM1000x",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9700,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V1000 Gold 80+ Gold",
+        "brand": "Cooler Master",
+        "model": "V1000 Gold",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MEG Ai1000P 1000W 80+ Gold ATX 3.0",
+        "brand": "MSI",
+        "model": "MEG Ai1000P",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9700,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Toughpower GF3 1000W ATX 3.0 80+ Gold",
+        "brand": "Thermaltake",
+        "model": "Toughpower GF3 1000W",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9700,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "EVGA SuperNOVA 1000 G7 80+ Gold",
+        "brand": "EVGA",
+        "model": "SuperNOVA 1000 G7",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 4800,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Straight Power 12 1000W 80+ Platinum ATX 3.0",
+        "brand": "be quiet!",
+        "model": "Straight Power 12 1000W",
+        "wattage": 1000,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 11700,
+        "price_range": "high_end",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic PRIME TX-850 80+ Titanium",
+        "brand": "Seasonic",
+        "model": "PRIME TX-850",
+        "wattage": 850,
+        "efficiency": "80+ Titanium",
+        "modular": "Full-Modular",
+        "price": 8800,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair HX1000i 1000W 80+ Platinum",
+        "brand": "Corsair",
+        "model": "HX1000i",
+        "wattage": 1000,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 11700,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair RM1200x SHIFT 1200W 80+ Gold ATX 3.0",
+        "brand": "Corsair",
+        "model": "RM1200x SHIFT",
+        "wattage": 1200,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 12900,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic PRIME TX-1000 80+ Titanium",
+        "brand": "Seasonic",
+        "model": "PRIME TX-1000",
+        "wattage": 1000,
+        "efficiency": "80+ Titanium",
+        "modular": "Full-Modular",
+        "price": 8800,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic Focus PX-1000 80+ Platinum",
+        "brand": "Seasonic",
+        "model": "Focus PX-1000",
+        "wattage": 1000,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 6800,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "ASUS ROG Thor 1000P2 1000W 80+ Platinum",
+        "brand": "ASUS",
+        "model": "ROG Thor 1000P2",
+        "wattage": 1000,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 11700,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Dark Power 13 850W 80+ Titanium",
+        "brand": "be quiet!",
+        "model": "Dark Power 13 850W",
+        "wattage": 850,
+        "efficiency": "80+ Titanium",
+        "modular": "Full-Modular",
+        "price": 11400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair HX1200i 1200W 80+ Platinum",
+        "brand": "Corsair",
+        "model": "HX1200i",
+        "wattage": 1200,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 14200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Thermaltake Toughpower GF3 1200W ATX 3.0 80+ Gold",
+        "brand": "Thermaltake",
+        "model": "Toughpower GF3 1200W",
+        "wattage": 1200,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 12200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX 1000G 1000W 80+ Gold ATX 3.0",
+        "brand": "ASUS",
+        "model": "ROG STRIX 1000G",
+        "wattage": 1000,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9700,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "be quiet! Dark Power 13 1000W 80+ Titanium",
+        "brand": "be quiet!",
+        "model": "Dark Power 13 1000W",
+        "wattage": 1000,
+        "efficiency": "80+ Titanium",
+        "modular": "Full-Modular",
+        "price": 13700,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Seasonic VERTEX GX-1200 1200W 80+ Gold ATX 3.0",
+        "brand": "Seasonic",
+        "model": "VERTEX GX-1200",
+        "wattage": 1200,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 12200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair AX1600i 1600W 80+ Titanium",
+        "brand": "Corsair",
+        "model": "AX1600i",
+        "wattage": 1600,
+        "efficiency": "80+ Titanium",
+        "modular": "Full-Modular",
+        "price": 20200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "MSI MEG Ai1300P 1300W 80+ Platinum ATX 3.0",
+        "brand": "MSI",
+        "model": "MEG Ai1300P",
+        "wattage": 1300,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 18200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "ASUS ROG Thor 1200P2 1200W 80+ Platinum",
+        "brand": "ASUS",
+        "model": "ROG Thor 1200P2",
+        "wattage": 1200,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 14200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V1300 SFX Platinum 1300W",
+        "brand": "Cooler Master",
+        "model": "V1300 SFX Platinum",
+        "wattage": 1300,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 20200,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair SF750 750W 80+ Platinum SFX",
+        "brand": "Corsair",
+        "model": "SF750",
+        "wattage": 750,
+        "efficiency": "80+ Platinum",
+        "modular": "Full-Modular",
+        "price": 9900,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Corsair SF850L 850W 80+ Gold SFX-L ATX 3.0",
+        "brand": "Corsair",
+        "model": "SF850L",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    },
+    {
+        "name": "Cooler Master V850 SFX Gold 850W",
+        "brand": "Cooler Master",
+        "model": "V850 SFX Gold",
+        "wattage": 850,
+        "efficiency": "80+ Gold",
+        "modular": "Full-Modular",
+        "price": 9400,
+        "price_range": "enthusiast",
+        "image_url": "",
+        "link": "",
+        "pricing_range": {
+            "min": 6,
+            "max": 718500
+        }
+    }
+]

@@ -1,0 +1,1769 @@
+[
+    {
+        "name": "ASUS PRIME H510M-K",
+        "brand": "ASUS",
+        "model": "PRIME H510M-K",
+        "socket": "LGA 1200",
+        "chipset": "H510",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "64GB",
+        "wifi": false,
+        "price": 4295,
+        "price_range": "budget",
+        "image_url": "ASUS PRIME H510M-K ASUS PRIME H510M-K",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-prime-b550m-a-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI B450M PRO-VDH MAX",
+        "brand": "MSI",
+        "model": "B450M PRO-VDH MAX",
+        "socket": "AM4",
+        "chipset": "B450",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 4995,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/BDFBDDFBF_500x.jpg?v=1708220073",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-b450-gaming-plus-max-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B450M DS3H V2",
+        "brand": "Gigabyte",
+        "model": "B450M DS3H V2",
+        "socket": "AM4",
+        "chipset": "B450",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 3850,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1000_2_04d39ca4-50ac-4817-a41c-385c4bba0070_500x.jpg?v=1680166483",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-amd-b450m-ds3h-v2-ultra-durable-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B450M-A II",
+        "brand": "ASUS",
+        "model": "PRIME B450M-A II",
+        "socket": "AM4",
+        "chipset": "B450",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 5000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/download_d3aefa8b-3afe-4139-894e-918b19a51803_500x.jpg?v=1714807705",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-prime-b450m-k-ii-csm-amd-am4-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B560M DS3H V2",
+        "brand": "Gigabyte",
+        "model": "B560M DS3H V2",
+        "socket": "LGA 1200",
+        "chipset": "B560",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/main_57dee36a-bfab-4d14-bc21-82334d2fbe0b_500x.jpg?v=1714809682",
+        "link": "https://ecommerce.datablitz.com.ph/products/gigabyte-amd-a520m-ds3h-v2-am4-ultra-durable-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B450M Steel Legend",
+        "brand": "ASRock",
+        "model": "B450M Steel Legend",
+        "socket": "AM4",
+        "chipset": "B450",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 5000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/B450M_20Steel_20Legend_L1_500x.jpg?v=1754194220",
+        "link": "https://ecommerce.datablitz.com.ph/products/asrock-b450m-steel-legend-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B560M-A",
+        "brand": "ASUS",
+        "model": "PRIME B560M-A",
+        "socket": "LGA 1200",
+        "chipset": "B560",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dffbdzx_500x.jpg?v=1725620506",
+        "link": "https://ecommerce.datablitz.com.ph/products/asus-prime-b550m-a-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO A620M-E",
+        "brand": "MSI",
+        "model": "PRO A620M-E",
+        "socket": "AM5",
+        "chipset": "A620",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "96GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-AMD-PRO-A620M-E-DDR5-Motherboard-(Socket-AM5-Supported)-i.497414568.27657348094?extraParams=%7B%22display_model_id%22%3A226627924330%2C%22model_selection_logic%22%3A3%7D&sp_atk=318f1df4-97ca-4228-b869-0a7df7ad96dd&xptdk=318f1df4-97ca-4228-b869-0a7df7ad96dd",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte A620M Gaming X",
+        "brand": "Gigabyte",
+        "model": "A620M Gaming X",
+        "socket": "AM5",
+        "chipset": "A620",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "96GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Gigabyte-A620M-H-Motherboard-AMD-AM5-DDR5-PCIe-4.0-HDMI-DP-mATX-(GA-A620M-H)-itw-i.89762129.40570391097?extraParams=%7B%22display_model_id%22%3A281664616342%2C%22model_selection_logic%22%3A3%7D&sp_atk=3b1c5179-1720-45d9-93a4-187ba84abf9a&xptdk=3b1c5179-1720-45d9-93a4-187ba84abf9a",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME A620M-K",
+        "brand": "ASUS",
+        "model": "PRIME A620M-K",
+        "socket": "AM5",
+        "chipset": "A620",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "96GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/ASUS-PRIME-A620M-K-CSM-Motherboard-AM5-DDR5-PCIe-4.0-Aura-Sync-RGB-itw-i.89762129.19992976758?extraParams=%7B%22display_model_id%22%3A157011954743%2C%22model_selection_logic%22%3A3%7D&sp_atk=504c48fd-b51e-4fa8-ab12-4d3e89d27056&xptdk=504c48fd-b51e-4fa8-ab12-4d3e89d27056",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock A620M-HDV/M.2",
+        "brand": "ASRock",
+        "model": "A620M-HDV/M.2",
+        "socket": "AM5",
+        "chipset": "A620",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "96GB",
+        "wifi": false,
+        "price": 8000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/A620M-HDVM.2_L2_500x.jpg?v=1754034486",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-a620m-hdv-m-2-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B660M-A DDR4",
+        "brand": "MSI",
+        "model": "PRO B660M-A DDR4",
+        "socket": "LGA 1700",
+        "chipset": "B660",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1024_26_36ef56ab-453a-44d2-b868-9a254fd8effb_60x.jpg?v=1676878349",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-b660m-g-ddr4-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B660M DS3H DDR4",
+        "brand": "Gigabyte",
+        "model": "B660M DS3H DDR4",
+        "socket": "LGA 1700",
+        "chipset": "B660",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/500_b6960495-2a57-4613-afab-00e39641320f_500x.jpg?v=1683185002",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b660m-ds3h-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B660M-A DDR4",
+        "brand": "ASUS",
+        "model": "PRIME B660M-A DDR4",
+        "socket": "LGA 1700",
+        "chipset": "B660",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/fwebp_6_cbe9d004-d7fc-46ad-b95f-1aa550cc0802_500x.jpg?v=1676879618",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-prime-b660m-a-wifi-d4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B450 Steel Legend",
+        "brand": "ASRock",
+        "model": "B450 Steel Legend",
+        "socket": "AM4",
+        "chipset": "B450",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 5000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/B450M_20Steel_20Legend_L1_500x.jpg?v=1754194220",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-b450m-steel-legend-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI B560M PRO-VDH WiFi",
+        "brand": "MSI",
+        "model": "B560M PRO-VDH WiFi",
+        "socket": "LGA 1200",
+        "chipset": "B560",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1024_35b5aa77-b06e-425d-9351-9f7efd46033b_500x.jpg?v=1700040336",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-b650-p-wifi-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B560M Steel Legend WiFi",
+        "brand": "ASRock",
+        "model": "B560M Steel Legend WiFi",
+        "socket": "LGA 1200",
+        "chipset": "B560",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Asrock-B450M-Steel-Legend-Motherboard-(AMD)-i.742178938.14974232093?extraParams=%7B%22display_model_id%22%3A106218125346%2C%22model_selection_logic%22%3A3%7D&sp_atk=a42c1434-3d13-4c06-bb6f-db81b4028ac6&xptdk=a42c1434-3d13-4c06-bb6f-db81b4028ac6",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI B550M PRO-VDH WiFi",
+        "brand": "MSI",
+        "model": "B550M PRO-VDH WiFi",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 8200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztl-meo3uehwx5vk98",
+        "link": "https://shopee.ph/MSI-B550M-PRO-VDH-WiFi-Motherboard-i.379168804.26653122172?extraParams=%7B%22display_model_id%22%3A251040683125%2C%22model_selection_logic%22%3A3%7D&sp_atk=78aeaac9-daf3-4ddc-9197-1bb2d5629ebf&xptdk=78aeaac9-daf3-4ddc-9197-1bb2d5629ebf",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B550M AORUS Elite",
+        "brand": "Gigabyte",
+        "model": "B550M AORUS Elite",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 8800,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Gigabyte-B550M-Aorus-Elite-mATX-AM4-DDR4-Motherboard-itw-i.89762129.7946731079?extraParams=%7B%22display_model_id%22%3A30617534145%2C%22model_selection_logic%22%3A3%7D&sp_atk=2a5eec76-df9e-444a-a470-32281da48c04&xptdk=2a5eec76-df9e-444a-a470-32281da48c04",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B550M Steel Legend",
+        "brand": "ASRock",
+        "model": "B550M Steel Legend",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7000,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AsRock-B550M-Steel-Legend-Socket-AM4-Micro-ATX-AMD-Motherboard-i.89762129.4275057230?extraParams=%7B%22display_model_id%22%3A33232650711%2C%22model_selection_logic%22%3A3%7D&sp_atk=74592ef6-6f76-421e-9297-65cc866b720e&xptdk=74592ef6-6f76-421e-9297-65cc866b720e",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG B560 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG B560 TOMAHAWK WiFi",
+        "socket": "LGA 1200",
+        "chipset": "B560",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-MAG-B550-Tomahawk-Max-WiFi-ATX-AM4-DDR4-Motherboard-itw-i.89762129.22814963317?extraParams=%7B%22display_model_id%22%3A107871629864%2C%22model_selection_logic%22%3A3%7D&sp_atk=e4e8eff9-1bb5-412a-b635-98b808d2d5c5&xptdk=e4e8eff9-1bb5-412a-b635-98b808d2d5c5",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B760M-A WiFi DDR4",
+        "brand": "MSI",
+        "model": "PRO B760M-A WiFi DDR4",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztl-meo3uehwx5vk98",
+        "link": "https://shopee.ph/MSI-Motherboard-Pro-B760M-A-Wifi-DDR4-mATX-LGA1700-itw-i.89762129.18271137715?extraParams=%7B%22display_model_id%22%3A213717903727%2C%22model_selection_logic%22%3A3%7D&sp_atk=e63ba045-df1c-4589-803b-219ab91e4626&xptdk=e63ba045-df1c-4589-803b-219ab91e4626",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B550M-PLUS WiFi II",
+        "brand": "ASUS",
+        "model": "TUF Gaming B550M-PLUS WiFi II",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 8200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/ASUS-TUF-Gaming-B550M-Plus-Wifi-II-micro-ATX-DDR4-Motherboard-i.89683872.15994846888?extraParams=%7B%22display_model_id%22%3A156227709339%2C%22model_selection_logic%22%3A3%7D&sp_atk=d1ea722b-ea89-4e7c-8bb6-34096735b5d5&xptdk=d1ea722b-ea89-4e7c-8bb6-34096735b5d5",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B760M-PLUS WiFi D4",
+        "brand": "ASUS",
+        "model": "TUF Gaming B760M-PLUS WiFi D4",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://cdn.shopify.com/s/files/1/0355/8296/7943/products/unnamed_1_d15ee14b-f9d2-434d-b16a-993f2ce2fb61_360x.jpg?v=1676920980",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-tuf-gaming-b760m-plus-wifi-d4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B760M Pro RS/D4 WiFi",
+        "brand": "ASRock",
+        "model": "B760M Pro RS/D4 WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/g4sa564sdg_500x.jpg?v=1760862667",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-b760m-pro-a-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B660 Gaming X DDR4",
+        "brand": "Gigabyte",
+        "model": "B660 Gaming X DDR4",
+        "socket": "LGA 1700",
+        "chipset": "B660",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7200,
+        "price_range": "budget",
+        "image_url": "Gigabyte B660 Gaming X DDR4 Gigabyte B660 Gaming X DDR4",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-ga-b660-gaming-x-ax-ddr4-4x-dimm-w-wifi-1",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B660-PLUS D4",
+        "brand": "ASUS",
+        "model": "PRIME B660-PLUS D4",
+        "socket": "LGA 1700",
+        "chipset": "B660",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7200,
+        "price_range": "budget",
+        "image_url": "https://dlcdnwebimgs.asus.com/gain/fb95a37b-ee86-42f5-9615-cf9103c5fa0a/w692",
+        "link": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b660-plus-d4/",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B760M-A WiFi",
+        "brand": "MSI",
+        "model": "PRO B760M-A WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "MSI PRO B760M-A WiFi MSI PRO B760M-A WiFi",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-b760m-a-wifi-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B760M AORUS Elite AX",
+        "brand": "Gigabyte",
+        "model": "B760M AORUS Elite AX",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/2000_50e1e9ca-21f1-44b5-be7c-0549b8f268b1_500x.jpg?v=1708079870",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b760m-aorus-elite-ax-ddr5-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B760M-PLUS WiFi",
+        "brand": "ASUS",
+        "model": "TUF Gaming B760M-PLUS WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/unnamed_2_a8adc0c5-4d7a-4d45-a8ae-97958ef564cf_500x.jpg?v=1709535024",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-tuf-gaming-b760m-plus-wifi-ii-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B650M DS3H",
+        "brand": "Gigabyte",
+        "model": "B650M DS3H",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1000-2023-01-17T155227.441_500x.jpg?v=1676919744",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b650m-ds3h-ultra-durable-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B650M-A WiFi",
+        "brand": "MSI",
+        "model": "PRO B650M-A WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/f4sd56g4sd56g_500x.jpg?v=1759996983",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-b650m-a-wifi-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B650M AORUS Elite AX",
+        "brand": "Gigabyte",
+        "model": "B650M AORUS Elite AX",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10800,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/2_17f0924f-2032-4b91-acfe-3ea7705dcc36_500x.jpg?v=1734780322",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b650m-aorus-elite-ax-ice-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B650M-PLUS WiFi",
+        "brand": "ASUS",
+        "model": "TUF Gaming B650M-PLUS WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1_a6a142c4-b210-4c21-bfa7-65e1ce69c8a5_500x.jpg?v=1736500154",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-tuf-gaming-b650m-plus-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B650M PG Riptide WiFi",
+        "brand": "ASRock",
+        "model": "B650M PG Riptide WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Asrock-B650M-PG-Riptide-WIFI-Motherboard-AMD-B650-AM5-Socket-DDR5-Wi-Fi-6E-Micro-ATX-i.742178938.25325826782?extraParams=%7B%22display_model_id%22%3A255689748561%2C%22model_selection_logic%22%3A3%7D&sp_atk=fef40846-eef2-48a8-8447-3039c5b3ebac&xptdk=fef40846-eef2-48a8-8447-3039c5b3ebac",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B650M-A WiFi II",
+        "brand": "ASUS",
+        "model": "PRIME B650M-A WiFi II",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "ASUS PRIME B650M-A WiFi II ASUS PRIME B650M-A WiFi II",
+        "link": "https://shopee.ph/ASUS-Prime-B650M-A-WIFI-II-DDR5-Micro-ATX-Wi-Fi-6-AMD-Motherboard-i.124930893.29909724893?extraParams=%7B%22display_model_id%22%3A223167802759%2C%22model_selection_logic%22%3A3%7D&sp_atk=49a6d5b1-0c18-43dc-9e11-227bf7d80983&xptdk=49a6d5b1-0c18-43dc-9e11-227bf7d80983",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG B550 TOMAHAWK",
+        "brand": "MSI",
+        "model": "MAG B550 TOMAHAWK",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7000,
+        "price_range": "budget",
+        "image_url": "MSI MAG B550 TOMAHAWK MSI MAG B550 TOMAHAWK",
+        "link": "https://shopee.ph/MSI-MAG-B550-Tomahawk-Max-WiFi-ATX-AM4-DDR4-Motherboard-itw-i.89762129.22814963317?extraParams=%7B%22display_model_id%22%3A107871629864%2C%22model_selection_logic%22%3A3%7D&sp_atk=be96abda-ae86-4d50-8efb-4ee7d3538c61&xptdk=be96abda-ae86-4d50-8efb-4ee7d3538c61",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B860M-A WiFi",
+        "brand": "MSI",
+        "model": "PRO B860M-A WiFi",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-PRO-B860M-A-WIFI-mATX-LGA1851-DDR5-PCIe-5.0-M.2-Wi-Fi-7-5G-LAN-Thunderbolt-4-Motherboard-itw-i.89762129.43128971250?extraParams=%7B%22display_model_id%22%3A370593570442%2C%22model_selection_logic%22%3A3%7D&sp_atk=ba899738-1886-4250-9851-a5f105df9d11&xptdk=ba899738-1886-4250-9851-a5f105df9d11",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B860M AORUS Elite WiFi7",
+        "brand": "Gigabyte",
+        "model": "B860M AORUS Elite WiFi7",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 11000,
+        "price_range": "budget",
+        "image_url": "https://www.gigabyte.com/FileUpload/Global/KeyFeature/3807/innergigabyte/images/product/hero.png",
+        "link": "https://www.gigabyte.com/Motherboard/B860-AORUS-ELITE-WIFI7-ICE",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS PRIME B860M-A WiFi",
+        "brand": "ASUS",
+        "model": "PRIME B860M-A WiFi",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/unnamed_5f441252-9cd4-4992-b93c-d65f4edf2f16_500x.jpg?v=1736904490",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-prime-b860m-a-wifi-csm-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B860M Pro RS WiFi",
+        "brand": "ASRock",
+        "model": "B860M Pro RS WiFi",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "Micro-ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/B860M_20Pro_20RS_20WiFi_L1_800dd297-7ae9-4ee7-b6a7-57b1ecbcebcc_500x.jpg?v=1754184193",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-b860m-pro-rs-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B550 Phantom Gaming 4",
+        "brand": "ASRock",
+        "model": "B550 Phantom Gaming 4",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 7000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/B550M_20Phantom_20Gaming_204_L1_60x.jpg?v=1754700642",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-b550m-phantom-gaming-4-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX B550-F Gaming WiFi II",
+        "brand": "ASUS",
+        "model": "ROG STRIX B550-F Gaming WiFi II",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/f4sd56fsd4af_60x.jpg?v=1759548793",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-b550-f-gaming-wifi-ii-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B550 AORUS Pro V2",
+        "brand": "Gigabyte",
+        "model": "B550 AORUS Pro V2",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 8800,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0889523022856_500x.jpg?v=1676907723",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b550-aorus-pro-ac-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B650 Phantom Gaming 4",
+        "brand": "ASRock",
+        "model": "B650 Phantom Gaming 4",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": false,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/B650M_20PG_20Riptide_L5_60x.jpg?v=1750046965",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-b650m-pg-riptide-wifi-ddr5-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG B650 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG B650 TOMAHAWK WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dbfbfdbfdzx_60x.jpg?v=1737880630",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-b860-tomahawk-wi-fi-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B650 AORUS Elite AX V2",
+        "brand": "Gigabyte",
+        "model": "B650 AORUS Elite AX V2",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10800,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1000-2023-01-17T143424.322_500x.jpg?v=1676919707",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b650-aorus-elite-ax-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX B650-A Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX B650-A Gaming WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 12000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/4g5s64g5sad6gsa_821dcd24-b57f-45b1-b386-b7e718985629_500x.jpg?v=1760254901",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-b650-a-gaming-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO B650-S WiFi",
+        "brand": "MSI",
+        "model": "PRO B650-S WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "budget",
+        "image_url": "https://storage-asset.msi.com/global/picture/image/feature/mb/B650/PRO-B650-S-WIFI/kv.png",
+        "link": "https://www.msi.com/Motherboard/PRO-B650-S-WIFI",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG B760 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG B760 TOMAHAWK WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024_3f41fbcd-2d27-4012-88fe-5c15581401a8_500x.jpg?v=1745976173",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-b760-tomahawk-wifi-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B760 AORUS Elite AX",
+        "brand": "Gigabyte",
+        "model": "B760 AORUS Elite AX",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9600,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0889523034941_500x.jpg?v=1676918782",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b760-aorus-elite-ax-ddr4-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B760-PLUS WiFi",
+        "brand": "ASUS",
+        "model": "TUF Gaming B760-PLUS WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://dlcdnwebimgs.asus.com/files/media/0008d1ca-7580-4fa4-b5d6-c325ee8dc13d/V1/img/kv-main.webp",
+        "link": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b760-plus-wifi/",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock B760 Pro RS WiFi",
+        "brand": "ASRock",
+        "model": "B760 Pro RS WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 9000,
+        "price_range": "budget",
+        "image_url": "https://www.asrock.com/mb/photo/B760%20Pro%20RS%20WiFi(M1).png",
+        "link": "https://www.asrock.com/mb/Intel/B760%20Pro%20RS%20WiFi/index.asp",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG B860 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG B860 TOMAHAWK WiFi",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dbfbfdbfdzx_500x.jpg?v=1737880630",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-b860-tomahawk-wi-fi-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B860 AORUS Elite WiFi7",
+        "brand": "Gigabyte",
+        "model": "B860 AORUS Elite WiFi7",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 11000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0_0181c25e-5a29-49d3-9b66-28e45d0d3b16_500x.jpg?v=1755054098",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b860-aorus-elite-wifi7-ice-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming B860-PLUS WiFi",
+        "brand": "ASUS",
+        "model": "TUF Gaming B860-PLUS WiFi",
+        "socket": "LGA 1851",
+        "chipset": "B860",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 9200,
+        "price_range": "mid_range",
+        "image_url": "https://dlcdnwebimgs.asus.com/files/media/69cec727-a9d0-4bc6-9b0d-7dab0245b1ec/V1/img/kv/kv-main.webp",
+        "link": "https://www.asus.com/motherboards-components/motherboards/tuf-gaming/tuf-gaming-b860-plus-wifi/",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX B550-I Gaming",
+        "brand": "ASUS",
+        "model": "ROG STRIX B550-I Gaming",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR4",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 8800,
+        "price_range": "budget",
+        "image_url": "https://dlcdnwebimgs.asus.com/gain/5E4B00CD-A85A-46E3-AA6E-C4024E2B6BCB/w717/h525/fwebp",
+        "link": "https://rog.asus.com/motherboards/rog-strix/rog-strix-b550-i-gaming-model/",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B550I AORUS Pro AX",
+        "brand": "Gigabyte",
+        "model": "B550I AORUS Pro AX",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR4",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 8800,
+        "price_range": "budget",
+        "image_url": "Gigabyte B550I AORUS Pro AX Gigabyte B550I AORUS Pro AX",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-b550i-aorus-pro-ax-amd-am4-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MPG B550I Gaming Edge WiFi",
+        "brand": "MSI",
+        "model": "MPG B550I Gaming Edge WiFi",
+        "socket": "AM4",
+        "chipset": "B550",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR4",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 8200,
+        "price_range": "budget",
+        "image_url": "https://storage-asset.msi.com/global/picture/image/feature/mb/B550I/edge-wifi/story_img.png",
+        "link": "https://www.msi.com/Motherboard/MPG-B550I-GAMING-EDGE-WIFI/Overview",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI TUF Gaming X570-Plus WiFi",
+        "brand": "ASUS",
+        "model": "TUF Gaming X570-Plus WiFi",
+        "socket": "AM4",
+        "chipset": "X570",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 13200,
+        "price_range": "budget",
+        "image_url": "https://www.asus.com/media/global/products/5awsickoptqkycdu/P_setting_xxx_0_90_end_500.png",
+        "link": "https://www.asus.com/us/motherboards-components/motherboards/tuf-gaming/tuf-gaming-x570-plus-wi-fi/",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte X570 AORUS Elite WiFi",
+        "brand": "Gigabyte",
+        "model": "X570 AORUS Elite WiFi",
+        "socket": "AM4",
+        "chipset": "X570",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 15000,
+        "price_range": "budget",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1000_1d915b0e-7b13-491d-ad41-6226d7b59667_500x.jpg?v=1676877640",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-x570s-aorus-elite-ax-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG X570S TOMAHAWK MAX WiFi",
+        "brand": "MSI",
+        "model": "MAG X570S TOMAHAWK MAX WiFi",
+        "socket": "AM4",
+        "chipset": "X570",
+        "form_factor": "ATX",
+        "memory_type": "DDR4",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 13200,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1024_11dd6a9e-dc7a-4daa-9f19-fe7e42104611_500x.jpg?v=1676879343",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-x570s-tomahawk-max-wifi-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX B650E-I Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX B650E-I Gaming WiFi",
+        "socket": "AM5",
+        "chipset": "B650E",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR5",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 12000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/01_56bebb93-1257-48a9-8f26-f3b2cd44d3ad_500x.jpg?v=1736501361",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-b650e-i-gaming-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B650I AORUS Ultra",
+        "brand": "Gigabyte",
+        "model": "B650I AORUS Ultra",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR5",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 10800,
+        "price_range": "mid_range",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Gigabyte-B650I-AX-AMD-AM5-DDR5-Ultra-Durable-Mini-ITX-Motherboard-i.1660552298.54150343150?extraParams=%7B%22display_model_id%22%3A400031936067%2C%22model_selection_logic%22%3A3%7D&sp_atk=a59119e4-3027-4ac1-90aa-4f7c0cb86242&xptdk=a59119e4-3027-4ac1-90aa-4f7c0cb86242",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MPG B650I Edge WiFi",
+        "brand": "MSI",
+        "model": "MPG B650I Edge WiFi",
+        "socket": "AM5",
+        "chipset": "B650",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR5",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 10200,
+        "price_range": "mid_range",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-MPG-B650i-Edge-Wifi-6E-Mini-ITX-AM5-DDR5-AMD-Motherboard-i.124930893.25891906798?extraParams=%7B%22display_model_id%22%3A215821822842%2C%22model_selection_logic%22%3A3%7D&sp_atk=ecc4664e-9f61-4328-8edc-66e8a985a587&xptdk=ecc4664e-9f61-4328-8edc-66e8a985a587",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX B760-I Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX B760-I Gaming WiFi",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR5",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 10800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dvfry56jyh_500x.jpg?v=1685672061",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-b760-i-gaming-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte B760I AORUS Pro DDR5",
+        "brand": "Gigabyte",
+        "model": "B760I AORUS Pro DDR5",
+        "socket": "LGA 1700",
+        "chipset": "B760",
+        "form_factor": "Mini-ITX",
+        "memory_type": "DDR5",
+        "max_memory": "64GB",
+        "wifi": true,
+        "price": 9600,
+        "price_range": "mid_range",
+        "image_url": "https://static.gigabyte.com/StaticFile/Image/Global/cd117730e2499f222866c025b6772111/ProductRemoveBg/34315/webp/600",
+        "link": "https://www.gigabyte.com/Motherboard/B760I-AORUS-PRO-rev-1x",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG Z790 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG Z790 TOMAHAWK WiFi",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 16200,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/vdssdv_500x.jpg?v=1701568202",
+        "link": "https://ecommerce.datablitz.com.ph/products/msi-mag-z790-tomahawk-max-wifi-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte Z790 AORUS Elite AX",
+        "brand": "Gigabyte",
+        "model": "Z790 AORUS Elite AX",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 16800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0889523034002_500x.jpg?v=1699674385",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-z790-aorus-elite-ax-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX Z790-A Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX Z790-A Gaming WiFi",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 18000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0197105028487_500x.jpg?v=1691486518",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-z790-a-gaming-wifi-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO Z790-A WiFi",
+        "brand": "MSI",
+        "model": "PRO Z790-A WiFi",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 16200,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024-2023-06-21T145712.383_500x.jpg?v=1700039907",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-z790-a-wifi-ddr4-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock Z790 PG Lightning WiFi",
+        "brand": "ASRock",
+        "model": "Z790 PG Lightning WiFi",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 16200,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/71pIpq1PjgL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com/ASRock-Z790-PG-Lightning-Motherboard/dp/B0BJDZRGRW",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG Z890 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG Z890 TOMAHAWK WiFi",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 19700,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024_1_500x.png?v=1731206382",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-z890-tomahawk-wifi-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte Z890 AORUS Elite WiFi7",
+        "brand": "Gigabyte",
+        "model": "Z890 AORUS Elite WiFi7",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 21500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/ffgnnf_500x.jpg?v=1730013670",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-z890m-aorus-elite-wifi-7-intel-ddr5-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX Z890-A Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX Z890-A Gaming WiFi",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 21500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/cxvxccxv_500x.jpg?v=1737376925",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-z890-a-gaming-wifi-intel-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI PRO Z890-P WiFi",
+        "brand": "MSI",
+        "model": "PRO Z890-P WiFi",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 19700,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dbxcvcvb_500x.jpg?v=1731210100",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-pro-z890-p-wifi-ddr5-intel-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MAG X870 TOMAHAWK WiFi",
+        "brand": "MSI",
+        "model": "MAG X870 TOMAHAWK WiFi",
+        "socket": "AM5",
+        "chipset": "X870",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "256GB",
+        "wifi": true,
+        "price": 20200,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/ngfnfgfngngf_500x.jpg?v=1727955650",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-mag-x870-tomahawk-wifi-ddr5-amd-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte X670E AORUS Master",
+        "brand": "Gigabyte",
+        "model": "X670E AORUS Master",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 20800,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0889523033272_500x.jpg?v=1676883023",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-x670e-aorus-master-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX X670E-E Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX X670E-E Gaming WiFi",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 19500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/h732-2023-03-11T151225.461_60x.jpg?v=1678518758",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-x670e-f-gaming-wifi-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MEG X670E ACE",
+        "brand": "MSI",
+        "model": "MEG X670E ACE",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 16500,
+        "price_range": "high_end",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-MAG-X670E-TOMAHAWK-WIFI-Motherboard-AMD-X670-(Socket-AM5)-DDR5-ATX-i.738930041.24451717759?extraParams=%7B%22display_model_id%22%3A240044715964%2C%22model_selection_logic%22%3A3%7D&sp_atk=67e26c42-592a-4e64-a183-a2c540f987db&xptdk=67e26c42-592a-4e64-a183-a2c540f987db",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG Crosshair X670E Hero",
+        "brand": "ASUS",
+        "model": "ROG Crosshair X670E Hero",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 19000,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0199291227101_60x.jpg?v=1759635868",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-crosshair-x870e-hero-btf-ddr5-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX Z790-E Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX Z790-E Gaming WiFi",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 18000,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0195553938549_500x.jpg?v=1691486435",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-z790-e-gaming-wifi-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MEG Z790 ACE",
+        "brand": "MSI",
+        "model": "MEG Z790 ACE",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 15000,
+        "price_range": "high_end",
+        "image_url": "https://m.media-amazon.com/images/I/81AttfJprCL._AC_SL1500_.jpg",
+        "link": "https://www.amazon.com/MSI-Motherboard-Processors-Bluetooth-Thunderbolt/dp/B0DJPTRP57/ref=sr_1_1?dib=eyJ2IjoiMSJ9.aSWrILW5L2E7_EjV-E5XUBOtdbw1hu0qKi2jzw-3zhDB8ptPnO7yU8KJevl44CO27ZSVWxIBHLsthrV2G9P_KqhsFagY5W8WFD2DIN3TJ0qRPRksGQ9UqUgDH1L2kXMzxgrzh7uqd1MKe6vf3JNeajZyBhHishymnrX_30U9UyUCfQOJFyZ-yXEryyrv8CxHzBIs9gGhB5uo5T-_E4qJNb2rCI4lPm1CwfvRjrTQMXQ.37QJkTvZ8w2kki16Ox8mqxZPHSDKUXYWoCuLgEDhzII&dib_tag=se&keywords=MSI+MEG+Z790+ACE+MSI+MEG+Z790+ACE&nsdOptOutParam=true&qid=1773318333&sr=8-1",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte Z790 AORUS Master",
+        "brand": "Gigabyte",
+        "model": "Z790 AORUS Master",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 13995,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1000-2023-10-05T163142.616_500x.jpg?v=1699674423",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-z790-aorus-master-x-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG Maximus Z790 Hero",
+        "brand": "ASUS",
+        "model": "ROG Maximus Z790 Hero",
+        "socket": "LGA 1700",
+        "chipset": "Z790",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "128GB",
+        "wifi": true,
+        "price": 17500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bdfbfdbfdxz_60x.jpg?v=1713603773",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-maximus-z790-hero-btf-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX Z890-E Gaming WiFi II",
+        "brand": "ASUS",
+        "model": "ROG STRIX Z890-E Gaming WiFi II",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 21500,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/dfbdbfdbfd_500x.jpg?v=1740398227",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-z890-e-gaming-wifi-intel-ddr5-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG STRIX Z890-F Gaming WiFi",
+        "brand": "ASUS",
+        "model": "ROG STRIX Z890-F Gaming WiFi",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 21500,
+        "price_range": "mid_range",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/hmgz_500x.jpg?v=1699249430",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-z790-f-gaming-wifi-ii-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MEG Z890 ACE",
+        "brand": "MSI",
+        "model": "MEG Z890 ACE",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 18500,
+        "price_range": "enthusiast",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-MEG-Z890-ACE-ATX-LGA1851-DDR5-PCIe-5.0-Thunderbolt-4-Wi-Fi-7-10G-LAN-Motherboard-itw-i.89762129.57106597440?extraParams=%7B%22display_model_id%22%3A340593009340%2C%22model_selection_logic%22%3A3%7D&sp_atk=4720a5b4-25c8-45b6-8164-25da7ff4c879&xptdk=4720a5b4-25c8-45b6-8164-25da7ff4c879",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte Z890 AORUS Master",
+        "brand": "Gigabyte",
+        "model": "Z890 AORUS Master",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 22800,
+        "price_range": "high_end",
+        "image_url": "Gigabyte Z890 AORUS Master Gigabyte Z890 AORUS Master",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-z890-aorus-master-ddr5-intel-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASRock Z890 Taichi Lite",
+        "brand": "ASRock",
+        "model": "Z890 Taichi Lite",
+        "socket": "LGA 1851",
+        "chipset": "Z890",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "192GB",
+        "wifi": true,
+        "price": 20300,
+        "price_range": "mid_range",
+        "image_url": "https://m.media-amazon.com/images/I/81s5Iu8+u8L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASRock-Z890-LGA1851-Motherboard-Thunderbol/dp/B0DJRP9CWD/ref=sr_1_1_mod_primary_new?dib=eyJ2IjoiMSJ9.TN2zRdueolhyoCEWhWZWBhQ9fomrBoIuXXKvWrv__QRSr62gxHVphlwlmAYSI7mo8sl3oDhBXppWGfVvBpXGhNMcXHc5Vizdxt2Wp3zVSfGPd651IIpxapdYy82pjgvGPDFTT__tUxGCuiZ9uTTpg3MHcGY41zmsnoMQ74QxOuDbNX5L_NNxbv7mYgP5JOsakKs9ZquAXYoCX_O4jDQEMvAheOW7Sck2lYYwNhOyNZc.8QcSJ2eBG_VWWf5hrj5IAbDejRzOCL8r3-GPSLPIgrw&dib_tag=se&keywords=ASRock%2BZ890%2BTaichi%2BLite%2BASRock%2BZ890%2BTaichi%2BLite&nsdOptOutParam=true&qid=1773318666&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "MSI MEG X870E ACE",
+        "brand": "MSI",
+        "model": "MEG X870E ACE",
+        "socket": "AM5",
+        "chipset": "X870E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "256GB",
+        "wifi": true,
+        "price": 19000,
+        "price_range": "high_end",
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-MPG-X870E-EDGE-TI-WIFI-AM5-ATX-DDR5-Wi-Fi-7-USB4-PCIe-5.0-5G-LAN-White-Motherboard-itw-i.89762129.28594262052?extraParams=%7B%22display_model_id%22%3A262414967162%2C%22model_selection_logic%22%3A3%7D&sp_atk=f98ff56d-eab6-490b-892d-00d4844c685f&xptdk=f98ff56d-eab6-490b-892d-00d4844c685f",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "ASUS ROG Crosshair X870E Hero",
+        "brand": "ASUS",
+        "model": "ROG Crosshair X870E Hero",
+        "socket": "AM5",
+        "chipset": "X870E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "256GB",
+        "wifi": true,
+        "price": 21500,
+        "price_range": "enthusiast",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0199291227101_500x.jpg?v=1759635868",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-crosshair-x870e-hero-btf-ddr5-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    },
+    {
+        "name": "Gigabyte X870E AORUS Master",
+        "brand": "Gigabyte",
+        "model": "X870E AORUS Master",
+        "socket": "AM5",
+        "chipset": "X870E",
+        "form_factor": "ATX",
+        "memory_type": "DDR5",
+        "max_memory": "256GB",
+        "wifi": true,
+        "price": 23300,
+        "price_range": "high_end",
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0889523056011_500x.jpg?v=1769325449",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-x870e-aorus-master-x3d-ddr5-amd-gaming-motherboard",
+        "pricing_range": {
+            "min": 3650,
+            "max": 47995
+        }
+    }
+]

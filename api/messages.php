@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/../config.php';
+require_once __DIR__ . '/ai_service.php';
 header('Content-Type: application/json; charset=utf-8');
 
 // Add CORS headers if needed
@@ -104,8 +105,23 @@ function sendMessage($conn, $userId) {
     $stmt->bind_param("i", $threadId);
     $stmt->execute();
     
-    // Generate AI response using Python service
-    $aiResponse = generateAIResponse($message, $threadId);
+    // Generate AI response using PHP AI service (OpenRouter)
+    $history = [];
+    $conn2 = getDBConnection();
+    if ($conn2 && $threadId) {
+        $stmtH = $conn2->prepare("SELECT role, content FROM messages WHERE thread_id = ? ORDER BY created_at ASC LIMIT 20");
+        if ($stmtH) {
+            $stmtH->bind_param('i', $threadId);
+            $stmtH->execute();
+            $resultH = $stmtH->get_result();
+            while ($rowH = $resultH->fetch_assoc()) {
+                $history[] = ['role' => $rowH['role'], 'content' => $rowH['content']];
+            }
+            $stmtH->close();
+        }
+    }
+    $aiResponseData = processAIMessage($message, $threadId, $history);
+    $aiResponse = json_encode($aiResponseData);
 
     error_log("=== DEBUG: Raw AI Response ===");
     error_log("Type: " . gettype($aiResponse));
@@ -227,135 +243,17 @@ function sendMessage($conn, $userId) {
             'role' => 'assistant',
             'content' => $content,
             'data_type' => $dataType,
-            'data' => $dataType === 'recommendation' ? json_decode($content, true) : null
+            'data' => in_array($dataType, ['recommendation', 'upgrade_suggestion'], true) ? json_decode($content, true) : null
         ]
     ]);
 }
 
 function generateThreadTitle($userMessage) {
-    // Call Python AI service to generate title
-    $aiServiceUrl = getenv('PYTHON_SERVICE_URL') ?: getenv('AI_SERVICE_URL') ?: 'http://localhost:5000';
-    
-    $ch = curl_init($aiServiceUrl . '/title');
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(['message' => $userMessage]));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 5);
-    
-    $response = @curl_exec($ch);
-    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
-    
-    if ($httpCode === 200 && $response) {
-        $data = json_decode($response, true);
-        if (isset($data['success']) && $data['success'] && isset($data['title'])) {
-            return $data['title'];
-        }
-    }
-    
-    // Fallback: use first 50 characters
-    return substr($userMessage, 0, 50);
+    // Use PHP AI service to generate title (no Python dependency)
+    return generateThreadTitleAI($userMessage);
 }
 
-function generateAIResponse($userMessage, $threadId = null) {
-    // Call Python AI service
-    $aiServiceUrl = getenv('PYTHON_SERVICE_URL') ?: getenv('AI_SERVICE_URL') ?: 'http://localhost:5000';
-    
-    // Get conversation history if thread exists
-    $history = [];
-    if ($threadId) {
-        $conn = getDBConnection();
-        $stmt = $conn->prepare("SELECT role, content FROM messages WHERE thread_id = ? ORDER BY created_at ASC LIMIT 10");
-        $stmt->bind_param("i", $threadId);
-        $stmt->execute();
-        $result = $stmt->get_result();
-        while ($row = $result->fetch_assoc()) {
-            $history[] = ['role' => $row['role'], 'content' => $row['content']];
-        }
-    }
-    
-    $ch = curl_init($aiServiceUrl . '/generate');
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-    curl_setopt($ch, CURLOPT_POST, true);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode([
-        'message' => $userMessage,
-        'history' => $history,
-        'thread_id' => $threadId
-    ]));
-    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
-    curl_setopt($ch, CURLOPT_TIMEOUT, 300); // 5 minutes timeout to allow for build generation
-    
-    $response = @curl_exec($ch);
-    $curlError = curl_error($ch);
-    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-    curl_close($ch);
-    
-    error_log("Debug: Python AI service response - HTTP Code: $httpCode");
-    if ($curlError) {
-        error_log("CURL Error: $curlError");
-    }
-    
-    if ($httpCode === 200 && $response) {
-        $data = json_decode($response, true);
-        error_log("=== DEBUG: generateAIResponse - Parsing Response ===");
-        error_log("HTTP Code: $httpCode");
-        error_log("Response length: " . strlen($response));
-        error_log("JSON Error: " . json_last_error_msg());
-        error_log("Response structure: " . json_encode([
-            'has_success' => isset($data['success']),
-            'success_value' => $data['success'] ?? null,
-            'has_data' => isset($data['data']),
-            'data_type' => $data['data']['type'] ?? null,
-            'has_ai_message' => isset($data['data']['ai_message']),
-            'components_count' => isset($data['data']['components']) ? count($data['data']['components']) : 0
-        ]));
-        
-        if (isset($data['success']) && $data['success']) {
-            // Handle new structured response format
-            if (isset($data['data']['ai_message'])) {
-                error_log("DEBUG: Successfully got structured response from Python AI");
-                // Return the full JSON response so sendMessage can process it
-                return $response; // Return the full JSON string
-            } elseif (isset($data['response'])) {
-                // Legacy format support
-                error_log("DEBUG: Successfully got HTML response from Python AI");
-                return $data['response'];
-            } else {
-                error_log("ERROR: Python AI service returned success but no response data");
-                error_log("Available keys in data: " . (isset($data['data']) && is_array($data['data']) ? implode(', ', array_keys($data['data'])) : 'N/A'));
-            }
-        } else {
-            error_log("ERROR: Python AI service returned error: " . ($data['error'] ?? 'Unknown error'));
-            error_log("Full response: " . substr($response, 0, 1000));
-        }
-    } else {
-        error_log("ERROR: Python AI service call failed: HTTP $httpCode");
-        if ($curlError) {
-            error_log("CURL Error details: $curlError");
-        }
-        error_log("Response: " . substr($response ?? '', 0, 500));
-        
-        // If we got a response even with non-200 status, try to parse it
-        if ($response) {
-            $data = json_decode($response, true);
-            if ($data && isset($data['success']) && isset($data['data'])) {
-                error_log("DEBUG: Got error response from Python service, returning it");
-                return $response; // Return the error response from Python
-            }
-        }
-    }
-    
-    // Fallback response if AI service is completely unavailable
-    error_log("WARNING: Python AI service is completely unavailable, using PHP fallback");
-    return json_encode([
-        'success' => false,
-        'data' => [
-            'type' => 'error',
-            'ai_message' => generateFallbackResponse($userMessage)
-        ]
-    ]);
-}
+// generateAIResponse is no longer needed - we now use processAIMessage() from ai_service.php directly
 
 function generateFallbackResponse($userMessage) {
     $message = strtolower($userMessage);

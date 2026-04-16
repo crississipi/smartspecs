@@ -2,14 +2,6 @@
 require_once __DIR__ . '/../config.php';
 header('Content-Type: application/json; charset=utf-8');
 
-/**
- * SmartSpecs - Components API
- * Supports listing, searching, and fetching images for PC components
- */
-
-/**
- * Connect to AivenDB (MySQL)
- */
 try {
     $db = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
     if ($db->connect_errno) {

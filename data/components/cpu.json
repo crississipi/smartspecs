@@ -1,0 +1,1750 @@
+[
+    {
+        "name": "AMD Athlon 3000G",
+        "brand": "AMD",
+        "model": "Athlon 3000G",
+        "price": 2795,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "2C/4T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "3.5 GHz",
+        "tdp": 35,
+        "integrated_graphics": true,
+        "image_url": "https://cdn.shopify.com/s/files/1/0460/2567/0805/files/AMD-ATHLON-3000G-2-CORES-AM-4-4-THREADS-WITH-RADEON-GRAPHICS-TRAY-TYPE-6-MONTHS-WARRANTY-DESKTOP-PROCESSOR.jpg?v=1730850111",
+        "link": "https://shopee.ph/AMD-Athlon-3000G-Desktop-Processors-CPU-Tray-Type-2-Core-4-Thread-With-Radeon-Graphics-i.1352712158.41101117990?extraParams=%7B%22display_model_id%22%3A270089928879%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Pentium Gold G6400",
+        "brand": "Intel",
+        "model": "Pentium Gold G6400",
+        "price": 2995,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "2C/4T",
+        "base_clock": "4.0 GHz",
+        "boost_clock": "4.0 GHz",
+        "tdp": 58,
+        "integrated_graphics": true,
+        "image_url": "https://hanoicomputercdn.com/media/product/52618_intel_g6400.jpg",
+        "link": "https://shopee.ph/Intel-G6400-Pentium-Gold-Processor-10th-Gen-Dual-Core-Ddr4-with-Uhd-Graphics-610-Desktop-Pc-i.366667598.7180450077",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Pentium Gold G7400",
+        "brand": "Intel",
+        "model": "Pentium Gold G7400",
+        "price": 3495,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "2C/4T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "3.7 GHz",
+        "tdp": 46,
+        "integrated_graphics": true,
+        "image_url": "https://villman.com/product_photos/ezgif-2-80eb0d5175_m970d.gif",
+        "link": "https://villman.com/Product-Detail/intel_pentium-gold-g7400-370ghz-6m-cache-processor-",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 3 3200G",
+        "brand": "AMD",
+        "model": "Ryzen 3 3200G",
+        "price": 4295,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/4T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://images.pc-builds.com/images/components/9c7bd782c8737108dc7e6695c6452ff3/e3ea283a428792deaf5656ff670ad2f4/c842fc1d9be07eb3f1549daffe22146b.png",
+        "link": "https://shopee.ph/AMD-Ryzen-3-3200G-Desktop-Processor-4-Core-4-Thread-3.6-GHz-Socket-AM4-65W-CPU-Processor-i.462016051.23963770841?extraParams=%7B%22display_model_id%22%3A400166715977%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-10100F",
+        "brand": "Intel",
+        "model": "Core i3-10100F",
+        "price": 4295,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "4C/8T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.3 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-I3-10100F-3.60-Ghz-6Mb-Smart-Cache-Desktop-Processor-i.25952313.9673474834?extraParams=%7B%22display_model_id%22%3A110846935660%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 3 4100",
+        "brand": "AMD",
+        "model": "Ryzen 3 4100",
+        "price": 5495,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/8T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "4.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Itw-AMD-Ryzen-3-4100-4-Cores-4-Threads-Desktop-Processor-i.89762129.19073499365?extraParams=%7B%22display_model_id%22%3A165583373502%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-10105F",
+        "brand": "Intel",
+        "model": "Core i3-10105F",
+        "price": 4495,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "4C/8T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-I3-10105F-3.7-Ghz-Quad-Core-8-Threads-LGA-1200-Desktop-Processor-(I3-10105F)-Itw-929-i.1590970983.57802318454?extraParams=%7B%22display_model_id%22%3A302212993175%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 3500",
+        "brand": "AMD",
+        "model": "Ryzen 5 3500",
+        "price": 5995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/6T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.1 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-3500X-Desktop-Processor-3.6-Ghz-6-Core-6-Thread-7Nm-65W-L3-32M-AM4-CPU-Processor-i.462016051.27136959202?extraParams=%7B%22display_model_id%22%3A275187827339%2C%22model_selection_logic%22%3A3%7D&sp_atk=9b4f9940-feb7-4436-8047-a870624b3c81&xptdk=9b4f9940-feb7-4436-8047-a870624b3c81",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-10100",
+        "brand": "Intel",
+        "model": "Core i3-10100",
+        "price": 4595,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "4C/8T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.3 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-I3-10100F-3.60-Ghz-6Mb-Smart-Cache-Desktop-Processor-i.25952313.9673474834?extraParams=%7B%22display_model_id%22%3A110846935660%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 3 4300G",
+        "brand": "AMD",
+        "model": "Ryzen 3 4300G",
+        "price": 5895,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/8T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "4.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://pcngon.vn/wp-content/uploads/2024/07/CPU-AMD-Ryzen-3-4300G-Chinh-hang-3.8GHz-Turbo-4.0GHz-4-nhan-8-luong.jpg",
+        "link": "https://pcngon.vn/cpu-amd-ryzen-3-4300g-chinh-hang/",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 4500",
+        "brand": "AMD",
+        "model": "Ryzen 5 4500",
+        "price": 7495,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.1 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-4500-CPU-6-Cores-12-Threads-AM4-3.6GHz-Zen-2-Desktop-Processor-itw-i.89762129.25054069513?extraParams=%7B%22display_model_id%22%3A167009416489%2C%22model_selection_logic%22%3A3%7D&sp_atk=4036f4a4-66af-4cec-ae39-f512373dfd80&xptdk=4036f4a4-66af-4cec-ae39-f512373dfd80",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 3 3100",
+        "brand": "AMD",
+        "model": "Ryzen 3 3100",
+        "price": 3995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/8T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "3.9 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Ryzen-3-3100-AM4-CPU-Processors-R3-3100-Quad-Core-3.6-GHz-65W-Desktop-16MB-i.1623798210.25046842351?extraParams=%7B%22display_model_id%22%3A306461691182%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-12100F",
+        "brand": "Intel",
+        "model": "Core i3-12100F",
+        "price": 5995,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.3 GHz",
+        "boost_clock": "4.3 GHz",
+        "tdp": 58,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-I3-12100f-12th-Gen-traytypee-NO-HSFan-Processor-4-Cores-8-Threads-i.366667598.17933331563?extraParams=%7B%22display_model_id%22%3A124899850522%2C%22model_selection_logic%22%3A3%7D&sp_atk=d349d11e-c0c0-42ac-837c-cda91e094201&xptdk=d349d11e-c0c0-42ac-837c-cda91e094201",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 3 5300G",
+        "brand": "AMD",
+        "model": "Ryzen 3 5300G",
+        "price": 5200,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/8T",
+        "base_clock": "4.0 GHz",
+        "boost_clock": "4.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-3-5300G-AM4-processor-100100000253box.-i.619049511.47452982557?extraParams=%7B%22display_model_id%22%3A410286426693%2C%22model_selection_logic%22%3A3%7D&sp_atk=e4fe4491-6f18-4967-9d9b-43e1a8bd662d&xptdk=e4fe4491-6f18-4967-9d9b-43e1a8bd662d",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5500",
+        "brand": "AMD",
+        "model": "Ryzen 5 5500",
+        "price": 7995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-5500-6-Cores-Upto-4.2Ghz-Unlocked-AM4-Desktop-Processor-i.291435418.20708885078?extraParams=%7B%22display_model_id%22%3A440396546338%2C%22model_selection_logic%22%3A3%7D&sp_atk=ccf0a254-1dfc-4bd5-9cfa-4644426b63ab&xptdk=ccf0a254-1dfc-4bd5-9cfa-4644426b63ab",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 4600G",
+        "brand": "AMD",
+        "model": "Ryzen 5 4600G",
+        "price": 7995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/5-AMD-Ryzen-5-4600G-With-Radeon-Graphics-6-Core-12-Thread-Processor-i.1341448514.41906890044?extraParams=%7B%22display_model_id%22%3A300583282785%2C%22model_selection_logic%22%3A3%7D&sp_atk=93006331-1aaa-43b3-b767-3599724382fc&xptdk=93006331-1aaa-43b3-b767-3599724382fc",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 3400G",
+        "brand": "AMD",
+        "model": "Ryzen 5 3400G",
+        "price": 5595,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "4C/8T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-RYZEN-5-3400G-Desktop-Processor-4-Core-8-Thread-3.7Ghz-Build-in-Radeon-Graphics-Socket-AM4-CPU-i.462016051.44408638769?extraParams=%7B%22display_model_id%22%3A129403964812%2C%22model_selection_logic%22%3A3%7D&sp_atk=0c2a1037-5f14-4de3-b519-053bb2261b2c&xptdk=0c2a1037-5f14-4de3-b519-053bb2261b2c",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 3600",
+        "brand": "AMD",
+        "model": "Ryzen 5 3600",
+        "price": 6995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "4.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/-SALE-AMD-Ryzen-5-3600-3600X-SPK-type-Gaming-Processor-6-Cores-DDR4-AM4-CPU-Socket-For-Gaming-i.1744425511.51005983303?extraParams=%7B%22display_model_id%22%3A395543269354%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-13100F",
+        "brand": "Intel",
+        "model": "Core i3-13100F",
+        "price": 6995,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "4.5 GHz",
+        "tdp": 58,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i3-13100F-Raptor-Lake-13th-Gen-LGA1700-Intel-PH-Retail-Unit-i.313325622.18672741706?extraParams=%7B%22display_model_id%22%3A230890753779%2C%22model_selection_logic%22%3A3%7D&sp_atk=08090e02-369e-478c-a01a-deb628dd1b99&xptdk=08090e02-369e-478c-a01a-deb628dd1b99",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-12100",
+        "brand": "Intel",
+        "model": "Core i3-12100",
+        "price": 6295,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.3 GHz",
+        "boost_clock": "4.3 GHz",
+        "tdp": 60,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-I3-12100f-12th-Gen-traytypee-NO-HSFan-Processor-4-Cores-8-Threads-i.366667598.17933331563?extraParams=%7B%22display_model_id%22%3A124899850522%2C%22model_selection_logic%22%3A3%7D&sp_atk=f5fc0c08-702f-4d8c-b24b-f005899d0cf4&xptdk=f5fc0c08-702f-4d8c-b24b-f005899d0cf4",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-14100F",
+        "brand": "Intel",
+        "model": "Core i3-14100F",
+        "price": 7595,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "4.7 GHz",
+        "tdp": 58,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i3-14100F-Desktop-Processor-4-Cores-(4-P-Cores-0-E-Cores)-with-Max-4.7-GHz.-i.1242454935.41105263534?extraParams=%7B%22display_model_id%22%3A59568397176%2C%22model_selection_logic%22%3A3%7D&sp_atk=ddbd15f7-e778-40fe-8b98-716020c01f8d&xptdk=ddbd15f7-e778-40fe-8b98-716020c01f8d",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-13100",
+        "brand": "Intel",
+        "model": "Core i3-13100",
+        "price": 7295,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "4.5 GHz",
+        "tdp": 60,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i3-13100F-Raptor-Lake-13th-Gen-LGA1700-Intel-PH-Retail-Unit-i.313325622.18672741706?extraParams=%7B%22display_model_id%22%3A230890753779%2C%22model_selection_logic%22%3A3%7D&sp_atk=33ae04ea-543c-4344-9227-2a0f08de9a1d&xptdk=33ae04ea-543c-4344-9227-2a0f08de9a1d",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i3-14100",
+        "brand": "Intel",
+        "model": "Core i3-14100",
+        "price": 7895,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "4C/8T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "4.7 GHz",
+        "tdp": 60,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i3-14100-4-Core-12MB-up-to-4.70GHz-LGA-1700-Processor-tray-i.122081568.43365457458?extraParams=%7B%22display_model_id%22%3A301274666683%2C%22model_selection_logic%22%3A3%7D&sp_atk=d83b7d28-a3eb-4d62-84e7-2929e1becaf2&xptdk=d83b7d28-a3eb-4d62-84e7-2929e1becaf2",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5600",
+        "brand": "AMD",
+        "model": "Ryzen 5 5600",
+        "price": 8995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-RYZEN-5-5600G-R7-5700G-R5-3400G-Desktop-Processor-AM4-Socket-For-Desktop-PC-Computer-i.462016051.20861945119?extraParams=%7B%22display_model_id%22%3A119484480633%2C%22model_selection_logic%22%3A3%7D&sp_atk=93154d6e-f56f-449d-bf2b-8ce9ab4bbe3a&xptdk=93154d6e-f56f-449d-bf2b-8ce9ab4bbe3a",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-10400F",
+        "brand": "Intel",
+        "model": "Core i5-10400F",
+        "price": 8995,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "6C/12T",
+        "base_clock": "2.9 GHz",
+        "boost_clock": "4.3 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i5-10400F-10th-Gen-6-Core-2.9-GHz-LGA-1200-65W-Desktop-Processor-(Brand-New)-i.56149378.3179385418?extraParams=%7B%22display_model_id%22%3A33090035117%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5600G",
+        "brand": "AMD",
+        "model": "Ryzen 5 5600G",
+        "price": 9495,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.9 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-RYZEN-5-5600G-R7-5700G-R5-3400G-Desktop-Processor-AM4-Socket-For-Desktop-PC-Computer-i.462016051.20861945119?extraParams=%7B%22display_model_id%22%3A119484480633%2C%22model_selection_logic%22%3A3%7D&sp_atk=d8334003-9b68-4a62-aa71-264ba06d678e&xptdk=d8334003-9b68-4a62-aa71-264ba06d678e",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-11400F",
+        "brand": "Intel",
+        "model": "Core i5-11400F",
+        "price": 9995,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "6C/12T",
+        "base_clock": "2.6 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-I5-11400F-11th-Gen-I5-Processors-6-Cores-12-Threads-tray-type-(No-HSF)-i.366667598.16632034854?extraParams=%7B%22display_model_id%22%3A134873941311%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5600X",
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X",
+        "price": 11995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-5600X-CPU-6-Cores-12-Threads-Up-to-4.6GHz-With-Cooler-Fan-Desktop-Processor-itw-i.89762129.26886650133?extraParams=%7B%22display_model_id%22%3A234240420641%2C%22model_selection_logic%22%3A3%7D&sp_atk=a41ec7c6-0cca-4c0e-8801-857b1d68254b&xptdk=a41ec7c6-0cca-4c0e-8801-857b1d68254b",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-12400F",
+        "brand": "Intel",
+        "model": "Core i5-12400F",
+        "price": 8995,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "6C/12T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-i5-12400F-12th-Gen-Processor-6-Cores-12-Threads-LGA-1700-CPU-DDR4-DDR5-Collinx-Computer-i.366667598.24053362328?extraParams=%7B%22display_model_id%22%3A194811339887%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5700G",
+        "brand": "AMD",
+        "model": "Ryzen 5 5700G",
+        "price": 9000,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "8C/16T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-RYZEN-5-5600G-R7-5700G-R5-3400G-Desktop-Processor-AM4-Socket-For-Desktop-PC-Computer-i.462016051.20861945119?extraParams=%7B%22display_model_id%22%3A119484480633%2C%22model_selection_logic%22%3A3%7D&sp_atk=1b5eeb1f-8914-4bda-9b4b-f594a7636476&xptdk=1b5eeb1f-8914-4bda-9b4b-f594a7636476",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-12400",
+        "brand": "Intel",
+        "model": "Core i5-12400",
+        "price": 9495,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "6C/12T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Itw-Intel-Core-i5-12400-18MB-Cache-up-to-4.40Ghz-Desktop-Processor-i.89762129.9541331000?extraParams=%7B%22display_model_id%22%3A81458770046%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5700X",
+        "brand": "AMD",
+        "model": "Ryzen 5 5700X",
+        "price": 10000,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "8C/16T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-RYZEN-7-5700X-RYZEN-5-5500X3D-Desktop-Processor-8-Core-16-Thread-Socket-AM4-CPU-Processor-i.462016051.29767052410?extraParams=%7B%22display_model_id%22%3A237366207890%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 7500F",
+        "brand": "AMD",
+        "model": "Ryzen 5 7500F",
+        "price": 9995,
+        "price_range": "budget",
+        "socket": "AM5",
+        "cores": "6C/12T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-7500F-Desktop-Processor-3.7GHz-6-Core-12-Thread-5NM-L3-32M-Socket-AM5-CPU-Processor-i.462016051.26840363267?extraParams=%7B%22display_model_id%22%3A291216817487%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 5600X3D",
+        "brand": "AMD",
+        "model": "Ryzen 5 5600X3D",
+        "price": 12995,
+        "price_range": "budget",
+        "socket": "AM4",
+        "cores": "6C/12T",
+        "base_clock": "3.3 GHz",
+        "boost_clock": "4.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/EasyPC-AMD-Ryzen-5-5600X-or-7-5700X-R7-5700-R7-5700X3D-R7-8700G-amd-processor-AM4-socket-DDR4-i.77398075.7063268056?extraParams=%7B%22display_model_id%22%3A194797225869%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-13400F",
+        "brand": "Intel",
+        "model": "Core i5-13400F",
+        "price": 10995,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "10C/16T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Tt-Intel-I5-12Th-13Th-Generation-13490F-13400F-Cpu12100-Processor-12490-Unboxed-6-Core-2.9-i.1613752378.40416115506?extraParams=%7B%22display_model_id%22%3A306326946076%2C%22model_selection_logic%22%3A3%7D&sp_atk=2ed24c71-7334-468e-b9f7-77670cf84440&xptdk=2ed24c71-7334-468e-b9f7-77670cf84440",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-14400F",
+        "brand": "Intel",
+        "model": "Core i5-14400F",
+        "price": 11495,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "10C/16T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.7 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i5-14400F-10-Core-Desktop-Processor-(6-P-Cores-4-E-Cores)-Up-to-4.7-GHz-i.1242454935.26737791089?extraParams=%7B%22display_model_id%22%3A280443855565%2C%22model_selection_logic%22%3A3%7D&sp_atk=9cb4c749-0691-4a29-a4c5-8958080b0105&xptdk=9cb4c749-0691-4a29-a4c5-8958080b0105",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-12500",
+        "brand": "Intel",
+        "model": "Core i5-12500",
+        "price": 10495,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "6C/12T",
+        "base_clock": "3.0 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Intel-10th-Gen-CPU-10700-10700k-i5-12400-12500-12600-Defective-Parts-i.1698008770.55355013571?extraParams=%7B%22display_model_id%22%3A370462480187%2C%22model_selection_logic%22%3A3%7D&sp_atk=c928ec19-61ce-4bc0-b276-ca9c0fb9a97a&xptdk=c928ec19-61ce-4bc0-b276-ca9c0fb9a97a",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-11600K",
+        "brand": "Intel",
+        "model": "Core i5-11600K",
+        "price": 11995,
+        "price_range": "budget",
+        "socket": "LGA 1200",
+        "cores": "6C/12T",
+        "base_clock": "3.9 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/USED-intel-Core-i5-11600KF-i5-11600KF-processor-CPU-6-Cores-12-Threads-3.90-GHz-14-nm-L3-12-MB-11th-Generation-CPU-i.721493043.42809117752?extraParams=%7B%22display_model_id%22%3A216166588886%2C%22model_selection_logic%22%3A3%7D&sp_atk=b86e0f4a-4a1c-4958-8b05-84cfe070ef67&xptdk=b86e0f4a-4a1c-4958-8b05-84cfe070ef67",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-13400",
+        "brand": "Intel",
+        "model": "Core i5-13400",
+        "price": 11495,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "10C/16T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.6 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-i5-13400-13th-gen-I5-14400-14th-gen-20M-Cache-up-to-4.60-GHz-Desktop-Processor-10-cores-i.366667598.20596321639?extraParams=%7B%22display_model_id%22%3A240351634146%2C%22model_selection_logic%22%3A3%7D&sp_atk=b2ef4f50-9c91-42e0-ab04-1a14541f5068&xptdk=b2ef4f50-9c91-42e0-ab04-1a14541f5068",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 7600",
+        "brand": "AMD",
+        "model": "Ryzen 5 7600",
+        "price": 10995,
+        "price_range": "budget",
+        "socket": "AM5",
+        "cores": "6C/12T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "5.1 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-7600-6-Cores-12-Threads-CPU-Zen-4-Up-to-5.1GHz-AM5-Gaming-Processor-itw-i.89762129.23919316418?extraParams=%7B%22display_model_id%22%3A335494391663%2C%22model_selection_logic%22%3A3%7D&sp_atk=cf9052fa-6053-4c4f-9d05-052b32e66032&xptdk=cf9052fa-6053-4c4f-9d05-052b32e66032",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-14400",
+        "brand": "Intel",
+        "model": "Core i5-14400",
+        "price": 11995,
+        "price_range": "budget",
+        "socket": "LGA 1700",
+        "cores": "10C/16T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.7 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-Desktop-Processor-i5-14400-10-Core-4.7GHz-(Box-Tray-Type)-itw-i.89762129.28756672430?extraParams=%7B%22display_model_id%22%3A218632666215%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-12600K",
+        "brand": "Intel",
+        "model": "Core i5-12600K",
+        "price": 12495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "10C/16T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-i5-12600K-Desktop-Processor-10-Cores-up-to-4.9-GHz-Unlocked-LGA1700-600-Series-Chipset-i.58264739.16715564765?extraParams=%7B%22display_model_id%22%3A160568863231%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 8600G",
+        "brand": "AMD",
+        "model": "Ryzen 5 8600G",
+        "price": 11995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "6C/12T",
+        "base_clock": "4.3 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-8600G-6-Cores-12-Thread-Desktop-Processor-with-Wraith-Stealth-Cooler-i.89762129.25661737644?extraParams=%7B%22display_model_id%22%3A204901417794%2C%22model_selection_logic%22%3A3%7D&sp_atk=aaa3592d-f2b5-4bcb-9ca2-a37ab7e8baf6&xptdk=aaa3592d-f2b5-4bcb-9ca2-a37ab7e8baf6",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-13500",
+        "brand": "Intel",
+        "model": "Core i5-13500",
+        "price": 12495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.8 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-i5-13500-13th-I5-14500-14th-Gen-Processor-14-Cores-20-Threads-Up-to-4.8-GHz-LGA1700-i.366667598.28152998919?extraParams=%7B%22display_model_id%22%3A168260823708%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 7600X",
+        "brand": "AMD",
+        "model": "Ryzen 5 7600X",
+        "price": 11995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "6C/12T",
+        "base_clock": "4.7 GHz",
+        "boost_clock": "5.3 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-7600X-6-Cores-12-Threads-Up-to-5.3GHz-Zen-4-AM5-Desktop-Processor-itw-i.89762129.18262466770?extraParams=%7B%22display_model_id%22%3A237367736107%2C%22model_selection_logic%22%3A3%7D&sp_atk=a2136d66-a601-4e1f-8069-74a346695fc2&xptdk=a2136d66-a601-4e1f-8069-74a346695fc2",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-14500",
+        "brand": "Intel",
+        "model": "Core i5-14500",
+        "price": 13495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "2.6 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-i5-13500-13th-I5-14500-14th-Gen-Processor-14-Cores-20-Threads-Up-to-4.8-GHz-LGA1700-i.366667598.28152998919?extraParams=%7B%22display_model_id%22%3A168260823708%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 5 9600X",
+        "brand": "AMD",
+        "model": "Ryzen 5 9600X",
+        "price": 12995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "6C/12T",
+        "base_clock": "3.9 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-5-9600X-Processor-6-Cores-12-Threads-Up-to-5.4GHz-Zen-5-AM5-CPU-itw-i.89762129.27607694098?extraParams=%7B%22display_model_id%22%3A119398851894%2C%22model_selection_logic%22%3A3%7D&sp_atk=7be7c644-e493-4bc7-8b4c-1fe6067d2323&xptdk=7be7c644-e493-4bc7-8b4c-1fe6067d2323",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-13600KF",
+        "brand": "Intel",
+        "model": "Core i5-13600KF",
+        "price": 13995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "5.1 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-13th-generation-i5-13600KF-CPU-processor-brand-new-boxed-genuine-14-cores-20-threads-24M-i.1698014180.46555046322?extraParams=%7B%22display_model_id%22%3A415463421785%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-14600KF",
+        "brand": "Intel",
+        "model": "Core i5-14600KF",
+        "price": 14995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "5.3 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Processor-i9-14900KF-i7-14700KF-i5-14600KF-Core-Xeon-Pentium-Celeron-CPU-i.1697999949.56955025910?extraParams=%7B%22display_model_id%22%3A262351642167%2C%22model_selection_logic%22%3A3%7D&sp_atk=a945d909-c620-4ec9-aac7-6cc1165a7540&xptdk=a945d909-c620-4ec9-aac7-6cc1165a7540",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-13600K",
+        "brand": "Intel",
+        "model": "Core i5-13600K",
+        "price": 14495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "5.1 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-CPU-13th-Generation-Core-i5-13600K-BOX-BX8071513600K-Domestic-Authorized-Distribution-Product-i.1242454935.43955263439?extraParams=%7B%22display_model_id%22%3A270443872534%2C%22model_selection_logic%22%3A3%7D&sp_atk=68272ea1-b3b4-445c-b7a4-2afd03d4d341&xptdk=68272ea1-b3b4-445c-b7a4-2afd03d4d341",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i5-14600K",
+        "brand": "Intel",
+        "model": "Core i5-14600K",
+        "price": 15495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "14C/20T",
+        "base_clock": "3.5 GHz",
+        "boost_clock": "5.3 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-I5-14600K-14th-Gen-Desktop-Processor-Cores-up-to-5.3-GHz-Collinx-Computer-i.366667598.25250828948?extraParams=%7B%22display_model_id%22%3A166215128461%2C%22model_selection_logic%22%3A3%7D&sp_atk=924507bd-69bd-4964-957c-1847186ec8ac&xptdk=924507bd-69bd-4964-957c-1847186ec8ac",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core Ultra 5 245KF",
+        "brand": "Intel",
+        "model": "Core Ultra 5 245KF",
+        "price": 13995,
+        "price_range": "mid_range",
+        "socket": "LGA 1851",
+        "cores": "14C/20T",
+        "base_clock": "4.2 GHz",
+        "boost_clock": "5.2 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-Ultra-5-245KF-Boxed-Processor-CPU-i.419219203.49600290185?extraParams=%7B%22display_model_id%22%3A310025913015%2C%22model_selection_logic%22%3A3%7D&sp_atk=dbce9cdf-681f-4798-9b49-dd93c445a5cb&xptdk=dbce9cdf-681f-4798-9b49-dd93c445a5cb",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core Ultra 5 245K",
+        "brand": "Intel",
+        "model": "Core Ultra 5 245K",
+        "price": 14495,
+        "price_range": "mid_range",
+        "socket": "LGA 1851",
+        "cores": "14C/20T",
+        "base_clock": "4.2 GHz",
+        "boost_clock": "5.2 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-Ultra-5-245KF-Boxed-Processor-CPU-i.419219203.49600290185?extraParams=%7B%22display_model_id%22%3A310025913015%2C%22model_selection_logic%22%3A3%7D&sp_atk=dbce9cdf-681f-4798-9b49-dd93c445a5cb&xptdk=dbce9cdf-681f-4798-9b49-dd93c445a5cb",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-10700F",
+        "brand": "Intel",
+        "model": "Core i7-10700F",
+        "price": 13995,
+        "price_range": "mid_range",
+        "socket": "LGA 1200",
+        "cores": "8C/16T",
+        "base_clock": "2.9 GHz",
+        "boost_clock": "4.8 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-Core-i7-6700-i7-6700K-6700T-7700-7700K-8700-8700K-9700-9700F-9700K-9700KF-i7-6700-i7-6700K-i7-7700-i7-7700K-i7-8700-i7-8700K-i7-9700-i7-9700K-i7-9700KF-i7-9700F-i7-6700T-CPU-desktop-processor-1151-pin-i.141818198.16113982145?extraParams=%7B%22display_model_id%22%3A152757280827%2C%22model_selection_logic%22%3A3%7D&sp_atk=61a61da5-6aed-4dc9-8169-a1b75362ba37&xptdk=61a61da5-6aed-4dc9-8169-a1b75362ba37",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "brand": "AMD",
+        "model": "Ryzen 7 5800X",
+        "price": 14995,
+        "price_range": "mid_range",
+        "socket": "AM4",
+        "cores": "8C/16T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "4.7 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/-SALE-AMD-Ryzen-7-5800X-Tray-Type-8-Cores-16-Threads-Up-to-4.7GHz-Zen-3-AM4-Desktop-Process-i.1755887769.55156632294?extraParams=%7B%22display_model_id%22%3A415596425507%2C%22model_selection_logic%22%3A3%7D&sp_atk=151cd0e5-6100-42d3-bbd5-73f3ea1cddb4&xptdk=151cd0e5-6100-42d3-bbd5-73f3ea1cddb4",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-11700F",
+        "brand": "Intel",
+        "model": "Core i7-11700F",
+        "price": 14995,
+        "price_range": "mid_range",
+        "socket": "LGA 1200",
+        "cores": "8C/16T",
+        "base_clock": "2.5 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/New-Intel-Core-i7-11700F-i7-11700F-2.5-GHz-Eight-Core-Sixteen-Thread-CPU-Processor-16M-65W-LGA-%E2%99%A6-SDE-i.1733007965.50105254337?extraParams=%7B%22display_model_id%22%3A445481385640%2C%22model_selection_logic%22%3A3%7D&sp_atk=950338d7-8aae-414d-92a4-cff3c2326023&xptdk=950338d7-8aae-414d-92a4-cff3c2326023",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-12700F",
+        "brand": "Intel",
+        "model": "Core i7-12700F",
+        "price": 14995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "12C/20T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7vhttps://shopee.ph/Intel-Core-i7-12700F-12th-Gen-12-Cores-20-Threads-Desktop-Processor-(Tray)-with-Fan-i.124930893.49104791376?extraParams=%7B%22display_model_id%22%3A415441372441%2C%22model_selection_logic%22%3A3%7D&sp_atk=9c0cfaa9-ffd3-436a-9438-def05c6621d7&xptdk=9c0cfaa9-ffd3-436a-9438-def05c6621d7",
+        "link": "https://shopee.ph/Intel-Core-i7-12700F-12th-Gen-12-Cores-20-Threads-Desktop-Processor-(Tray)-with-Fan-i.124930893.49104791376?extraParams=%7B%22display_model_id%22%3A415441372441%2C%22model_selection_logic%22%3A3%7D&sp_atk=9c0cfaa9-ffd3-436a-9438-def05c6621d7&xptdk=9c0cfaa9-ffd3-436a-9438-def05c6621d7",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 5800X3D",
+        "brand": "AMD",
+        "model": "Ryzen 7 5800X3D",
+        "price": 19995,
+        "price_range": "mid_range",
+        "socket": "AM4",
+        "cores": "8C/16T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "4.5 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0730143313797_400x.jpg?v=1678847866",
+        "link": "https://ecommerce.datablitz.com.ph/products/amd-ryzen-7-5800x3d-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 7700",
+        "brand": "AMD",
+        "model": "Ryzen 7 7700",
+        "price": 14995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "5.3 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-7-7700-Desktop-Processor-Build-in-GPU-8-Core-16-Thread-CPU-5NM-L3-32M-Socket-AM5-Processor-i.462016051.27637143179?extraParams=%7B%22display_model_id%22%3A270241288117%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-12700",
+        "brand": "Intel",
+        "model": "Core i7-12700",
+        "price": 15495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "12C/20T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i7-12700-12th-Gen-Desktop-PC-Processor-CPU-LGA-1700-With-25MB-Cache-and-up-to-4.90-GHz-i.462016051.27014313086?extraParams=%7B%22display_model_id%22%3A236887805359%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 8700G",
+        "brand": "AMD",
+        "model": "Ryzen 7 8700G",
+        "price": 17995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "base_clock": "4.2 GHz",
+        "boost_clock": "5.1 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-7-8700G-Desktop-Processor-8-Cores-16-Threads-Up-to-5.1GHz-Radeon-780M-iGPU-AM5-i.89762129.24561735325?extraParams=%7B%22display_model_id%22%3A282437716243%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-12700KF",
+        "brand": "Intel",
+        "model": "Core i7-12700KF",
+        "price": 17995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "12C/20T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/19-118-359-03_400x.jpg?v=1676876036",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-12700f-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-12700K",
+        "brand": "Intel",
+        "model": "Core i7-12700K",
+        "price": 18495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "12C/20T",
+        "base_clock": "3.6 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/19-118-359-03_400x.jpg?v=1676876036",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-12700f-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 7700X",
+        "brand": "AMD",
+        "model": "Ryzen 7 7700X",
+        "price": 16995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "base_clock": "4.5 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-7-7700-Desktop-Processor-Build-in-GPU-8-Core-16-Thread-CPU-5NM-L3-32M-Socket-AM5-Processor-i.462016051.27637143179?extraParams=%7B%22display_model_id%22%3A270241288117%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-13700F",
+        "brand": "Intel",
+        "model": "Core i7-13700F",
+        "price": 16995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "16C/24T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "5.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/strgjhsrtea_400x.jpg?v=1676918679",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-13700f-processor-bx8071513700f",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-14700F",
+        "brand": "Intel",
+        "model": "Core i7-14700F",
+        "price": 17995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "20C/28T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/xfgndfnd_400x.jpg?v=1769675119",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-14700f-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-13700",
+        "brand": "Intel",
+        "model": "Core i7-13700",
+        "price": 17495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "16C/24T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "5.2 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/degawerhgsd_400x.jpg?v=1676918679",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-13700-processor-bx8071513700",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-14700",
+        "brand": "Intel",
+        "model": "Core i7-14700",
+        "price": 18495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "20C/28T",
+        "base_clock": "2.1 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Intel-Core-i7-14700-20-Cores-28-Threads-Up-to-5.4GHz-UHD-770-Graphics-itw-i.89762129.43264501342?extraParams=%7B%22display_model_id%22%3A271195594255%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-13700KF",
+        "brand": "Intel",
+        "model": "Core i7-13700KF",
+        "price": 19995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "16C/24T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/19-118-414-V06_cd452c28-bff5-4040-88ac-4d4dfec25639_400x.jpg?v=1676895300",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-13700kf-13th-gen-3-4ghz-16-core-lga-1700-processor-bx8071513700kf",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 9700X",
+        "brand": "AMD",
+        "model": "Ryzen 7 9700X",
+        "price": 21995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "base_clock": "3.8 GHz",
+        "boost_clock": "5.5 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/xfgnmcxfghmdfgh_400x.jpg?v=1769671036",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-7-9700x-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-14700KF",
+        "brand": "Intel",
+        "model": "Core i7-14700KF",
+        "price": 20995,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "20C/28T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "5.6 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/19-118-468-03_400x.jpg?v=1697683766",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-14700kf-14th-gen-3-4ghz-20-core-lga-1700-processor-bx8071514700kf",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-13700K",
+        "brand": "Intel",
+        "model": "Core i7-13700K",
+        "price": 20495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "16C/24T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/degawerhgsd_400x.jpg?v=1676918679",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i7-13700-processor-bx8071513700",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "brand": "AMD",
+        "model": "Ryzen 7 7800X3D",
+        "price": 24995,
+        "price_range": "mid_range",
+        "socket": "AM5",
+        "cores": "8C/16T",
+        "base_clock": "4.2 GHz",
+        "boost_clock": "5.0 GHz",
+        "tdp": 120,
+        "integrated_graphics": false,
+        "image_url": "AMD Ryzen 7 7800X3D AMD Ryzen 7 7800X3D",
+        "link": "https://shopee.ph/AMD-Ryzen-7-7800X3D-8-Core-16-Thread-Desktop-Processor-without-Fan-(Tray)-i.124930893.42958915411?extraParams=%7B%22display_model_id%22%3A305748006828%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i7-14700K",
+        "brand": "Intel",
+        "model": "Core i7-14700K",
+        "price": 21495,
+        "price_range": "mid_range",
+        "socket": "LGA 1700",
+        "cores": "20C/28T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "5.6 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "Intel Core i7-14700K Intel Core i7-14700K",
+        "link": "https://shopee.ph/Itw-Intel-Core-i7-14700K-33MB-Cache-up-to-5.60Ghz-Desktop-Processor-i.89762129.18994599219?extraParams=%7B%22display_model_id%22%3A232172342506%2C%22model_selection_logic%22%3A3%7D",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core Ultra 7 265KF",
+        "brand": "Intel",
+        "model": "Core Ultra 7 265KF",
+        "price": 19995,
+        "price_range": "mid_range",
+        "socket": "LGA 1851",
+        "cores": "20C/20T",
+        "base_clock": "3.9 GHz",
+        "boost_clock": "5.5 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/tgndfghmndthm_60x.jpg?v=1769678090",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-ultra-7-265f-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core Ultra 7 265K",
+        "brand": "Intel",
+        "model": "Core Ultra 7 265K",
+        "price": 20495,
+        "price_range": "mid_range",
+        "socket": "LGA 1851",
+        "cores": "20C/20T",
+        "base_clock": "3.9 GHz",
+        "boost_clock": "5.5 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/srndtynmtuh_400x.jpg?v=1769674184",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-ultra-7-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 5900X",
+        "brand": "AMD",
+        "model": "Ryzen 9 5900X",
+        "price": 19995,
+        "price_range": "mid_range",
+        "socket": "AM4",
+        "cores": "12C/24T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "4.8 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/wgsegwegw_500x.jpg?v=1678875033",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-5900x-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 7900",
+        "brand": "AMD",
+        "model": "Ryzen 9 7900",
+        "price": 19995,
+        "price_range": "high_end",
+        "socket": "AM5",
+        "cores": "12C/24T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "5.4 GHz",
+        "tdp": 65,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/r9_500x.jpg?v=1760524399",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-7900-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 7900X",
+        "brand": "AMD",
+        "model": "Ryzen 9 7900X",
+        "price": 22995,
+        "price_range": "high_end",
+        "socket": "AM5",
+        "cores": "12C/24T",
+        "base_clock": "4.7 GHz",
+        "boost_clock": "5.6 GHz",
+        "tdp": 170,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fhmghjm_fhgj_500x.jpg?v=1769674881",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-7900x-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "brand": "AMD",
+        "model": "Ryzen 9 5950X",
+        "price": 24995,
+        "price_range": "high_end",
+        "socket": "AM4",
+        "cores": "16C/32T",
+        "base_clock": "3.4 GHz",
+        "boost_clock": "4.9 GHz",
+        "tdp": 105,
+        "integrated_graphics": false,
+        "image_url": "AMD Ryzen 9 5950X AMD Ryzen 9 5950X",
+        "link": "https://www.newegg.com/amd-ryzen-9-5000-series-ryzen-9-5950x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113663?msockid=3a7810124afe686d0f2307194b0f69fb",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-12900K",
+        "brand": "Intel",
+        "model": "Core i9-12900K",
+        "price": 21995,
+        "price_range": "high_end",
+        "socket": "LGA 1700",
+        "cores": "16C/24T",
+        "base_clock": "3.2 GHz",
+        "boost_clock": "5.2 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/I9-12900K-I9-12900K-SRL4H-3.20-up-to-5.20-Ghz-1Six-Core-30M-125W-LGA1700-CPU-processor-i.1269206102.27952889134?extraParams=%7B%22display_model_id%22%3A185175131646%2C%22model_selection_logic%22%3A3%7D&sp_atk=560b4c7f-ddb2-422c-aca8-dd9cb0cb1e75&xptdk=560b4c7f-ddb2-422c-aca8-dd9cb0cb1e75",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 9900X",
+        "brand": "AMD",
+        "model": "Ryzen 9 9900X",
+        "price": 31995,
+        "price_range": "high_end",
+        "socket": "AM5",
+        "cores": "12C/24T",
+        "base_clock": "4.4 GHz",
+        "boost_clock": "5.6 GHz",
+        "tdp": 120,
+        "integrated_graphics": false,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/AMD-Ryzen-9-9900X-12-Core-24-Thread-Zen-5-Desktop-Processor-AM5-No-Cooler-itw-i.89762129.26508611163?extraParams=%7B%22display_model_id%22%3A251429138082%2C%22model_selection_logic%22%3A3%7D&sp_atk=2b856dc7-d7e8-4d39-885c-10136c6cd850&xptdk=2b856dc7-d7e8-4d39-885c-10136c6cd850",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-13900KF",
+        "brand": "Intel",
+        "model": "Core i9-13900KF",
+        "price": 23995,
+        "price_range": "high_end",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.0 GHz",
+        "boost_clock": "5.8 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/19-118-413-V12_500x.jpg?v=1676904493",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-13900kf-13th-gen-3-0ghz-raptor-lake-24-core-lga-1700-processor-bx8071513900kf",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-14900KF",
+        "brand": "Intel",
+        "model": "Core i9-14900KF",
+        "price": 25995,
+        "price_range": "high_end",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.2 GHz",
+        "boost_clock": "6.0 GHz",
+        "tdp": 125,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/19-118-464-03_500x.jpg?v=1697684345",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900kf-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900kf",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-13900K",
+        "brand": "Intel",
+        "model": "Core i9-13900K",
+        "price": 24995,
+        "price_range": "high_end",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.0 GHz",
+        "boost_clock": "5.8 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/dagvsdfgvsz_500x.jpg?v=1676918701",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-13900f-processor-bx8071513900f",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-14900K",
+        "brand": "Intel",
+        "model": "Core i9-14900K",
+        "price": 26995,
+        "price_range": "enthusiast",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.2 GHz",
+        "boost_clock": "6.0 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "Intel Core i9-14900K Intel Core i9-14900K",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core Ultra 9 285K",
+        "brand": "Intel",
+        "model": "Core Ultra 9 285K",
+        "price": 24995,
+        "price_range": "enthusiast",
+        "socket": "LGA 1851",
+        "cores": "24C/24T",
+        "base_clock": "3.7 GHz",
+        "boost_clock": "5.7 GHz",
+        "tdp": 125,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/sfgndh-nd_500x.jpg?v=1769675638",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-ultra-9-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "brand": "AMD",
+        "model": "Ryzen 9 7950X",
+        "price": 29995,
+        "price_range": "enthusiast",
+        "socket": "AM5",
+        "cores": "16C/32T",
+        "base_clock": "4.5 GHz",
+        "boost_clock": "5.7 GHz",
+        "tdp": 170,
+        "integrated_graphics": false,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fghmghmfg_500x.jpg?v=1769674966",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-7950x-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-13900KS",
+        "brand": "Intel",
+        "model": "Core i9-13900KS",
+        "price": 27995,
+        "price_range": "enthusiast",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.2 GHz",
+        "boost_clock": "6.0 GHz",
+        "tdp": 150,
+        "integrated_graphics": true,
+        "image_url": "https://cdn.shopify.com/s/files/1/0355/8296/7943/products/i9ks1_360x.jpg?v=1769675729",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-13900ks-processor-bx8071513900ks",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "Intel Core i9-14900KS",
+        "brand": "Intel",
+        "model": "Core i9-14900KS",
+        "price": 29995,
+        "price_range": "enthusiast",
+        "socket": "LGA 1700",
+        "cores": "24C/32T",
+        "base_clock": "3.2 GHz",
+        "boost_clock": "6.2 GHz",
+        "tdp": 150,
+        "integrated_graphics": true,
+        "image_url": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900ks-processor",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-core-i9-14900ks-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 9950X",
+        "brand": "AMD",
+        "model": "Ryzen 9 9950X",
+        "price": 32500,
+        "price_range": "enthusiast",
+        "socket": "AM5",
+        "cores": "16C/32T",
+        "base_clock": "4.3 GHz",
+        "boost_clock": "5.7 GHz",
+        "tdp": 170,
+        "integrated_graphics": false,
+        "image_url": "https://cdn.shopify.com/s/files/1/0355/8296/7943/files/BFDFBDBDFFBDFD_360x.jpg?v=1769674714",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-9950x-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    },
+    {
+        "name": "AMD Ryzen 9 7950X3D",
+        "brand": "AMD",
+        "model": "Ryzen 9 7950X3D",
+        "price": 34500,
+        "price_range": "enthusiast",
+        "socket": "AM5",
+        "cores": "16C/32T",
+        "base_clock": "4.2 GHz",
+        "boost_clock": "5.7 GHz",
+        "tdp": 120,
+        "integrated_graphics": false,
+        "image_url": "https://cdn.shopify.com/s/files/1/0355/8296/7943/files/dfgnxfhgmdghm_360x.jpg?v=1769674634",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/amd-ryzen-9-7950x3d-processor",
+        "pricing_range": {
+            "min": 351.99,
+            "max": 2650000
+        }
+    }
+]

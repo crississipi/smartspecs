@@ -129,9 +129,9 @@ function getThread($conn, $userId, $threadId) {
             'created_at' => $row['created_at']
         ];
         
-        // Parse JSON if it's a recommendation
-        if (isset($row['data_type']) && $row['data_type'] === 'recommendation') {
-            $messageData['data_type'] = 'recommendation';
+        // Parse JSON for structured recommendation/upgrade payloads
+        if (isset($row['data_type']) && in_array($row['data_type'], ['recommendation', 'upgrade_suggestion'], true)) {
+            $messageData['data_type'] = $row['data_type'];
             $messageData['data'] = json_decode($row['content'], true);
         } else {
             $messageData['data_type'] = 'text';

@@ -1,0 +1,1685 @@
+[
+    {
+        "name": "Zotac Gaming GeForce GT 1030 2GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce GT 1030 2GB",
+        "chipset": "GT 1030",
+        "price": 4995,
+        "price_range": "budget",
+        "vram": "2GB GDDR5",
+        "tdp": 30,
+        "length_mm": 145,
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/AG7R_131971754961663453jUcAN1tlUV.jpg",
+        "link": "https://www.newegg.com/zotac-zt-p10300a-10l-geforce-gt-1030-2gb-graphics-card-single-fan/p/1FT-000M-001G5",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce GT 1030 Low Profile 2G",
+        "brand": "Gigabyte",
+        "model": "GeForce GT 1030 Low Profile 2G",
+        "chipset": "GT 1030",
+        "price": 4795,
+        "price_range": "budget",
+        "vram": "2GB GDDR5",
+        "tdp": 30,
+        "length_mm": 150,
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-932-060-V01.jpg",
+        "link": "https://www.newegg.com/gigabyte-gv-n1030d4-2gl-geforce-gt-1030-2gb-graphics-card-single-fan/p/N82E16814932060",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce GT 1030 Aero ITX 2G OC",
+        "brand": "MSI",
+        "model": "GeForce GT 1030 Aero ITX 2G OC",
+        "chipset": "GT 1030",
+        "price": 4895,
+        "price_range": "budget",
+        "vram": "2GB GDDR5",
+        "tdp": 30,
+        "length_mm": 150,
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-137-335-V05.jpg",
+        "link": "https://www.newegg.com/msi-geforce-gt-1030-aero-itx-2gd4-oc-2gb-graphics-card-single-fan/p/N82E16814137335",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS GeForce GT 1030 2GB OC",
+        "brand": "ASUS",
+        "model": "GeForce GT 1030 2GB OC",
+        "chipset": "GT 1030",
+        "price": 5295,
+        "price_range": "budget",
+        "vram": "2GB GDDR5",
+        "tdp": 30,
+        "length_mm": 170,
+        "image_url": "https://c1.neweggimages.com/productimage/nb300/14-126-203-V05.jpg",
+        "link": "https://www.newegg.com/global/ph-en/asus-gt1030-2g-csm-geforce-gt-1030-2gb-graphics-card-fanless/p/N82E16814126203",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 6400 Aero ITX 4G",
+        "brand": "MSI",
+        "model": "Radeon RX 6400 Aero ITX 4G",
+        "chipset": "RX 6400",
+        "price": 8495,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 53,
+        "length_mm": 172,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/MSI-Aero-ITX-Radeon-RX-6400-Single-Fan-Graphics-Card-Rx6400-i.50916350.19243113098",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASRock Radeon RX 6400 Challenger ITX 4GB",
+        "brand": "ASRock",
+        "model": "Radeon RX 6400 Challenger ITX 4GB",
+        "chipset": "RX 6400",
+        "price": 7995,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 53,
+        "length_mm": 180,
+        "image_url": "https://c1.neweggimages.com/productimage/nb1280/14-930-068-01.png",
+        "link": "https://www.newegg.com/global/ph-en/asrock-challenger-rx6400-cli-4g-radeon-rx-6400-4gb-graphics-card-single-fan/p/N82E16814930068?&msockid=0e1b2a52a20e62f032d83d4ba33163e7",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster SWFT 105 Radeon RX 6400 4GB",
+        "brand": "XFX",
+        "model": "Speedster SWFT 105 Radeon RX 6400 4GB",
+        "chipset": "RX 6400",
+        "price": 7895,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 53,
+        "length_mm": 182,
+        "image_url": "https://cdn.prod.website-files.com/5d1911406ad3cbdb9924a753/62582695bc477035c251ade3_XFX%206400%20SWFT105%20card%2Bbox%20pic-p-1600.jpeg",
+        "link": "https://www.xfxforce.com/shop/xfx-speedster-swft105-radeon-rx-6400",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Palit GeForce GTX 1650 GamingPro 4GB",
+        "brand": "Palit",
+        "model": "GeForce GTX 1650 GamingPro 4GB",
+        "chipset": "GTX 1650",
+        "price": 8495,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 75,
+        "length_mm": 170,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/p03675_bigimage_6965efc21ed4d85a_500x.jpg?v=1676917054",
+        "link": "https://ecommerce.datablitz.com.ph/products/palit-geforce-gtx-1650-gamingpro-4gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce GTX 1650 OC 4GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce GTX 1650 OC 4GB",
+        "chipset": "GTX 1650",
+        "price": 7995,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 75,
+        "length_mm": 160,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/zt-t16520f-10l-image02_500x.jpg?v=1676878807",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-gtx-1650-oc-4gb-gddr6-graphics-card-zt-t16520f-10l",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce GTX 1650 D6 Ventus XS OC",
+        "brand": "MSI",
+        "model": "GeForce GTX 1650 D6 Ventus XS OC",
+        "chipset": "GTX 1650",
+        "price": 8695,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 75,
+        "length_mm": 170,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1024_36_37388ae1-4d36-496a-9559-d65e464775a7_500x.jpg?v=1676878390",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-gtx-1650-ventus-xs-4g-ocv1-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce GTX 1650 D6 Eagle OC 4G",
+        "brand": "Gigabyte",
+        "model": "GeForce GTX 1650 D6 Eagle OC 4G",
+        "chipset": "GTX 1650",
+        "price": 9195,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 75,
+        "length_mm": 200,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/500_15_60x.jpg?v=1676877388",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-geforce-gtx-1650-oc-4gb-gddr5-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Phoenix GeForce GTX 1650 OC 4GB",
+        "brand": "ASUS",
+        "model": "Phoenix GeForce GTX 1650 OC 4GB",
+        "chipset": "GTX 1650",
+        "price": 8650,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 75,
+        "length_mm": 180,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fwebp-2023-07-31T133129.449_60x.jpg?v=1690783480",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-phoenix-geforce-gtx-1650-oc-4gb-gddr6-v2-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Pulse Radeon RX 6500 XT 4GB",
+        "brand": "Sapphire",
+        "model": "Pulse Radeon RX 6500 XT 4GB",
+        "chipset": "RX 6500 XT",
+        "price": 8500,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 107,
+        "length_mm": 196,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0840777089682_60x.jpg?v=1753089967",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/sapphire-pulse-amd-radeon-rx-7700-xt-gaming-12gb-gddr6-dual-hdmi-dual-dp-lite-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual Radeon RX 6500 XT OC 4GB",
+        "brand": "ASUS",
+        "model": "Dual Radeon RX 6500 XT OC 4GB",
+        "chipset": "RX 6500 XT",
+        "price": 8500,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 107,
+        "length_mm": 200,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fwebp_bfb237ad-4063-409b-b474-a44d9f764e46_500x.jpg?v=1747545214",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-dual-radeon-rx-6500-xt-v2-oc-4gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 6500 XT Mech 2X 4G OC",
+        "brand": "MSI",
+        "model": "Radeon RX 6500 XT Mech 2X 4G OC",
+        "chipset": "RX 6500 XT",
+        "price": 8500,
+        "price_range": "budget",
+        "vram": "4GB GDDR6",
+        "tdp": 107,
+        "length_mm": 235,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024-2023-07-31T153818.742_500x.jpg?v=1690789338",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-radeon-rx-6500-xt-mech-2x-4gb-oc-pcie-4-0-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Intel Arc A380 6GB",
+        "brand": "Intel",
+        "model": "Arc A380 6GB",
+        "chipset": "Arc A380",
+        "price": 8000,
+        "price_range": "budget",
+        "vram": "6GB GDDR6",
+        "tdp": 75,
+        "length_mm": 200,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo33tpgadq825",
+        "link": "https://shopee.ph/Intel-3-E-Arc-A380-Graphics-Card-6Gb-Gddr6-Single-Fan-Desop-GPU-PCI-Express-i.1737724405.56906363091?extraParams=%7B%22display_model_id%22%3A345575086073%2C%22model_selection_logic%22%3A3%7D&sp_atk=a71c4f1e-ac9e-44fa-91df-71f80f27eb53&xptdk=a71c4f1e-ac9e-44fa-91df-71f80f27eb53",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PNY GeForce RTX 3060 12GB Uprising Dual Fan",
+        "brand": "PNY",
+        "model": "GeForce RTX 3060 12GB Uprising Dual Fan",
+        "chipset": "RTX 3060",
+        "price": 17000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6",
+        "tdp": 170,
+        "length_mm": 240,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/PNY-GeForce-RTX-3060-12GB-VERTO-Nvidia-Dual-Fan-GPU-i.313325622.16195482259?extraParams=%7B%22display_model_id%22%3A108967404146%2C%22model_selection_logic%22%3A3%7D&sp_atk=bc6f0d2f-0d4f-4d93-97f8-2a0ae8d3b5e2&xptdk=bc6f0d2f-0d4f-4d93-97f8-2a0ae8d3b5e2",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Palit GeForce RTX 3060 Dual 12GB",
+        "brand": "Palit",
+        "model": "GeForce RTX 3060 Dual 12GB",
+        "chipset": "RTX 3060",
+        "price": 17000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6",
+        "tdp": 170,
+        "length_mm": 245,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/4710562245400_1600x.jpg?v=1753610805",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/palit-geforce-rtx-5050-dual-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 3060 Twin Edge OC 12GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 3060 Twin Edge OC 12GB",
+        "chipset": "RTX 3060",
+        "price": 17000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR6",
+        "tdp": 170,
+        "length_mm": 230,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0810012085687_500x.jpg?v=1754201775",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-5070-twin-edge-oc-12gb-gddr7-graphics-card-zt-b50700h-10p",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 3060 Ventus 2X 12G OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 3060 Ventus 2X 12G OC",
+        "chipset": "RTX 3060",
+        "price": 17000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6",
+        "tdp": 170,
+        "length_mm": 235,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/sdvvdsvzzvxzxvvzx_500x.jpg?v=1744598911",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-3050-ventus-2x-6gb-oc-gddr6-graphics-card-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 3060 Gaming OC 12G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 3060 Gaming OC 12G",
+        "chipset": "RTX 3060",
+        "price": 17000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6",
+        "tdp": 170,
+        "length_mm": 282,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/2_4070f035-6f17-4145-8787-f4e3da3464c4_500x.png?v=1676877390",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-geforce-rtx-3060-gaming-oc-12g-v2-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Intel Arc A750 8GB",
+        "brand": "Intel",
+        "model": "Arc A750 8GB",
+        "chipset": "Arc A750",
+        "price": 14000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 225,
+        "length_mm": 267,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/14-883-002-07_500x.jpg?v=1678761516",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/intel-arc-a750-limited-edition-8gb-pcie-4-0-graphics-card-21p02j00ba",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Intel Arc B580 12GB",
+        "brand": "Intel",
+        "model": "Arc B580 12GB",
+        "chipset": "Arc B580",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6",
+        "tdp": 150,
+        "length_mm": 270,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/4_c8f9fbc9-2464-4fbc-8c66-8c5da38d5aef_500x.jpg?v=1737772780",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-intel-arc-b580-steel-legend-12gb-oc-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PowerColor Fighter Radeon RX 7600 8GB",
+        "brand": "PowerColor",
+        "model": "Fighter Radeon RX 7600 8GB",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 258,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/PowerColor-AMD-Radeon-RX-7600-8Gb-Fighter-Graphics-Card-GPU-Rx7600-i.50916350.22055747204?extraParams=%7B%22display_model_id%22%3A157028263509%2C%22model_selection_logic%22%3A3%7D&sp_atk=723d4bc1-f07a-42bd-aefc-67f4aa439860&xptdk=723d4bc1-f07a-42bd-aefc-67f4aa439860",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASRock Radeon RX 7600 Challenger 8G OC",
+        "brand": "ASRock",
+        "model": "Radeon RX 7600 Challenger 8G OC",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 261,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/4710483943201_500x.jpg?v=1740898086",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-amd-radeon-rx-7600-steel-legend-8gb-oc-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 7600 Mech 2X 8G",
+        "brand": "MSI",
+        "model": "Radeon RX 7600 Mech 2X 8G",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 242,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024-2023-07-31T153818.742_500x.jpg?v=1690789338",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-radeon-rx-6500-xt-mech-2x-4gb-oc-pcie-4-0-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster SWFT 210 Radeon RX 7600 8GB",
+        "brand": "XFX",
+        "model": "Speedster SWFT 210 Radeon RX 7600 8GB",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 240,
+        "image_url": "https://cdn.prod.website-files.com/5d1911406ad3cbdb9924a753/646ce32996ab7d830295a051_XFX%207600%20SWFT210%20%20card%2Bbox-p-1600.jpg",
+        "link": "https://www.xfxforce.com/shop/xfx-speedster-swft-210-amd-radeon-tm-rx-7600-core-edition",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Pulse Radeon RX 7600 8GB",
+        "brand": "Sapphire",
+        "model": "Pulse Radeon RX 7600 8GB",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 260,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/rtgnsryns_500x.jpg?v=1771841546",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/sapphire-pulse-amd-radeon-rx-7600-gaming-oc-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte Radeon RX 7600 Gaming OC 8G",
+        "brand": "Gigabyte",
+        "model": "Radeon RX 7600 Gaming OC 8G",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 261,
+        "image_url": "https://down-ph.img.susercontent.com/file/ph-11134258-81ztq-meo340mgjg1zb7",
+        "link": "https://shopee.ph/Gigabyte-AMD-Radeon-RX-7600-GAMING-OC-8GB-GDDR6-Graphics-Card-i.1660552298.47150304060?extraParams=%7B%22display_model_id%22%3A277097984252%2C%22model_selection_logic%22%3A3%7D&sp_atk=31e585c8-97a6-4e00-b00b-0049d99cf666&xptdk=31e585c8-97a6-4e00-b00b-0049d99cf666",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual Radeon RX 7600 OC 8GB",
+        "brand": "ASUS",
+        "model": "Dual Radeon RX 7600 OC 8GB",
+        "chipset": "RX 7600",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 165,
+        "length_mm": 267,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fwebp-2024-03-04T094458.788_500x.jpg?v=1709516874",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-dual-amd-radeon-rx-7600-v2-oc-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PNY GeForce RTX 4060 Verto Dual Fan OC 8GB",
+        "brand": "PNY",
+        "model": "GeForce RTX 4060 Verto Dual Fan OC 8GB",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 240,
+        "image_url": "https://d2vfia6k6wrouk.cloudfront.net/productimages/4e267fd7-1ce7-463f-aacc-b0c0012f4f79/images/xlr8-rtx-4060-8gb-oc-dual-fan-ra-logo.png",
+        "link": "https://www.pny.com/geforce-rtx-4060-8gb-verto-dual-fan-oc",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Palit GeForce RTX 4060 Dual 8GB",
+        "brand": "Palit",
+        "model": "GeForce RTX 4060 Dual 8GB",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 245,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/DF57YY5R_500x.jpg?v=1689038215",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/palit-geforce-rtx-4060-dual-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 4060 Twin Edge OC 8GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 4060 Twin Edge OC 8GB",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 224,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0810012083836_ffae834b-8381-44cf-b517-0ef5c844f25d_500x.jpg?v=1685072061",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-oc-gddr6-graphics-card-spider-man-across-the-spider-verse-bundle-zt-d40610h-10smp",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 4060 Ventus 2X Black 8G OC",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 230,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/s5g4sa56g4sd_60x.jpg?v=1760255021",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-4060-ti-ventus-2x-black-8gb-oc-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Windforce OC 8G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4060 Windforce OC 8G",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 261,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bfdbdffd_bb0759fb-e37a-43a5-8170-c1d275414dee_500x.jpg?v=1713611474",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-geforce-rtx-4060-ti-windforce-oc-edition-8g-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 4060 OC 8GB",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 4060 OC 8GB",
+        "chipset": "RTX 4060",
+        "price": 19000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 115,
+        "length_mm": 227,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/hmghmhgmghmhg_500x.jpg?v=1747544932",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-dual-geforce-rtx-4060-evo-oc-edition-8gb-gddr6-graphics-card-white",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 3060 Ti Ventus 2X OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 3060 Ti Ventus 2X OC",
+        "chipset": "RTX 3060 Ti",
+        "price": 24000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 200,
+        "length_mm": 235,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/1024-2023-01-24T112142.898_500x.jpg?v=1676920622",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-3060-ti-ventus-2x-8g-ocv1-lhr-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster SWFT 210 Radeon RX 7600 XT 16GB",
+        "brand": "XFX",
+        "model": "Speedster SWFT 210 Radeon RX 7600 XT 16GB",
+        "chipset": "RX 7600 XT",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 150,
+        "length_mm": 240,
+        "image_url": "https://cdn.prod.website-files.com/5d1911406ad3cbdb9924a753/65afedd2a9ae56c3a663685f_boxcard-p-1600.jpg",
+        "link": "https://www.xfxforce.com/shop/xfx-speedster-swft-210-amd-radeon-tm-rx-7600-xt",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 7600 XT Mech 2X 16G OC",
+        "brand": "MSI",
+        "model": "Radeon RX 7600 XT Mech 2X 16G OC",
+        "chipset": "RX 7600 XT",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 150,
+        "length_mm": 242,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fdsbdfgffdb_500x.jpg?v=1732263436",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asrock-amd-radeon-rx7600-challenger-8gb-oc-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Pulse Radeon RX 7600 XT 16GB",
+        "brand": "Sapphire",
+        "model": "Pulse Radeon RX 7600 XT 16GB",
+        "chipset": "RX 7600 XT",
+        "price": 16000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 150,
+        "length_mm": 260,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/rtgnsryns_500x.jpg?v=1771841546",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/sapphire-pulse-amd-radeon-rx-7600-gaming-oc-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Palit GeForce RTX 4060 Ti Dual 8GB",
+        "brand": "Palit",
+        "model": "GeForce RTX 4060 Ti Dual 8GB",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 245,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/p04838_bigimage_103064463b7508ced_500x.png?v=1685355134",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/palit-geforce-rtx-4060-ti-dual-8gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 4060 Ti Twin Edge OC 8GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 4060 Ti Twin Edge OC 8GB",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 224,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/0810012083836_ffae834b-8381-44cf-b517-0ef5c844f25d_500x.jpg?v=1685072061",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-4060-ti-8gb-twin-edge-oc-gddr6-graphics-card-spider-man-across-the-spider-verse-bundle-zt-d40610h-10smp",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gainward GeForce RTX 4060 Ti Ghost 8GB",
+        "brand": "Gainward",
+        "model": "GeForce RTX 4060 Ti Ghost 8GB",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 242,
+        "image_url": "https://www.gainward.com/main/product/vga/pro/p01187/p01187_pic2_1926487ff3522b7c.png",
+        "link": "https://www.gainward.com/main/vgapro.php?id=1187&lang=en",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ti Ventus 2X Black 8G OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 4060 Ti Ventus 2X Black 8G OC",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 230,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/s5g4sa56g4sd_500x.jpg?v=1760255021",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-4060-ti-ventus-2x-black-8gb-oc-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4060 Ti Windforce OC 8G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4060 Ti Windforce OC 8G",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 261,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/bfdbdffd_bb0759fb-e37a-43a5-8170-c1d275414dee_500x.jpg?v=1713611474",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-geforce-rtx-4060-ti-windforce-oc-edition-8g-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 4060 Ti OC 8GB",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 4060 Ti OC 8GB",
+        "chipset": "RTX 4060 Ti",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "8GB GDDR6",
+        "tdp": 160,
+        "length_mm": 304,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/hmghmhgmghmhg_500x.jpg?v=1747544932",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-dual-geforce-rtx-4060-evo-oc-edition-8gb-gddr6-graphics-card-white",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4060 Ti 16G Ventus 2X Black OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 4060 Ti 16G Ventus 2X Black OC",
+        "chipset": "RTX 4060 Ti 16GB",
+        "price": 26000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 165,
+        "length_mm": 230,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/1024-2023-09-01T130008.946_500x.jpg?v=1693544745",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-4060-ti-gaming-x-16gb-gddr6-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 4060 Ti 16GB OC",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 4060 Ti 16GB OC",
+        "chipset": "RTX 4060 Ti 16GB",
+        "price": 29000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 165,
+        "length_mm": 304,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/fwebp-2023-08-22T120947.078_500x.jpg?v=1738220771",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-dual-geforce-rtx-4060-ti-oc-16gb-gddr6-graphics-card-black",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Palit GeForce RTX 4070 Dual 12GB",
+        "brand": "Palit",
+        "model": "GeForce RTX 4070 Dual 12GB",
+        "chipset": "RTX 4070",
+        "price": 33000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 200,
+        "length_mm": 266,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/4710562243888_500x.jpg?v=1681541002",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/palit-geforce-rtx-4070-dual-12gb-gddr6x-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 4070 Twin Edge OC 12GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 4070 Twin Edge OC 12GB",
+        "chipset": "RTX 4070",
+        "price": 33000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 200,
+        "length_mm": 267,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/zt-d40700h-10m-image02_500x.jpg?v=1681348860",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-4070-twin-edge-oc-12gb-gddr6x-graphics-card-zt-d40700h-10m",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASRock Radeon RX 7800 XT Phantom Gaming 16G OC",
+        "brand": "ASRock",
+        "model": "Radeon RX 7800 XT Phantom Gaming 16G OC",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 306,
+        "image_url": "https://m.media-amazon.com/images/I/616u0NhF5iL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASRock-Challenger-RX7800XT-16GO-GDDR6-90-GA4SZZ-00UANF/dp/B0CHK3929K/ref=sr_1_1?crid=2AIXHLVD7XBUL&dib=eyJ2IjoiMSJ9.ufiNmouwPFwMUb-N1-fI5yFKyd3OEEndJqO2Tc5HBPnxadIkNna-X4xCd8a0iR-xCqHDxDv6mR0fFYPVwxsGTu-PnaFaqiAlaLcSjFpdfESaXjF_7u_aGKRHpQOGpBcsV0m8r-Noi1kSiNOG42hgz_FDTibQ0N4wTIYT2kV3Vx0EQnPDnUP13lrJKY99tLVIjwODxdAxD-LY5EEES0Nr120ThwFwFXqar01WoJelNFk.1Sc4qCCbCa_fGHSHoAQNj-flDckeibbkkc5GJuB-CDk&dib_tag=se&keywords=ASRock+Radeon+RX+7800+XT+Phantom+Gaming+16G+OC+ASRock+Radeon+RX+7800+XT+Phantom+Gaming+16G+OC&nsdOptOutParam=true&qid=1773318796&sprefix=asrock+radeon+rx+7800+xt+phantom+gaming+16g+oc+asrock+radeon+rx+7800+xt+phantom+gaming+16g+oc%2Caps%2C737&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Pulse Radeon RX 7800 XT 16GB",
+        "brand": "Sapphire",
+        "model": "Pulse Radeon RX 7800 XT 16GB",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 267,
+        "image_url": "https://m.media-amazon.com/images/I/81VpOvD9wJL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Sapphire-11330-02-20G-Radeon-Gaming-Graphics/dp/B0CFWM1LNH/ref=sr_1_1?crid=35ABA459SCWDB&dib=eyJ2IjoiMSJ9.701c7mtoIk-SsfAjvkIH5MbvmSpb9TmAU0iJYeGfs5kD2xV6uQZH0cDwddNFZBl02rUx3W_GvuhNv-N7WhTIQmsf6VyGSCqk3tHPEKN4_qhEIUI4a13xfhyjP1eMZzjFl5a8xDIP5BE0hXL4iX8sKULnrsPEsglFZmA2yqan8OEccmdkk8YjkIQo6UJZq2HgrgU4ujVLST55pH3bVAXQOOqvlvB_fEDzay2Sf4YIPao.tlXP6X9YQeo2fTqF8ZpNSxA4TPKTApaTS-cLeCj5AY4&dib_tag=se&keywords=Sapphire+Pulse+Radeon+RX+7800+XT+16GB+Sapphire+Pulse+Radeon+RX+7800+XT+16GB&nsdOptOutParam=true&qid=1773318819&sprefix=sapphire+pulse+radeon+rx+7800+xt+16gb+sapphire+pulse+radeon+rx+7800+xt+16gb%2Caps%2C361&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ventus 2X 12G OC",
+        "brand": "MSI",
+        "model": "GeForce RTX 4070 Ventus 2X 12G OC",
+        "chipset": "RTX 4070",
+        "price": 33000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 200,
+        "length_mm": 242,
+        "image_url": "https://m.media-amazon.com/images/I/51e7Cg9xDeL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com/MSI-GeForce-VENTUS-Gaming-Graphics/dp/B0CS3YQZQH/ref=sr_1_1?crid=1KLGH1PJUOIN6&dib=eyJ2IjoiMSJ9.FBBofaR4_PI4kTelkHIJQ7Zs-hgC2dgaRjGiLdHTOUFx34CJw_6qmwLtrvMo6loIovPyJ6ecYhhjuQrN9hs98P3Wqc-8CJVNjGilHv85UE53skOcPLDwOrcYOY8yx1I_dEPMA01zW_t0OtTS5rfHRhZiSOH0WNQmCc6Pp3IiH18jS9SCeNMARfzSTn-YGJ3A2Yp26TCH7Bul_k_DSnt7_KeJoxGHotZpzSWhcdDci3A.Nlgj0l8TvtpLz8LsGCok9yX9xWxjkvkgwx-2HvBvHJ0&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B4070%2BVentus%2B2X%2B12G%2BOC%2BMSI%2BGeForce%2BRTX%2B4070%2BVentus%2B2X%2B12G%2BOC&nsdOptOutParam=true&qid=1773318842&sprefix=sapphire%2Bpulse%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Bsapphire%2Bpulse%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Caps%2C384&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster SWFT 319 Radeon RX 7800 XT 16GB",
+        "brand": "XFX",
+        "model": "Speedster SWFT 319 Radeon RX 7800 XT 16GB",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 340,
+        "image_url": "XFX Speedster SWFT 319 Radeon RX 7800 XT 16GB XFX Speedster SWFT 319 Radeon RX 7800 XT 16GB",
+        "link": "https://www.amazon.com/PowerColor-Twin-Radeon-7800-GDDR6/dp/B0DQF23NLJ/ref=sr_1_1?crid=BJZ4PINCVN5T&dib=eyJ2IjoiMSJ9.7_w2tpbA5aSnzkJ3vB3zZGhFTe7q7LqNdeU7UNfV5E3O17x6LWAS3Tj5e5c_CsjfHg-uD_WpYpU-kiZnhoyohP2JW2iMK2D5aAA0cOOqKkMKxqBvL5ygs5T2cIygZFHj0mKbtueSoCmZc5v08jfIngVzVRc0wgCdn0Bl7X_dtR_U9lrCKj-dnZ_ApvFZPbYuYMW10dr6dCiyds7Z5FocuQ1AQFHOAFJIV8SYCBfFmvs.cGDRlU1Ntjnqq7P4ptGSLQaZmVPxxLv3s1h2UwlIPa4&dib_tag=se&keywords=XFX%2BSpeedster%2BSWFT%2B319%2BRadeon%2BRX%2B7800%2BXT%2B16GB%2BXFX%2BSpeedster%2BSWFT%2B319%2BRadeon%2BRX%2B7800%2BXT%2B16GB&nsdOptOutParam=true&qid=1773318859&sprefix=xfx%2Bspeedster%2Bswft%2B319%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Bxfx%2Bspeedster%2Bswft%2B319%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Caps%2C362&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Windforce OC 12G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4070 Windforce OC 12G",
+        "chipset": "RTX 4070",
+        "price": 33000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 200,
+        "length_mm": 281,
+        "image_url": "https://m.media-amazon.com/images/I/71liIYrRmkL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Gigabyte-GeForce-WINDFORCE-Graphics-GV-N4070WF3OC-12GD/dp/B0BZHCQ6PF/ref=sr_1_1?crid=VTY2GDJL1KJC&dib=eyJ2IjoiMSJ9.hctjG1k9mLxWAaWaqffCU_tEOLwEVryyh7pjbVn3Db_qexeRfZlCDgpQ61qFAV72DxX0rKDUXGjcLeS9N0sc032ERc8G7riFdFsPFAfbMJ5n0ehdoZuy-tFaRPfz7F6fOvc7rz9e4h_9pwd3YuO5FTejkAmqlwBOvV7BYL7XOf3tfXuGc3LtcW2BLDKYPlNXzn5McALmhtXJoRoIcx7vhNtDKkNb8Z5Mv0M9KEqhHoQ.GwLovtVvJWPRcPQJQaMgtRrsEZaxPzDIP8QT4NKeQto&dib_tag=se&keywords=Gigabyte%2BGeForce%2BRTX%2B4070%2BWindforce%2BOC%2B12G%2BGigabyte%2BGeForce%2BRTX%2B4070%2BWindforce%2BOC%2B12G&nsdOptOutParam=true&qid=1773319028&sprefix=xfx%2Bspeedster%2Bswgigabyte%2Bgeforce%2Brtx%2B4070%2Bwindforce%2Boc%2B12g%2Bgigabyte%2Bgeforce%2Brtx%2B4070%2Bwindforce%2Boc%2B12gft%2B319%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Bxfx%2Bspeedster%2Bswft%2B319%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Caps%2C354&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 7800 XT Gaming Trio Classic 16G",
+        "brand": "MSI",
+        "model": "Radeon RX 7800 XT Gaming Trio Classic 16G",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 307,
+        "image_url": "https://m.media-amazon.com/images/I/71GKfo5qtaL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-R78XTGAMING-OC-16GD/dp/B0CGHQ32S2/ref=sr_1_1?crid=2TNFLMD1T6K49&dib=eyJ2IjoiMSJ9.Ab4w-itdxg200LK9oil8VMlfVBjAB1jiDWP6P5GY_h6-T5qwhV_jjN5BP71Lji_xx8g79Q0qe8l2CnQIdigCpccaSQPAz1v5cg6TNZLx-o_8Vvz19AzOv2TRtdexjUtOwfULgw9-ylLl8WR09HymAVJiqCaIA2ucizhMN17gl3a0eR4dchc2SffgfaHNQp2TGzKsV35ocSfeqYPGwt_0p6aYD_tvMlfZaBU6pj2acfw.hfKHJdRxb1Qc6rPKjSYNbMYV9bVlK5T1iipd83dPQPA&dib_tag=se&keywords=MSI+Radeon+RX+7800+XT+Gaming+Trio+Classic+16G+MSI+Radeon+RX+7800+XT+Gaming+Trio+Classic+16G&nsdOptOutParam=true&qid=1773319046&sprefix=gigabyte+geformsi+radeon+rx+7800+xt+gaming+trio+classic+16g+msi+radeon+rx+7800+xt+gaming+trio+classic+16gce+rtx+4070+windforce+oc+12g+gigabyte+geforce+rtx+4070+windforce+oc+12g%2Caps%2C449&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 4070 OC 12GB",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 4070 OC 12GB",
+        "chipset": "RTX 4070",
+        "price": 33000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 200,
+        "length_mm": 304,
+        "image_url": "ASUS Dual GeForce RTX 4070 OC 12GB ASUS Dual GeForce RTX 4070 OC 12GB",
+        "link": "https://www.amazon.com/ASUS-DisplayPort-2-5-slot-Axial-tech-technology/dp/B0CVCKX2GD/ref=sr_1_1?crid=YZA7IX6RDHHQ&dib=eyJ2IjoiMSJ9.nCYk538vjvPIrMwllYmMENAxUCDT15GOsWv14rlMHF5HMXURhFnf8Bs00Gsz2r_zuQWqySAoTo16TdNizaPu6QKLSyRswNJyTEadUyaL5eEYbhjMigkz6xdoIS-LfWVDUQ5W0Vfe5MbdOaKTWuTEYSS2pP4POUZYvpT8OeVKAmEZ5g-gPofb7uRJgiWqGESlsR-KfYFQu7Lk9yawueH5e3Ka8iTSsNivvsLEZFrO9Ag.j8BHd0_QAmWiF8zfbVzEdCbX_PntUoHy0G4Ep8xn6mk&dib_tag=se&keywords=ASUS%2BDual%2BGeForce%2BRTX%2B4070%2BOC%2B12GB%2BASUS%2BDual%2BGeForce%2BRTX%2B4070%2BOC%2B12GB&nsdOptOutParam=true&qid=1773319062&sprefix=msi%2Bradeon%2Brx%2B7800%2Bxt%2Bgaming%2Btrio%2Bclassic%2B16g%2Bmsi%2Bradeon%2Brx%2B7800%2Bxt%2Bgaming%2Btrio%2Bclassic%2B16g%2Caps%2C412&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte Radeon RX 7800 XT Gaming OC 16G",
+        "brand": "Gigabyte",
+        "model": "Radeon RX 7800 XT Gaming OC 16G",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 302,
+        "image_url": "Gigabyte Radeon RX 7800 XT Gaming OC 16G Gigabyte Radeon RX 7800 XT Gaming OC 16G",
+        "link": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-R78XTGAMING-OC-16GD/dp/B0CGHQ32S2/ref=sr_1_1?crid=2O2OA393MXKEQ&dib=eyJ2IjoiMSJ9.SIlK7Rpj1lHJn3VDKu2BKjj94eqCF7_sSTyJqvm7c6Xs9l9WSG6dXhdjarzfUufKWfDV-hAv8PTHHNJ3xYX5MNLDfXl4ZMyKctNQhxiR_lZyuUUZcS1oMYtUo2E7GkANhMeR51bM15t_xsVCoZixtpzuLJ76egky3pqDz9UNPqTSzmMPwO7ajIXSPmBLhok8NSj1y8Fc0uMO-aZjrdDu5ld4nt77cmsdearaTeO-LnU.YwyPlwLIk9mfwrENwHjrbPyZPGwUCU0r-omBgzY0fSI&dib_tag=se&keywords=Gigabyte+Radeon+RX+7800+XT+Gaming+OC+16G+Gigabyte+Radeon+RX+7800+XT+Gaming+OC+16G&nsdOptOutParam=true&qid=1773319088&sprefix=https+%2F%2Fwww.amazon.com%2Fasus-displayport-2-5-slot-axial-tech-technology%2Fdp%2Fb0cvckx2gd%2Fref+sr_1_1+crid+yza7ix6rdhhq%26dib+eyj2ijoimsj9.ncyk538vjvpirmwllymmenaxucdt15goswv14rlmhf5hmxurhfnf8bs00gsz2r_zuqwqysaoto16tdnizapu6qklsyrswnjyteaduyal5eeybhjmigkz6xdois-lfwvduq5w0vfe5mbdoaktwuteyss2pp4pouzyvpt8oevkamez5g-gpofb7urjgiwqgeslsr-kfyfqu7lk9yawueh5e3ka8itssnivvslezfro9ag.j8bhd0_qamwif8zfbvzedcbx_pntuohy0g4ep8xn6mk%26dib_tag+se%26keywords+asus%252bdual%252bgeforce%252brtx%252b4070%252boc%252b12gb%252basus%252bdual%252bgeforce%252brtx%252b4070%252boc%252b12gb%26nsdoptoutparam+true%26qid+1773319062%26sprefix+msi%252bradeon%252brx%252b7800%252bxt%252bgaming%252btrio%252bclassic%252b16g%252bmsi%252bradeon%252brx%252b7800%252bxt%252bgaming%252btrio%252bclassic%252b16g%252caps%252c412%26sr+8-1%26th+1%2Caps%2C362&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming Radeon RX 7800 XT OC 16GB",
+        "brand": "ASUS",
+        "model": "TUF Gaming Radeon RX 7800 XT OC 16GB",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 300,
+        "image_url": "https://m.media-amazon.com/images/I/81emCTjddXL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-3-125-slot-Military-Grade-Components-Protective/dp/B0DRRDLC8J/ref=sr_1_1?crid=2PYB9NHRZBQDU&dib=eyJ2IjoiMSJ9.2XLOReoblGJ9dkYVZMjOcMQzgfq5c3P5NX0HzlsA2y1MIOhHLgRv8uIS1SM6HAl7s8jluunqjzNnEQMWRhnjW5yUSQy1V270N0dpTW2p_fGNxWPpsjzNsBl8Yk5oo4SgdeOC84MS0Cmc3Dia51TXgvndkDNkXPd5GUwW-bnxrcCkXyNWpB3JvDFJaGnoEw4MN3-aJQFAP_RGDR3LBz3OgwI5ddNZMfNiD3fQ6pPtFWw.d4CupaNQJJZk1m2x61yhEdbpdDhTU0zsUcolrmxy_7I&dib_tag=se&keywords=ASUS%2BTUF%2BGaming%2BRadeon%2BRX%2B7800%2BXT%2BOC%2B16GB%2BASUS%2BTUF%2BGaming%2BRadeon%2BRX%2B7800%2BXT%2BOC%2B16GB&nsdOptOutParam=true&qid=1773319103&sprefix=asus%2Btuf%2Bgaming%2Bradeon%2Brx%2B7800%2Bxt%2Boc%2B16gb%2Basus%2Btuf%2Bgaming%2Bradeon%2Brx%2B7800%2Bxt%2Boc%2B16gb%2Caps%2C372&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PowerColor Red Devil Radeon RX 7800 XT 16GB",
+        "brand": "PowerColor",
+        "model": "Red Devil Radeon RX 7800 XT 16GB",
+        "chipset": "RX 7800 XT",
+        "price": 30000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 263,
+        "length_mm": 332,
+        "image_url": "https://m.media-amazon.com/images/I/71VYUQZ6Q6L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/PowerColor-Devil-Spectral-White-Radeon/dp/B0F1SS3V29/ref=sr_1_1?crid=3HO9GTWLJL45B&dib=eyJ2IjoiMSJ9.aCwgt2uect8TDrwvFHZ9XZopCNEjOMNZxlwpCVAPC87A5SQ_QWQ1ntMu6U-2HZQwG9BXBP8-smK3gymrPJKnLTXPTGwmf_MxAagbC8sDAd-aOicniqfSsi2AqOQCMNnZcjbKKwd-3uB-8ZN3dBIQLQqYHHnpG2EwvCYFuqyNdTUIQUTp_ULQgRR_JljFKcMxSNsiqutp_5CsHl3mCoV7SYi2-f5IIbQ6ykcdBX6Z_3U.8THrhk-RiCBeS9YORsu8F7MK-_DC_Ya92Q0N4lYtktM&dib_tag=se&keywords=PowerColor%2BRed%2BDevil%2BRadeon%2BRX%2B7800%2BXT%2B16GB%2BPowerColor%2BRed%2BDevil%2BRadeon%2BRX%2B7800%2BXT%2B16GB&nsdOptOutParam=true&qid=1773319119&sprefix=asus%2Btuf%2Bgaming%2Bradeon%2Brx%2B7800%2Bxt%2Boc%2B16gb%2Basus%2Btuf%2Bgaming%2Bradeon%2Brx%2B7800%2Bxt%2Boc%2B16gb%2Caps%2C400&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PowerColor Fighter Radeon RX 9070 16GB",
+        "brand": "PowerColor",
+        "model": "Fighter Radeon RX 9070 16GB",
+        "chipset": "RX 9070",
+        "price": 43000,
+        "price_range": "budget",
+        "vram": "16GB GDDR6",
+        "tdp": 200,
+        "length_mm": 258,
+        "image_url": "https://m.media-amazon.com/images/I/41Xr-keTh6L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/PowerColor-Reaper-Radeon-9070-GDDR6/dp/B0DSWJJRQX/ref=sr_1_1?crid=1MLJ9XSAVIT4L&dib=eyJ2IjoiMSJ9.BNg6blm-c83eTSnqj4GOtu9t_wT02-tt7Rr9d5dEnoxnSy-4k0N5oF75Y6YXBb4lRvWUdpcAGFOqZ2DI48qof8WHUMigBqFLH-d_nqmcFd25wkqUcZGjcq3nKD3VuCXaBtDG9s7Sffqay1nbBrzQuB1Qf__9FJyBKbnQomyYFU35equIB6QMskQUe5PpekDWJXvaN0QAJtxtsMsPYmgWAtx0qgYoMJCG55tafwgKI6Q.xonmrDePJeuUEW-DrJQf28psCJ3T6TzZeojsDkoZ_SM&dib_tag=se&keywords=PowerColor%2BFighter%2BRadeon%2BRX%2B9070%2B16GB%2BPowerColor%2BFighter%2BRadeon%2BRX%2B9070%2B16GB&nsdOptOutParam=true&qid=1773319138&sprefix=powercolor%2Bred%2Bdevil%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Bpowercolor%2Bred%2Bdevil%2Bradeon%2Brx%2B7800%2Bxt%2B16gb%2Caps%2C358&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 4070 SUPER Twin Edge OC 12GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 4070 SUPER Twin Edge OC 12GB",
+        "chipset": "RTX 4070 SUPER",
+        "price": 37000,
+        "price_range": "budget",
+        "vram": "12GB GDDR6X",
+        "tdp": 220,
+        "length_mm": 267,
+        "image_url": "https://m.media-amazon.com/images/I/81bRcV4nHJL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-D40720E-10M/dp/B0CSBDWT1W/ref=sr_1_1?crid=3C90QCWN21ZTT&dib=eyJ2IjoiMSJ9.FdrvpBJ2g0IXDh-0tMHRT3qdr5J-ctPcm9Gycq6M1cw_MuYqC-L1iVlJZJ15K86lRLrhUBE2ChQKN4_DODlkArEqRCgEG0BsWVhQnH_478lYalTueiWOwBM3GP1BUxcRnbAgYUkD5ajLvMSEQgAJ93ioDjSi6kz6F4io0OXwEDXFVnj5NjCkwukquyF-ASabRqwHhrK9_n70aSoDrkn1m7V4-fYe4UcLn9GulZArgik.BgpHn5-XoaXF7Ej7vocMrYmd30bkwdhKumm7JfmYbsI&dib_tag=se&keywords=Zotac+Gaming+GeForce+RTX+4070+SUPER+Twin+Edge+OC+12GB+Zotac+Gaming+GeForce+RTX+4070+SUPER+Twin+Edge+OC+12GB&nsdOptOutParam=true&qid=1773319159&sprefix=powercolor+fighter+radeon+rx+9070+16gb+powercolor+fighter+radeon+rx+9070+16gb%2Caps%2C383&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster SWFT 210 Radeon RX 9070 16GB",
+        "brand": "XFX",
+        "model": "Speedster SWFT 210 Radeon RX 9070 16GB",
+        "chipset": "RX 9070",
+        "price": 43000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 200,
+        "length_mm": 260,
+        "image_url": "https://m.media-amazon.com/images/I/61c71quJnlL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/XFX-Mercury-Radeon-Magnetic-RX-97TMARGBA/dp/B0DW4FGLCC/ref=sr_1_1?crid=1VTGHLPYF6ZGW&dib=eyJ2IjoiMSJ9.vop_es_MNZOunD18ItEE3CjNEhDOTA7GdpSHXcXlhDTtaBp4SMMkgWU8adLCBOZ5_qk_viaMjej3dNybXUD2O3H57vF9PkmRiOc1mVaBHfblqxbZffi-8zXOK_6F0i7ItdKeVgApo0rpWt0iWiLIsEjQfVN5J3KGV-OKUHvHUUaNDfV-MszKu7ESEq1zLm4SyANxe3Zc98Q-F2gjC-NdUtCDOmrWhIR7gVPmDQtYe_Q.XAqJR8wWsjGc_O7OJRU6-wCmdrNgydXov-6_25mlvg0&dib_tag=se&keywords=XFX%2BSpeedster%2BSWFT%2B210%2BRadeon%2BRX%2B9070%2B16GB%2BXFX%2BSpeedster%2BSWFT%2B210%2BRadeon%2BRX%2B9070%2B16GB&nsdOptOutParam=true&qid=1773319179&sprefix=zotac%2Bgaming%2Bgeforce%2Brtx%2B4070%2Bsuper%2Btwin%2Bedge%2Boc%2B12gb%2Bzotac%2Bgaming%2Bgeforce%2Brtx%2B4070%2Bsuper%2Btwin%2Bedge%2Boc%2B12gb%2Caps%2C351&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4070 SUPER Ventus 2X OC 12GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 4070 SUPER Ventus 2X OC 12GB",
+        "chipset": "RTX 4070 SUPER",
+        "price": 37000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR6X",
+        "tdp": 220,
+        "length_mm": 242,
+        "image_url": "MSI GeForce RTX 4070 SUPER Ventus 2X OC 12GB MSI GeForce RTX 4070 SUPER Ventus 2X OC 12GB",
+        "link": "https://www.amazon.com/MSI-GeForce-VENTUS-Gaming-Graphics/dp/B0CS3YQZQH/ref=sr_1_1?crid=1UVYNNCC0OB1Q&dib=eyJ2IjoiMSJ9.FBBofaR4_PI4kTelkHIJQ7Zs-hgC2dgaRjGiLdHTOUFICqyMMiD9PFu0ZldWIoFifb70DmFa8I5A7dhMo8ska7cccnge4WDY5IfR5C085ZF3skOcPLDwOrcYOY8yx1I_5TavvlzTgM8QAKuGQYa4WtPtTNWgKB5aYar7pYzUiaxo11UATdUPxTpdb9wlQoZsp1Uf6GcWTx53GXLDP1Lktl-xbE_DHSmRt-1YDzT_Kro.DW_8slDK4kvFOSkijoBwDUjzffwsoZckniO9Ts9NahY&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B4070%2BSUPER%2BVentus%2B2X%2BOC%2B12GB%2BMSI%2BGeForce%2BRTX%2B4070%2BSUPER%2BVentus%2B2X%2BOC%2B12GB&nsdOptOutParam=true&qid=1773319199&sprefix=xfx%2Bspeedster%2Bswft%2B210%2Bradeon%2Brx%2B9070%2B16gb%2Bxfx%2Bspeedster%2Bswft%2B210%2Bradeon%2Brx%2B9070%2B16gb%2Caps%2C471&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster MERC 310 Radeon RX 7900 GRE 16GB",
+        "brand": "XFX",
+        "model": "Speedster MERC 310 Radeon RX 7900 GRE 16GB",
+        "chipset": "RX 7900 GRE",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 260,
+        "length_mm": 322,
+        "image_url": "https://m.media-amazon.com/images/I/71vGm7dSHoL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/XFX-Speedster-MERC310-Graphics-RX-79XMERCB9/dp/B0BNLSW23M/ref=sr_1_1?crid=18XY0QNLI667K&dib=eyJ2IjoiMSJ9._Pkcr88tdjvFE9sy6mY7Hb4Sm8UN6fa2qCqSLyJKBj-ML1Vg602h3qSnZZwadAIUTHBm5CRu6juywuuAPMb8Z6U7UG0DJR98k_H_ZAZO15PRV7WsptWFRaBLWXrgPw4TiPbppC4VzcXcFnu4QQT8NvpziCG82hldDDQEyHXttgc0Gv9O0ZhwEhovCltEe8B4z2CP4gYcyvgB-uE6fAaaKjsqckVXSGU--1GAZcQF3kk.8D9RhWIrJsIwUAEosVUsxBuaeYGbmX-37gWYTpokuZs&dib_tag=se&keywords=XFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BGRE%2B16GB%2BXFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BGRE%2B16GB&nsdOptOutParam=true&qid=1773319218&sprefix=xfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bgre%2B16gb%2Bxfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bgre%2B16gb%2Caps%2C372&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Pulse Radeon RX 9070 16GB",
+        "brand": "Sapphire",
+        "model": "Pulse Radeon RX 9070 16GB",
+        "chipset": "RX 9070",
+        "price": 43000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 200,
+        "length_mm": 267,
+        "image_url": "https://m.media-amazon.com/images/I/719BQZ+2XGL._AC_SX522_.jpg",
+        "link": "https://www.amazon.com/Sapphire-Pulse-RadeonTM-9070-Gaming/dp/B0DRPRZMK2/ref=sr_1_1?crid=1Y6124LRWPVP8&dib=eyJ2IjoiMSJ9.v2009oTzC7hfEGgLLtoznL6x3JCwui9ynn-678j-a8LWtuGj0l8Zjxezqn54jh5uufmaYDWskyu4NfZEoQte8SXm8yWrCy1b5UUjbFJimYA428TUaMWrsVAtuEC1JcjXUcBcQjz3OJwPIjwifCfSn1Nc2NKqOElJS1njvs3maLYHM1F0nfJJ4gzUxm9lODOwZcUAx8pn8SUYGbtvN1s3w5PwGtJ2b6VC08YuRSOnDGY.bOGi5JRq1BYD54jXrcrhR1tp6i0kG9EZqrB-iXEKLIo&dib_tag=se&keywords=Sapphire+Pulse+Radeon+RX+9070+16GB+Sapphire+Pulse+Radeon+RX+9070+16GB&nsdOptOutParam=true&qid=1773319237&sprefix=sapphire+pulse+radeon+rx+9070+16gb+sapphire+pulse+radeon+rx+9070+16gb%2Caps%2C367&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Nitro+ Radeon RX 7900 GRE 16GB",
+        "brand": "Sapphire",
+        "model": "Nitro+ Radeon RX 7900 GRE 16GB",
+        "chipset": "RX 7900 GRE",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 260,
+        "length_mm": 318,
+        "image_url": "https://m.media-amazon.com/images/I/91g3-mnMQ-L._AC_SL1500_.jpg",
+        "link": "https://www.amazon.com/Sapphire-11330-01-20G-Radeon-Gaming-Graphics/dp/B0CFX69R1R/ref=sr_1_1?crid=1CU8GSG3VYZZ6&dib=eyJ2IjoiMSJ9.psjxihZiFPrJXu0KwXi2AwOnUPJr0Oq2EmoaHLMTnJ4II3fBCjlL3ThE8-OFHOdTrKkIgCS0xLP2OktCygpTURh9qfAPbweByz4YIVg_VqQjxstmMocaTFEVzbyPic_DWpJoFehD4i_uWhcak4lbokuVioSqBxJWWCLTqKEBZ3MMhfwzAGdF7Mx_HnfJ0FI1rMETvQMR3gOoQENR8Jr9oU-3mot621TVkmcEEJBULr0.B2c4xdh0u5yb1nTurp-DPp4jH1JepmTGv09J1lAbWCQ&dib_tag=se&keywords=Sapphire+Nitro%2B+Radeon+RX+7900+GRE+16GB+Sapphire+Nitro%2B+Radeon+RX+7900+GRE+16GB&nsdOptOutParam=true&qid=1773319270&sprefix=sapphire+nitro%2B+radeon+rx+7900+gre+16gb+sapphire+nitro%2B+radeon+rx+7900+gre+16gb%2Caps%2C440&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 SUPER Windforce OC 12G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4070 SUPER Windforce OC 12G",
+        "chipset": "RTX 4070 SUPER",
+        "price": 37000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR6X",
+        "tdp": 220,
+        "length_mm": 281,
+        "image_url": "https://m.media-amazon.com/images/I/71qIJjDVfzL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/GIGABYTE-GeForce-WINDFORCE-Graphics-GV-N407SWF3OC-12GD/dp/B0CSJV61BN/ref=sr_1_1?crid=TUXMTS9QNPA2&dib=eyJ2IjoiMSJ9.OL2XjsX3p4TDLbEh0YNkr9Mvpf_Zw4sLsjVYnxRZ-VihgET1hfD0TNj4ZrQJXbAxlBbtyg2LbcJzryp4DnMvy0mJSGcocvebXubYUz8Bn4U97Bo-Dlb03JFWNw9-PuoXPk6xAya8JgrP07hgQ3GzYfj491W42O1QSeBN1Im302JowB6_75VuBCFFSWFOnxmEiawkrO0Wzxqfir65BPeuvRfxJZnRfwpEzpt72tjrMj0.6bnyWIJAdwd2Z0NdItoxTf12wH9X4hQ-jNbBjCVAwaU&dib_tag=se&keywords=Gigabyte+GeForce+RTX+4070+SUPER+Windforce+OC+12G+Gigabyte+GeForce+RTX+4070+SUPER+Windforce+OC+12G&nsdOptOutParam=true&qid=1773319293&sprefix=gigabyte+geforce+rtx+4070+super+windforce+oc+12g+gigabyte+geforce+rtx+4070+super+windforce+oc+12g%2Caps%2C428&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 4070 SUPER OC 12GB",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 4070 SUPER OC 12GB",
+        "chipset": "RTX 4070 SUPER",
+        "price": 37000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR6X",
+        "tdp": 220,
+        "length_mm": 304,
+        "image_url": "https://m.media-amazon.com/images/I/81PChIf5pwL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-DisplayPort-2-5-slot-Axial-tech-technology/dp/B0CVCKX2GD/ref=sr_1_1?crid=1Z393FJC3UNIP&dib=eyJ2IjoiMSJ9.Z_Uh9v1VtmdYKECp4Oi71CC2BZMEDrpYjZS4F3qfVqaZx_DUS2WgaUVevW3j1-spG8XouArGNdoz7-nAGEUmuAnuuRA0F9GhzHXYrSdIa6OiI292BIU4_S1aMi4C4aLgPtErsoeE6NmNXHS47LkcPFG2jvfGW6mYqapcs-JOGjheAAniizI-l_K8SUnyulkG_5YDKTG5HwzMDnmQ9sJvPHHs3C5AbkqlW__d4ewVeAA.QUn-DOcxKWytraMHqewXQlh56Enc-61sln-6wRnqweI&dib_tag=se&keywords=ASUS%2BDual%2BGeForce%2BRTX%2B4070%2BSUPER%2BOC%2B12GB%2BASUS%2BDual%2BGeForce%2BRTX%2B4070%2BSUPER%2BOC%2B12GB&nsdOptOutParam=true&qid=1773319314&sprefix=gigabyte%2Bgeforce%2Brtx%2B4070%2Bsuper%2Bwindforce%2Boc%2B12g%2Bgigabyte%2Bgeforce%2Brtx%2B4070%2Bsuper%2Bwindforce%2Boc%2B12g%2Caps%2C620&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 5070 Twin Edge OC 12GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 5070 Twin Edge OC 12GB",
+        "chipset": "RTX 5070",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR7",
+        "tdp": 250,
+        "length_mm": 267,
+        "image_url": "https://m.media-amazon.com/images/I/7106wSuZ13L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ZOTAC-Graphics-IceStorm-SFF-Ready-ZT-B50700H-10A/dp/B0GK8TKVDJ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.hNNc12c3mI_EX1q2r5AVd2UGmq8suB9Q5lzHOolPam0Ia1EyG72P3rBbNck6Glju8iM_Ehu1GNqy3cXrVfeNBG6HjVeyAjjHnEHg4b_PB7NJTARon0UPjz_5owVThCjdCaqN9l6sPx4UCsMDYTotxqZ2GC85VXekdkXHGsMsQZ10LKmmpODwVREPZopTN7RyXCxiAcS1mVU_nWpomVw7V1teBehOUfJLPETmWNhbWFQ.YEscNDvi4ZywddN4h-owUe3pr9qjFnR05Wk-4N0LFK8&dib_tag=se&keywords=Zotac+Gaming+GeForce+RTX+5070+Twin+Edge+OC+12GB+Zotac+Gaming+GeForce+RTX+5070+Twin+Edge+OC+12GB&nsdOptOutParam=true&qid=1773319334&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 5070 Ventus 2X OC 12GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 5070 Ventus 2X OC 12GB",
+        "chipset": "RTX 5070",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR7",
+        "tdp": 250,
+        "length_mm": 242,
+        "image_url": "https://m.media-amazon.com/images/I/71IhfyiqviL._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/MSI-GeForce-RTX-5070-Ventus/dp/B0DX7JJ87N/ref=sr_1_1?crid=2YGJT6YE8YUF1&dib=eyJ2IjoiMSJ9.a_WzVtNC89Lk9UbSFvHnJza751Uf_J8YkNMZFE6K4sjfiVBe2VlkPJuOcEmLmqlHyhVim8gYAo93E61GX_ccuaYemJVABBovK7LLIQ-GKkex_VPJxLS0pbnkibPtdWNM1iSa8C0XWg6ZZ0oiwQgbonouzL19Gnthjgl_Q-ubf7vpGRuo3MFFjDUGBxeQbyAY9DjD-U8gtE6wdAldZtkXLEviwNczlpCZ0dhUhN55avg.tgOqjpPpD5UriW0_zlBFcSUMkIFULpvRg0xgyOhYb0o&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B5070%2BVentus%2B2X%2BOC%2B12GB%2BMSI%2BGeForce%2BRTX%2B5070%2BVentus%2B2X%2BOC%2B12GB&nsdOptOutParam=true&qid=1773319353&sprefix=msi%2Bgeforce%2Brtx%2B5070%2Bventus%2B2x%2Boc%2B12gb%2Bmsi%2Bgeforce%2Brtx%2B5070%2Bventus%2B2x%2Boc%2B12gb%2Caps%2C394&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS Dual GeForce RTX 5070 OC 12GB",
+        "brand": "ASUS",
+        "model": "Dual GeForce RTX 5070 OC 12GB",
+        "chipset": "RTX 5070",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "12GB GDDR7",
+        "tdp": 250,
+        "length_mm": 304,
+        "image_url": "https://m.media-amazon.com/images/I/81S9fi6ViFL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-SFF-Ready-Graphics-2-5-Slot-Axial-tech/dp/B0DS6WPTLL/ref=sr_1_1?crid=3UEPZ32ZP3H8X&dib=eyJ2IjoiMSJ9.stTaUAYb6R7xneB5bmsSz2nSkKmSWAV-mbhFBZtyWHMpZUdpYvVqLpwNbDAYO4DsGAkDdPslcZKFsCdK8dY33nJuVVt1nIoGNtoHP7zZaJawR6KMk8VqyYNvQ9BljUivRaAQNuzBuz2HvhDI2qM9wwECm5wcJM6G0jnTRRVHN4GE4MrzuRm67cdE8GCzRdXwtN6L0ycU-7v9BLxycBaGdyjd-X5HPUeOleHwS4Yx7to.GNvsurjMRZYxT7f9qqS1DWJmV2QiQeULu7PtH7_eJbQ&dib_tag=se&keywords=ASUS%2BDual%2BGeForce%2BRTX%2B5070%2BOC%2B12GB%2BASUS%2BDual%2BGeForce%2BRTX%2B5070%2BOC%2B12GB&nsdOptOutParam=true&qid=1773319380&sprefix=asus%2Bdual%2Bgeforce%2Brtx%2B5070%2Boc%2B12gb%2Basus%2Bdual%2Bgeforce%2Brtx%2B5070%2Boc%2B12gb%2Caps%2C387&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster MERC 310 Radeon RX 7900 XT 20GB",
+        "brand": "XFX",
+        "model": "Speedster MERC 310 Radeon RX 7900 XT 20GB",
+        "chipset": "RX 7900 XT",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "20GB GDDR6",
+        "tdp": 315,
+        "length_mm": 348,
+        "image_url": "https://m.media-amazon.com/images/I/71vGm7dSHoL._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/XFX-Speedster-MERC310-Graphics-RX-79XMERCB9/dp/B0BNLSW23M/ref=sr_1_1?crid=3EPSVNH3TMRD0&dib=eyJ2IjoiMSJ9.RTwwbvJVnzUjcjDNXLntcKWcYhkUnXjgCwj1YznnTe_2c4Or4wJtqS5j4PAjK4YfZ-HPllB4TGZKQvHpi4BkvGBqWwGWfR9b6xFqBx9r05V5aLkvZ-aJDMKIaG_QSkRVXTdKTNwacEUKwTAJ51G2AO5_L4t_wmG_PuzbGjuStZe_3R585Qn8leYTEInGvsqY_ot42c1glheNYYiJKcSz9ZlbL8UCVbWBYavsd8IFHNk.tHGCm4Z582UMz7DULj1OWtxuVv7ZGL0oYVyhd7IIJ-o&dib_tag=se&keywords=XFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BXT%2B20GB%2BXFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BXT%2B20GB&nsdOptOutParam=true&qid=1773319399&sprefix=asus%2Bdual%2Bgeforce%2Brtx%2B5070%2Boc%2B12gb%2Basus%2Bdual%2Bgeforce%2Brtx%2B5070%2Boc%2B12gb%2Caps%2C536&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI Radeon RX 7900 XT Gaming Trio Classic 20G",
+        "brand": "MSI",
+        "model": "Radeon RX 7900 XT Gaming Trio Classic 20G",
+        "chipset": "RX 7900 XT",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "20GB GDDR6",
+        "tdp": 315,
+        "length_mm": 325,
+        "image_url": "https://m.media-amazon.com/images/I/61h86qFR9eL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com/ASRock-RX7900XT-PG-20GO-Graphics/dp/B0BTPJBSBV/ref=sr_1_1?crid=39YFXYUHIF1JF&dib=eyJ2IjoiMSJ9.giIZyHKqf4bz4uV6BsroVFwGNBhLhMmLXRDdrfygwJ23ywQHxzijlQ5cvUW2kev8micBDXjlrx3Hxq3z5PHMLpza-Vz94bkqe65WFumcVW22KrlWdlO3MxCq2Zpbcd9rnD25ffdjZC1DxCWeM5qEfAm2lmj6uef7Z9dmGiRmRstFjPlJO1PUvzTz9BaF6JGXbgNxZ3XWE0b1TZWCYO0uJtl9ZedM7Rs8ZIx43UBlOyw.lvGZbbLu0gYd9ho7r6Ntv-yt9K9veHMKorn4OwDrtwQ&dib_tag=se&keywords=MSI%2BRadeon%2BRX%2B7900%2BXT%2BGaming%2BTrio%2BClassic%2B20G%2BMSI%2BRadeon%2BRX%2B7900%2BXT%2BGaming%2BTrio%2BClassic%2B20G&nsdOptOutParam=true&qid=1773319418&sprefix=xfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bxt%2B20gb%2Bxfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bxt%2B20gb%2Caps%2C352&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster MERC 310 Radeon RX 9070 XT 16GB",
+        "brand": "XFX",
+        "model": "Speedster MERC 310 Radeon RX 9070 XT 16GB",
+        "chipset": "RX 9070 XT",
+        "price": 52000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 250,
+        "length_mm": 340,
+        "image_url": "https://m.media-amazon.com/images/I/61c71quJnlL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/XFX-Mercury-Radeon-Magnetic-RX-97TMARGBA/dp/B0DW4FGLCC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7bBOJ1tNJ6Ij36mAaf6A5rBrDlMeXqlvlHfB_ksnpLirIjQC40JeoNze4TvC0Qisg7Yj-AjdsRaP9MvYnaHzKiGpgu44J7OvzqPtrxftUpbPopLMBRtwjqQyQW9L_akzEMrFU6opGwkqPaZG8t4rpdAPkqHbGEUsy2IZ481rAs4iN3Pc49zgB6bS6f9xaSWlhaNnsbvfvtJEZj1AKLP7k0SuglRQ9EcoJKbaCIrGym4.yQ_aVr6_0Cj7mllF7baINZNeZ176FeR-N4fh7EsSfzM&dib_tag=se&keywords=XFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B9070%2BXT%2B16GB%2BXFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B9070%2BXT%2B16GB&nsdOptOutParam=true&qid=1773319875&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4070 Ti SUPER Ventus 2X OC 16GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 4070 Ti SUPER Ventus 2X OC 16GB",
+        "chipset": "RTX 4070 Ti SUPER",
+        "price": 47000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 285,
+        "length_mm": 274,
+        "image_url": "https://www.amazon.com/MSI-GeForce-VENTUS-Gaming-Graphics/dp/B0CS3YQZQH/ref=sr_1_1?crid=3G8GJQLZAX1CW&dib=eyJ2IjoiMSJ9.SwthgcFRzywSz6sD64TVAQecd3046jrl0Q1td0u6py1g6ufb2v9A-aGu8QLmfNV9t48ZOvElOHX0bFmVEl0m83DcxekYXobKiwdKZB1gW4X0Ye-TkYvkOgEbU-yY6_KO-tDo2eKGBoc-W7xUhBYZ7GSw6VJDz-EWt72k7yXYP-Wkg-XhsHye9HpFGOEatIIPp5OoBU4pXgi4zs6xu5Coex8mHJi7bFVIXKVlfeDNBtY.aQ0YeoOpzVB-4DAboy3srsc3m1Ttmc__zGVBUPV-9So&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BVentus%2B2X%2BOC%2B16GB%2BMSI%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BVentus%2B2X%2BOC%2B16GB&nsdOptOutParam=true&qid=1773319904&sprefix=msi%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Bventus%2B2x%2Boc%2B16gb%2Bmsi%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Bventus%2B2x%2Boc%2B16gb%2Caps%2C509&sr=8-1&th=1",
+        "link": "https://www.amazon.com/MSI-GeForce-VENTUS-Gaming-Graphics/dp/B0CS3YQZQH/ref=sr_1_1?crid=3G8GJQLZAX1CW&dib=eyJ2IjoiMSJ9.SwthgcFRzywSz6sD64TVAQecd3046jrl0Q1td0u6py1g6ufb2v9A-aGu8QLmfNV9t48ZOvElOHX0bFmVEl0m83DcxekYXobKiwdKZB1gW4X0Ye-TkYvkOgEbU-yY6_KO-tDo2eKGBoc-W7xUhBYZ7GSw6VJDz-EWt72k7yXYP-Wkg-XhsHye9HpFGOEatIIPp5OoBU4pXgi4zs6xu5Coex8mHJi7bFVIXKVlfeDNBtY.aQ0YeoOpzVB-4DAboy3srsc3m1Ttmc__zGVBUPV-9So&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BVentus%2B2X%2BOC%2B16GB%2BMSI%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BVentus%2B2X%2BOC%2B16GB&nsdOptOutParam=true&qid=1773319904&sprefix=msi%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Bventus%2B2x%2Boc%2B16gb%2Bmsi%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Bventus%2B2x%2Boc%2B16gb%2Caps%2C509&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Nitro+ Radeon RX 7900 XT 20GB",
+        "brand": "Sapphire",
+        "model": "Nitro+ Radeon RX 7900 XT 20GB",
+        "chipset": "RX 7900 XT",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "20GB GDDR6",
+        "tdp": 315,
+        "length_mm": 318,
+        "image_url": "https://m.media-amazon.com/images/I/91g3-mnMQ-L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Sapphire-11330-01-20G-Radeon-Gaming-Graphics/dp/B0CFX69R1R/ref=sr_1_1?crid=2ORGO9E36QAMW&dib=eyJ2IjoiMSJ9.QNXjAbYtm9z-syqwswFaPCM3-4eBvWe7WR-a_AaqgrNTtAnqyrZ7i3JcdHQDUoWyIzwXRXAf61ZDh8vKp3oHgA4tbIhcHaSbiNKIY2nqpxERhQPZyAHXd2-bC5z9cIpZ504m3vw9jusiRC2vbWIxQWuhSQz1czyOqAcXpx3Gt2ZpOYPrDFRaFw6ydAVrmVbmmRbFvKZTa5dGfhVQ9-SW2eECeQ4zfgQlYIZ_ILa0JtA.P4WwWNB9VDzPX7phUK1bwNF4-SnvLGThB84kZeGlTLA&dib_tag=se&keywords=Sapphire+Nitro%2B+Radeon+RX+7900+XT+20GB+Sapphire+Nitro%2B+Radeon+RX+7900+XT+20GB&nsdOptOutParam=true&qid=1773319951&sprefix=sapphire+nitro%2B+radeon+rx+7900+xt+20gb+sapphire+nitro%2B+radeon+rx+7900+xt+20gb%2Caps%2C457&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER Windforce OC 16G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4070 Ti SUPER Windforce OC 16G",
+        "chipset": "RTX 4070 Ti SUPER",
+        "price": 44000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 285,
+        "length_mm": 302,
+        "image_url": "https://m.media-amazon.com/images/I/71qIJjDVfzL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/GIGABYTE-GeForce-WINDFORCE-Graphics-GV-N407SWF3OC-12GD/dp/B0CSJV61BN/ref=sr_1_1?crid=3J6EEYGRV8FGX&dib=eyJ2IjoiMSJ9.wHnowlmog558kCs07ALINRZwg84HriqI7XlTy-Ga-oU4-kngkCQYjoJPhakxkIoykTh4oXPBjsPs_rgOhyrLpM7njuA-8u8R77kyFNog9z-B6pw_KdCQOfbWOwBaVFoRurCgscWFNNfzxrv6N97FVLWT8Iv0Nmnd0dX7dsN2hwCG81z59fJRx55epzDP2DjLuplEmCZSZWP8QvvxrDmdfCCNTCBLjC6yvywK20fk-04.4O40RQQPCb6kUGwz6SsZKspa_INlZvIgii8M4OTV9Xg&dib_tag=se&keywords=Gigabyte+GeForce+RTX+4070+Ti+SUPER+Windforce+OC+16G+Gigabyte+GeForce+RTX+4070+Ti+SUPER+Windforce+OC+16G&nsdOptOutParam=true&qid=1773319974&sprefix=sapphire+nitro%2B+radeon+rx+7900+xt+20gb+sapphire+nitro%2B+radeon+rx+7900+xt+20gb%2Caps%2C385&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Nitro+ Radeon RX 9070 XT 16GB",
+        "brand": "Sapphire",
+        "model": "Nitro+ Radeon RX 9070 XT 16GB",
+        "chipset": "RX 9070 XT",
+        "price": 52000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6",
+        "tdp": 250,
+        "length_mm": 318,
+        "image_url": "https://m.media-amazon.com/images/I/81anmp7jb6L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/Sapphire-11348-01-20G-RadeonTM-Gaming-Graphics/dp/B0DTHP39JF/ref=sr_1_1?crid=2N3HA1RB0CV0C&dib=eyJ2IjoiMSJ9.NdAQlcJx0D_bx2lK_SA9m-1CW3wT9mWgCN8UBaAxfqrjfxjxA823uviUMF6s6r0t33Y0qx6pVESF8lWa-EhJWmwoX4dcOMQNVr1gQdZoxJl2wtCRzwj6S-ouv8w11xsjAanNPWJkm9t4tPeAkoxZwBQKouLSiWZZWYWZMEbbUgakZKypsRcqkuPN5X-WDpnsA6wA-ZnuNZexgJihKTfaXfFnuBtUq3H3P74exGL1b8o.MBOfpcRCorn-qwJ48sr_Ej8TlB8-JHW-BIa82SxSAvE&dib_tag=se&keywords=Sapphire+Nitro%2B+Radeon+RX+9070+XT+16GB+Sapphire+Nitro%2B+Radeon+RX+9070+XT+16GB&nsdOptOutParam=true&qid=1773320024&sprefix=gigabyte+geforce+rtx+40sapphire+nitro%2B+radeon+rx+9070+xt+16gb+sapphire+nitro%2B+radeon+rx+9070+xt+16gb70+ti+super+windforce+oc+16g+gigabyte+geforce+rtx+4070+ti+super+windforce+oc+16g%2Caps%2C474&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GeForce RTX 4070 Ti SUPER OC 16GB",
+        "brand": "ASUS",
+        "model": "TUF Gaming GeForce RTX 4070 Ti SUPER OC 16GB",
+        "chipset": "RTX 4070 Ti SUPER",
+        "price": 47000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 285,
+        "length_mm": 305,
+        "image_url": "https://m.media-amazon.com/images/I/81PChIf5pwL._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/ASUS-DisplayPort-2-5-slot-Axial-tech-technology/dp/B0CVCKX2GD/ref=sr_1_5?dib=eyJ2IjoiMSJ9.HDwzk6aOVD-90JVI_RxUe9jZqJ4Y94CA7EDN8K6qJzrIbNvL27kBEWyhN-qAhFPJCmPVWaUQFzv9MUubBylAq45ELCo7Psn5oawiNrvWm11UDfIM5DilBH0I3bUgn45WHZLqh1-L61fplCh0E3TjjEJ33jO_7kedD6LGw20GHLuIv5RZ-7gLVBgJ0ebFxCndU_g3GtTJwpJfWwk-VdQo6gWoVkACSOtQuTcV_ZkE-Fg.euAih__dAnjFybGVhkWyv9NrhgihIyOwrXP2YRIxSP8&dib_tag=se&keywords=ASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BOC%2B16GB%2BASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320057&sr=8-5&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PowerColor Red Devil Radeon RX 7900 XT 20GB",
+        "brand": "PowerColor",
+        "model": "Red Devil Radeon RX 7900 XT 20GB",
+        "chipset": "RX 7900 XT",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "20GB GDDR6",
+        "tdp": 315,
+        "length_mm": 332,
+        "image_url": "https://m.media-amazon.com/images/I/81gxoVXvMxL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/PowerColor-Hellhound-Spectral-Radeon-Graphics/dp/B0CT9JTTCJ/ref=sr_1_2?crid=OUG9AXSZ7GLG&dib=eyJ2IjoiMSJ9.5fOo_qslmik96KJY1uptw-oYsjOUedkEIeDTwpBl5fvA5SQ_QWQ1ntMu6U-2HZQwb4IlcuGGFxxR0IdgG6K_pv5a8volHYQlbgZ6aLzoVXKOeBvl9jMb6rWTrfhiOkBeBA7oEd9mTDCOwWayDC_0MpSazd7INTHCWq9-k3SHznwCl7EL_sMWs1CzESxmLgZxrlNULzTY1mdzIUZswImGeSQn318KcISnsc7Nn9kTEsc.43JfzhoURx-yxzUdnrpa3s_WCCByUpq8uXbdJMhf6cs&dib_tag=se&keywords=PowerColor+Red+Devil+Radeon+RX+7900+XT+20GB+PowerColor+Red+Devil+Radeon+RX+7900+XT+20GB&nsdOptOutParam=true&qid=1773320092&sprefix=asus+tuf+gaming+geforce+rtx+4070+ti+super+oc+16gb+asus+tuf+gaming+geforce+rtx+4070+ti+super+oc+16gb%2Caps%2C469&sr=8-2",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 5070 Ti Ventus 2X OC 16GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 5070 Ti Ventus 2X OC 16GB",
+        "chipset": "RTX 5070 Ti",
+        "price": 52000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR7",
+        "tdp": 300,
+        "length_mm": 274,
+        "image_url": "https://m.media-amazon.com/images/I/71-eBMchdmL._AC_SX355_.jpg",
+        "link": "https://www.amazon.com/msi-Graphics-256-bit-Extreme-Performance/dp/B0FST71VP9/ref=sr_1_1?crid=3ETQUDOKQ1HG4&dib=eyJ2IjoiMSJ9.SVz1DvxfKMS7XGPoBhpURhh0Xguw8hSfBKoPUXpY3bTGNQEqlG8pBWIS9f1-VgEN7bqv0ih4r7w8v9I8MKG11rJZ9g8jEGVvWuYIFyKRn6INIxd_Qag0-1dntaLCPidn0_TXPZD6V1YwYI_VwyD3E7wufLktCu0pbllfluwvlI4f2j2g6-wpv8CN6yKfjss_u9eMcdFq9slclHZaTxZq-qMFSS52xXOyEcf-TrK3RjU.zAJGMWTzbJYTzJXwP7kFPC2EaSZXNjAFbyP5F3H6lLo&dib_tag=se&keywords=MSI+GeForce+RTX+5070+Ti+Ventus+2X+OC+16GB+MSI+GeForce+RTX+5070+Ti+Ventus+2X+OC+16GB&nsdOptOutParam=true&qid=1773320122&sprefix=msi+geforce+rtx+5070+ti+ventus+2x+oc+16gb+msi+geforce+rtx+5070+ti+ventus+2x+oc+16gb%2Caps%2C399&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC 16GB",
+        "brand": "ASUS",
+        "model": "TUF Gaming GeForce RTX 5070 Ti OC 16GB",
+        "chipset": "RTX 5070 Ti",
+        "price": 52000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR7",
+        "tdp": 300,
+        "length_mm": 305,
+        "image_url": "https://m.media-amazon.com/images/I/81POeoI3lSL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-3-125-slot-Military-Grade-Components-Protective/dp/B0DS6WTXGP/ref=sr_1_1?crid=R8DT8W3S4XCV&dib=eyJ2IjoiMSJ9.HDwzk6aOVD-90JVI_RxUeyW-Escw5NGKrWGS99VYrVQ8cMkcF5XQzCwZYi5XpmAJr1oOTkQTHi6WvAFnCpdk7Z94P-8JCa22Ud_Sq0eR-r2xlgh7w6UHu_w9hkys1dh-Ex9yYVYvK8yFAZKfRypKiqR5nhbcEOdAAwvYE6B2aRxU42xkEUX6i8KHOyt2RfSYihnalqFotMr0rjN9MDRikTmW1gcd3VC3Ny6a1CgUozA.ERUXoM9Hh9TuhR8UX9tMMKeeivWx6_9yMfWvr4H-sEI&dib_tag=se&keywords=ASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B5070%2BTi%2BOC%2B16GB%2BASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B5070%2BTi%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320151&sprefix=asus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B5070%2Bti%2Boc%2B16gb%2Basus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B5070%2Bti%2Boc%2B16gb%2Caps%2C382&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS ROG Strix GeForce RTX 4070 Ti SUPER OC 16GB",
+        "brand": "ASUS",
+        "model": "ROG Strix GeForce RTX 4070 Ti SUPER OC 16GB",
+        "chipset": "RTX 4070 Ti SUPER",
+        "price": 47000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 285,
+        "length_mm": 336,
+        "image_url": "https://m.media-amazon.com/images/I/81PChIf5pwL._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/ASUS-DisplayPort-2-5-slot-Axial-tech-technology/dp/B0CVCKX2GD/ref=sr_1_6?crid=1L33IKFNA5V28&dib=eyJ2IjoiMSJ9.vosc9TMEOyefVQmJ9tWtVUyQZjdJXq4coCUo2Jc7fRTYKNZ99dTXPr2CXAd3sD0f4UFxtXXXxdJ1KwCKw3-7O_y9OWIKehhWyzSVPu8DqWPglmpvITD3Zhh-Q3g24kXaNC7aJx9ecX3v0Fe3iFaiCODf41XZ4x5ESSJhMfwwnvNOThKCK5kKbHP_IeHk8xH9Lokd7uVW64mEc8VGT4FehB-OgQdMHIaGUOCL0zE1ct0.s5z5e6XDdZukfPI_iFf7m-ZvocdmAepF7Ib3pXKoz6I&dib_tag=se&keywords=ASUS%2BROG%2BStrix%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BOC%2B16GB%2BASUS%2BROG%2BStrix%2BGeForce%2BRTX%2B4070%2BTi%2BSUPER%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320172&sprefix=asus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B5070%2Bti%2Boc%2B16gb%2Basus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B5070%2Bti%2Boc%2B16gb%2Caps%2C506&sr=8-6&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Sapphire Nitro+ Radeon RX 7900 XTX 24GB",
+        "brand": "Sapphire",
+        "model": "Nitro+ Radeon RX 7900 XTX 24GB",
+        "chipset": "RX 7900 XTX",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "24GB GDDR6",
+        "tdp": 355,
+        "length_mm": 318,
+        "image_url": "Sapphire Nitro+ Radeon RX 7900 XTX 24GB Sapphire Nitro+ Radeon RX 7900 XTX 24GB",
+        "link": "https://www.amazon.com/XFX-Speedster-MERC310-Graphics-RX-79XMERCB9/dp/B0BNLSW23M/ref=sr_1_1?crid=STYL3BKS7KP&dib=eyJ2IjoiMSJ9.26llfQAT5hM9ytCEb6wYIYgfvv9U77Uf0HgSPJFKPfIqE-lFvs5gd3GKMdELQTdEpHvk50-o7YRZzrUHzIWkU3utTDPQOuit01yvx8JVWZ6Rx-_6OBaWZlrdi_GnJN_l22XNF2bXbiEKaqiIKiCgoPPEpUyglT_8n_JRt803Cmj_RFgOhBOmeRrTdouLKWDW1eEExy4koOcHhmQFnksheYUUbZt9cY0CB9Dpbz3H__8.jkJXhcGWOamd94RKvU7FfvDYnsp4dzAoE6g0ygLbuqA&dib_tag=se&keywords=Sapphire%2BNitro%2B%2BRadeon%2BRX%2B7900%2BXTX%2B24GB%2BSapphire%2BNitro%2B%2BRadeon%2BRX%2B7900%2BXTX%2B24GB&nsdOptOutParam=true&qid=1773320205&sprefix=asus%2Brog%2Bstrix%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Boc%2B16gb%2Basus%2Brog%2Bstrix%2Bgeforce%2Brtx%2B4070%2Bti%2Bsuper%2Boc%2B16gb%2Caps%2C393&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "XFX Speedster MERC 310 Radeon RX 7900 XTX 24GB",
+        "brand": "XFX",
+        "model": "Speedster MERC 310 Radeon RX 7900 XTX 24GB",
+        "chipset": "RX 7900 XTX",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "24GB GDDR6",
+        "tdp": 355,
+        "length_mm": 348,
+        "image_url": "https://m.media-amazon.com/images/I/71vGm7dSHoL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/XFX-Speedster-MERC310-Graphics-RX-79XMERCB9/dp/B0BNLSW23M/ref=sr_1_1?crid=1SJWJ2CC3TUI8&dib=eyJ2IjoiMSJ9.rpxRgxksBAOam48W0hh8WHeEdFXsdfpjBdhAnu_wbbuVvC3GBSU3Kgq5CTTKBn0meogCnhXdInvbDToR7h9B_-wYVmqnD7qKsqk4MEpGeip5aLkvZ-aJDMKIaG_QSkRVJGBlRLAfZ-XJuLSSR9dUwFZCradhiwfI55uEoccWO4VmScUFBsc2NBtp7jYhoX-uINkicT6PVGHHGBm-X-YAEniXrjBwaJmdJgLCYdTByWM.Oj7ttrq598WQFaC7LWMvtRSX5in81K17yRlC6efc-C4&dib_tag=se&keywords=XFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BXTX%2B24GB%2BXFX%2BSpeedster%2BMERC%2B310%2BRadeon%2BRX%2B7900%2BXTX%2B24GB&nsdOptOutParam=true&qid=1773320228&sprefix=xfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bxtx%2B24gb%2Bxfx%2Bspeedster%2Bmerc%2B310%2Bradeon%2Brx%2B7900%2Bxtx%2B24gb%2Caps%2C496&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "PowerColor Red Devil Radeon RX 7900 XTX 24GB",
+        "brand": "PowerColor",
+        "model": "Red Devil Radeon RX 7900 XTX 24GB",
+        "chipset": "RX 7900 XTX",
+        "price": 42000,
+        "price_range": "mid_range",
+        "vram": "24GB GDDR6",
+        "tdp": 355,
+        "length_mm": 340,
+        "image_url": "https://m.media-amazon.com/images/I/71VYUQZ6Q6L._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/PowerColor-Devil-Spectral-White-Radeon/dp/B0F1SS3V29/ref=sr_1_1?crid=W377T6G0SUCD&dib=eyJ2IjoiMSJ9.aaQiklMUYHll3kQsuKX6juDp4ymefSYmGy45wHupUOBc3vxf80Tfd3BNIOm0BuDY0km2y6LpLkRAcBTKrJyQQdcGeSmuMTs_UpVdavlaHeKOeBvl9jMb6rWTrfhiOkBe4Sft-xgw7KdkvuS9valCbycd0Cziwtyz-uV8Aj3xmSyhE7uzZ2e1f7i3DjF1XXrQrlNULzTY1mdzIUZswImGeSQn318KcISnsc7Nn9kTEsc.pTrhcotpqYSrUp1NrjoDGyRO9mEHPtca1IA3WiDsqqc&dib_tag=se&keywords=PowerColor%2BRed%2BDevil%2BRadeon%2BRX%2B7900%2BXTX%2B24GB%2BPowerColor%2BRed%2BDevil%2BRadeon%2BRX%2B7900%2BXTX%2B24GB&nsdOptOutParam=true&qid=1773320249&sprefix=powercolor%2Bred%2Bdevil%2Bradeon%2Brx%2B7900%2Bxtx%2B24gb%2Bpowercolor%2Bred%2Bdevil%2Bradeon%2Brx%2B7900%2Bxtx%2B24gb%2Caps%2C385&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4080 SUPER Ventus 3X OC 16GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 4080 SUPER Ventus 3X OC 16GB",
+        "chipset": "RTX 4080 SUPER",
+        "price": 77000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 320,
+        "length_mm": 308,
+        "image_url": "https://m.media-amazon.com/images/I/71aytYjILTL._AC_SY355_.jpg",
+        "link": "https://www.amazon.com/MSI-GeForce-4080-Gaming-Graphics/dp/B0BHDXCXXF/ref=sr_1_1?crid=1OZ1S5ETY2ALG&dib=eyJ2IjoiMSJ9.twrIKxkr4_sYZG_kvxAG1Zpqmsop1DOF6Y3uNbDx0zWhSHSdnGeN83ZgtWkhBbmyRYExwgJDPmhLRnYU5_mEiy9O3H-D-2vfGoRDyTyEdFz9G3PmSOJCKB5adY1fJkbwNxCzNXcirEhRK6K1aQhWUx2XSV5eobrI0fGLbVZ-HAVmp6pdXCnbS33Ilex160JlXy5uMCzgVtlwE9AHW6nNnh4oxZHkFxIBlaTUFqk6McU.6o4CGPab3huioo3yYMiHNltIKCBeXespgvwClZYe_pQ&dib_tag=se&keywords=MSI+GeForce+RTX+4080+SUPER+Ventus+3X+OC+16GB+MSI+GeForce+RTX+4080+SUPER+Ventus+3X+OC+16GB&nsdOptOutParam=true&qid=1773320265&sprefix=msi+geforce+rtx+4080+super+ventus+3x+oc+16gb+msi+geforce+rtx+4080+super+ventus+3x+oc+16gb%2Caps%2C403&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4080 SUPER Windforce OC 16G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4080 SUPER Windforce OC 16G",
+        "chipset": "RTX 4080 SUPER",
+        "price": 74000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 320,
+        "length_mm": 329,
+        "image_url": "https://m.media-amazon.com/images/I/71kWnNL5NOL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/GIGABYTE-Graphics-WINDFORCE-GV-N408SAERO-OC-16GD/dp/B0CSKBG4T3/ref=sr_1_1?crid=2AQWVHX5GH1E2&dib=eyJ2IjoiMSJ9.M_jELRV03l4hl8rBnU3uDhGDAP0lX9jGN1kZiDAP5rsShtnrDFxxqLmX-cY_2-rG4NML9VhFGdPfKShF6U3rGL0-grieYUdGrBqPSBWvlJzJySKIkZysdlf4DrhwYU72FfaobkLGFNEkCmTHf-54VVSpsx20jiRelZ8ISlPENII_NrruzwOa-Z5PIabC8VwSn4ZDUPqKUqFFjWqiw0lYAbnhhfvsbqAVhhRniNs1p1c.AY44TJk6NxPXE5sfyJmgzJj38d-_0spgEs9bJ09RcXM&dib_tag=se&keywords=Gigabyte+GeForce+RTX+4080+SUPER+Windforce+OC+16G+Gigabyte+GeForce+RTX+4080+SUPER+Windforce+OC+16G&nsdOptOutParam=true&qid=1773320287&sprefix=gigabyte+geforce+rtx+4080+super+windforce+oc+16g+gigabyte+geforce+rtx+4080+super+windforce+oc+16g%2Caps%2C494&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GeForce RTX 4080 SUPER OC 16GB",
+        "brand": "ASUS",
+        "model": "TUF Gaming GeForce RTX 4080 SUPER OC 16GB",
+        "chipset": "RTX 4080 SUPER",
+        "price": 77000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 320,
+        "length_mm": 305,
+        "image_url": "https://m.media-amazon.com/images/I/71vQnBuZ3yL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-Gaming-GeForce-Graphics-DisplayPort/dp/B0BLGQHS53/ref=sr_1_1?crid=3IBAHJ6LWBEK8&dib=eyJ2IjoiMSJ9.eLbXw7lJWuJ87Y7GcQ2qNJy5Nz_d4nu3cIe68Qc_caI_aHoPWKGQ3Cvh_iXyJAsPvk8T6s7Qp8GX1aPBW46XxNPlDmnPTzFKPLuz2mAYZGTWVuxvKQEiKxAPtKxd-Q6bRcvSWVQuBMeCbnif_03ryU-zL0nd79vupZi-NjvS85UfLKWMIOQNGh0MaEp5t-VEQ7Ivd7MQ-nOD_1cEAgNCefJ8mTdhlPzvGBX1n0bqGlY.HjBX1jnUWID4z5sGYIqpsA23k2gKXJfxSf4pNeBejM8&dib_tag=se&keywords=ASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B4080%2BSUPER%2BOC%2B16GB%2BASUS%2BTUF%2BGaming%2BGeForce%2BRTX%2B4080%2BSUPER%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320306&sprefix=asus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B4080%2Bsuper%2Boc%2B16gb%2Basus%2Btuf%2Bgaming%2Bgeforce%2Brtx%2B4080%2Bsuper%2Boc%2B16gb%2Caps%2C496&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 5080 Twin Edge OC 16GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 5080 Twin Edge OC 16GB",
+        "chipset": "RTX 5080",
+        "price": 33000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR7",
+        "tdp": 360,
+        "length_mm": 306,
+        "image_url": "https://m.media-amazon.com/images/I/71wyEVpJbtL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-B50800J2-10A/dp/B0GK8N9DR7/ref=sr_1_1?crid=Q1DAVDPZFOPA&dib=eyJ2IjoiMSJ9.3V2ioYGuvRnHtoN_LScX3GMsz00Dmme_fUuJ-qlikRByuQTSOQmvlSvXEWwdAlhT7XMEDQN1utPKcAGN_GmmG55tZ1SdmyznfVUENSCUeDR8XBwqpMFjUQqP2XY4pwSRqJfCVujCC7bVnfH_pmnlxufEvzlVaQOIyq0e09wSiFyisAyW8NyyR16W0rH2YlhP75vEubQtZkY383U5yawBNgyfqGi4ki3bf5LQd5HVz_I.xoshjaLMib9zqCpMf7_TGdBFZCE6rIdbrgiSVMSkiu4&dib_tag=se&keywords=Zotac+Gaming+GeForce+RTX+5080+Twin+Edge+OC+16GB+Zotac+Gaming+GeForce+RTX+5080+Twin+Edge+OC+16GB&nsdOptOutParam=true&qid=1773320327&sprefix=asus+tuf+gaming+geforce+rtx+4080+super+oc+16gb+asus+tuf+gaming+geforce+rtx+4080+super+oc+16gb%2Caps%2C482&sr=8-1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 5080 Ventus 3X OC 16GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 5080 Ventus 3X OC 16GB",
+        "chipset": "RTX 5080",
+        "price": 33000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR7",
+        "tdp": 360,
+        "length_mm": 308,
+        "image_url": "https://m.media-amazon.com/images/I/71n9sxFO9dL._AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/MSI-GeForce-5080-Gaming-Graphics/dp/B0BX6LGM2X/ref=sr_1_2?crid=2YIZC8UW6OCO0&dib=eyJ2IjoiMSJ9.9yzYtpAkbYGZ2pABBpaJjLCWQtUk5vTUHOe7AWJ1uh1vaJb5Aoztt8PjdGmLvGI-ue-hOwSVYFeGydSJbvKpOMOAd-kRSwssP9GxmVTCojesuMTXLNEIAbtxPV8Vzjy9uaG2ZNLQ5vUDoojXWI58jrP3BHbnc7EzCejAGt6CZnTn85jB6sXnAgiLRXR9hZVCgVGx9q3fll8IDNwG3xMPx1vhd2_FRop0yvJZNGptJhA.Nuvu5lIL47r4WbSBgPOwAIJK-2-9ybv-TGQMANh3omk&dib_tag=se&keywords=MSI%2BGeForce%2BRTX%2B5080%2BVentus%2B3X%2BOC%2B16GB%2BMSI%2BGeForce%2BRTX%2B5080%2BVentus%2B3X%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320345&sprefix=msi%2Bgeforce%2Brtx%2B5080%2Bventus%2B3x%2Boc%2B16gb%2Bmsi%2Bgeforce%2Brtx%2B5080%2Bventus%2B3x%2Boc%2B16gb%2Caps%2C487&sr=8-2&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS ROG Strix GeForce RTX 4080 SUPER OC 16GB",
+        "brand": "ASUS",
+        "model": "ROG Strix GeForce RTX 4080 SUPER OC 16GB",
+        "chipset": "RTX 4080 SUPER",
+        "price": 77000,
+        "price_range": "mid_range",
+        "vram": "16GB GDDR6X",
+        "tdp": 320,
+        "length_mm": 336,
+        "image_url": "https://m.media-amazon.com/images/I/81JmZJh4vyL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "link": "https://www.amazon.com/ASUS-GeForce-Graphics-DisplayPort-Backplate/dp/B0CM5KLDYW/ref=sr_1_1?crid=2OU0H1BPA6B46&dib=eyJ2IjoiMSJ9.mIM5jnSrpWdiPo0go4PDZPTRuivd3_T7YJuTR6E6isAbjnfWhROYukDDaWRx3uHWacf-mX2sVkYOuyFC9ejvtnvNnf0UWnPQ2M2BwlCoHqkW34uxUPKVsG-ireoU_9H0DJqmbFKzJ3NpxAcoWgMbjSfAeChIdyYnNCnr14y90fySYb5QeKZ5VjI06ZppDnNsam0K92avbv8qh9GJliYFJznKspvxoIhoUHHqGptXRMg.aP8FGtuf5oAziG3DG-R8MurysTsnD79xl0ANr2WA1d0&dib_tag=se&keywords=ASUS%2BROG%2BStrix%2BGeForce%2BRTX%2B4080%2BSUPER%2BOC%2B16GB%2BASUS%2BROG%2BStrix%2BGeForce%2BRTX%2B4080%2BSUPER%2BOC%2B16GB&nsdOptOutParam=true&qid=1773320369&sprefix=msi%2Bgeforce%2Brtx%2B5080%2Bventus%2B3x%2Boc%2B16gb%2Bmsi%2Bgeforce%2Brtx%2B5080%2Bventus%2B3x%2Boc%2B16gb%2Caps%2C469&sr=8-1&th=1",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Zotac Gaming GeForce RTX 4090 Trinity OC 24GB",
+        "brand": "Zotac",
+        "model": "Gaming GeForce RTX 4090 Trinity OC 24GB",
+        "chipset": "RTX 4090",
+        "price": 121000,
+        "price_range": "high_end",
+        "vram": "24GB GDDR6X",
+        "tdp": 450,
+        "length_mm": 356,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/gngfngffgg_500x.jpg?v=1731979807",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/zotac-gaming-geforce-rtx-4090-trinity-oc-24gb-gddr6x-graphics-card-zt-d40900j-10p",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "Gigabyte GeForce RTX 4090 Gaming OC 24G",
+        "brand": "Gigabyte",
+        "model": "GeForce RTX 4090 Gaming OC 24G",
+        "chipset": "RTX 4090",
+        "price": 118000,
+        "price_range": "high_end",
+        "vram": "24GB GDDR6X",
+        "tdp": 450,
+        "length_mm": 340,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0889523033845_1666089983_500x.jpg?v=1676893879",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/gigabyte-geforce-rtx-4090-gaming-oc-24gb-gddr6x-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "MSI GeForce RTX 4090 Gaming X Trio 24GB",
+        "brand": "MSI",
+        "model": "GeForce RTX 4090 Gaming X Trio 24GB",
+        "chipset": "RTX 4090",
+        "price": 121000,
+        "price_range": "high_end",
+        "vram": "24GB GDDR6X",
+        "tdp": 450,
+        "length_mm": 338,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/REGSDGSDG_500x.jpg?v=1708078167",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/msi-geforce-rtx-4090-gaming-x-trio-24gb-gddr6x-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS TUF Gaming GeForce RTX 4090 OC 24GB",
+        "brand": "ASUS",
+        "model": "TUF Gaming GeForce RTX 4090 OC 24GB",
+        "chipset": "RTX 4090",
+        "price": 121000,
+        "price_range": "high_end",
+        "vram": "24GB GDDR6X",
+        "tdp": 450,
+        "length_mm": 348,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/products/0195553936910_500x.jpg?v=1676916832",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-tuf-gaming-geforce-rtx-4090-oc-edition-24gb-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS ROG Strix GeForce RTX 4090 OC 24GB",
+        "brand": "ASUS",
+        "model": "ROG Strix GeForce RTX 4090 OC 24GB",
+        "chipset": "RTX 4090",
+        "price": 121000,
+        "price_range": "high_end",
+        "vram": "24GB GDDR6X",
+        "tdp": 450,
+        "length_mm": 358,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/h732-2023-06-13T094358.841_500x.jpg?v=1686620958",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-strix-lc-geforce-rtx-4090-oc-24gb-gddr6x-gaming-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    },
+    {
+        "name": "ASUS ROG Strix GeForce RTX 5090 OC 32GB",
+        "brand": "ASUS",
+        "model": "ROG Strix GeForce RTX 5090 OC 32GB",
+        "chipset": "RTX 5090",
+        "price": 203000,
+        "price_range": "enthusiast",
+        "vram": "32GB GDDR7",
+        "tdp": 575,
+        "length_mm": 358,
+        "image_url": "https://ecommerce.datablitz.com.ph/cdn/shop/files/h732_8_8d7fb12c-47ee-49ab-9169-9d3f432d5d98_500x.jpg?v=1750243381",
+        "link": "https://ecommerce.datablitz.com.ph/collections/all/products/asus-rog-astral-lc-geforce-rtx-5090-oc-32gb-gddr7-gaming-graphics-card",
+        "pricing_range": {
+            "min": 9,
+            "max": 214995
+        }
+    }
+]
